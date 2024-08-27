@@ -1,0 +1,644 @@
+[
+    {
+        "id": 581,
+        "name": "Samtredia",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/581.png"
+    },
+    {
+        "id": 685,
+        "name": "Torpedo Kutaisi",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/685.png"
+    },
+    {
+        "id": 704,
+        "name": "Chikhura Sachkhere",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/704.png"
+    },
+    {
+        "id": 705,
+        "name": "Dinamo Batumi",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/705.png"
+    },
+    {
+        "id": 1104,
+        "name": "Georgia",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/1104.png"
+    },
+    {
+        "id": 1762,
+        "name": "Georgia W",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/1762.png"
+    },
+    {
+        "id": 2262,
+        "name": "Dinamo Tbilisi",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/2262.png"
+    },
+    {
+        "id": 3499,
+        "name": "Dila",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/3499.png"
+    },
+    {
+        "id": 3500,
+        "name": "Lokomotivi Tbilisi",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/3500.png"
+    },
+    {
+        "id": 3501,
+        "name": "Rustavi",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/3501.png"
+    },
+    {
+        "id": 3502,
+        "name": "Saburtalo",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/3502.png"
+    },
+    {
+        "id": 3503,
+        "name": "Sioni",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/3503.png"
+    },
+    {
+        "id": 3504,
+        "name": "WIT Georgia",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/3504.png"
+    },
+    {
+        "id": 3505,
+        "name": "Gagra",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/3505.png"
+    },
+    {
+        "id": 3506,
+        "name": "Guria",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/3506.png"
+    },
+    {
+        "id": 3507,
+        "name": "Kolkheti Poti",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/3507.png"
+    },
+    {
+        "id": 3508,
+        "name": "Merani Tbilisi",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/3508.png"
+    },
+    {
+        "id": 3509,
+        "name": "Shevardeni 1906",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/3509.png"
+    },
+    {
+        "id": 3510,
+        "name": "Shukura",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/3510.png"
+    },
+    {
+        "id": 3511,
+        "name": "Telavi",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/3511.png"
+    },
+    {
+        "id": 3512,
+        "name": "Tskhinvali",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/3512.png"
+    },
+    {
+        "id": 3513,
+        "name": "Zugdidi",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/3513.png"
+    },
+    {
+        "id": 8195,
+        "name": "Georgia U21",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/8195.png"
+    },
+    {
+        "id": 10015,
+        "name": "Aragvi Dusheti",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/10015.png"
+    },
+    {
+        "id": 10016,
+        "name": "Merani Martvili",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/10016.png"
+    },
+    {
+        "id": 10017,
+        "name": "Samgurali",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/10017.png"
+    },
+    {
+        "id": 10335,
+        "name": "Georgia U19",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/10335.png"
+    },
+    {
+        "id": 10700,
+        "name": "Zestafoni",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/10700.png"
+    },
+    {
+        "id": 13845,
+        "name": "Sapovnela",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/13845.png"
+    },
+    {
+        "id": 13846,
+        "name": "Metalurgi Rustavi",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/13846.png"
+    },
+    {
+        "id": 13847,
+        "name": "Meshakhte",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/13847.png"
+    },
+    {
+        "id": 13848,
+        "name": "Borjomi",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/13848.png"
+    },
+    {
+        "id": 13849,
+        "name": "Chiatura",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/13849.png"
+    },
+    {
+        "id": 13850,
+        "name": "Chkherimela",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/13850.png"
+    },
+    {
+        "id": 13851,
+        "name": "Gardabani",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/13851.png"
+    },
+    {
+        "id": 13852,
+        "name": "Imereti",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/13852.png"
+    },
+    {
+        "id": 13853,
+        "name": "Kolkheti Khobi",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/13853.png"
+    },
+    {
+        "id": 13854,
+        "name": "Liakhvi Tskhinvali",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/13854.png"
+    },
+    {
+        "id": 13855,
+        "name": "Mark Stars",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/13855.png"
+    },
+    {
+        "id": 13856,
+        "name": "Odishi 1919",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/13856.png"
+    },
+    {
+        "id": 13857,
+        "name": "Skuri",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/13857.png"
+    },
+    {
+        "id": 13858,
+        "name": "Sulori",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/13858.png"
+    },
+    {
+        "id": 13859,
+        "name": "Algeti",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/13859.png"
+    },
+    {
+        "id": 13860,
+        "name": "Betlemi",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/13860.png"
+    },
+    {
+        "id": 13861,
+        "name": "Matchakhela",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/13861.png"
+    },
+    {
+        "id": 13862,
+        "name": "Mertskhali",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/13862.png"
+    },
+    {
+        "id": 13863,
+        "name": "Samegrelo",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/13863.png"
+    },
+    {
+        "id": 13864,
+        "name": "Adeli",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/13864.png"
+    },
+    {
+        "id": 13865,
+        "name": "Dinamo Tbilisi II",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/13865.png"
+    },
+    {
+        "id": 13866,
+        "name": "STU",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/13866.png"
+    },
+    {
+        "id": 13867,
+        "name": "Sasco",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/13867.png"
+    },
+    {
+        "id": 13868,
+        "name": "Bakhmaro",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/13868.png"
+    },
+    {
+        "id": 13869,
+        "name": "Dila II",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/13869.png"
+    },
+    {
+        "id": 13870,
+        "name": "Kakheti Telavi",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/13870.png"
+    },
+    {
+        "id": 13871,
+        "name": "Aeti",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/13871.png"
+    },
+    {
+        "id": 13872,
+        "name": "Liakhvi Achabeti",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/13872.png"
+    },
+    {
+        "id": 13873,
+        "name": "Racha",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/13873.png"
+    },
+    {
+        "id": 13874,
+        "name": "Meskheti",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/13874.png"
+    },
+    {
+        "id": 13875,
+        "name": "Zooveti",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/13875.png"
+    },
+    {
+        "id": 14857,
+        "name": "Didube 2014",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/14857.png"
+    },
+    {
+        "id": 14858,
+        "name": "Dinamo Zugdidi",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/14858.png"
+    },
+    {
+        "id": 14859,
+        "name": "Egrisi",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/14859.png"
+    },
+    {
+        "id": 14860,
+        "name": "Gareji",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/14860.png"
+    },
+    {
+        "id": 14861,
+        "name": "Gori",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/14861.png"
+    },
+    {
+        "id": 14862,
+        "name": "Merani Tbilisi II",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/14862.png"
+    },
+    {
+        "id": 14863,
+        "name": "Saburtalo II",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/14863.png"
+    },
+    {
+        "id": 14864,
+        "name": "Spaeri",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/14864.png"
+    },
+    {
+        "id": 14865,
+        "name": "Tbilisi City",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/14865.png"
+    },
+    {
+        "id": 14866,
+        "name": "Varketili",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/14866.png"
+    },
+    {
+        "id": 14867,
+        "name": "WIT Georgia II",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/14867.png"
+    },
+    {
+        "id": 15493,
+        "name": "Lanchkhuti",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/15493.png"
+    },
+    {
+        "id": 16502,
+        "name": "Chibati",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/16502.png"
+    },
+    {
+        "id": 16503,
+        "name": "FC Tbilisi",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/16503.png"
+    },
+    {
+        "id": 16504,
+        "name": "Gldani",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/16504.png"
+    },
+    {
+        "id": 16505,
+        "name": "Iberia 2010",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/16505.png"
+    },
+    {
+        "id": 16506,
+        "name": "Iberia Tbilisi",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/16506.png"
+    },
+    {
+        "id": 16507,
+        "name": "Irao",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/16507.png"
+    },
+    {
+        "id": 16508,
+        "name": "Khikhani",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/16508.png"
+    },
+    {
+        "id": 16509,
+        "name": "Kolkhi",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/16509.png"
+    },
+    {
+        "id": 16510,
+        "name": "Legioni",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/16510.png"
+    },
+    {
+        "id": 16511,
+        "name": "Margveti 2006",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/16511.png"
+    },
+    {
+        "id": 16512,
+        "name": "Martve Kutaisi",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/16512.png"
+    },
+    {
+        "id": 16513,
+        "name": "Merani Martvili II",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/16513.png"
+    },
+    {
+        "id": 16514,
+        "name": "Samgurali II",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/16514.png"
+    },
+    {
+        "id": 16515,
+        "name": "Samtskhe Akhaltsikhe",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/16515.png"
+    },
+    {
+        "id": 16516,
+        "name": "Shturmi",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/16516.png"
+    },
+    {
+        "id": 16517,
+        "name": "Shukura II",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/16517.png"
+    },
+    {
+        "id": 16518,
+        "name": "Tbilisi 2016",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/16518.png"
+    },
+    {
+        "id": 16519,
+        "name": "Torpedo Kutaisi II",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/16519.png"
+    },
+    {
+        "id": 16520,
+        "name": "Tskhumi",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/16520.png"
+    },
+    {
+        "id": 16521,
+        "name": "Zana Abasha",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/16521.png"
+    },
+    {
+        "id": 17953,
+        "name": "Georgia U17",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/17953.png"
+    },
+    {
+        "id": 18971,
+        "name": "BSU",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/18971.png"
+    },
+    {
+        "id": 18972,
+        "name": "Gareji II",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/18972.png"
+    },
+    {
+        "id": 18973,
+        "name": "Gonio",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/18973.png"
+    },
+    {
+        "id": 18974,
+        "name": "Gorda",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/18974.png"
+    },
+    {
+        "id": 18975,
+        "name": "Lokomotivi Tbilisi II",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/18975.png"
+    },
+    {
+        "id": 18976,
+        "name": "Merani Tbilisi III",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/18976.png"
+    },
+    {
+        "id": 18977,
+        "name": "Telavi II",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/18977.png"
+    },
+    {
+        "id": 18978,
+        "name": "Varketili II",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/18978.png"
+    },
+    {
+        "id": 21313,
+        "name": "35-e Skola",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/21313.png"
+    },
+    {
+        "id": 21314,
+        "name": "Basa",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/21314.png"
+    },
+    {
+        "id": 21315,
+        "name": "Iveria",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/21315.png"
+    },
+    {
+        "id": 21316,
+        "name": "Kolkheti Poti II",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/21316.png"
+    },
+    {
+        "id": 23257,
+        "name": "Georgia U18",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/23257.png"
+    },
+    {
+        "id": 23600,
+        "name": "Bridge",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/23600.png"
+    },
+    {
+        "id": 23601,
+        "name": "Gagra II",
+        "country": "Georgia",
+        "logo": "https://media.api-sports.io/football/teams/23601.png"
+    }
+]

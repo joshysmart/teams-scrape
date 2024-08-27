@@ -1,0 +1,1730 @@
+[
+    {
+        "id": 20,
+        "name": "Australia",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/20.png"
+    },
+    {
+        "id": 939,
+        "name": "Western Sydney Wanderers",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/939.png"
+    },
+    {
+        "id": 940,
+        "name": "Perth Glory",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/940.png"
+    },
+    {
+        "id": 941,
+        "name": "Central Coast Mariners",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/941.png"
+    },
+    {
+        "id": 943,
+        "name": "Sydney",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/943.png"
+    },
+    {
+        "id": 944,
+        "name": "Melbourne Victory",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/944.png"
+    },
+    {
+        "id": 945,
+        "name": "Melbourne City",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/945.png"
+    },
+    {
+        "id": 946,
+        "name": "Newcastle Jets",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/946.png"
+    },
+    {
+        "id": 947,
+        "name": "Brisbane Roar",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/947.png"
+    },
+    {
+        "id": 948,
+        "name": "Adelaide United",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/948.png"
+    },
+    {
+        "id": 1447,
+        "name": "Tuggeranong United",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/1447.png"
+    },
+    {
+        "id": 1448,
+        "name": "Canberra FC",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/1448.png"
+    },
+    {
+        "id": 1449,
+        "name": "Belconnen United",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/1449.png"
+    },
+    {
+        "id": 1450,
+        "name": "Canberra Olympic",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/1450.png"
+    },
+    {
+        "id": 1451,
+        "name": "Canberra United",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/1451.png"
+    },
+    {
+        "id": 1452,
+        "name": "Cooma Tigers FC",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/1452.png"
+    },
+    {
+        "id": 1453,
+        "name": "Monaro Panthers",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/1453.png"
+    },
+    {
+        "id": 1454,
+        "name": "Woden Vellet",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/1454.png"
+    },
+    {
+        "id": 1455,
+        "name": "Centre Of Excellence",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/1455.png"
+    },
+    {
+        "id": 1456,
+        "name": "Gungahlin United",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/1456.png"
+    },
+    {
+        "id": 1457,
+        "name": "Riverina Rhinos",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/1457.png"
+    },
+    {
+        "id": 1722,
+        "name": "Australia W",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/1722.png"
+    },
+    {
+        "id": 1968,
+        "name": "Sydney FC W",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/1968.png"
+    },
+    {
+        "id": 1969,
+        "name": "Perth Glory FC W",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/1969.png"
+    },
+    {
+        "id": 1970,
+        "name": "Canberra United W",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/1970.png"
+    },
+    {
+        "id": 1971,
+        "name": "Melbourne City W",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/1971.png"
+    },
+    {
+        "id": 1972,
+        "name": "Adelaide United W",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/1972.png"
+    },
+    {
+        "id": 1973,
+        "name": "Brisbane Roar FC W",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/1973.png"
+    },
+    {
+        "id": 1974,
+        "name": "Western Sydney Wanderers W",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/1974.png"
+    },
+    {
+        "id": 1975,
+        "name": "Newcastle Jets FC W",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/1975.png"
+    },
+    {
+        "id": 1976,
+        "name": "Melbourne Victory W",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/1976.png"
+    },
+    {
+        "id": 2531,
+        "name": "Eastern Suburbs",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/2531.png"
+    },
+    {
+        "id": 3752,
+        "name": "Acacia Ridge",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/3752.png"
+    },
+    {
+        "id": 3753,
+        "name": "Albany Creek",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/3753.png"
+    },
+    {
+        "id": 3754,
+        "name": "Bayside United",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/3754.png"
+    },
+    {
+        "id": 3755,
+        "name": "Brisbane Knights",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/3755.png"
+    },
+    {
+        "id": 3756,
+        "name": "Caboolture",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/3756.png"
+    },
+    {
+        "id": 3757,
+        "name": "Centenary Stormers",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/3757.png"
+    },
+    {
+        "id": 3758,
+        "name": "Grange Thistle",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/3758.png"
+    },
+    {
+        "id": 3759,
+        "name": "North Pine",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/3759.png"
+    },
+    {
+        "id": 3760,
+        "name": "Taringa Rovers",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/3760.png"
+    },
+    {
+        "id": 3761,
+        "name": "The Gap",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/3761.png"
+    },
+    {
+        "id": 3762,
+        "name": "Toowong",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/3762.png"
+    },
+    {
+        "id": 3763,
+        "name": "Univ. Queensland",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/3763.png"
+    },
+    {
+        "id": 3764,
+        "name": "APIA Leichhardt Tigers",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/3764.png"
+    },
+    {
+        "id": 3765,
+        "name": "Blacktown City",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/3765.png"
+    },
+    {
+        "id": 3766,
+        "name": "Hakoah Sydney City",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/3766.png"
+    },
+    {
+        "id": 3767,
+        "name": "Manly United",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/3767.png"
+    },
+    {
+        "id": 3768,
+        "name": "Marconi Stallions",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/3768.png"
+    },
+    {
+        "id": 3769,
+        "name": "Mt Druitt Town",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/3769.png"
+    },
+    {
+        "id": 3770,
+        "name": "Rockdale City Suns",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/3770.png"
+    },
+    {
+        "id": 3771,
+        "name": "Sutherland Sharks",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/3771.png"
+    },
+    {
+        "id": 3773,
+        "name": "Sydney II",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/3773.png"
+    },
+    {
+        "id": 3774,
+        "name": "Sydney Olympic",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/3774.png"
+    },
+    {
+        "id": 3776,
+        "name": "Sydney United",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/3776.png"
+    },
+    {
+        "id": 3777,
+        "name": "Wollongong Wolves",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/3777.png"
+    },
+    {
+        "id": 3778,
+        "name": "Casuarina",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/3778.png"
+    },
+    {
+        "id": 3779,
+        "name": "Darwin Olympic",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/3779.png"
+    },
+    {
+        "id": 3780,
+        "name": "Hellenic Athletic",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/3780.png"
+    },
+    {
+        "id": 3781,
+        "name": "Mindil Aces",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/3781.png"
+    },
+    {
+        "id": 3782,
+        "name": "Port Darwin",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/3782.png"
+    },
+    {
+        "id": 3783,
+        "name": "Uni Azzurri",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/3783.png"
+    },
+    {
+        "id": 3784,
+        "name": "Adelaide Blue Eagles",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/3784.png"
+    },
+    {
+        "id": 3785,
+        "name": "Adelaide City",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/3785.png"
+    },
+    {
+        "id": 3786,
+        "name": "Adelaide Comets",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/3786.png"
+    },
+    {
+        "id": 3787,
+        "name": "Adelaide Olympic",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/3787.png"
+    },
+    {
+        "id": 3788,
+        "name": "Adelaide Raiders",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/3788.png"
+    },
+    {
+        "id": 3789,
+        "name": "Adelaide United II",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/3789.png"
+    },
+    {
+        "id": 3791,
+        "name": "Campbelltown City",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/3791.png"
+    },
+    {
+        "id": 3792,
+        "name": "Croydon Kings",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/3792.png"
+    },
+    {
+        "id": 3793,
+        "name": "MetroStars",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/3793.png"
+    },
+    {
+        "id": 3794,
+        "name": "Para Hills Knights",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/3794.png"
+    },
+    {
+        "id": 3795,
+        "name": "South Adelaide Panthers",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/3795.png"
+    },
+    {
+        "id": 3796,
+        "name": "West Adelaide",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/3796.png"
+    },
+    {
+        "id": 3797,
+        "name": "Altona Magic",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/3797.png"
+    },
+    {
+        "id": 3798,
+        "name": "Avondale",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/3798.png"
+    },
+    {
+        "id": 3799,
+        "name": "Bentleigh Greens",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/3799.png"
+    },
+    {
+        "id": 3800,
+        "name": "Dandenong City",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/3800.png"
+    },
+    {
+        "id": 3801,
+        "name": "Dandenong Thunder",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/3801.png"
+    },
+    {
+        "id": 3802,
+        "name": "Green Gully",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/3802.png"
+    },
+    {
+        "id": 3803,
+        "name": "Heidelberg United",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/3803.png"
+    },
+    {
+        "id": 3804,
+        "name": "Hume City",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/3804.png"
+    },
+    {
+        "id": 3806,
+        "name": "Kingston City",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/3806.png"
+    },
+    {
+        "id": 3807,
+        "name": "Melbourne Knights",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/3807.png"
+    },
+    {
+        "id": 3808,
+        "name": "Oakleigh Cannons",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/3808.png"
+    },
+    {
+        "id": 3809,
+        "name": "Pascoe Vale",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/3809.png"
+    },
+    {
+        "id": 3810,
+        "name": "Port Melbourne",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/3810.png"
+    },
+    {
+        "id": 3811,
+        "name": "South Melbourne",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/3811.png"
+    },
+    {
+        "id": 3812,
+        "name": "Armadale",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/3812.png"
+    },
+    {
+        "id": 3813,
+        "name": "Balcatta",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/3813.png"
+    },
+    {
+        "id": 3814,
+        "name": "Bayswater City",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/3814.png"
+    },
+    {
+        "id": 3815,
+        "name": "Cockburn City",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/3815.png"
+    },
+    {
+        "id": 3816,
+        "name": "ECU Joondalup",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/3816.png"
+    },
+    {
+        "id": 3817,
+        "name": "Floreat Athena",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/3817.png"
+    },
+    {
+        "id": 3818,
+        "name": "Inglewood United",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/3818.png"
+    },
+    {
+        "id": 3819,
+        "name": "Perth",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/3819.png"
+    },
+    {
+        "id": 3820,
+        "name": "Perth Glory II",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/3820.png"
+    },
+    {
+        "id": 3822,
+        "name": "Rockingham City",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/3822.png"
+    },
+    {
+        "id": 3823,
+        "name": "Sorrento",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/3823.png"
+    },
+    {
+        "id": 3824,
+        "name": "Stirling Lions",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/3824.png"
+    },
+    {
+        "id": 7573,
+        "name": "Western United",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/7573.png"
+    },
+    {
+        "id": 9036,
+        "name": "Virginia United",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/9036.png"
+    },
+    {
+        "id": 9977,
+        "name": "Eastern Lions",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/9977.png"
+    },
+    {
+        "id": 9978,
+        "name": "St. Albans Saints",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/9978.png"
+    },
+    {
+        "id": 9979,
+        "name": "North Shore Mariners",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/9979.png"
+    },
+    {
+        "id": 9992,
+        "name": "North Star",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/9992.png"
+    },
+    {
+        "id": 9993,
+        "name": "St George Willawong",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/9993.png"
+    },
+    {
+        "id": 10009,
+        "name": "Cumberland United",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/10009.png"
+    },
+    {
+        "id": 10010,
+        "name": "Modbury Jets",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/10010.png"
+    },
+    {
+        "id": 10093,
+        "name": "Gwelup Croatia",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/10093.png"
+    },
+    {
+        "id": 10201,
+        "name": "Adamstown Rosebuds",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/10201.png"
+    },
+    {
+        "id": 10202,
+        "name": "Broadmeadow Magic",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/10202.png"
+    },
+    {
+        "id": 10203,
+        "name": "Charlestown City Blues",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/10203.png"
+    },
+    {
+        "id": 10204,
+        "name": "Edgeworth Eagles",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/10204.png"
+    },
+    {
+        "id": 10205,
+        "name": "Hamilton Olympic",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/10205.png"
+    },
+    {
+        "id": 10206,
+        "name": "Lake Macquarie",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/10206.png"
+    },
+    {
+        "id": 10207,
+        "name": "Lambton Jaffas",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/10207.png"
+    },
+    {
+        "id": 10208,
+        "name": "Maitland",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/10208.png"
+    },
+    {
+        "id": 10209,
+        "name": "Valentine",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/10209.png"
+    },
+    {
+        "id": 10210,
+        "name": "Weston Bears",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/10210.png"
+    },
+    {
+        "id": 10211,
+        "name": "Brisbane City",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/10211.png"
+    },
+    {
+        "id": 10212,
+        "name": "Brisbane Roar II",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/10212.png"
+    },
+    {
+        "id": 10213,
+        "name": "Brisbane Strikers",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/10213.png"
+    },
+    {
+        "id": 10214,
+        "name": "Capalaba",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/10214.png"
+    },
+    {
+        "id": 10215,
+        "name": "Gold Coast Knights",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/10215.png"
+    },
+    {
+        "id": 10216,
+        "name": "Gold Coast United",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/10216.png"
+    },
+    {
+        "id": 10217,
+        "name": "Lions",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/10217.png"
+    },
+    {
+        "id": 10218,
+        "name": "Magpies Crusaders",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/10218.png"
+    },
+    {
+        "id": 10219,
+        "name": "Moreton Bay United",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/10219.png"
+    },
+    {
+        "id": 10220,
+        "name": "Olympic",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/10220.png"
+    },
+    {
+        "id": 10221,
+        "name": "Peninsula Power",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/10221.png"
+    },
+    {
+        "id": 10222,
+        "name": "Redlands United",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/10222.png"
+    },
+    {
+        "id": 10223,
+        "name": "SC Wanderers",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/10223.png"
+    },
+    {
+        "id": 10927,
+        "name": "Australia U23",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/10927.png"
+    },
+    {
+        "id": 11177,
+        "name": "Mt Gravatt",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/11177.png"
+    },
+    {
+        "id": 11178,
+        "name": "Holland Park Hawks",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/11178.png"
+    },
+    {
+        "id": 11179,
+        "name": "Ipswich Knights",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/11179.png"
+    },
+    {
+        "id": 11180,
+        "name": "Logan Lightning",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/11180.png"
+    },
+    {
+        "id": 11181,
+        "name": "Mitchelton",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/11181.png"
+    },
+    {
+        "id": 11182,
+        "name": "Rochedale Rovers",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/11182.png"
+    },
+    {
+        "id": 11183,
+        "name": "Souths United",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/11183.png"
+    },
+    {
+        "id": 11184,
+        "name": "WDSC Wolves",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/11184.png"
+    },
+    {
+        "id": 11185,
+        "name": "Brisbane Force",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/11185.png"
+    },
+    {
+        "id": 11186,
+        "name": "Pine Hills",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/11186.png"
+    },
+    {
+        "id": 11187,
+        "name": "Newcastle Jets II",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/11187.png"
+    },
+    {
+        "id": 11188,
+        "name": "Palmerston Rovers",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/11188.png"
+    },
+    {
+        "id": 11189,
+        "name": "Darwin Rovers",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/11189.png"
+    },
+    {
+        "id": 11190,
+        "name": "Mindil Padres",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/11190.png"
+    },
+    {
+        "id": 11191,
+        "name": "Palmerston",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/11191.png"
+    },
+    {
+        "id": 11192,
+        "name": "1st Brigade",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/11192.png"
+    },
+    {
+        "id": 11193,
+        "name": "NTC",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/11193.png"
+    },
+    {
+        "id": 11194,
+        "name": "South Cardiff",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/11194.png"
+    },
+    {
+        "id": 11195,
+        "name": "West Wallsend",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/11195.png"
+    },
+    {
+        "id": 11196,
+        "name": "SWQ Thunder",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/11196.png"
+    },
+    {
+        "id": 11197,
+        "name": "Western Pride",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/11197.png"
+    },
+    {
+        "id": 12501,
+        "name": "Australia U17",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/12501.png"
+    },
+    {
+        "id": 12740,
+        "name": "Bonnyrigg White Eagles",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/12740.png"
+    },
+    {
+        "id": 12866,
+        "name": "Sturt Lions",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/12866.png"
+    },
+    {
+        "id": 12895,
+        "name": "Western Strikers",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/12895.png"
+    },
+    {
+        "id": 13973,
+        "name": "Darwin Hearts",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/13973.png"
+    },
+    {
+        "id": 14025,
+        "name": "Western Sydney W. II",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/14025.png"
+    },
+    {
+        "id": 14099,
+        "name": "Clarence Zebras",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/14099.png"
+    },
+    {
+        "id": 14100,
+        "name": "Devonport City",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/14100.png"
+    },
+    {
+        "id": 14101,
+        "name": "Glenorchy Knights",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/14101.png"
+    },
+    {
+        "id": 14102,
+        "name": "Kingborough Lions",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/14102.png"
+    },
+    {
+        "id": 14103,
+        "name": "Launceston City",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/14103.png"
+    },
+    {
+        "id": 14104,
+        "name": "Olympia Warriors",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/14104.png"
+    },
+    {
+        "id": 14105,
+        "name": "Riverside",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/14105.png"
+    },
+    {
+        "id": 14106,
+        "name": "South Hobart",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/14106.png"
+    },
+    {
+        "id": 15550,
+        "name": "Macarthur",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/15550.png"
+    },
+    {
+        "id": 16398,
+        "name": "The Lakes",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/16398.png"
+    },
+    {
+        "id": 16399,
+        "name": "Western Spirit",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/16399.png"
+    },
+    {
+        "id": 16762,
+        "name": "Southside Eagles",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/16762.png"
+    },
+    {
+        "id": 16763,
+        "name": "Adelaide Cobras",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/16763.png"
+    },
+    {
+        "id": 16764,
+        "name": "Adelaide Hills Hawks",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/16764.png"
+    },
+    {
+        "id": 16765,
+        "name": "Adelaide Victory",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/16765.png"
+    },
+    {
+        "id": 16766,
+        "name": "Eastern United",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/16766.png"
+    },
+    {
+        "id": 16767,
+        "name": "Fulham United",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/16767.png"
+    },
+    {
+        "id": 16768,
+        "name": "Playford City Patriots",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/16768.png"
+    },
+    {
+        "id": 16769,
+        "name": "West Torrens Birkalla",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/16769.png"
+    },
+    {
+        "id": 16770,
+        "name": "White City Woodville",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/16770.png"
+    },
+    {
+        "id": 16771,
+        "name": "Blacktown Spartans",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/16771.png"
+    },
+    {
+        "id": 16772,
+        "name": "Central Coast II",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/16772.png"
+    },
+    {
+        "id": 16773,
+        "name": "Hills Brumbies",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/16773.png"
+    },
+    {
+        "id": 16774,
+        "name": "Mounties Wanderers",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/16774.png"
+    },
+    {
+        "id": 16775,
+        "name": "NWS Spirit",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/16775.png"
+    },
+    {
+        "id": 16776,
+        "name": "Northern Tigers",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/16776.png"
+    },
+    {
+        "id": 16777,
+        "name": "SD Raiders",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/16777.png"
+    },
+    {
+        "id": 16778,
+        "name": "St George City FA",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/16778.png"
+    },
+    {
+        "id": 16779,
+        "name": "St. George Saints",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/16779.png"
+    },
+    {
+        "id": 16780,
+        "name": "Brunswick City",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/16780.png"
+    },
+    {
+        "id": 16781,
+        "name": "Bulleen Lions",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/16781.png"
+    },
+    {
+        "id": 16782,
+        "name": "Goulburn Valley Suns",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/16782.png"
+    },
+    {
+        "id": 16783,
+        "name": "Langwarrin",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/16783.png"
+    },
+    {
+        "id": 16784,
+        "name": "Manningham United Blues",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/16784.png"
+    },
+    {
+        "id": 16785,
+        "name": "Moreland City",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/16785.png"
+    },
+    {
+        "id": 16786,
+        "name": "Moreland Zebras",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/16786.png"
+    },
+    {
+        "id": 16787,
+        "name": "North Geelong Warriors",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/16787.png"
+    },
+    {
+        "id": 16788,
+        "name": "Northcote City",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/16788.png"
+    },
+    {
+        "id": 16789,
+        "name": "Werribee City",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/16789.png"
+    },
+    {
+        "id": 17072,
+        "name": "Newmarket",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/17072.png"
+    },
+    {
+        "id": 17863,
+        "name": "Edge Hill United",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/17863.png"
+    },
+    {
+        "id": 17905,
+        "name": "Wellington Phoenix W",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/17905.png"
+    },
+    {
+        "id": 18313,
+        "name": "Cooks Hill United",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/18313.png"
+    },
+    {
+        "id": 18419,
+        "name": "O'Connor Knights",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/18419.png"
+    },
+    {
+        "id": 18658,
+        "name": "Adelaide University",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/18658.png"
+    },
+    {
+        "id": 18659,
+        "name": "Port Adelaide Pirates",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/18659.png"
+    },
+    {
+        "id": 18732,
+        "name": "Perth RedStar",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/18732.png"
+    },
+    {
+        "id": 19076,
+        "name": "Australia U20 W",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/19076.png"
+    },
+    {
+        "id": 19122,
+        "name": "Wollongong United",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/19122.png"
+    },
+    {
+        "id": 19705,
+        "name": "Preston Lions",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/19705.png"
+    },
+    {
+        "id": 20370,
+        "name": "Western United W",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/20370.png"
+    },
+    {
+        "id": 20646,
+        "name": "Wellington Olympic",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/20646.png"
+    },
+    {
+        "id": 20648,
+        "name": "Western Suburbs",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/20648.png"
+    },
+    {
+        "id": 20783,
+        "name": "Melbourne City II",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/20783.png"
+    },
+    {
+        "id": 20784,
+        "name": "Western United II",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/20784.png"
+    },
+    {
+        "id": 20789,
+        "name": "New Lambton",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/20789.png"
+    },
+    {
+        "id": 20790,
+        "name": "Bankstown City Lions",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/20790.png"
+    },
+    {
+        "id": 20791,
+        "name": "Canterbury Bankstown",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/20791.png"
+    },
+    {
+        "id": 20792,
+        "name": "Central Coast United",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/20792.png"
+    },
+    {
+        "id": 20793,
+        "name": "Dulwich Hill",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/20793.png"
+    },
+    {
+        "id": 20794,
+        "name": "Dunbar Rovers",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/20794.png"
+    },
+    {
+        "id": 20795,
+        "name": "Inter Lions",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/20795.png"
+    },
+    {
+        "id": 20796,
+        "name": "Macarthur Rams",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/20796.png"
+    },
+    {
+        "id": 20797,
+        "name": "Rydalmere Lions",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/20797.png"
+    },
+    {
+        "id": 20798,
+        "name": "Bulls Academy",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/20798.png"
+    },
+    {
+        "id": 20819,
+        "name": "Surfers Paradise Apollo",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/20819.png"
+    },
+    {
+        "id": 20821,
+        "name": "North Brisbane",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/20821.png"
+    },
+    {
+        "id": 20822,
+        "name": "Redcliffe Dolphins",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/20822.png"
+    },
+    {
+        "id": 20850,
+        "name": "Broadbeach United",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/20850.png"
+    },
+    {
+        "id": 20890,
+        "name": "Olympic Kingsway",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/20890.png"
+    },
+    {
+        "id": 21025,
+        "name": "Fremantle City",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/21025.png"
+    },
+    {
+        "id": 21034,
+        "name": "Subiaco",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/21034.png"
+    },
+    {
+        "id": 21047,
+        "name": "Launceston United",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/21047.png"
+    },
+    {
+        "id": 21056,
+        "name": "Australia U20",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/21056.png"
+    },
+    {
+        "id": 21458,
+        "name": "Australia U18",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/21458.png"
+    },
+    {
+        "id": 21921,
+        "name": "Sunshine Georgies",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/21921.png"
+    },
+    {
+        "id": 22292,
+        "name": "Central Coast Mariners W",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/22292.png"
+    },
+    {
+        "id": 22493,
+        "name": "Mandurah City",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/22493.png"
+    },
+    {
+        "id": 22591,
+        "name": "Australia U19",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/22591.png"
+    },
+    {
+        "id": 22807,
+        "name": "Salisbury United",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/22807.png"
+    },
+    {
+        "id": 22823,
+        "name": "Melbourne Victory II",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/22823.png"
+    },
+    {
+        "id": 22853,
+        "name": "Nepean",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/22853.png"
+    },
+    {
+        "id": 22854,
+        "name": "UNSW",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/22854.png"
+    },
+    {
+        "id": 22866,
+        "name": "Yoogali CT",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/22866.png"
+    },
+    {
+        "id": 22894,
+        "name": "Moreton City II",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/22894.png"
+    },
+    {
+        "id": 22895,
+        "name": "Ipswich",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/22895.png"
+    },
+    {
+        "id": 22916,
+        "name": "Moreton City Excelsior",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/22916.png"
+    },
+    {
+        "id": 22921,
+        "name": "Springfield United",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/22921.png"
+    },
+    {
+        "id": 22927,
+        "name": "Australia U16",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/22927.png"
+    },
+    {
+        "id": 23196,
+        "name": "Western Knights",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/23196.png"
+    },
+    {
+        "id": 23267,
+        "name": "Garuda",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/23267.png"
+    },
+    {
+        "id": 23463,
+        "name": "Venezuela U20 W",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/23463.png"
+    },
+    {
+        "id": 23500,
+        "name": "Belmont Swansea",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/23500.png"
+    },
+    {
+        "id": 23501,
+        "name": "Cessnock City Hornets",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/23501.png"
+    },
+    {
+        "id": 23502,
+        "name": "Kahibah",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/23502.png"
+    },
+    {
+        "id": 23503,
+        "name": "Singleton Strikers",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/23503.png"
+    },
+    {
+        "id": 23504,
+        "name": "Thornton Redbacks",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/23504.png"
+    },
+    {
+        "id": 23505,
+        "name": "Toronto Awaba Stags",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/23505.png"
+    },
+    {
+        "id": 23506,
+        "name": "Wallsend Red Devils",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/23506.png"
+    },
+    {
+        "id": 23507,
+        "name": "Burnie Utd.",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/23507.png"
+    },
+    {
+        "id": 23508,
+        "name": "Devonport U21",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/23508.png"
+    },
+    {
+        "id": 23509,
+        "name": "Launceston U21",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/23509.png"
+    },
+    {
+        "id": 23510,
+        "name": "Launceston United U21",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/23510.png"
+    },
+    {
+        "id": 23511,
+        "name": "Northern Rangers",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/23511.png"
+    },
+    {
+        "id": 23512,
+        "name": "Riverside Olympic U21",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/23512.png"
+    },
+    {
+        "id": 23513,
+        "name": "Somerset",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/23513.png"
+    },
+    {
+        "id": 23514,
+        "name": "Ulverstone",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/23514.png"
+    },
+    {
+        "id": 23515,
+        "name": "ANU",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/23515.png"
+    },
+    {
+        "id": 23516,
+        "name": "Brindabella",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/23516.png"
+    },
+    {
+        "id": 23517,
+        "name": "Canberra Juventus",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/23517.png"
+    },
+    {
+        "id": 23518,
+        "name": "Canberra White Eagles",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/23518.png"
+    },
+    {
+        "id": 23519,
+        "name": "Queanbeyan City",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/23519.png"
+    },
+    {
+        "id": 23520,
+        "name": "Wagga City Wanderers",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/23520.png"
+    },
+    {
+        "id": 23521,
+        "name": "Clarence Zebras II",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/23521.png"
+    },
+    {
+        "id": 23522,
+        "name": "Glenorchy Knights II",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/23522.png"
+    },
+    {
+        "id": 23523,
+        "name": "Hobart City",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/23523.png"
+    },
+    {
+        "id": 23524,
+        "name": "Hobart Utd.",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/23524.png"
+    },
+    {
+        "id": 23525,
+        "name": "New Town",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/23525.png"
+    },
+    {
+        "id": 23526,
+        "name": "South East Utd.",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/23526.png"
+    },
+    {
+        "id": 23527,
+        "name": "South Hobart II",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/23527.png"
+    },
+    {
+        "id": 23528,
+        "name": "Taroona",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/23528.png"
+    },
+    {
+        "id": 23529,
+        "name": "University of Tasmania",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/23529.png"
+    },
+    {
+        "id": 23530,
+        "name": "Dianella White Eagle",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/23530.png"
+    },
+    {
+        "id": 23531,
+        "name": "Kingsley Westside",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/23531.png"
+    },
+    {
+        "id": 23532,
+        "name": "Murdoch Melville",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/23532.png"
+    },
+    {
+        "id": 23533,
+        "name": "UWA Nedlands",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/23533.png"
+    },
+    {
+        "id": 24077,
+        "name": "Melbourne Srbija",
+        "country": "Australia",
+        "logo": "https://media.api-sports.io/football/teams/24077.png"
+    }
+]

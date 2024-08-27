@@ -1,0 +1,1022 @@
+[
+    {
+        "id": 830,
+        "name": "Beijing Guoan",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/830.png"
+    },
+    {
+        "id": 831,
+        "name": "Dalian Aerbin",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/831.png"
+    },
+    {
+        "id": 832,
+        "name": "Guangzhou Evergrande FC",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/832.png"
+    },
+    {
+        "id": 833,
+        "name": "Shanghai Shenhua",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/833.png"
+    },
+    {
+        "id": 834,
+        "name": "Changchun Yatai",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/834.png"
+    },
+    {
+        "id": 835,
+        "name": "Beijing Renhe",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/835.png"
+    },
+    {
+        "id": 836,
+        "name": "SHANGHAI SIPG",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/836.png"
+    },
+    {
+        "id": 837,
+        "name": "Tianjin Teda",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/837.png"
+    },
+    {
+        "id": 838,
+        "name": "Guangzhou R&F",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/838.png"
+    },
+    {
+        "id": 839,
+        "name": "Hebei Zhongji",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/839.png"
+    },
+    {
+        "id": 840,
+        "name": "Henan Jianye",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/840.png"
+    },
+    {
+        "id": 841,
+        "name": "Guizhou Zhicheng",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/841.png"
+    },
+    {
+        "id": 842,
+        "name": "Jiangsu Suning",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/842.png"
+    },
+    {
+        "id": 843,
+        "name": "Tianjin Songjiang",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/843.png"
+    },
+    {
+        "id": 844,
+        "name": "Shandong Luneng",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/844.png"
+    },
+    {
+        "id": 845,
+        "name": "Chongqing Lifan",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/845.png"
+    },
+    {
+        "id": 846,
+        "name": "liaoning hongyun FC",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/846.png"
+    },
+    {
+        "id": 847,
+        "name": "Yanbian Tigers FC",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/847.png"
+    },
+    {
+        "id": 848,
+        "name": "Hangzhou Greentown",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/848.png"
+    },
+    {
+        "id": 849,
+        "name": "Shijiazhuang Y. J.",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/849.png"
+    },
+    {
+        "id": 1431,
+        "name": "Qingdao Jonoon",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/1431.png"
+    },
+    {
+        "id": 1432,
+        "name": "Shanghai Shenxin",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/1432.png"
+    },
+    {
+        "id": 1433,
+        "name": "Shenzhen Ruby FC",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/1433.png"
+    },
+    {
+        "id": 1434,
+        "name": "Wuhan Zall",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/1434.png"
+    },
+    {
+        "id": 1435,
+        "name": "Xinjiang Tianshan",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/1435.png"
+    },
+    {
+        "id": 1436,
+        "name": "Beijing Baxy",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/1436.png"
+    },
+    {
+        "id": 1437,
+        "name": "Dalian Transcendence",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/1437.png"
+    },
+    {
+        "id": 1438,
+        "name": "Hunan Billows FC",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/1438.png"
+    },
+    {
+        "id": 1439,
+        "name": "Meizhou Kejia",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/1439.png"
+    },
+    {
+        "id": 1440,
+        "name": "Nei Mongol Zhongyou",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/1440.png"
+    },
+    {
+        "id": 1441,
+        "name": "Qingdao Huanghai",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/1441.png"
+    },
+    {
+        "id": 1442,
+        "name": "Zhejiang Yiteng",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/1442.png"
+    },
+    {
+        "id": 1443,
+        "name": "Baoding Yingli Yitong",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/1443.png"
+    },
+    {
+        "id": 1444,
+        "name": "Lijiang Jiayunhao",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/1444.png"
+    },
+    {
+        "id": 1445,
+        "name": "Heilongjiang Lava Spring",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/1445.png"
+    },
+    {
+        "id": 1446,
+        "name": "Meizhou Meixian Techand",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/1446.png"
+    },
+    {
+        "id": 1566,
+        "name": "China",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/1566.png"
+    },
+    {
+        "id": 1723,
+        "name": "China W",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/1723.png"
+    },
+    {
+        "id": 2624,
+        "name": "Sichuan Longfor",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/2624.png"
+    },
+    {
+        "id": 2625,
+        "name": "Shaanxi Changan Athletic",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/2625.png"
+    },
+    {
+        "id": 2626,
+        "name": "Nantong Zhiyun",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/2626.png"
+    },
+    {
+        "id": 5647,
+        "name": "BIT",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/5647.png"
+    },
+    {
+        "id": 5648,
+        "name": "Chengdu Better City",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/5648.png"
+    },
+    {
+        "id": 5649,
+        "name": "Chongqing High Wave",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/5649.png"
+    },
+    {
+        "id": 5650,
+        "name": "Chongqing Qingyuan",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/5650.png"
+    },
+    {
+        "id": 5651,
+        "name": "Dalian Chanjoy",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/5651.png"
+    },
+    {
+        "id": 5652,
+        "name": "Dalian Huayi",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/5652.png"
+    },
+    {
+        "id": 5653,
+        "name": "Dalian Tongshun",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/5653.png"
+    },
+    {
+        "id": 5654,
+        "name": "Dantong Hantong",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/5654.png"
+    },
+    {
+        "id": 5655,
+        "name": "Fujian Tianxin",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/5655.png"
+    },
+    {
+        "id": 5656,
+        "name": "Guangdong Haoxin Trade",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/5656.png"
+    },
+    {
+        "id": 5657,
+        "name": "Guangxi Baoyun",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/5657.png"
+    },
+    {
+        "id": 5658,
+        "name": "Hangzhou Wuyue Qiantang",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/5658.png"
+    },
+    {
+        "id": 5659,
+        "name": "Hebei Elite",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/5659.png"
+    },
+    {
+        "id": 5660,
+        "name": "Hubei Chufeng Heli",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/5660.png"
+    },
+    {
+        "id": 5661,
+        "name": "Hubei Wuhan Athletics",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/5661.png"
+    },
+    {
+        "id": 5662,
+        "name": "Inner Mongolia Caoshang.",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/5662.png"
+    },
+    {
+        "id": 5663,
+        "name": "Jiangsu Yancheng Dingli",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/5663.png"
+    },
+    {
+        "id": 5664,
+        "name": "Jiangxi Hopeda",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/5664.png"
+    },
+    {
+        "id": 5665,
+        "name": "Jiangxi Liansheng",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/5665.png"
+    },
+    {
+        "id": 5666,
+        "name": "Jiangxi Shangrao",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/5666.png"
+    },
+    {
+        "id": 5667,
+        "name": "Jilin Baijia",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/5667.png"
+    },
+    {
+        "id": 5668,
+        "name": "Jinan Dayou",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/5668.png"
+    },
+    {
+        "id": 5669,
+        "name": "Jinhua Zhongchou",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/5669.png"
+    },
+    {
+        "id": 5670,
+        "name": "Kunshan",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/5670.png"
+    },
+    {
+        "id": 5671,
+        "name": "Lhasa Chengtou",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/5671.png"
+    },
+    {
+        "id": 5672,
+        "name": "Liuzhou Ranko",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/5672.png"
+    },
+    {
+        "id": 5673,
+        "name": "Nanjing 1Fusion",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/5673.png"
+    },
+    {
+        "id": 5674,
+        "name": "Nanjing Shaye",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/5674.png"
+    },
+    {
+        "id": 5675,
+        "name": "Nanning Binjiang",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/5675.png"
+    },
+    {
+        "id": 5676,
+        "name": "Ningbo Yinbo",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/5676.png"
+    },
+    {
+        "id": 5677,
+        "name": "Qingdao Elite United",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/5677.png"
+    },
+    {
+        "id": 5678,
+        "name": "Qingdao Kunpeng",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/5678.png"
+    },
+    {
+        "id": 5679,
+        "name": "Qingdao Red Lions",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/5679.png"
+    },
+    {
+        "id": 5680,
+        "name": "Shanghai Chengxun",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/5680.png"
+    },
+    {
+        "id": 5681,
+        "name": "Shanghai Huajiao",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/5681.png"
+    },
+    {
+        "id": 5682,
+        "name": "Shanghai Jiading",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/5682.png"
+    },
+    {
+        "id": 5683,
+        "name": "Shanxi Metropolis",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/5683.png"
+    },
+    {
+        "id": 5684,
+        "name": "Shenyang Urban",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/5684.png"
+    },
+    {
+        "id": 5685,
+        "name": "Shenzhen Pengcheng",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/5685.png"
+    },
+    {
+        "id": 5686,
+        "name": "Sichuan Jiuniu",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/5686.png"
+    },
+    {
+        "id": 5687,
+        "name": "Suqian Zhongrui",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/5687.png"
+    },
+    {
+        "id": 5688,
+        "name": "Suzhou Dongwu",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/5688.png"
+    },
+    {
+        "id": 5689,
+        "name": "Taizhou Aizhil\u00fc",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/5689.png"
+    },
+    {
+        "id": 5690,
+        "name": "Taizhou Yuanda",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/5690.png"
+    },
+    {
+        "id": 5691,
+        "name": "Ulanqab Qile",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/5691.png"
+    },
+    {
+        "id": 5692,
+        "name": "Wanning Tengji",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/5692.png"
+    },
+    {
+        "id": 5693,
+        "name": "Weifang Juexiaoya",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/5693.png"
+    },
+    {
+        "id": 5694,
+        "name": "Wuhan Huachuang",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/5694.png"
+    },
+    {
+        "id": 5695,
+        "name": "Wuhan Three Towns",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/5695.png"
+    },
+    {
+        "id": 5696,
+        "name": "Xi'an Daxing Chongde",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/5696.png"
+    },
+    {
+        "id": 5697,
+        "name": "Xi'an Hi-Tech Zone",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/5697.png"
+    },
+    {
+        "id": 5698,
+        "name": "Yanbian Beiguo",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/5698.png"
+    },
+    {
+        "id": 5699,
+        "name": "Yinchuan Helanshan",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/5699.png"
+    },
+    {
+        "id": 5700,
+        "name": "Yingkou Chaoyue",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/5700.png"
+    },
+    {
+        "id": 5701,
+        "name": "Yunnan Kunlu",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/5701.png"
+    },
+    {
+        "id": 5702,
+        "name": "Zhaoqing Topfung East.",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/5702.png"
+    },
+    {
+        "id": 5703,
+        "name": "Zibo Cuju",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/5703.png"
+    },
+    {
+        "id": 10932,
+        "name": "China PR U23",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/10932.png"
+    },
+    {
+        "id": 16619,
+        "name": "Nanjing City",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/16619.png"
+    },
+    {
+        "id": 17262,
+        "name": "China PR U20",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/17262.png"
+    },
+    {
+        "id": 17263,
+        "name": "Dongguan United",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/17263.png"
+    },
+    {
+        "id": 17264,
+        "name": "Hebei Kungfu",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/17264.png"
+    },
+    {
+        "id": 17265,
+        "name": "Qingdao Youth Island",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/17265.png"
+    },
+    {
+        "id": 17266,
+        "name": "Quanzhou Yassin",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/17266.png"
+    },
+    {
+        "id": 17267,
+        "name": "Shaanxi Warriors",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/17267.png"
+    },
+    {
+        "id": 17268,
+        "name": "Sichuan Minzu",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/17268.png"
+    },
+    {
+        "id": 17269,
+        "name": "Wuxi Wugou",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/17269.png"
+    },
+    {
+        "id": 17270,
+        "name": "Xiamen Egret Island",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/17270.png"
+    },
+    {
+        "id": 17271,
+        "name": "Yanbian Longding",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/17271.png"
+    },
+    {
+        "id": 17272,
+        "name": "Yichun Grand Tiger",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/17272.png"
+    },
+    {
+        "id": 17986,
+        "name": "Meixian Qiuxiang",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/17986.png"
+    },
+    {
+        "id": 19317,
+        "name": "Hainan Star",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/19317.png"
+    },
+    {
+        "id": 19318,
+        "name": "Jinan Xingzhou",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/19318.png"
+    },
+    {
+        "id": 19319,
+        "name": "Nantong Haimen Codion",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/19319.png"
+    },
+    {
+        "id": 19320,
+        "name": "Shangyu Pterosaur",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/19320.png"
+    },
+    {
+        "id": 19321,
+        "name": "Tai'an Tiankuang",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/19321.png"
+    },
+    {
+        "id": 19322,
+        "name": "Wuhan Jiangcheng",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/19322.png"
+    },
+    {
+        "id": 19323,
+        "name": "Zhuhai Qin'ao",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/19323.png"
+    },
+    {
+        "id": 19324,
+        "name": "Zibo Qisheng",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/19324.png"
+    },
+    {
+        "id": 20526,
+        "name": "China PR U17",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/20526.png"
+    },
+    {
+        "id": 20673,
+        "name": "Jingchuan Wenhui",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/20673.png"
+    },
+    {
+        "id": 20674,
+        "name": "Xi'an Ronghai",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/20674.png"
+    },
+    {
+        "id": 21262,
+        "name": "Chongqing Tongliang Long",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/21262.png"
+    },
+    {
+        "id": 21263,
+        "name": "Dalian Zhixing",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/21263.png"
+    },
+    {
+        "id": 21264,
+        "name": "Guangxi Lanhang",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/21264.png"
+    },
+    {
+        "id": 21265,
+        "name": "Yunnan Yukun",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/21265.png"
+    },
+    {
+        "id": 21322,
+        "name": "Changle Jingangtui",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/21322.png"
+    },
+    {
+        "id": 21323,
+        "name": "Changzhou Lanzhiyi",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/21323.png"
+    },
+    {
+        "id": 21324,
+        "name": "Guangxi Junling Feisu",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/21324.png"
+    },
+    {
+        "id": 21325,
+        "name": "Ningxia Renfangzhong",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/21325.png"
+    },
+    {
+        "id": 21326,
+        "name": "Qingdao May Wind",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/21326.png"
+    },
+    {
+        "id": 21327,
+        "name": "Qujing Yibu",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/21327.png"
+    },
+    {
+        "id": 21328,
+        "name": "Rizhao Yuqi",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/21328.png"
+    },
+    {
+        "id": 21329,
+        "name": "Shanghai Shenshui",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/21329.png"
+    },
+    {
+        "id": 21330,
+        "name": "Shanghai Zongcn",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/21330.png"
+    },
+    {
+        "id": 21331,
+        "name": "Shanxi Longchengren",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/21331.png"
+    },
+    {
+        "id": 21332,
+        "name": "Tianjin Jinchengren",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/21332.png"
+    },
+    {
+        "id": 21333,
+        "name": "Wuhan Xiaoma Guohe",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/21333.png"
+    },
+    {
+        "id": 21334,
+        "name": "Yili Nine Towns",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/21334.png"
+    },
+    {
+        "id": 21335,
+        "name": "Yiwu Jinxiu",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/21335.png"
+    },
+    {
+        "id": 21449,
+        "name": "China PR U17",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/21449.png"
+    },
+    {
+        "id": 21464,
+        "name": "China U22",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/21464.png"
+    },
+    {
+        "id": 23132,
+        "name": "Changchun Xidu",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/23132.png"
+    },
+    {
+        "id": 23133,
+        "name": "Changning Flying Lions",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/23133.png"
+    },
+    {
+        "id": 23134,
+        "name": "Chunlei",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/23134.png"
+    },
+    {
+        "id": 23135,
+        "name": "Fujian Quanzhou Qinggong",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/23135.png"
+    },
+    {
+        "id": 23136,
+        "name": "Gannan 92 United",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/23136.png"
+    },
+    {
+        "id": 23137,
+        "name": "Guangdong Shudihong",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/23137.png"
+    },
+    {
+        "id": 23138,
+        "name": "Guangxi Bushan",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/23138.png"
+    },
+    {
+        "id": 23139,
+        "name": "Haishan",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/23139.png"
+    },
+    {
+        "id": 23140,
+        "name": "Jiangsu Nan Dongsheng",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/23140.png"
+    },
+    {
+        "id": 23141,
+        "name": "Lanzhou Hailu",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/23141.png"
+    },
+    {
+        "id": 23142,
+        "name": "Lujian Tiancheng",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/23142.png"
+    },
+    {
+        "id": 23143,
+        "name": "Nanning Juding",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/23143.png"
+    },
+    {
+        "id": 23144,
+        "name": "Ningo Shoufa",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/23144.png"
+    },
+    {
+        "id": 23145,
+        "name": "Ningxia Pingluo",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/23145.png"
+    },
+    {
+        "id": 23146,
+        "name": "Qianxinan Xu Fengtang",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/23146.png"
+    },
+    {
+        "id": 23147,
+        "name": "Shanghai Segenda",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/23147.png"
+    },
+    {
+        "id": 23148,
+        "name": "Shanghai Tongji",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/23148.png"
+    },
+    {
+        "id": 23149,
+        "name": "Shanxi Xiangyu",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/23149.png"
+    },
+    {
+        "id": 23150,
+        "name": "Shenzhen Jixiang",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/23150.png"
+    },
+    {
+        "id": 23209,
+        "name": "China PR U20 W",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/23209.png"
+    },
+    {
+        "id": 23265,
+        "name": "Shenzhen Juniors",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/23265.png"
+    },
+    {
+        "id": 23268,
+        "name": "Guangxi Hengchen",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/23268.png"
+    },
+    {
+        "id": 23269,
+        "name": "Guangzhou E-Power",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/23269.png"
+    },
+    {
+        "id": 23270,
+        "name": "Langfang Glory City",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/23270.png"
+    },
+    {
+        "id": 23286,
+        "name": "Shaanxi Union",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/23286.png"
+    },
+    {
+        "id": 23288,
+        "name": "Shandong Taishan II",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/23288.png"
+    },
+    {
+        "id": 23289,
+        "name": "Shanghai Port II",
+        "country": "China",
+        "logo": "https://media.api-sports.io/football/teams/23289.png"
+    }
+]

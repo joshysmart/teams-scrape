@@ -1,0 +1,188 @@
+[
+    {
+        "id": 1556,
+        "name": "Myanmar",
+        "country": "Myanmar",
+        "logo": "https://media.api-sports.io/football/teams/1556.png"
+    },
+    {
+        "id": 8013,
+        "name": "Yangon United",
+        "country": "Myanmar",
+        "logo": "https://media.api-sports.io/football/teams/8013.png"
+    },
+    {
+        "id": 8015,
+        "name": "Shan United",
+        "country": "Myanmar",
+        "logo": "https://media.api-sports.io/football/teams/8015.png"
+    },
+    {
+        "id": 8017,
+        "name": "Yadanarbon",
+        "country": "Myanmar",
+        "logo": "https://media.api-sports.io/football/teams/8017.png"
+    },
+    {
+        "id": 8043,
+        "name": "Magwe",
+        "country": "Myanmar",
+        "logo": "https://media.api-sports.io/football/teams/8043.png"
+    },
+    {
+        "id": 10936,
+        "name": "Indonesia U23",
+        "country": "Myanmar",
+        "logo": "https://media.api-sports.io/football/teams/10936.png"
+    },
+    {
+        "id": 10960,
+        "name": "Thailand U23",
+        "country": "Myanmar",
+        "logo": "https://media.api-sports.io/football/teams/10960.png"
+    },
+    {
+        "id": 12523,
+        "name": "Ayeyawady United",
+        "country": "Myanmar",
+        "logo": "https://media.api-sports.io/football/teams/12523.png"
+    },
+    {
+        "id": 12524,
+        "name": "Chin United",
+        "country": "Myanmar",
+        "logo": "https://media.api-sports.io/football/teams/12524.png"
+    },
+    {
+        "id": 12525,
+        "name": "Hantharwady United",
+        "country": "Myanmar",
+        "logo": "https://media.api-sports.io/football/teams/12525.png"
+    },
+    {
+        "id": 12526,
+        "name": "I.S.P.E",
+        "country": "Myanmar",
+        "logo": "https://media.api-sports.io/football/teams/12526.png"
+    },
+    {
+        "id": 12527,
+        "name": "Rakhine United",
+        "country": "Myanmar",
+        "logo": "https://media.api-sports.io/football/teams/12527.png"
+    },
+    {
+        "id": 12528,
+        "name": "Sagaing United",
+        "country": "Myanmar",
+        "logo": "https://media.api-sports.io/football/teams/12528.png"
+    },
+    {
+        "id": 12529,
+        "name": "Southern Myanmar",
+        "country": "Myanmar",
+        "logo": "https://media.api-sports.io/football/teams/12529.png"
+    },
+    {
+        "id": 12530,
+        "name": "Zwekapin United",
+        "country": "Myanmar",
+        "logo": "https://media.api-sports.io/football/teams/12530.png"
+    },
+    {
+        "id": 12531,
+        "name": "Chinland",
+        "country": "Myanmar",
+        "logo": "https://media.api-sports.io/football/teams/12531.png"
+    },
+    {
+        "id": 12532,
+        "name": "Dagon",
+        "country": "Myanmar",
+        "logo": "https://media.api-sports.io/football/teams/12532.png"
+    },
+    {
+        "id": 12533,
+        "name": "GFA",
+        "country": "Myanmar",
+        "logo": "https://media.api-sports.io/football/teams/12533.png"
+    },
+    {
+        "id": 12534,
+        "name": "Mawyawadi",
+        "country": "Myanmar",
+        "logo": "https://media.api-sports.io/football/teams/12534.png"
+    },
+    {
+        "id": 12535,
+        "name": "Nay Pyi Taw",
+        "country": "Myanmar",
+        "logo": "https://media.api-sports.io/football/teams/12535.png"
+    },
+    {
+        "id": 12536,
+        "name": "Horizon",
+        "country": "Myanmar",
+        "logo": "https://media.api-sports.io/football/teams/12536.png"
+    },
+    {
+        "id": 12537,
+        "name": "Zeyar Shwe Myay",
+        "country": "Myanmar",
+        "logo": "https://media.api-sports.io/football/teams/12537.png"
+    },
+    {
+        "id": 12538,
+        "name": "Manaw Myay",
+        "country": "Myanmar",
+        "logo": "https://media.api-sports.io/football/teams/12538.png"
+    },
+    {
+        "id": 12539,
+        "name": "Rakhapura United",
+        "country": "Myanmar",
+        "logo": "https://media.api-sports.io/football/teams/12539.png"
+    },
+    {
+        "id": 14462,
+        "name": "Myanmar W",
+        "country": "Myanmar",
+        "logo": "https://media.api-sports.io/football/teams/14462.png"
+    },
+    {
+        "id": 19048,
+        "name": "Myawady",
+        "country": "Myanmar",
+        "logo": "https://media.api-sports.io/football/teams/19048.png"
+    },
+    {
+        "id": 19152,
+        "name": "Myanmar U19",
+        "country": "Myanmar",
+        "logo": "https://media.api-sports.io/football/teams/19152.png"
+    },
+    {
+        "id": 20967,
+        "name": "Kachin United",
+        "country": "Myanmar",
+        "logo": "https://media.api-sports.io/football/teams/20967.png"
+    },
+    {
+        "id": 21225,
+        "name": "Myanmar U22",
+        "country": "Myanmar",
+        "logo": "https://media.api-sports.io/football/teams/21225.png"
+    },
+    {
+        "id": 24090,
+        "name": "Dagon Port",
+        "country": "Myanmar",
+        "logo": "https://media.api-sports.io/football/teams/24090.png"
+    },
+    {
+        "id": 24091,
+        "name": "Thitsar Arman",
+        "country": "Myanmar",
+        "logo": "https://media.api-sports.io/football/teams/24091.png"
+    }
+]

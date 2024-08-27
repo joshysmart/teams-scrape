@@ -1,0 +1,650 @@
+[
+    {
+        "id": 7,
+        "name": "Uruguay",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/7.png"
+    },
+    {
+        "id": 2347,
+        "name": "SUD America",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/2347.png"
+    },
+    {
+        "id": 2348,
+        "name": "Penarol",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/2348.png"
+    },
+    {
+        "id": 2349,
+        "name": "El Tanque Sisley",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/2349.png"
+    },
+    {
+        "id": 2350,
+        "name": "Defensor Sporting",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/2350.png"
+    },
+    {
+        "id": 2351,
+        "name": "CA River Plate",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/2351.png"
+    },
+    {
+        "id": 2352,
+        "name": "Danubio",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/2352.png"
+    },
+    {
+        "id": 2353,
+        "name": "Juventud",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/2353.png"
+    },
+    {
+        "id": 2354,
+        "name": "Rampla Juniors",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/2354.png"
+    },
+    {
+        "id": 2355,
+        "name": "Plaza Colonia",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/2355.png"
+    },
+    {
+        "id": 2356,
+        "name": "Club Nacional",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/2356.png"
+    },
+    {
+        "id": 2357,
+        "name": "Fenix",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/2357.png"
+    },
+    {
+        "id": 2358,
+        "name": "Liverpool Montevideo",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/2358.png"
+    },
+    {
+        "id": 2359,
+        "name": "Racing Montevideo",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/2359.png"
+    },
+    {
+        "id": 2360,
+        "name": "Wanderers",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/2360.png"
+    },
+    {
+        "id": 2361,
+        "name": "Boston River",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/2361.png"
+    },
+    {
+        "id": 2362,
+        "name": "Cerro",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/2362.png"
+    },
+    {
+        "id": 2363,
+        "name": "Progreso",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/2363.png"
+    },
+    {
+        "id": 2364,
+        "name": "Atenas",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/2364.png"
+    },
+    {
+        "id": 2365,
+        "name": "Atletico Torque",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/2365.png"
+    },
+    {
+        "id": 2366,
+        "name": "Villa Teresa",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/2366.png"
+    },
+    {
+        "id": 2367,
+        "name": "Cerrito",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/2367.png"
+    },
+    {
+        "id": 2368,
+        "name": "Central Espanol",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/2368.png"
+    },
+    {
+        "id": 2369,
+        "name": "Cerro Largo",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/2369.png"
+    },
+    {
+        "id": 2370,
+        "name": "Deportivo Maldonado",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/2370.png"
+    },
+    {
+        "id": 2371,
+        "name": "Rentistas",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/2371.png"
+    },
+    {
+        "id": 2372,
+        "name": "Villa Espanola",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/2372.png"
+    },
+    {
+        "id": 2373,
+        "name": "Miramar",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/2373.png"
+    },
+    {
+        "id": 2374,
+        "name": "Tacuarembo",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/2374.png"
+    },
+    {
+        "id": 2375,
+        "name": "Canadian",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/2375.png"
+    },
+    {
+        "id": 2376,
+        "name": "Oriental",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/2376.png"
+    },
+    {
+        "id": 2377,
+        "name": "Sportivo Huracan",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/2377.png"
+    },
+    {
+        "id": 2378,
+        "name": "Albion FC",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/2378.png"
+    },
+    {
+        "id": 2996,
+        "name": "Bella Vista",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/2996.png"
+    },
+    {
+        "id": 10185,
+        "name": "Uruguay U23",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/10185.png"
+    },
+    {
+        "id": 10307,
+        "name": "Uruguay U20",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/10307.png"
+    },
+    {
+        "id": 11053,
+        "name": "Danubio U20",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/11053.png"
+    },
+    {
+        "id": 11058,
+        "name": "Nacional U20",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/11058.png"
+    },
+    {
+        "id": 13268,
+        "name": "Rocha",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/13268.png"
+    },
+    {
+        "id": 15628,
+        "name": "Col\u00f3n",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/15628.png"
+    },
+    {
+        "id": 16740,
+        "name": "Uruguay Montevideo",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/16740.png"
+    },
+    {
+        "id": 16944,
+        "name": "Uruguay W",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/16944.png"
+    },
+    {
+        "id": 18295,
+        "name": "La Luz",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/18295.png"
+    },
+    {
+        "id": 19325,
+        "name": "Alto Per\u00fa",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/19325.png"
+    },
+    {
+        "id": 19326,
+        "name": "Artigas",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/19326.png"
+    },
+    {
+        "id": 19327,
+        "name": "Barrio Ol\u00edmpico",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/19327.png"
+    },
+    {
+        "id": 19328,
+        "name": "Bas\u00e1\u00f1ez",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/19328.png"
+    },
+    {
+        "id": 19329,
+        "name": "Bella Vista de Paysand\u00fa",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/19329.png"
+    },
+    {
+        "id": 19330,
+        "name": "Boquita",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/19330.png"
+    },
+    {
+        "id": 19331,
+        "name": "Cooper",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/19331.png"
+    },
+    {
+        "id": 19332,
+        "name": "Deportivo Italiano",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/19332.png"
+    },
+    {
+        "id": 19333,
+        "name": "Durazno",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/19333.png"
+    },
+    {
+        "id": 19334,
+        "name": "Hurac\u00e1n de Paysand\u00fa",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/19334.png"
+    },
+    {
+        "id": 19335,
+        "name": "Hurac\u00e1n de Rivera",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/19335.png"
+    },
+    {
+        "id": 19336,
+        "name": "Juanic\u00f3",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/19336.png"
+    },
+    {
+        "id": 19337,
+        "name": "Laureles",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/19337.png"
+    },
+    {
+        "id": 19338,
+        "name": "Lavalleja de Minas",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/19338.png"
+    },
+    {
+        "id": 19339,
+        "name": "Lavalleja de Rocha",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/19339.png"
+    },
+    {
+        "id": 19340,
+        "name": "Los Halcones",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/19340.png"
+    },
+    {
+        "id": 19341,
+        "name": "Mar de Fondo",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/19341.png"
+    },
+    {
+        "id": 19342,
+        "name": "Palermo de Rocha",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/19342.png"
+    },
+    {
+        "id": 19343,
+        "name": "Parque del Plata",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/19343.png"
+    },
+    {
+        "id": 19344,
+        "name": "Paso de la Arena",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/19344.png"
+    },
+    {
+        "id": 19345,
+        "name": "Piri\u00e1polis",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/19345.png"
+    },
+    {
+        "id": 19346,
+        "name": "Porongos",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/19346.png"
+    },
+    {
+        "id": 19347,
+        "name": "Potencia",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/19347.png"
+    },
+    {
+        "id": 19348,
+        "name": "Progreso Atl\u00e1ntida",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/19348.png"
+    },
+    {
+        "id": 19349,
+        "name": "R\u00edo Negro",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/19349.png"
+    },
+    {
+        "id": 19350,
+        "name": "Salto",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/19350.png"
+    },
+    {
+        "id": 19351,
+        "name": "Salus",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/19351.png"
+    },
+    {
+        "id": 19352,
+        "name": "Santa Emilia de Cardona",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/19352.png"
+    },
+    {
+        "id": 19353,
+        "name": "Universal de San Jos\u00e9",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/19353.png"
+    },
+    {
+        "id": 19354,
+        "name": "Universitario de Salto",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/19354.png"
+    },
+    {
+        "id": 19355,
+        "name": "Wanderers Juvenil",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/19355.png"
+    },
+    {
+        "id": 19356,
+        "name": "Wanderers Santa Lucia",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/19356.png"
+    },
+    {
+        "id": 19410,
+        "name": "Paysandu",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/19410.png"
+    },
+    {
+        "id": 19411,
+        "name": "Platense",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/19411.png"
+    },
+    {
+        "id": 20002,
+        "name": "Central de San Jos\u00e9",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/20002.png"
+    },
+    {
+        "id": 20003,
+        "name": "Juventud de Colonia",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/20003.png"
+    },
+    {
+        "id": 20537,
+        "name": "Uruguay U19",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/20537.png"
+    },
+    {
+        "id": 21212,
+        "name": "Uruguay U17",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/21212.png"
+    },
+    {
+        "id": 22215,
+        "name": "Deutscher",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/22215.png"
+    },
+    {
+        "id": 22216,
+        "name": "Estudiantes del Plata",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/22216.png"
+    },
+    {
+        "id": 22217,
+        "name": "Lito",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/22217.png"
+    },
+    {
+        "id": 22221,
+        "name": "Campana",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/22221.png"
+    },
+    {
+        "id": 22222,
+        "name": "Ferro Carril",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/22222.png"
+    },
+    {
+        "id": 22223,
+        "name": "Hurac\u00e1n Treinta y Tres",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/22223.png"
+    },
+    {
+        "id": 22224,
+        "name": "Libertad San Carlos",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/22224.png"
+    },
+    {
+        "id": 22225,
+        "name": "Litoral",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/22225.png"
+    },
+    {
+        "id": 22226,
+        "name": "Nacional CNF",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/22226.png"
+    },
+    {
+        "id": 22227,
+        "name": "Sportivo Bella Italia",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/22227.png"
+    },
+    {
+        "id": 22228,
+        "name": "Terremoto",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/22228.png"
+    },
+    {
+        "id": 22229,
+        "name": "Wanderers Durazno",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/22229.png"
+    },
+    {
+        "id": 22758,
+        "name": "San Marcos",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/22758.png"
+    },
+    {
+        "id": 23380,
+        "name": "Uruguay U17 W",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/23380.png"
+    },
+    {
+        "id": 24669,
+        "name": "Atl\u00e9tico Arsenal",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/24669.png"
+    },
+    {
+        "id": 24670,
+        "name": "Atl\u00e9tico Florida",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/24670.png"
+    },
+    {
+        "id": 24671,
+        "name": "Berl\u00edn",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/24671.png"
+    },
+    {
+        "id": 24672,
+        "name": "Boca Juniors Melo",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/24672.png"
+    },
+    {
+        "id": 24673,
+        "name": "Bristol",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/24673.png"
+    },
+    {
+        "id": 24674,
+        "name": "Central de Durazno",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/24674.png"
+    },
+    {
+        "id": 24675,
+        "name": "Darling",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/24675.png"
+    },
+    {
+        "id": 24676,
+        "name": "Estudiantes Tacuaremb\u00f3",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/24676.png"
+    },
+    {
+        "id": 24677,
+        "name": "Estudiantil Sanducero",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/24677.png"
+    },
+    {
+        "id": 24678,
+        "name": "Ferrocarrilero",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/24678.png"
+    },
+    {
+        "id": 24679,
+        "name": "Melo Wanderers",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/24679.png"
+    },
+    {
+        "id": 24680,
+        "name": "Pe\u00f1arol de Rivera",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/24680.png"
+    },
+    {
+        "id": 24681,
+        "name": "Pirata Juniors",
+        "country": "Uruguay",
+        "logo": "https://media.api-sports.io/football/teams/24681.png"
+    }
+]

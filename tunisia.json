@@ -1,0 +1,986 @@
+[
+    {
+        "id": 28,
+        "name": "Tunisia",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/28.png"
+    },
+    {
+        "id": 980,
+        "name": "ES Tunis",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/980.png"
+    },
+    {
+        "id": 981,
+        "name": "CA Bizertin",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/981.png"
+    },
+    {
+        "id": 982,
+        "name": "CO Medenine",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/982.png"
+    },
+    {
+        "id": 983,
+        "name": "CS Sfaxien",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/983.png"
+    },
+    {
+        "id": 984,
+        "name": "ES Metlaoui",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/984.png"
+    },
+    {
+        "id": 985,
+        "name": "Stade Gabesien",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/985.png"
+    },
+    {
+        "id": 986,
+        "name": "US Ben Guerdane",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/986.png"
+    },
+    {
+        "id": 987,
+        "name": "AS Gabes",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/987.png"
+    },
+    {
+        "id": 988,
+        "name": "Club Africain",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/988.png"
+    },
+    {
+        "id": 989,
+        "name": "ES Zarzis",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/989.png"
+    },
+    {
+        "id": 990,
+        "name": "ES Sahel",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/990.png"
+    },
+    {
+        "id": 991,
+        "name": "Stade Tunisien",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/991.png"
+    },
+    {
+        "id": 992,
+        "name": "US Monastirienne",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/992.png"
+    },
+    {
+        "id": 993,
+        "name": "JS Kairouanaise",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/993.png"
+    },
+    {
+        "id": 1190,
+        "name": "US Tataouine",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/1190.png"
+    },
+    {
+        "id": 1191,
+        "name": "CS Hammam-Lif",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/1191.png"
+    },
+    {
+        "id": 6252,
+        "name": "CS Chebba",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/6252.png"
+    },
+    {
+        "id": 6253,
+        "name": "AS Soliman",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/6253.png"
+    },
+    {
+        "id": 10368,
+        "name": "AS Marsa",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/10368.png"
+    },
+    {
+        "id": 10595,
+        "name": "AS Agareb",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/10595.png"
+    },
+    {
+        "id": 10596,
+        "name": "Ahly Sfaxien",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/10596.png"
+    },
+    {
+        "id": 10597,
+        "name": "Al Ahly Hajri",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/10597.png"
+    },
+    {
+        "id": 10598,
+        "name": "Ariana",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/10598.png"
+    },
+    {
+        "id": 10599,
+        "name": "BS Bouhajla",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/10599.png"
+    },
+    {
+        "id": 10600,
+        "name": "Borj Amri",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/10600.png"
+    },
+    {
+        "id": 10601,
+        "name": "Bouselem",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/10601.png"
+    },
+    {
+        "id": 10602,
+        "name": "CS Hilalien",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/10602.png"
+    },
+    {
+        "id": 10603,
+        "name": "Djerba",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/10603.png"
+    },
+    {
+        "id": 10604,
+        "name": "EGS Gafsa",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/10604.png"
+    },
+    {
+        "id": 10605,
+        "name": "EM Mahdia",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/10605.png"
+    },
+    {
+        "id": 10606,
+        "name": "EO Sidi Bouzid",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/10606.png"
+    },
+    {
+        "id": 10607,
+        "name": "EOG Kram",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/10607.png"
+    },
+    {
+        "id": 10608,
+        "name": "Grombalia Sports",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/10608.png"
+    },
+    {
+        "id": 10609,
+        "name": "ES Hammam-Sousse",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/10609.png"
+    },
+    {
+        "id": 10610,
+        "name": "Jebeniana",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/10610.png"
+    },
+    {
+        "id": 10611,
+        "name": "Jendouba Sport",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/10611.png"
+    },
+    {
+        "id": 10612,
+        "name": "Jerba",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/10612.png"
+    },
+    {
+        "id": 10613,
+        "name": "Jeunesse Tebourba",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/10613.png"
+    },
+    {
+        "id": 10614,
+        "name": "Kala\u00e2 Sport",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/10614.png"
+    },
+    {
+        "id": 10615,
+        "name": "AS Kasserine",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/10615.png"
+    },
+    {
+        "id": 10616,
+        "name": "Kerkennah",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/10616.png"
+    },
+    {
+        "id": 10617,
+        "name": "Korba",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/10617.png"
+    },
+    {
+        "id": 10618,
+        "name": "Ksibet Sousse",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/10618.png"
+    },
+    {
+        "id": 10619,
+        "name": "LPS Tozeur",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/10619.png"
+    },
+    {
+        "id": 10620,
+        "name": "M'saken",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/10620.png"
+    },
+    {
+        "id": 10621,
+        "name": "Menzel Bourguiba",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/10621.png"
+    },
+    {
+        "id": 10622,
+        "name": "Menzel Bouzelfa",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/10622.png"
+    },
+    {
+        "id": 10623,
+        "name": "Menzel Temim",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/10623.png"
+    },
+    {
+        "id": 10624,
+        "name": "Moknine",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/10624.png"
+    },
+    {
+        "id": 10625,
+        "name": "Olympique B\u00e9ja",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/10625.png"
+    },
+    {
+        "id": 10626,
+        "name": "Oued Ellil",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/10626.png"
+    },
+    {
+        "id": 10627,
+        "name": "Rad\u00e8s",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/10627.png"
+    },
+    {
+        "id": 10628,
+        "name": "AS Rejiche",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/10628.png"
+    },
+    {
+        "id": 10629,
+        "name": "Rogba Tataouine",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/10629.png"
+    },
+    {
+        "id": 10630,
+        "name": "SS Sfaxien",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/10630.png"
+    },
+    {
+        "id": 10631,
+        "name": "Sbikha",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/10631.png"
+    },
+    {
+        "id": 10632,
+        "name": "Sejnane",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/10632.png"
+    },
+    {
+        "id": 10633,
+        "name": "Sfax Railways",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/10633.png"
+    },
+    {
+        "id": 10634,
+        "name": "Sporting Ben Arous",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/10634.png"
+    },
+    {
+        "id": 10635,
+        "name": "Transport",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/10635.png"
+    },
+    {
+        "id": 10636,
+        "name": "WS Al Hamma",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/10636.png"
+    },
+    {
+        "id": 10637,
+        "name": "Zitouna Chommakh",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/10637.png"
+    },
+    {
+        "id": 10638,
+        "name": "Marsa",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/10638.png"
+    },
+    {
+        "id": 10639,
+        "name": "AS Tataouine",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/10639.png"
+    },
+    {
+        "id": 10640,
+        "name": "Ajim Djerba",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/10640.png"
+    },
+    {
+        "id": 10641,
+        "name": "Akouda",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/10641.png"
+    },
+    {
+        "id": 10642,
+        "name": "Bir Mcherga",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/10642.png"
+    },
+    {
+        "id": 10643,
+        "name": "Bouchamma",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/10643.png"
+    },
+    {
+        "id": 10644,
+        "name": "Carthage",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/10644.png"
+    },
+    {
+        "id": 10645,
+        "name": "El Alia Sport",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/10645.png"
+    },
+    {
+        "id": 10646,
+        "name": "El Aloui",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/10646.png"
+    },
+    {
+        "id": 10647,
+        "name": "Enfida Sports",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/10647.png"
+    },
+    {
+        "id": 10648,
+        "name": "Foussana",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/10648.png"
+    },
+    {
+        "id": 10649,
+        "name": "Ksour Essef",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/10649.png"
+    },
+    {
+        "id": 10650,
+        "name": "Meknassi",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/10650.png"
+    },
+    {
+        "id": 10651,
+        "name": "Metline",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/10651.png"
+    },
+    {
+        "id": 10652,
+        "name": "Moular\u00e8s",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/10652.png"
+    },
+    {
+        "id": 10653,
+        "name": "Seliana",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/10653.png"
+    },
+    {
+        "id": 10654,
+        "name": "Sportive Kebili",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/10654.png"
+    },
+    {
+        "id": 10655,
+        "name": "AS Soukra",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/10655.png"
+    },
+    {
+        "id": 10656,
+        "name": "Baath Bir Mcherga",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/10656.png"
+    },
+    {
+        "id": 10657,
+        "name": "Bembla",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/10657.png"
+    },
+    {
+        "id": 10658,
+        "name": "Chebika",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/10658.png"
+    },
+    {
+        "id": 10660,
+        "name": "Dahmani",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/10660.png"
+    },
+    {
+        "id": 10661,
+        "name": "Djelma",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/10661.png"
+    },
+    {
+        "id": 10662,
+        "name": "Douz",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/10662.png"
+    },
+    {
+        "id": 10663,
+        "name": "Hammamet",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/10663.png"
+    },
+    {
+        "id": 10664,
+        "name": "Menzel Nour",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/10664.png"
+    },
+    {
+        "id": 10665,
+        "name": "Redeyef",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/10665.png"
+    },
+    {
+        "id": 10666,
+        "name": "Zarzouna",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/10666.png"
+    },
+    {
+        "id": 11049,
+        "name": "Tunisia U20",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/11049.png"
+    },
+    {
+        "id": 13346,
+        "name": "Astre Souk Lahad",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/13346.png"
+    },
+    {
+        "id": 13347,
+        "name": "Avenir El Batan",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/13347.png"
+    },
+    {
+        "id": 13348,
+        "name": "Badr El A\u00efn",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/13348.png"
+    },
+    {
+        "id": 13349,
+        "name": "B\u00e9ni-Khalled",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/13349.png"
+    },
+    {
+        "id": 13350,
+        "name": "CS Bembla",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/13350.png"
+    },
+    {
+        "id": 13351,
+        "name": "CS Bir El Hafey",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/13351.png"
+    },
+    {
+        "id": 13352,
+        "name": "Feriana",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/13352.png"
+    },
+    {
+        "id": 13353,
+        "name": "Haffouz",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/13353.png"
+    },
+    {
+        "id": 13354,
+        "name": "Ksar Helal",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/13354.png"
+    },
+    {
+        "id": 13355,
+        "name": "MS M\u00e9tlaoui",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/13355.png"
+    },
+    {
+        "id": 13356,
+        "name": "NA Bouhjar",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/13356.png"
+    },
+    {
+        "id": 13357,
+        "name": "Olympique du Kef",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/13357.png"
+    },
+    {
+        "id": 13358,
+        "name": "Progr\u00e8s Sakiet Edda\u00efer",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/13358.png"
+    },
+    {
+        "id": 13359,
+        "name": "Stade Nabeulien",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/13359.png"
+    },
+    {
+        "id": 13360,
+        "name": "US Metouia",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/13360.png"
+    },
+    {
+        "id": 13361,
+        "name": "US Sidi Bou Ali",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/13361.png"
+    },
+    {
+        "id": 13362,
+        "name": "Union Ksibet Mediouni",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/13362.png"
+    },
+    {
+        "id": 13363,
+        "name": "Wydad Sers",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/13363.png"
+    },
+    {
+        "id": 14463,
+        "name": "Tunisia W",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/14463.png"
+    },
+    {
+        "id": 16570,
+        "name": "Mohammedia",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/16570.png"
+    },
+    {
+        "id": 16697,
+        "name": "AS Beni Khedache",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/16697.png"
+    },
+    {
+        "id": 16698,
+        "name": "CS Khniss",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/16698.png"
+    },
+    {
+        "id": 16699,
+        "name": "CS Rouhia",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/16699.png"
+    },
+    {
+        "id": 16700,
+        "name": "CS Tabarka",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/16700.png"
+    },
+    {
+        "id": 16701,
+        "name": "ES Bouhajla",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/16701.png"
+    },
+    {
+        "id": 16702,
+        "name": "ES Hezoua",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/16702.png"
+    },
+    {
+        "id": 16703,
+        "name": "FC Bizerte",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/16703.png"
+    },
+    {
+        "id": 16704,
+        "name": "Mareth Sport",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/16704.png"
+    },
+    {
+        "id": 16705,
+        "name": "RS Bir Bouregba",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/16705.png"
+    },
+    {
+        "id": 16706,
+        "name": "J\u00e9rissa",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/16706.png"
+    },
+    {
+        "id": 16707,
+        "name": "SS Gafsa",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/16707.png"
+    },
+    {
+        "id": 16713,
+        "name": "AS Zaouiet Sousse",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/16713.png"
+    },
+    {
+        "id": 16714,
+        "name": "US Borj C\u00e9dria",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/16714.png"
+    },
+    {
+        "id": 16715,
+        "name": "US Menzel Bouzaiane",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/16715.png"
+    },
+    {
+        "id": 18277,
+        "name": "Aigle T\u00e9boulba",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/18277.png"
+    },
+    {
+        "id": 18278,
+        "name": "CS Hajeb Layoun",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/18278.png"
+    },
+    {
+        "id": 18279,
+        "name": "CS Makthar",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/18279.png"
+    },
+    {
+        "id": 18280,
+        "name": "Degueche",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/18280.png"
+    },
+    {
+        "id": 18281,
+        "name": "ES Fahs",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/18281.png"
+    },
+    {
+        "id": 18282,
+        "name": "Hilal Redaief",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/18282.png"
+    },
+    {
+        "id": 18283,
+        "name": "Jedaida",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/18283.png"
+    },
+    {
+        "id": 18284,
+        "name": "Jeunesse Sportive Omrane",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/18284.png"
+    },
+    {
+        "id": 18285,
+        "name": "Lela",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/18285.png"
+    },
+    {
+        "id": 18286,
+        "name": "Menzel Abderrahmane",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/18286.png"
+    },
+    {
+        "id": 18287,
+        "name": "Oueslatia",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/18287.png"
+    },
+    {
+        "id": 18288,
+        "name": "Sahline",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/18288.png"
+    },
+    {
+        "id": 18289,
+        "name": "Sbeitla",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/18289.png"
+    },
+    {
+        "id": 18411,
+        "name": "AS Menzel Jemil",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/18411.png"
+    },
+    {
+        "id": 18412,
+        "name": "CS Djbeniena",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/18412.png"
+    },
+    {
+        "id": 18413,
+        "name": "Club Medjezien",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/18413.png"
+    },
+    {
+        "id": 18414,
+        "name": "ES Sidi Alouane",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/18414.png"
+    },
+    {
+        "id": 18415,
+        "name": "Ettahrir",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/18415.png"
+    },
+    {
+        "id": 18416,
+        "name": "HSKK",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/18416.png"
+    },
+    {
+        "id": 18417,
+        "name": "K\u00e9rib",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/18417.png"
+    },
+    {
+        "id": 18418,
+        "name": "Magel Bel Abb\u00e8s",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/18418.png"
+    },
+    {
+        "id": 18970,
+        "name": "CS Takelsa",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/18970.png"
+    },
+    {
+        "id": 20562,
+        "name": "Tunisia U23",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/20562.png"
+    },
+    {
+        "id": 20785,
+        "name": "Kosovo U19",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/20785.png"
+    },
+    {
+        "id": 20844,
+        "name": "LS Sidi Bouzid",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/20844.png"
+    },
+    {
+        "id": 20845,
+        "name": "Mdhilla",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/20845.png"
+    },
+    {
+        "id": 20846,
+        "name": "M\u00e9grine",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/20846.png"
+    },
+    {
+        "id": 20847,
+        "name": "Teboulbou Gabes",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/20847.png"
+    },
+    {
+        "id": 22930,
+        "name": "Tunisia U17",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/22930.png"
+    },
+    {
+        "id": 23052,
+        "name": "Ain Jalloula",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/23052.png"
+    },
+    {
+        "id": 23053,
+        "name": "Alaouite",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/23053.png"
+    },
+    {
+        "id": 23054,
+        "name": "Boumerdes",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/23054.png"
+    },
+    {
+        "id": 23055,
+        "name": "Chiheb Ouerdanine",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/23055.png"
+    },
+    {
+        "id": 23056,
+        "name": "Hamma",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/23056.png"
+    },
+    {
+        "id": 23057,
+        "name": "Hamma Jerid",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/23057.png"
+    },
+    {
+        "id": 23058,
+        "name": "Manouba",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/23058.png"
+    },
+    {
+        "id": 23059,
+        "name": "Menzel Kamel",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/23059.png"
+    },
+    {
+        "id": 23060,
+        "name": "Tazarka",
+        "country": "Tunisia",
+        "logo": "https://media.api-sports.io/football/teams/23060.png"
+    }
+]

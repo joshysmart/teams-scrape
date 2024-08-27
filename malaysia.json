@@ -1,0 +1,536 @@
+[
+    {
+        "id": 1538,
+        "name": "Malaysia",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/1538.png"
+    },
+    {
+        "id": 2498,
+        "name": "Kelantan FA",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/2498.png"
+    },
+    {
+        "id": 2499,
+        "name": "Sarawak FA",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/2499.png"
+    },
+    {
+        "id": 2500,
+        "name": "Pdrm",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/2500.png"
+    },
+    {
+        "id": 2501,
+        "name": "Terengganu City II",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/2501.png"
+    },
+    {
+        "id": 2502,
+        "name": "Negeri Sembilan",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/2502.png"
+    },
+    {
+        "id": 2503,
+        "name": "UiTM FC",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/2503.png"
+    },
+    {
+        "id": 2504,
+        "name": "Penang",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/2504.png"
+    },
+    {
+        "id": 2505,
+        "name": "Sabah FA",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/2505.png"
+    },
+    {
+        "id": 2506,
+        "name": "Johor Darul Tazim II",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/2506.png"
+    },
+    {
+        "id": 2507,
+        "name": "UKM FC",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/2507.png"
+    },
+    {
+        "id": 2508,
+        "name": "Selangor United",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/2508.png"
+    },
+    {
+        "id": 2509,
+        "name": "Perlis",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/2509.png"
+    },
+    {
+        "id": 2510,
+        "name": "Felcra",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/2510.png"
+    },
+    {
+        "id": 2512,
+        "name": "Kuantan FA",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/2512.png"
+    },
+    {
+        "id": 2513,
+        "name": "Felda United FC",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/2513.png"
+    },
+    {
+        "id": 2514,
+        "name": "Petaling Jaya City",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/2514.png"
+    },
+    {
+        "id": 2515,
+        "name": "ATM FA",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/2515.png"
+    },
+    {
+        "id": 2516,
+        "name": "Pknp",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/2516.png"
+    },
+    {
+        "id": 2517,
+        "name": "Kuala Lumpur FA",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/2517.png"
+    },
+    {
+        "id": 2518,
+        "name": "Terengganu",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/2518.png"
+    },
+    {
+        "id": 2519,
+        "name": "Melaka United",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/2519.png"
+    },
+    {
+        "id": 2520,
+        "name": "DRB-Hicom FC",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/2520.png"
+    },
+    {
+        "id": 2521,
+        "name": "Pkns FC",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/2521.png"
+    },
+    {
+        "id": 2522,
+        "name": "Sime Darby FC",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/2522.png"
+    },
+    {
+        "id": 2523,
+        "name": "Johor Darul Takzim FC",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/2523.png"
+    },
+    {
+        "id": 2524,
+        "name": "Perak",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/2524.png"
+    },
+    {
+        "id": 2525,
+        "name": "Pahang",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/2525.png"
+    },
+    {
+        "id": 2526,
+        "name": "Selangor",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/2526.png"
+    },
+    {
+        "id": 2527,
+        "name": "Kedah",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/2527.png"
+    },
+    {
+        "id": 2528,
+        "name": "PBDKT T-Team",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/2528.png"
+    },
+    {
+        "id": 10107,
+        "name": "Kelantan United",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/10107.png"
+    },
+    {
+        "id": 10108,
+        "name": "Kuching FA",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/10108.png"
+    },
+    {
+        "id": 10109,
+        "name": "Selangor II",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/10109.png"
+    },
+    {
+        "id": 10425,
+        "name": "Andersernion",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/10425.png"
+    },
+    {
+        "id": 10426,
+        "name": "Delima Warriors",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/10426.png"
+    },
+    {
+        "id": 10427,
+        "name": "Gamestop",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/10427.png"
+    },
+    {
+        "id": 10428,
+        "name": "Harini",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/10428.png"
+    },
+    {
+        "id": 10429,
+        "name": "IKRAM Muda",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/10429.png"
+    },
+    {
+        "id": 10430,
+        "name": "Imigresen",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/10430.png"
+    },
+    {
+        "id": 10431,
+        "name": "Isma Shah Alam",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/10431.png"
+    },
+    {
+        "id": 10432,
+        "name": "KSR Sains",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/10432.png"
+    },
+    {
+        "id": 10433,
+        "name": "KT Rovers",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/10433.png"
+    },
+    {
+        "id": 10434,
+        "name": "Kerteh",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/10434.png"
+    },
+    {
+        "id": 10435,
+        "name": "Kickers",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/10435.png"
+    },
+    {
+        "id": 10436,
+        "name": "Klasiko",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/10436.png"
+    },
+    {
+        "id": 10437,
+        "name": "Kuala Lumpur Rovers",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/10437.png"
+    },
+    {
+        "id": 10438,
+        "name": "Kuala Perlis",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/10438.png"
+    },
+    {
+        "id": 10439,
+        "name": "Kuatagh",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/10439.png"
+    },
+    {
+        "id": 10440,
+        "name": "Langkawi City",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/10440.png"
+    },
+    {
+        "id": 10441,
+        "name": "Manjung City",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/10441.png"
+    },
+    {
+        "id": 10442,
+        "name": "Markless ST",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/10442.png"
+    },
+    {
+        "id": 10443,
+        "name": "Melaka United FC",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/10443.png"
+    },
+    {
+        "id": 10444,
+        "name": "Melawati",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/10444.png"
+    },
+    {
+        "id": 10445,
+        "name": "NLFC-MAHSA",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/10445.png"
+    },
+    {
+        "id": 10446,
+        "name": "Nor Farhan",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/10446.png"
+    },
+    {
+        "id": 10447,
+        "name": "Nossa Bukit Jelutong",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/10447.png"
+    },
+    {
+        "id": 10448,
+        "name": "PIB",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/10448.png"
+    },
+    {
+        "id": 10449,
+        "name": "Pandan United",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/10449.png"
+    },
+    {
+        "id": 10450,
+        "name": "Protap",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/10450.png"
+    },
+    {
+        "id": 10451,
+        "name": "Real Chukai",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/10451.png"
+    },
+    {
+        "id": 10452,
+        "name": "Red Spade United",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/10452.png"
+    },
+    {
+        "id": 10453,
+        "name": "SA United",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/10453.png"
+    },
+    {
+        "id": 10454,
+        "name": "SSFC",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/10454.png"
+    },
+    {
+        "id": 10455,
+        "name": "Semarak",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/10455.png"
+    },
+    {
+        "id": 10456,
+        "name": "Southern",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/10456.png"
+    },
+    {
+        "id": 10457,
+        "name": "Spirito",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/10457.png"
+    },
+    {
+        "id": 10458,
+        "name": "Staroba",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/10458.png"
+    },
+    {
+        "id": 10459,
+        "name": "Thai Selangor",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/10459.png"
+    },
+    {
+        "id": 10460,
+        "name": "Tun Razak City",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/10460.png"
+    },
+    {
+        "id": 10461,
+        "name": "Ultimate",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/10461.png"
+    },
+    {
+        "id": 10682,
+        "name": "Armed Forces",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/10682.png"
+    },
+    {
+        "id": 10945,
+        "name": "Malaysia U23",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/10945.png"
+    },
+    {
+        "id": 10956,
+        "name": "Singapore U23",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/10956.png"
+    },
+    {
+        "id": 16459,
+        "name": "Skuad Projek",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/16459.png"
+    },
+    {
+        "id": 18268,
+        "name": "Malaysia W",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/18268.png"
+    },
+    {
+        "id": 18332,
+        "name": "Fast U20",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/18332.png"
+    },
+    {
+        "id": 18733,
+        "name": "BRM",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/18733.png"
+    },
+    {
+        "id": 18734,
+        "name": "Bukit Tambun",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/18734.png"
+    },
+    {
+        "id": 18735,
+        "name": "Kijang Rangers",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/18735.png"
+    },
+    {
+        "id": 18736,
+        "name": "Kinabalu Jaguar",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/18736.png"
+    },
+    {
+        "id": 18737,
+        "name": "Perlis United",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/18737.png"
+    },
+    {
+        "id": 18738,
+        "name": "Respect",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/18738.png"
+    },
+    {
+        "id": 18739,
+        "name": "Tok Janggut Warriors",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/18739.png"
+    },
+    {
+        "id": 19151,
+        "name": "Malaysia U19",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/19151.png"
+    },
+    {
+        "id": 21038,
+        "name": "Melaka",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/21038.png"
+    },
+    {
+        "id": 21224,
+        "name": "Malaysia U22",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/21224.png"
+    },
+    {
+        "id": 21442,
+        "name": "Malaysia U17",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/21442.png"
+    },
+    {
+        "id": 23666,
+        "name": "University Malaya",
+        "country": "Malaysia",
+        "logo": "https://media.api-sports.io/football/teams/23666.png"
+    }
+]

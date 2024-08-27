@@ -1,0 +1,170 @@
+[
+    {
+        "id": 4299,
+        "name": "Alianza",
+        "country": "El-Salvador",
+        "logo": "https://media.api-sports.io/football/teams/4299.png"
+    },
+    {
+        "id": 4300,
+        "name": "Audaz",
+        "country": "El-Salvador",
+        "logo": "https://media.api-sports.io/football/teams/4300.png"
+    },
+    {
+        "id": 4301,
+        "name": "Chalatenango",
+        "country": "El-Salvador",
+        "logo": "https://media.api-sports.io/football/teams/4301.png"
+    },
+    {
+        "id": 4302,
+        "name": "FAS",
+        "country": "El-Salvador",
+        "logo": "https://media.api-sports.io/football/teams/4302.png"
+    },
+    {
+        "id": 4303,
+        "name": "Firpo",
+        "country": "El-Salvador",
+        "logo": "https://media.api-sports.io/football/teams/4303.png"
+    },
+    {
+        "id": 4304,
+        "name": "Isidro Metap\u00e1n",
+        "country": "El-Salvador",
+        "logo": "https://media.api-sports.io/football/teams/4304.png"
+    },
+    {
+        "id": 4305,
+        "name": "Jocoro",
+        "country": "El-Salvador",
+        "logo": "https://media.api-sports.io/football/teams/4305.png"
+    },
+    {
+        "id": 4306,
+        "name": "Municipal Lime\u00f1o",
+        "country": "El-Salvador",
+        "logo": "https://media.api-sports.io/football/teams/4306.png"
+    },
+    {
+        "id": 4307,
+        "name": "Pasaquina",
+        "country": "El-Salvador",
+        "logo": "https://media.api-sports.io/football/teams/4307.png"
+    },
+    {
+        "id": 4308,
+        "name": "Santa Tecla",
+        "country": "El-Salvador",
+        "logo": "https://media.api-sports.io/football/teams/4308.png"
+    },
+    {
+        "id": 4309,
+        "name": "Sonsonate",
+        "country": "El-Salvador",
+        "logo": "https://media.api-sports.io/football/teams/4309.png"
+    },
+    {
+        "id": 4310,
+        "name": "\u00c1guila",
+        "country": "El-Salvador",
+        "logo": "https://media.api-sports.io/football/teams/4310.png"
+    },
+    {
+        "id": 4311,
+        "name": "UES",
+        "country": "El-Salvador",
+        "logo": "https://media.api-sports.io/football/teams/4311.png"
+    },
+    {
+        "id": 4312,
+        "name": "Atl\u00e9tico Marte",
+        "country": "El-Salvador",
+        "logo": "https://media.api-sports.io/football/teams/4312.png"
+    },
+    {
+        "id": 4313,
+        "name": "Juventud Independiente",
+        "country": "El-Salvador",
+        "logo": "https://media.api-sports.io/football/teams/4313.png"
+    },
+    {
+        "id": 5159,
+        "name": "El Salvador",
+        "country": "El-Salvador",
+        "logo": "https://media.api-sports.io/football/teams/5159.png"
+    },
+    {
+        "id": 5631,
+        "name": "El Vencedor",
+        "country": "El-Salvador",
+        "logo": "https://media.api-sports.io/football/teams/5631.png"
+    },
+    {
+        "id": 5632,
+        "name": "Once Municipal",
+        "country": "El-Salvador",
+        "logo": "https://media.api-sports.io/football/teams/5632.png"
+    },
+    {
+        "id": 10135,
+        "name": "Independiente",
+        "country": "El-Salvador",
+        "logo": "https://media.api-sports.io/football/teams/10135.png"
+    },
+    {
+        "id": 10998,
+        "name": "El Salvador U20",
+        "country": "El-Salvador",
+        "logo": "https://media.api-sports.io/football/teams/10998.png"
+    },
+    {
+        "id": 13824,
+        "name": "Vista Hermosa",
+        "country": "El-Salvador",
+        "logo": "https://media.api-sports.io/football/teams/13824.png"
+    },
+    {
+        "id": 16927,
+        "name": "El Salvador W",
+        "country": "El-Salvador",
+        "logo": "https://media.api-sports.io/football/teams/16927.png"
+    },
+    {
+        "id": 17872,
+        "name": "El Salvador U23",
+        "country": "El-Salvador",
+        "logo": "https://media.api-sports.io/football/teams/17872.png"
+    },
+    {
+        "id": 18943,
+        "name": "El Salvador W U17",
+        "country": "El-Salvador",
+        "logo": "https://media.api-sports.io/football/teams/18943.png"
+    },
+    {
+        "id": 19412,
+        "name": "Drag\u00f3n",
+        "country": "El-Salvador",
+        "logo": "https://media.api-sports.io/football/teams/19412.png"
+    },
+    {
+        "id": 19763,
+        "name": "Platense",
+        "country": "El-Salvador",
+        "logo": "https://media.api-sports.io/football/teams/19763.png"
+    },
+    {
+        "id": 20994,
+        "name": "El Salvador U17",
+        "country": "El-Salvador",
+        "logo": "https://media.api-sports.io/football/teams/20994.png"
+    },
+    {
+        "id": 22157,
+        "name": "Fuerte San Francisco",
+        "country": "El-Salvador",
+        "logo": "https://media.api-sports.io/football/teams/22157.png"
+    }
+]

@@ -1,0 +1,1046 @@
+[
+    {
+        "id": 16,
+        "name": "Mexico",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/16.png"
+    },
+    {
+        "id": 1729,
+        "name": "Mexico W",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/1729.png"
+    },
+    {
+        "id": 2278,
+        "name": "Guadalajara Chivas",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/2278.png"
+    },
+    {
+        "id": 2279,
+        "name": "Tigres UANL",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/2279.png"
+    },
+    {
+        "id": 2280,
+        "name": "Club Tijuana",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/2280.png"
+    },
+    {
+        "id": 2281,
+        "name": "Toluca",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/2281.png"
+    },
+    {
+        "id": 2282,
+        "name": "Monterrey",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/2282.png"
+    },
+    {
+        "id": 2283,
+        "name": "Atlas",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/2283.png"
+    },
+    {
+        "id": 2284,
+        "name": "Monarcas",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/2284.png"
+    },
+    {
+        "id": 2285,
+        "name": "Santos Laguna",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/2285.png"
+    },
+    {
+        "id": 2286,
+        "name": "U.N.A.M. - Pumas",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/2286.png"
+    },
+    {
+        "id": 2287,
+        "name": "Club America",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/2287.png"
+    },
+    {
+        "id": 2288,
+        "name": "Necaxa",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/2288.png"
+    },
+    {
+        "id": 2289,
+        "name": "Leon",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/2289.png"
+    },
+    {
+        "id": 2290,
+        "name": "Club Queretaro",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/2290.png"
+    },
+    {
+        "id": 2291,
+        "name": "Puebla",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/2291.png"
+    },
+    {
+        "id": 2292,
+        "name": "Pachuca",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/2292.png"
+    },
+    {
+        "id": 2293,
+        "name": "Jaguares de Chiapas",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/2293.png"
+    },
+    {
+        "id": 2294,
+        "name": "Veracruz",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/2294.png"
+    },
+    {
+        "id": 2295,
+        "name": "Cruz Azul",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/2295.png"
+    },
+    {
+        "id": 2296,
+        "name": "Lobos Buap",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/2296.png"
+    },
+    {
+        "id": 2297,
+        "name": "Dorados",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/2297.png"
+    },
+    {
+        "id": 2298,
+        "name": "FC Juarez",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/2298.png"
+    },
+    {
+        "id": 2299,
+        "name": "Mineros de Zacatecas",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/2299.png"
+    },
+    {
+        "id": 2300,
+        "name": "Alebrijes de Oaxaca",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/2300.png"
+    },
+    {
+        "id": 2301,
+        "name": "Cimarrones",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/2301.png"
+    },
+    {
+        "id": 2302,
+        "name": "Potros Uaem",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/2302.png"
+    },
+    {
+        "id": 2303,
+        "name": "Zacatepec 1948",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/2303.png"
+    },
+    {
+        "id": 2304,
+        "name": "Tampico Madero",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/2304.png"
+    },
+    {
+        "id": 2305,
+        "name": "Loros Universidad",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/2305.png"
+    },
+    {
+        "id": 2306,
+        "name": "Coras De Tepic",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/2306.png"
+    },
+    {
+        "id": 2307,
+        "name": "Leones Negros UDG",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/2307.png"
+    },
+    {
+        "id": 2308,
+        "name": "Celaya",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/2308.png"
+    },
+    {
+        "id": 2309,
+        "name": "Murcielagos FC",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/2309.png"
+    },
+    {
+        "id": 2310,
+        "name": "Tapachula",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/2310.png"
+    },
+    {
+        "id": 2311,
+        "name": "Venados FC",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/2311.png"
+    },
+    {
+        "id": 2312,
+        "name": "Atlante FC",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/2312.png"
+    },
+    {
+        "id": 2313,
+        "name": "Correcaminos Uat",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/2313.png"
+    },
+    {
+        "id": 2314,
+        "name": "Atletico San Luis",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/2314.png"
+    },
+    {
+        "id": 10178,
+        "name": "Mexico U23",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/10178.png"
+    },
+    {
+        "id": 10293,
+        "name": "Mexico U20",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/10293.png"
+    },
+    {
+        "id": 12793,
+        "name": "Inter Playa del Carmen",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/12793.png"
+    },
+    {
+        "id": 14002,
+        "name": "Mazatl\u00e1n",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/14002.png"
+    },
+    {
+        "id": 14276,
+        "name": "Canc\u00fan",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/14276.png"
+    },
+    {
+        "id": 14277,
+        "name": "Pumas Tabasco",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/14277.png"
+    },
+    {
+        "id": 14278,
+        "name": "Tapat\u00edo",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/14278.png"
+    },
+    {
+        "id": 14279,
+        "name": "Tepatitl\u00e1n",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/14279.png"
+    },
+    {
+        "id": 14280,
+        "name": "Tlaxcala",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/14280.png"
+    },
+    {
+        "id": 14868,
+        "name": "Am\u00e9rica W",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/14868.png"
+    },
+    {
+        "id": 14869,
+        "name": "Ju\u00e1rez W",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/14869.png"
+    },
+    {
+        "id": 14870,
+        "name": "Pumas UNAM W",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/14870.png"
+    },
+    {
+        "id": 14871,
+        "name": "Quer\u00e9taro W",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/14871.png"
+    },
+    {
+        "id": 14872,
+        "name": "Tijuana W",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/14872.png"
+    },
+    {
+        "id": 14873,
+        "name": "Atlas W",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/14873.png"
+    },
+    {
+        "id": 14874,
+        "name": "Atl\u00e9tico San Luis W",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/14874.png"
+    },
+    {
+        "id": 14875,
+        "name": "Cruz Azul W",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/14875.png"
+    },
+    {
+        "id": 14876,
+        "name": "Guadalajara W",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/14876.png"
+    },
+    {
+        "id": 14877,
+        "name": "Le\u00f3n W",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/14877.png"
+    },
+    {
+        "id": 14878,
+        "name": "Mazatl\u00e1n W",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/14878.png"
+    },
+    {
+        "id": 14879,
+        "name": "Monterrey W",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/14879.png"
+    },
+    {
+        "id": 14880,
+        "name": "Necaxa W",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/14880.png"
+    },
+    {
+        "id": 14881,
+        "name": "Pachuca W",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/14881.png"
+    },
+    {
+        "id": 14882,
+        "name": "Puebla W",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/14882.png"
+    },
+    {
+        "id": 14883,
+        "name": "Santos Laguna W",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/14883.png"
+    },
+    {
+        "id": 14884,
+        "name": "Tigres UANL W",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/14884.png"
+    },
+    {
+        "id": 14885,
+        "name": "Toluca W",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/14885.png"
+    },
+    {
+        "id": 15918,
+        "name": "Aguacateros CDU",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/15918.png"
+    },
+    {
+        "id": 15919,
+        "name": "Atl\u00e9tico Saltillo",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/15919.png"
+    },
+    {
+        "id": 15920,
+        "name": "Atl\u00e9tico San Luis II",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/15920.png"
+    },
+    {
+        "id": 15921,
+        "name": "Azores de Hidalgo",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/15921.png"
+    },
+    {
+        "id": 15922,
+        "name": "CAFESSA Jalisco",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/15922.png"
+    },
+    {
+        "id": 15923,
+        "name": "Cafetaleros Chiapas II",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/15923.png"
+    },
+    {
+        "id": 15924,
+        "name": "Ca\u00f1oneros Marina",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/15924.png"
+    },
+    {
+        "id": 15925,
+        "name": "Ciervos",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/15925.png"
+    },
+    {
+        "id": 15926,
+        "name": "Cimarrones de Sonora II",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/15926.png"
+    },
+    {
+        "id": 15927,
+        "name": "Colima",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/15927.png"
+    },
+    {
+        "id": 15928,
+        "name": "Cruz Azul Hidalgo",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/15928.png"
+    },
+    {
+        "id": 15929,
+        "name": "Cuautla",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/15929.png"
+    },
+    {
+        "id": 15930,
+        "name": "Deportivo Dongu",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/15930.png"
+    },
+    {
+        "id": 15931,
+        "name": "Gavilanes FC Matamoros",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/15931.png"
+    },
+    {
+        "id": 15932,
+        "name": "Irapuato",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/15932.png"
+    },
+    {
+        "id": 15933,
+        "name": "Leones Negros",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/15933.png"
+    },
+    {
+        "id": 15934,
+        "name": "Mazorqueros",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/15934.png"
+    },
+    {
+        "id": 15935,
+        "name": "Mineros de Fresnillo",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/15935.png"
+    },
+    {
+        "id": 15936,
+        "name": "Pioneros de Canc\u00fan",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/15936.png"
+    },
+    {
+        "id": 15937,
+        "name": "Reboceros La Piedad",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/15937.png"
+    },
+    {
+        "id": 15938,
+        "name": "Tecos",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/15938.png"
+    },
+    {
+        "id": 15939,
+        "name": "UA Zacatecas",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/15939.png"
+    },
+    {
+        "id": 15940,
+        "name": "Zitacuaro",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/15940.png"
+    },
+    {
+        "id": 15941,
+        "name": "Durango",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/15941.png"
+    },
+    {
+        "id": 16850,
+        "name": "Raya2",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/16850.png"
+    },
+    {
+        "id": 17070,
+        "name": "Monterrey Premier",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/17070.png"
+    },
+    {
+        "id": 17324,
+        "name": "Am\u00e9rica U20",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/17324.png"
+    },
+    {
+        "id": 17325,
+        "name": "Atlas U20",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/17325.png"
+    },
+    {
+        "id": 17326,
+        "name": "Atl\u00e9tico San Luis U20",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/17326.png"
+    },
+    {
+        "id": 17327,
+        "name": "Cruz Azul U20",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/17327.png"
+    },
+    {
+        "id": 17328,
+        "name": "Guadalajara U20",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/17328.png"
+    },
+    {
+        "id": 17329,
+        "name": "Ju\u00e1rez U20",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/17329.png"
+    },
+    {
+        "id": 17330,
+        "name": "Le\u00f3n U20",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/17330.png"
+    },
+    {
+        "id": 17331,
+        "name": "Mazatl\u00e1n U20",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/17331.png"
+    },
+    {
+        "id": 17332,
+        "name": "Mexiquense U20",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/17332.png"
+    },
+    {
+        "id": 17333,
+        "name": "Monterrey U20",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/17333.png"
+    },
+    {
+        "id": 17334,
+        "name": "Necaxa U20",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/17334.png"
+    },
+    {
+        "id": 17335,
+        "name": "Pachuca U20",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/17335.png"
+    },
+    {
+        "id": 17336,
+        "name": "Puebla U20",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/17336.png"
+    },
+    {
+        "id": 17337,
+        "name": "Pumas UNAM U20",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/17337.png"
+    },
+    {
+        "id": 17338,
+        "name": "Quer\u00e9taro U20",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/17338.png"
+    },
+    {
+        "id": 17339,
+        "name": "Santos Laguna U20",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/17339.png"
+    },
+    {
+        "id": 17340,
+        "name": "Tigres UANL U20",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/17340.png"
+    },
+    {
+        "id": 17341,
+        "name": "Tijuana U20",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/17341.png"
+    },
+    {
+        "id": 17780,
+        "name": "Catedr\u00e1ticos Elite",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/17780.png"
+    },
+    {
+        "id": 17781,
+        "name": "Coras",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/17781.png"
+    },
+    {
+        "id": 17782,
+        "name": "Correcaminos UAT II",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/17782.png"
+    },
+    {
+        "id": 17783,
+        "name": "Deportivo Zap",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/17783.png"
+    },
+    {
+        "id": 17784,
+        "name": "Escorpiones",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/17784.png"
+    },
+    {
+        "id": 17785,
+        "name": "Inter de Quer\u00e9taro",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/17785.png"
+    },
+    {
+        "id": 17786,
+        "name": "Leviat\u00e1n",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/17786.png"
+    },
+    {
+        "id": 17787,
+        "name": "Lobos ULMX",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/17787.png"
+    },
+    {
+        "id": 17788,
+        "name": "Monta\u00f1eses",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/17788.png"
+    },
+    {
+        "id": 17789,
+        "name": "Sporting Canamy",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/17789.png"
+    },
+    {
+        "id": 17790,
+        "name": "Tritons Vallarta",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/17790.png"
+    },
+    {
+        "id": 17791,
+        "name": "Yalmakan",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/17791.png"
+    },
+    {
+        "id": 17803,
+        "name": "Alebrijes de Oaxaca II",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/17803.png"
+    },
+    {
+        "id": 17804,
+        "name": "Calor de San Pedro",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/17804.png"
+    },
+    {
+        "id": 17805,
+        "name": "Guerreros de Xico",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/17805.png"
+    },
+    {
+        "id": 17806,
+        "name": "Huracanes Izcalli",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/17806.png"
+    },
+    {
+        "id": 17807,
+        "name": "Lobos Huerta",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/17807.png"
+    },
+    {
+        "id": 19024,
+        "name": "CA La Paz",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/19024.png"
+    },
+    {
+        "id": 19088,
+        "name": "Mexico U20 W",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/19088.png"
+    },
+    {
+        "id": 19457,
+        "name": "Atl\u00e9tico Angel\u00f3polis",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/19457.png"
+    },
+    {
+        "id": 19458,
+        "name": "Chilpancingo",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/19458.png"
+    },
+    {
+        "id": 19459,
+        "name": "Th\u00f3 Mayas",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/19459.png"
+    },
+    {
+        "id": 19904,
+        "name": "CD Tulancingo",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/19904.png"
+    },
+    {
+        "id": 19905,
+        "name": "CDS Tampico Madero",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/19905.png"
+    },
+    {
+        "id": 19906,
+        "name": "Chihuahua FC",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/19906.png"
+    },
+    {
+        "id": 19907,
+        "name": "Deportiva Venados",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/19907.png"
+    },
+    {
+        "id": 19908,
+        "name": "Los Cabos United",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/19908.png"
+    },
+    {
+        "id": 19909,
+        "name": "Mexicali FC",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/19909.png"
+    },
+    {
+        "id": 19910,
+        "name": "Pachuca Premier",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/19910.png"
+    },
+    {
+        "id": 19911,
+        "name": "Real de Arteaga",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/19911.png"
+    },
+    {
+        "id": 21218,
+        "name": "Mexico U21",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/21218.png"
+    },
+    {
+        "id": 21541,
+        "name": "Atlas U23",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/21541.png"
+    },
+    {
+        "id": 21542,
+        "name": "Atl\u00e9tico San Luis U23",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/21542.png"
+    },
+    {
+        "id": 21543,
+        "name": "Club America U23",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/21543.png"
+    },
+    {
+        "id": 21544,
+        "name": "Club Le\u00f3n U23",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/21544.png"
+    },
+    {
+        "id": 21545,
+        "name": "Club Tijuana U23",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/21545.png"
+    },
+    {
+        "id": 21546,
+        "name": "Cruz Azul U23",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/21546.png"
+    },
+    {
+        "id": 21547,
+        "name": "Guadalajara U23",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/21547.png"
+    },
+    {
+        "id": 21548,
+        "name": "Juarez U23",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/21548.png"
+    },
+    {
+        "id": 21549,
+        "name": "Mazatlan FC U23",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/21549.png"
+    },
+    {
+        "id": 21550,
+        "name": "Monterrey U23",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/21550.png"
+    },
+    {
+        "id": 21551,
+        "name": "Necaxa U23",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/21551.png"
+    },
+    {
+        "id": 21552,
+        "name": "Pachuca U23",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/21552.png"
+    },
+    {
+        "id": 21553,
+        "name": "Puebla U23",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/21553.png"
+    },
+    {
+        "id": 21554,
+        "name": "Queretaro U23",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/21554.png"
+    },
+    {
+        "id": 21555,
+        "name": "Santos Laguna U23",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/21555.png"
+    },
+    {
+        "id": 21556,
+        "name": "Tigres UANL U23",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/21556.png"
+    },
+    {
+        "id": 21557,
+        "name": "Toluca U23",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/21557.png"
+    },
+    {
+        "id": 21558,
+        "name": "U.N.A.M.- Pumas U23",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/21558.png"
+    },
+    {
+        "id": 22043,
+        "name": "Aguacateros de Perib\u00e1n",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/22043.png"
+    },
+    {
+        "id": 22044,
+        "name": "Orgullo Reynosa",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/22044.png"
+    },
+    {
+        "id": 22045,
+        "name": "Petroleros de Salamanca",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/22045.png"
+    },
+    {
+        "id": 22046,
+        "name": "Racing Porto Palmeiras",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/22046.png"
+    },
+    {
+        "id": 22047,
+        "name": "Real Apodaca",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/22047.png"
+    },
+    {
+        "id": 22048,
+        "name": "San Juan de Arag\u00f3n",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/22048.png"
+    },
+    {
+        "id": 22049,
+        "name": "Artesanos Metepec",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/22049.png"
+    },
+    {
+        "id": 22050,
+        "name": "Atl\u00e9tico Pachuca",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/22050.png"
+    },
+    {
+        "id": 22051,
+        "name": "CDM",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/22051.png"
+    },
+    {
+        "id": 22052,
+        "name": "Caja Oblatos CFD",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/22052.png"
+    },
+    {
+        "id": 22053,
+        "name": "Chilangos",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/22053.png"
+    },
+    {
+        "id": 22054,
+        "name": "Deportivo Ayense",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/22054.png"
+    },
+    {
+        "id": 22055,
+        "name": "FC Santiago",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/22055.png"
+    },
+    {
+        "id": 22056,
+        "name": "Poza Rica",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/22056.png"
+    },
+    {
+        "id": 22433,
+        "name": "Mexico U19",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/teams/22433.png"
+    }
+]

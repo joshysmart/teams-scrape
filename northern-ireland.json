@@ -1,0 +1,584 @@
+[
+    {
+        "id": 583,
+        "name": "Linfield",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/583.png"
+    },
+    {
+        "id": 668,
+        "name": "Ballymena United",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/668.png"
+    },
+    {
+        "id": 669,
+        "name": "Coleraine FC",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/669.png"
+    },
+    {
+        "id": 697,
+        "name": "Crusaders FC",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/697.png"
+    },
+    {
+        "id": 771,
+        "name": "Northern Ireland",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/771.png"
+    },
+    {
+        "id": 1778,
+        "name": "Northern Ireland W",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/1778.png"
+    },
+    {
+        "id": 2266,
+        "name": "Cliftonville FC",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/2266.png"
+    },
+    {
+        "id": 2275,
+        "name": "Glenavon FC",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/2275.png"
+    },
+    {
+        "id": 5338,
+        "name": "Ards",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/5338.png"
+    },
+    {
+        "id": 5339,
+        "name": "Ballinamallard United",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/5339.png"
+    },
+    {
+        "id": 5340,
+        "name": "Ballyclare Comrades",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/5340.png"
+    },
+    {
+        "id": 5341,
+        "name": "Dergview",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/5341.png"
+    },
+    {
+        "id": 5342,
+        "name": "Dundela",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/5342.png"
+    },
+    {
+        "id": 5343,
+        "name": "H&W Welders",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/5343.png"
+    },
+    {
+        "id": 5344,
+        "name": "Knockbreda",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/5344.png"
+    },
+    {
+        "id": 5345,
+        "name": "Loughgall",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/5345.png"
+    },
+    {
+        "id": 5346,
+        "name": "Newry City AFC",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/5346.png"
+    },
+    {
+        "id": 5347,
+        "name": "PSNI",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/5347.png"
+    },
+    {
+        "id": 5348,
+        "name": "Portadown",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/5348.png"
+    },
+    {
+        "id": 5349,
+        "name": "Queen's University",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/5349.png"
+    },
+    {
+        "id": 5350,
+        "name": "Carrick Rangers",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/5350.png"
+    },
+    {
+        "id": 5351,
+        "name": "Dungannon Swifts",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/5351.png"
+    },
+    {
+        "id": 5352,
+        "name": "Glentoran",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/5352.png"
+    },
+    {
+        "id": 5353,
+        "name": "Institute",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/5353.png"
+    },
+    {
+        "id": 5354,
+        "name": "Larne",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/5354.png"
+    },
+    {
+        "id": 5355,
+        "name": "Warrenpoint Town",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/5355.png"
+    },
+    {
+        "id": 6118,
+        "name": "Crumlin United",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/6118.png"
+    },
+    {
+        "id": 8213,
+        "name": "Northern Ireland U21",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/8213.png"
+    },
+    {
+        "id": 10375,
+        "name": "Northern Ireland U19",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/10375.png"
+    },
+    {
+        "id": 10918,
+        "name": "Linfield W",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/10918.png"
+    },
+    {
+        "id": 11109,
+        "name": "Annagh United",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/11109.png"
+    },
+    {
+        "id": 11110,
+        "name": "Armagh City",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/11110.png"
+    },
+    {
+        "id": 11111,
+        "name": "Banbridge Town",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/11111.png"
+    },
+    {
+        "id": 11112,
+        "name": "Bangor",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/11112.png"
+    },
+    {
+        "id": 11113,
+        "name": "Dollingstown",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/11113.png"
+    },
+    {
+        "id": 11114,
+        "name": "Limavady United",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/11114.png"
+    },
+    {
+        "id": 11115,
+        "name": "Lisburn Distillery",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/11115.png"
+    },
+    {
+        "id": 11116,
+        "name": "Lurgan Celtic",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/11116.png"
+    },
+    {
+        "id": 11117,
+        "name": "Moyola Park",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/11117.png"
+    },
+    {
+        "id": 11118,
+        "name": "Newington Youth",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/11118.png"
+    },
+    {
+        "id": 11119,
+        "name": "Portstewart",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/11119.png"
+    },
+    {
+        "id": 11120,
+        "name": "Tobermore United",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/11120.png"
+    },
+    {
+        "id": 11121,
+        "name": "Sport & Leisure Swifts",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/11121.png"
+    },
+    {
+        "id": 11122,
+        "name": "Donegal Celtic",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/11122.png"
+    },
+    {
+        "id": 14511,
+        "name": "Newry City",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/14511.png"
+    },
+    {
+        "id": 16128,
+        "name": "St. James' Swifts",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/16128.png"
+    },
+    {
+        "id": 16840,
+        "name": "Glentoran BU W",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/16840.png"
+    },
+    {
+        "id": 17065,
+        "name": "Maiden City",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/17065.png"
+    },
+    {
+        "id": 17138,
+        "name": "Belfast Celtic",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/17138.png"
+    },
+    {
+        "id": 17239,
+        "name": "Islandmagee",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/17239.png"
+    },
+    {
+        "id": 17240,
+        "name": "Laurelvale",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/17240.png"
+    },
+    {
+        "id": 17241,
+        "name": "Rathfriland",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/17241.png"
+    },
+    {
+        "id": 18290,
+        "name": "Ards Rangers",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/18290.png"
+    },
+    {
+        "id": 18291,
+        "name": "Oxford Sunnyside",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/18291.png"
+    },
+    {
+        "id": 18292,
+        "name": "Windmill Stars",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/18292.png"
+    },
+    {
+        "id": 19025,
+        "name": "Ballymacash Rangers",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/19025.png"
+    },
+    {
+        "id": 20727,
+        "name": "Ballymoney United",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/20727.png"
+    },
+    {
+        "id": 20728,
+        "name": "Bourneview Mill",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/20728.png"
+    },
+    {
+        "id": 20729,
+        "name": "Coagh United",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/20729.png"
+    },
+    {
+        "id": 20730,
+        "name": "Comber Rec",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/20730.png"
+    },
+    {
+        "id": 20731,
+        "name": "Crewe United",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/20731.png"
+    },
+    {
+        "id": 20732,
+        "name": "Dungiven",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/20732.png"
+    },
+    {
+        "id": 20733,
+        "name": "Dunloy",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/20733.png"
+    },
+    {
+        "id": 20734,
+        "name": "Finaghy",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/20734.png"
+    },
+    {
+        "id": 20735,
+        "name": "Greenisland",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/20735.png"
+    },
+    {
+        "id": 20736,
+        "name": "Immaculata",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/20736.png"
+    },
+    {
+        "id": 20737,
+        "name": "Lurgan Town",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/20737.png"
+    },
+    {
+        "id": 20738,
+        "name": "Shankill United",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/20738.png"
+    },
+    {
+        "id": 20739,
+        "name": "St Mary's",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/20739.png"
+    },
+    {
+        "id": 20740,
+        "name": "Tandragee Rovers",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/20740.png"
+    },
+    {
+        "id": 20741,
+        "name": "Wakehurst",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/20741.png"
+    },
+    {
+        "id": 20742,
+        "name": "Willowbank",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/20742.png"
+    },
+    {
+        "id": 20743,
+        "name": "Woodvale",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/20743.png"
+    },
+    {
+        "id": 21311,
+        "name": "Newcastle",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/21311.png"
+    },
+    {
+        "id": 21486,
+        "name": "Cliftonville W",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/21486.png"
+    },
+    {
+        "id": 21488,
+        "name": "Crusaders W",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/21488.png"
+    },
+    {
+        "id": 22526,
+        "name": "Abbey Villa",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/22526.png"
+    },
+    {
+        "id": 22527,
+        "name": "Aquinas",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/22527.png"
+    },
+    {
+        "id": 22528,
+        "name": "Crumlin Star",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/22528.png"
+    },
+    {
+        "id": 22529,
+        "name": "Derriaghy",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/22529.png"
+    },
+    {
+        "id": 22530,
+        "name": "Downshire YM",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/22530.png"
+    },
+    {
+        "id": 22531,
+        "name": "Dromara Village",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/22531.png"
+    },
+    {
+        "id": 22532,
+        "name": "Drumaness Mills",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/22532.png"
+    },
+    {
+        "id": 22533,
+        "name": "Dunmurry Recreation",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/22533.png"
+    },
+    {
+        "id": 22534,
+        "name": "Fivemiletown United",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/22534.png"
+    },
+    {
+        "id": 22535,
+        "name": "Glebe Rangers",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/22535.png"
+    },
+    {
+        "id": 22536,
+        "name": "Kilmore Rec",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/22536.png"
+    },
+    {
+        "id": 22537,
+        "name": "Lisburn Rangers",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/22537.png"
+    },
+    {
+        "id": 22538,
+        "name": "Newbuildings United",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/22538.png"
+    },
+    {
+        "id": 22539,
+        "name": "Rosemount Rec",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/22539.png"
+    },
+    {
+        "id": 22540,
+        "name": "Seapatrick",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/22540.png"
+    },
+    {
+        "id": 22542,
+        "name": "Valley Rangers",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/22542.png"
+    },
+    {
+        "id": 23261,
+        "name": "Lisburn",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/23261.png"
+    },
+    {
+        "id": 23629,
+        "name": "Larne W",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/23629.png"
+    },
+    {
+        "id": 23630,
+        "name": "Lisburn Rangers W",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/23630.png"
+    },
+    {
+        "id": 23631,
+        "name": "Mid-Ulster W",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/23631.png"
+    },
+    {
+        "id": 23632,
+        "name": "Derry City W",
+        "country": "Northern-Ireland",
+        "logo": "https://media.api-sports.io/football/teams/23632.png"
+    }
+]

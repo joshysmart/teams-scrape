@@ -1,0 +1,1526 @@
+[
+    {
+        "id": 4,
+        "name": "Russia",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/4.png"
+    },
+    {
+        "id": 555,
+        "name": "CSKA Moscow",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/555.png"
+    },
+    {
+        "id": 558,
+        "name": "Spartak Moscow",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/558.png"
+    },
+    {
+        "id": 596,
+        "name": "Zenit",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/596.png"
+    },
+    {
+        "id": 597,
+        "name": "Lokomotiv",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/597.png"
+    },
+    {
+        "id": 621,
+        "name": "FC Krasnodar",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/621.png"
+    },
+    {
+        "id": 665,
+        "name": "Irtysh Omsk",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/665.png"
+    },
+    {
+        "id": 779,
+        "name": "FC Rostov",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/779.png"
+    },
+    {
+        "id": 1076,
+        "name": "Amkar",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/1076.png"
+    },
+    {
+        "id": 1077,
+        "name": "Arsenal Tula",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/1077.png"
+    },
+    {
+        "id": 1078,
+        "name": "FC UFA",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/1078.png"
+    },
+    {
+        "id": 1079,
+        "name": "Krylia Sovetov",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/1079.png"
+    },
+    {
+        "id": 1080,
+        "name": "FC Orenburg",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/1080.png"
+    },
+    {
+        "id": 1081,
+        "name": "TOM Tomsk",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/1081.png"
+    },
+    {
+        "id": 1082,
+        "name": "Anzhi",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/1082.png"
+    },
+    {
+        "id": 1083,
+        "name": "Rubin",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/1083.png"
+    },
+    {
+        "id": 1084,
+        "name": "Ural",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/1084.png"
+    },
+    {
+        "id": 1085,
+        "name": "Akhmat",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/1085.png"
+    },
+    {
+        "id": 1086,
+        "name": "FC Tosno",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/1086.png"
+    },
+    {
+        "id": 1087,
+        "name": "Ska-khabarovsk",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/1087.png"
+    },
+    {
+        "id": 1088,
+        "name": "Dynamo",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/1088.png"
+    },
+    {
+        "id": 1089,
+        "name": "Enisey",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/1089.png"
+    },
+    {
+        "id": 1776,
+        "name": "Russia W",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/1776.png"
+    },
+    {
+        "id": 1993,
+        "name": "Fakel",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/1993.png"
+    },
+    {
+        "id": 1994,
+        "name": "Khimki",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/1994.png"
+    },
+    {
+        "id": 1995,
+        "name": "FK Sokol Saratov",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/1995.png"
+    },
+    {
+        "id": 1996,
+        "name": "Kuban",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/1996.png"
+    },
+    {
+        "id": 1997,
+        "name": "Mordovia Saransk",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/1997.png"
+    },
+    {
+        "id": 1998,
+        "name": "Shinnik Yaroslavl",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/1998.png"
+    },
+    {
+        "id": 1999,
+        "name": "Sibir",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/1999.png"
+    },
+    {
+        "id": 2000,
+        "name": "Tyumen",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/2000.png"
+    },
+    {
+        "id": 2001,
+        "name": "FK Neftekhimik",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/2001.png"
+    },
+    {
+        "id": 2002,
+        "name": "Spartak Nalchik",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/2002.png"
+    },
+    {
+        "id": 2003,
+        "name": "Spartak Moscow 2",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/2003.png"
+    },
+    {
+        "id": 2004,
+        "name": "Volgar Astrakhan",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/2004.png"
+    },
+    {
+        "id": 2005,
+        "name": "Zenit 2",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/2005.png"
+    },
+    {
+        "id": 2006,
+        "name": "Baltika",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/2006.png"
+    },
+    {
+        "id": 2007,
+        "name": "Luch-Energiya",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/2007.png"
+    },
+    {
+        "id": 2008,
+        "name": "Tambov",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/2008.png"
+    },
+    {
+        "id": 2009,
+        "name": "Avangard Kursk",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/2009.png"
+    },
+    {
+        "id": 2010,
+        "name": "Rotor Volgograd",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/2010.png"
+    },
+    {
+        "id": 2011,
+        "name": "Nizhny Novgorod",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/2011.png"
+    },
+    {
+        "id": 2012,
+        "name": "FC Sochi",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/2012.png"
+    },
+    {
+        "id": 2013,
+        "name": "FC Armavir",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/2013.png"
+    },
+    {
+        "id": 2014,
+        "name": "Chertanovo Moscow",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/2014.png"
+    },
+    {
+        "id": 2015,
+        "name": "Krasnodar 2",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/2015.png"
+    },
+    {
+        "id": 3879,
+        "name": "Ararat-Moskva",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/3879.png"
+    },
+    {
+        "id": 3983,
+        "name": "Chayka",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/3983.png"
+    },
+    {
+        "id": 3984,
+        "name": "Tekstilshchik",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/3984.png"
+    },
+    {
+        "id": 3985,
+        "name": "Torpedo Moskva",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/3985.png"
+    },
+    {
+        "id": 6786,
+        "name": "Akron",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/6786.png"
+    },
+    {
+        "id": 6787,
+        "name": "Alaniya Vladikavkaz",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/6787.png"
+    },
+    {
+        "id": 6788,
+        "name": "Biolog",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/6788.png"
+    },
+    {
+        "id": 6789,
+        "name": "Blagoveshchensk",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/6789.png"
+    },
+    {
+        "id": 6790,
+        "name": "Chelyabinsk",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/6790.png"
+    },
+    {
+        "id": 6791,
+        "name": "Chernomorets",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/6791.png"
+    },
+    {
+        "id": 6792,
+        "name": "Chita",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/6792.png"
+    },
+    {
+        "id": 6793,
+        "name": "Delin Izhevsk",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/6793.png"
+    },
+    {
+        "id": 6794,
+        "name": "Dinamo Barnaul",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/6794.png"
+    },
+    {
+        "id": 6795,
+        "name": "Dinamo Bryansk",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/6795.png"
+    },
+    {
+        "id": 6796,
+        "name": "Dinamo Stavropol",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/6796.png"
+    },
+    {
+        "id": 6797,
+        "name": "Dolgoprudny",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/6797.png"
+    },
+    {
+        "id": 6798,
+        "name": "Druzhba",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/6798.png"
+    },
+    {
+        "id": 6799,
+        "name": "Elektron VN",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/6799.png"
+    },
+    {
+        "id": 6800,
+        "name": "Inter Cherkessk",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/6800.png"
+    },
+    {
+        "id": 6801,
+        "name": "KAMAZ",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/6801.png"
+    },
+    {
+        "id": 6802,
+        "name": "Kaluga",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/6802.png"
+    },
+    {
+        "id": 6803,
+        "name": "Khimik Vurnary",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/6803.png"
+    },
+    {
+        "id": 6804,
+        "name": "Kolomna",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/6804.png"
+    },
+    {
+        "id": 6805,
+        "name": "Krasnyy-SGAFKST",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/6805.png"
+    },
+    {
+        "id": 6806,
+        "name": "Kuban Kholding",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/6806.png"
+    },
+    {
+        "id": 6807,
+        "name": "Kvant",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/6807.png"
+    },
+    {
+        "id": 6808,
+        "name": "Lada Dimitrovgrad",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/6808.png"
+    },
+    {
+        "id": 6809,
+        "name": "Lada Tolyatti",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/6809.png"
+    },
+    {
+        "id": 6810,
+        "name": "Legion Dynamo",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/6810.png"
+    },
+    {
+        "id": 6811,
+        "name": "Leningradets",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/6811.png"
+    },
+    {
+        "id": 6812,
+        "name": "Luki-Energiya",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/6812.png"
+    },
+    {
+        "id": 6813,
+        "name": "Makhachkala",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/6813.png"
+    },
+    {
+        "id": 6814,
+        "name": "Mashuk-KMV",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/6814.png"
+    },
+    {
+        "id": 6815,
+        "name": "Metallurg Lipetsk",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/6815.png"
+    },
+    {
+        "id": 6816,
+        "name": "Metallurg Magnitogorsk",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/6816.png"
+    },
+    {
+        "id": 6817,
+        "name": "Murom",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/6817.png"
+    },
+    {
+        "id": 6818,
+        "name": "Nosta",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/6818.png"
+    },
+    {
+        "id": 6819,
+        "name": "Novosibirsk",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/6819.png"
+    },
+    {
+        "id": 6820,
+        "name": "Olimp Khimki",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/6820.png"
+    },
+    {
+        "id": 6821,
+        "name": "Pskov 747",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/6821.png"
+    },
+    {
+        "id": 6822,
+        "name": "Rodina Moskva",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/6822.png"
+    },
+    {
+        "id": 6823,
+        "name": "Ryazan",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/6823.png"
+    },
+    {
+        "id": 6824,
+        "name": "SKA Rostov",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/6824.png"
+    },
+    {
+        "id": 6825,
+        "name": "Sakhalin",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/6825.png"
+    },
+    {
+        "id": 6826,
+        "name": "Salyut-Belgorod",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/6826.png"
+    },
+    {
+        "id": 6827,
+        "name": "Saturn Ramenskoye",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/6827.png"
+    },
+    {
+        "id": 6828,
+        "name": "Spartak Vladikavkaz",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/6828.png"
+    },
+    {
+        "id": 6829,
+        "name": "Strogino",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/6829.png"
+    },
+    {
+        "id": 6830,
+        "name": "Torpedo Vladimir",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/6830.png"
+    },
+    {
+        "id": 6831,
+        "name": "Urozhay",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/6831.png"
+    },
+    {
+        "id": 6832,
+        "name": "Vaynah Shali",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/6832.png"
+    },
+    {
+        "id": 6833,
+        "name": "Veles",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/6833.png"
+    },
+    {
+        "id": 6834,
+        "name": "Volga Ulyanovsk",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/6834.png"
+    },
+    {
+        "id": 6835,
+        "name": "Zenit Irkutsk",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/6835.png"
+    },
+    {
+        "id": 6836,
+        "name": "Zenit Izhevsk",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/6836.png"
+    },
+    {
+        "id": 6837,
+        "name": "Znamya Truda",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/6837.png"
+    },
+    {
+        "id": 6838,
+        "name": "Zorkiy",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/6838.png"
+    },
+    {
+        "id": 6839,
+        "name": "Zvezda Perm",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/6839.png"
+    },
+    {
+        "id": 6840,
+        "name": "Zvezda St. Petersburg",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/6840.png"
+    },
+    {
+        "id": 7910,
+        "name": "Lokomotiv Moskva U19",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/7910.png"
+    },
+    {
+        "id": 7941,
+        "name": "Zenit U19",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/7941.png"
+    },
+    {
+        "id": 7949,
+        "name": "Anzhi U19",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/7949.png"
+    },
+    {
+        "id": 7951,
+        "name": "CSKA Moskva U19",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/7951.png"
+    },
+    {
+        "id": 7985,
+        "name": "Krasnodar U19",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/7985.png"
+    },
+    {
+        "id": 7996,
+        "name": "Spartak Moskva U19",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/7996.png"
+    },
+    {
+        "id": 8219,
+        "name": "Russia U21",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/8219.png"
+    },
+    {
+        "id": 9217,
+        "name": "Akhmat Grozny U20",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/9217.png"
+    },
+    {
+        "id": 9218,
+        "name": "Arsenal Tula U20",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/9218.png"
+    },
+    {
+        "id": 9219,
+        "name": "CSKA Moskva U20",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/9219.png"
+    },
+    {
+        "id": 9220,
+        "name": "Dinamo Moskva U20",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/9220.png"
+    },
+    {
+        "id": 9221,
+        "name": "Krasnodar U20",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/9221.png"
+    },
+    {
+        "id": 9222,
+        "name": "Krylya Sovetov U20",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/9222.png"
+    },
+    {
+        "id": 9223,
+        "name": "Lokomotiv Moskva U20",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/9223.png"
+    },
+    {
+        "id": 9224,
+        "name": "Orenburg U20",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/9224.png"
+    },
+    {
+        "id": 9225,
+        "name": "Rostov U20",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/9225.png"
+    },
+    {
+        "id": 9226,
+        "name": "Rubin Kazan U20",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/9226.png"
+    },
+    {
+        "id": 9227,
+        "name": "Sochi U20",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/9227.png"
+    },
+    {
+        "id": 9228,
+        "name": "Spartak Moskva U20",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/9228.png"
+    },
+    {
+        "id": 9229,
+        "name": "Tambov U20",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/9229.png"
+    },
+    {
+        "id": 9230,
+        "name": "Ufa U20",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/9230.png"
+    },
+    {
+        "id": 9231,
+        "name": "Ural U20",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/9231.png"
+    },
+    {
+        "id": 9232,
+        "name": "Zenit U20",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/9232.png"
+    },
+    {
+        "id": 10136,
+        "name": "Alaniya II",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/10136.png"
+    },
+    {
+        "id": 10344,
+        "name": "Russia U19",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/10344.png"
+    },
+    {
+        "id": 10877,
+        "name": "Zimbabwe W",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/10877.png"
+    },
+    {
+        "id": 10885,
+        "name": "Chertanovo",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/10885.png"
+    },
+    {
+        "id": 10921,
+        "name": "Ryazan W",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/10921.png"
+    },
+    {
+        "id": 12752,
+        "name": "Dnepr Smolensk",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/12752.png"
+    },
+    {
+        "id": 12802,
+        "name": "Kazanka",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/12802.png"
+    },
+    {
+        "id": 12803,
+        "name": "Khimik-Arsenal",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/12803.png"
+    },
+    {
+        "id": 12840,
+        "name": "Rotor-2",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/12840.png"
+    },
+    {
+        "id": 12883,
+        "name": "Ufa II",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/12883.png"
+    },
+    {
+        "id": 12887,
+        "name": "Ural II",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/12887.png"
+    },
+    {
+        "id": 14115,
+        "name": "Essentuki",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/14115.png"
+    },
+    {
+        "id": 14116,
+        "name": "Forte Taganrog",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/14116.png"
+    },
+    {
+        "id": 14117,
+        "name": "Metallurg Vidnoye",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/14117.png"
+    },
+    {
+        "id": 14118,
+        "name": "Smolensk",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/14118.png"
+    },
+    {
+        "id": 14119,
+        "name": "Tuapse",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/14119.png"
+    },
+    {
+        "id": 14120,
+        "name": "Tver",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/14120.png"
+    },
+    {
+        "id": 14121,
+        "name": "Znamya Noginsk",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/14121.png"
+    },
+    {
+        "id": 14124,
+        "name": "Volna Nizhegorodskaya",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/14124.png"
+    },
+    {
+        "id": 14131,
+        "name": "CSKA Moskva W",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/14131.png"
+    },
+    {
+        "id": 14132,
+        "name": "Lokomotiv Moskva W",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/14132.png"
+    },
+    {
+        "id": 14133,
+        "name": "Yenisey W",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/14133.png"
+    },
+    {
+        "id": 14134,
+        "name": "Zenit W",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/14134.png"
+    },
+    {
+        "id": 14135,
+        "name": "Krasnodar W",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/14135.png"
+    },
+    {
+        "id": 14136,
+        "name": "Fakel II",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/14136.png"
+    },
+    {
+        "id": 14137,
+        "name": "Khimki II",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/14137.png"
+    },
+    {
+        "id": 14138,
+        "name": "Krasnodar III",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/14138.png"
+    },
+    {
+        "id": 14139,
+        "name": "Dinamo Moskva II",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/14139.png"
+    },
+    {
+        "id": 14140,
+        "name": "Krylya Sovetov II",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/14140.png"
+    },
+    {
+        "id": 14470,
+        "name": "Balashikha",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/14470.png"
+    },
+    {
+        "id": 14502,
+        "name": "Kraskovo",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/14502.png"
+    },
+    {
+        "id": 14536,
+        "name": "Vityaz Noginsk",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/14536.png"
+    },
+    {
+        "id": 14542,
+        "name": "Zenit Moskva",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/14542.png"
+    },
+    {
+        "id": 14625,
+        "name": "Atom Novovoronezh",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/14625.png"
+    },
+    {
+        "id": 15175,
+        "name": "Akademiya Konoplev U20",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/15175.png"
+    },
+    {
+        "id": 15176,
+        "name": "Chertanovo U20",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/15176.png"
+    },
+    {
+        "id": 15177,
+        "name": "Khimki U20",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/15177.png"
+    },
+    {
+        "id": 15178,
+        "name": "Rotor Volgograd U20",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/15178.png"
+    },
+    {
+        "id": 15179,
+        "name": "Strogino U20",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/15179.png"
+    },
+    {
+        "id": 15180,
+        "name": "UOR \u21165 U20",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/15180.png"
+    },
+    {
+        "id": 16490,
+        "name": "Rostov",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/16490.png"
+    },
+    {
+        "id": 16491,
+        "name": "Rubin Kazan",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/16491.png"
+    },
+    {
+        "id": 16492,
+        "name": "Zvezda Perm W",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/16492.png"
+    },
+    {
+        "id": 16594,
+        "name": "Dinamo Moskva U19",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/16594.png"
+    },
+    {
+        "id": 16595,
+        "name": "Rostov U19",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/16595.png"
+    },
+    {
+        "id": 16856,
+        "name": "Dinamo Vladivostok",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/16856.png"
+    },
+    {
+        "id": 16857,
+        "name": "Kairat Moskva",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/16857.png"
+    },
+    {
+        "id": 16858,
+        "name": "Khimik Dzerzhinsk",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/16858.png"
+    },
+    {
+        "id": 16859,
+        "name": "Krasava Odintsovo",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/16859.png"
+    },
+    {
+        "id": 16860,
+        "name": "Peresvet Podolsk",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/16860.png"
+    },
+    {
+        "id": 16861,
+        "name": "Saransk",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/16861.png"
+    },
+    {
+        "id": 16862,
+        "name": "Spartak Tuymazy",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/16862.png"
+    },
+    {
+        "id": 16863,
+        "name": "StavAgrosoyuz",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/16863.png"
+    },
+    {
+        "id": 16864,
+        "name": "Torpedo Miass",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/16864.png"
+    },
+    {
+        "id": 16865,
+        "name": "Yadro St. Petersburg",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/16865.png"
+    },
+    {
+        "id": 16866,
+        "name": "Zenit Penza",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/16866.png"
+    },
+    {
+        "id": 16872,
+        "name": "Ilpar",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/16872.png"
+    },
+    {
+        "id": 17002,
+        "name": "Alaniya Vladikavkaz II",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/17002.png"
+    },
+    {
+        "id": 17150,
+        "name": "Krylya Sovetov U19",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/17150.png"
+    },
+    {
+        "id": 17151,
+        "name": "Nizhny Novgorod U19",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/17151.png"
+    },
+    {
+        "id": 17681,
+        "name": "Ocean Kerch",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/17681.png"
+    },
+    {
+        "id": 17682,
+        "name": "Rubin Yalta",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/17682.png"
+    },
+    {
+        "id": 17720,
+        "name": "Arsenal Tula II",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/17720.png"
+    },
+    {
+        "id": 17721,
+        "name": "SKA Khabarovsk II",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/17721.png"
+    },
+    {
+        "id": 17722,
+        "name": "Baltika BFU",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/17722.png"
+    },
+    {
+        "id": 17723,
+        "name": "Olimp-Dolgoprudny II",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/17723.png"
+    },
+    {
+        "id": 17724,
+        "name": "Yenisey II",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/17724.png"
+    },
+    {
+        "id": 17725,
+        "name": "Dinamo St. Petersburg",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/17725.png"
+    },
+    {
+        "id": 17974,
+        "name": "Russia U17",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/17974.png"
+    },
+    {
+        "id": 19262,
+        "name": "Peresvet",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/19262.png"
+    },
+    {
+        "id": 19295,
+        "name": "Fakel U19",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/19295.png"
+    },
+    {
+        "id": 19296,
+        "name": "Kuban U19",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/19296.png"
+    },
+    {
+        "id": 19297,
+        "name": "Orenburg U19",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/19297.png"
+    },
+    {
+        "id": 19298,
+        "name": "Torpedo Moskva U19",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/19298.png"
+    },
+    {
+        "id": 19447,
+        "name": "Dinamo Vologda",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/19447.png"
+    },
+    {
+        "id": 19448,
+        "name": "Rodina Moskva III",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/19448.png"
+    },
+    {
+        "id": 19449,
+        "name": "Spartak Kostroma",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/19449.png"
+    },
+    {
+        "id": 19450,
+        "name": "Torpedo Moskva II",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/19450.png"
+    },
+    {
+        "id": 19451,
+        "name": "FK Spartak Tambov",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/19451.png"
+    },
+    {
+        "id": 19452,
+        "name": "Kosmos Dolgoprudny",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/19452.png"
+    },
+    {
+        "id": 19453,
+        "name": "Rodina Moskva II",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/19453.png"
+    },
+    {
+        "id": 19454,
+        "name": "Sakhalinets",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/19454.png"
+    },
+    {
+        "id": 19624,
+        "name": "Bahrain U20",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/19624.png"
+    },
+    {
+        "id": 19938,
+        "name": "2Drots",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/19938.png"
+    },
+    {
+        "id": 19939,
+        "name": "Amkal",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/19939.png"
+    },
+    {
+        "id": 19940,
+        "name": "FShM Torpedo",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/19940.png"
+    },
+    {
+        "id": 19941,
+        "name": "Nefis Kazan",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/19941.png"
+    },
+    {
+        "id": 19942,
+        "name": "Okean",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/19942.png"
+    },
+    {
+        "id": 19943,
+        "name": "Peresvet Trekhgorka",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/19943.png"
+    },
+    {
+        "id": 19944,
+        "name": "SSh 7 Petrozavodsk",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/19944.png"
+    },
+    {
+        "id": 19945,
+        "name": "Temp Barnaul",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/19945.png"
+    },
+    {
+        "id": 19946,
+        "name": "Zhasmin Mikhaylovsk",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/19946.png"
+    },
+    {
+        "id": 21032,
+        "name": "Rubin Kazan 2",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/21032.png"
+    },
+    {
+        "id": 21036,
+        "name": "Volgar-Astrakhan 2",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/21036.png"
+    },
+    {
+        "id": 21118,
+        "name": "Dinamo Moskva",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/21118.png"
+    },
+    {
+        "id": 21119,
+        "name": "Krylya Sovetov W",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/21119.png"
+    },
+    {
+        "id": 21535,
+        "name": "Akron II",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/21535.png"
+    },
+    {
+        "id": 21536,
+        "name": "Uralets Nizhnyi Tagil",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/21536.png"
+    },
+    {
+        "id": 21537,
+        "name": "Kompozit",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/21537.png"
+    },
+    {
+        "id": 21538,
+        "name": "Dinamo Kirov",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/21538.png"
+    },
+    {
+        "id": 21539,
+        "name": "Irkutsk",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/21539.png"
+    },
+    {
+        "id": 21540,
+        "name": "Astrakhan",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/21540.png"
+    },
+    {
+        "id": 21615,
+        "name": "Baltika U19",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/21615.png"
+    },
+    {
+        "id": 21616,
+        "name": "FShM U19",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/21616.png"
+    },
+    {
+        "id": 21853,
+        "name": "Dynamo Makhachkala II",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/21853.png"
+    },
+    {
+        "id": 21869,
+        "name": "Dalnerechensk",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/21869.png"
+    },
+    {
+        "id": 21870,
+        "name": "Kirovets Voskhozhdenie",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/21870.png"
+    },
+    {
+        "id": 21871,
+        "name": "OES Dimitrovgrad",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/21871.png"
+    },
+    {
+        "id": 21872,
+        "name": "Pioner",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/21872.png"
+    },
+    {
+        "id": 21873,
+        "name": "Rodina Media",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/21873.png"
+    },
+    {
+        "id": 21874,
+        "name": "Universitet Ulyanovsk",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/21874.png"
+    },
+    {
+        "id": 22171,
+        "name": "Pobeda",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/22171.png"
+    },
+    {
+        "id": 23214,
+        "name": "Spartak Moskva",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/23214.png"
+    },
+    {
+        "id": 23314,
+        "name": "Angust Nazran",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/23314.png"
+    },
+    {
+        "id": 23315,
+        "name": "Nart Cherkessk",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/23315.png"
+    },
+    {
+        "id": 23316,
+        "name": "Rostov II",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/23316.png"
+    },
+    {
+        "id": 23317,
+        "name": "Stroitel Kamensk-Shakht.",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/23317.png"
+    },
+    {
+        "id": 23318,
+        "name": "Orel",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/23318.png"
+    },
+    {
+        "id": 23319,
+        "name": "Nizhny Novgorod II",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/23319.png"
+    },
+    {
+        "id": 23320,
+        "name": "Sokol Kazan",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/23320.png"
+    },
+    {
+        "id": 24448,
+        "name": "Anri Vladivostok",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/24448.png"
+    },
+    {
+        "id": 24449,
+        "name": "Broke Boys",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/24449.png"
+    },
+    {
+        "id": 24450,
+        "name": "Cherepovets",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/24450.png"
+    },
+    {
+        "id": 24451,
+        "name": "Kristall",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/24451.png"
+    },
+    {
+        "id": 24452,
+        "name": "Leningradets II",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/24452.png"
+    },
+    {
+        "id": 24453,
+        "name": "ZOV",
+        "country": "Russia",
+        "logo": "https://media.api-sports.io/football/teams/24453.png"
+    }
+]

@@ -1,0 +1,2048 @@
+[
+    {
+        "id": 553,
+        "name": "Olympiakos Piraeus",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/553.png"
+    },
+    {
+        "id": 575,
+        "name": "AEK Athens FC",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/575.png"
+    },
+    {
+        "id": 617,
+        "name": "Panathinaikos",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/617.png"
+    },
+    {
+        "id": 619,
+        "name": "PAOK",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/619.png"
+    },
+    {
+        "id": 622,
+        "name": "Panionios",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/622.png"
+    },
+    {
+        "id": 949,
+        "name": "Panetolikos",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/949.png"
+    },
+    {
+        "id": 950,
+        "name": "PAS Giannina",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/950.png"
+    },
+    {
+        "id": 951,
+        "name": "Apollon Smirnis",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/951.png"
+    },
+    {
+        "id": 953,
+        "name": "Larisa",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/953.png"
+    },
+    {
+        "id": 955,
+        "name": "Asteras Tripolis",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/955.png"
+    },
+    {
+        "id": 956,
+        "name": "Lamia",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/956.png"
+    },
+    {
+        "id": 957,
+        "name": "Levadiakos",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/957.png"
+    },
+    {
+        "id": 958,
+        "name": "Platanias",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/958.png"
+    },
+    {
+        "id": 959,
+        "name": "Xanthi FC",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/959.png"
+    },
+    {
+        "id": 961,
+        "name": "Veria",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/961.png"
+    },
+    {
+        "id": 1117,
+        "name": "Greece",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/1117.png"
+    },
+    {
+        "id": 1123,
+        "name": "Aris Thessalonikis",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/1123.png"
+    },
+    {
+        "id": 1124,
+        "name": "OFI",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/1124.png"
+    },
+    {
+        "id": 1765,
+        "name": "Greece W",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/1765.png"
+    },
+    {
+        "id": 2086,
+        "name": "Acharnaikos",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/2086.png"
+    },
+    {
+        "id": 2087,
+        "name": "AEL Kallonis",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/2087.png"
+    },
+    {
+        "id": 2088,
+        "name": "Chania",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/2088.png"
+    },
+    {
+        "id": 2089,
+        "name": "Panelefsiniakos",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/2089.png"
+    },
+    {
+        "id": 2090,
+        "name": "Panthrakikos",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/2090.png"
+    },
+    {
+        "id": 2091,
+        "name": "Trikala",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/2091.png"
+    },
+    {
+        "id": 2093,
+        "name": "Agrotikos Asteras",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/2093.png"
+    },
+    {
+        "id": 2094,
+        "name": "Anagennisi Karditsas",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/2094.png"
+    },
+    {
+        "id": 2095,
+        "name": "Kallithea",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/2095.png"
+    },
+    {
+        "id": 2096,
+        "name": "Kissamikos",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/2096.png"
+    },
+    {
+        "id": 2097,
+        "name": "Panegialios",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/2097.png"
+    },
+    {
+        "id": 2098,
+        "name": "Sparti",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/2098.png"
+    },
+    {
+        "id": 2099,
+        "name": "Panserraikos",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/2099.png"
+    },
+    {
+        "id": 2100,
+        "name": "Aiginiakos",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/2100.png"
+    },
+    {
+        "id": 2101,
+        "name": "Apollon Larissa FC",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/2101.png"
+    },
+    {
+        "id": 2102,
+        "name": "Apollon Pontou",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/2102.png"
+    },
+    {
+        "id": 2103,
+        "name": "AE Karaiskakis",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/2103.png"
+    },
+    {
+        "id": 2104,
+        "name": "Doxa Dramas",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/2104.png"
+    },
+    {
+        "id": 2105,
+        "name": "Ergotelis",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/2105.png"
+    },
+    {
+        "id": 2106,
+        "name": "Panachaiki FC",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/2106.png"
+    },
+    {
+        "id": 2107,
+        "name": "Irodotos",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/2107.png"
+    },
+    {
+        "id": 2108,
+        "name": "Aittitos Spaton",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/2108.png"
+    },
+    {
+        "id": 2109,
+        "name": "Iraklis",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/2109.png"
+    },
+    {
+        "id": 2110,
+        "name": "Volos NFC",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/2110.png"
+    },
+    {
+        "id": 2111,
+        "name": "AOK Kerkyra",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/2111.png"
+    },
+    {
+        "id": 5027,
+        "name": "Aiolikos",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/5027.png"
+    },
+    {
+        "id": 5028,
+        "name": "Anagennisi Plagia",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/5028.png"
+    },
+    {
+        "id": 5029,
+        "name": "Antimachos",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/5029.png"
+    },
+    {
+        "id": 5030,
+        "name": "Apollon Paralimniou",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/5030.png"
+    },
+    {
+        "id": 5031,
+        "name": "Aris Avato",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/5031.png"
+    },
+    {
+        "id": 5032,
+        "name": "Asteras Itea",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/5032.png"
+    },
+    {
+        "id": 5033,
+        "name": "Chalkis",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/5033.png"
+    },
+    {
+        "id": 5034,
+        "name": "Dafni Dafnona",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/5034.png"
+    },
+    {
+        "id": 5035,
+        "name": "Diagoras Vrachneika",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/5035.png"
+    },
+    {
+        "id": 5036,
+        "name": "Doxa Neo Sidirochori",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/5036.png"
+    },
+    {
+        "id": 5037,
+        "name": "Enosis V.-Pansamiakos",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/5037.png"
+    },
+    {
+        "id": 5038,
+        "name": "Episkopi",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/5038.png"
+    },
+    {
+        "id": 5039,
+        "name": "Ermionida",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/5039.png"
+    },
+    {
+        "id": 5040,
+        "name": "Ermis Amyntaio",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/5040.png"
+    },
+    {
+        "id": 5041,
+        "name": "Ethnikos Neou Keramidiou",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/5041.png"
+    },
+    {
+        "id": 5042,
+        "name": "Ethnikos Piraeus",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/5042.png"
+    },
+    {
+        "id": 5043,
+        "name": "Giannitsa",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/5043.png"
+    },
+    {
+        "id": 5044,
+        "name": "Iraklis Elefsina",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/5044.png"
+    },
+    {
+        "id": 5045,
+        "name": "Iraklis Polykarpi",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/5045.png"
+    },
+    {
+        "id": 5046,
+        "name": "Kalamata",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/5046.png"
+    },
+    {
+        "id": 5047,
+        "name": "Kalampaki",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/5047.png"
+    },
+    {
+        "id": 5048,
+        "name": "Kardia",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/5048.png"
+    },
+    {
+        "id": 5049,
+        "name": "Kavala",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/5049.png"
+    },
+    {
+        "id": 5050,
+        "name": "Kifisia",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/5050.png"
+    },
+    {
+        "id": 5051,
+        "name": "Kitheron Kapareliou",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/5051.png"
+    },
+    {
+        "id": 5052,
+        "name": "Korinthos 2006",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/5052.png"
+    },
+    {
+        "id": 5053,
+        "name": "M. Alexandros Trikala",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/5053.png"
+    },
+    {
+        "id": 5054,
+        "name": "Makedonikos Foufas",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/5054.png"
+    },
+    {
+        "id": 5055,
+        "name": "Mesolongi",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/5055.png"
+    },
+    {
+        "id": 5056,
+        "name": "Niki Volos",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/5056.png"
+    },
+    {
+        "id": 5057,
+        "name": "OF Ierapetra",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/5057.png"
+    },
+    {
+        "id": 5058,
+        "name": "Oikonomos",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/5058.png"
+    },
+    {
+        "id": 5059,
+        "name": "Palaiochora",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/5059.png"
+    },
+    {
+        "id": 5060,
+        "name": "Pallixouriakos",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/5060.png"
+    },
+    {
+        "id": 5061,
+        "name": "Sellana",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/5061.png"
+    },
+    {
+        "id": 5062,
+        "name": "Thesprotos",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/5062.png"
+    },
+    {
+        "id": 5063,
+        "name": "Thraki Feres",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/5063.png"
+    },
+    {
+        "id": 5064,
+        "name": "Thyella Diastavroseos",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/5064.png"
+    },
+    {
+        "id": 5065,
+        "name": "Thyella Kamari",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/5065.png"
+    },
+    {
+        "id": 5066,
+        "name": "Tilikratis",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/5066.png"
+    },
+    {
+        "id": 5067,
+        "name": "Xirovouni",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/5067.png"
+    },
+    {
+        "id": 6293,
+        "name": "AEEK INKA",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/6293.png"
+    },
+    {
+        "id": 6294,
+        "name": "Aetos Orfani",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/6294.png"
+    },
+    {
+        "id": 6295,
+        "name": "Apollo Efpaliou",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/6295.png"
+    },
+    {
+        "id": 6296,
+        "name": "Atalanti",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/6296.png"
+    },
+    {
+        "id": 6297,
+        "name": "Atromitos Agios Georgios",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/6297.png"
+    },
+    {
+        "id": 6298,
+        "name": "Atromitos Patras",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/6298.png"
+    },
+    {
+        "id": 6299,
+        "name": "Atsalenios",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/6299.png"
+    },
+    {
+        "id": 6300,
+        "name": "Doxa Arta",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/6300.png"
+    },
+    {
+        "id": 6301,
+        "name": "Edessaikos",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/6301.png"
+    },
+    {
+        "id": 6302,
+        "name": "Elassona",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/6302.png"
+    },
+    {
+        "id": 6303,
+        "name": "Ethnikos Alexandroupoli",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/6303.png"
+    },
+    {
+        "id": 6304,
+        "name": "Ilisiakos",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/6304.png"
+    },
+    {
+        "id": 6305,
+        "name": "Ipato",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/6305.png"
+    },
+    {
+        "id": 6306,
+        "name": "Karitsa",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/6306.png"
+    },
+    {
+        "id": 6307,
+        "name": "Korinthos",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/6307.png"
+    },
+    {
+        "id": 6308,
+        "name": "Leonidio",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/6308.png"
+    },
+    {
+        "id": 6309,
+        "name": "M. Alexandros Iasmos",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/6309.png"
+    },
+    {
+        "id": 6310,
+        "name": "M. Alexandros Kallithea",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/6310.png"
+    },
+    {
+        "id": 6311,
+        "name": "Meteora",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/6311.png"
+    },
+    {
+        "id": 6312,
+        "name": "Nea Artaki",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/6312.png"
+    },
+    {
+        "id": 6313,
+        "name": "Omiros Neochori",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/6313.png"
+    },
+    {
+        "id": 6314,
+        "name": "Orfeas Xanthi",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/6314.png"
+    },
+    {
+        "id": 6315,
+        "name": "Panargiakos",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/6315.png"
+    },
+    {
+        "id": 6316,
+        "name": "Pandramaikos",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/6316.png"
+    },
+    {
+        "id": 6317,
+        "name": "Pansamiakos Vathyllou",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/6317.png"
+    },
+    {
+        "id": 6318,
+        "name": "Panthiraikos",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/6318.png"
+    },
+    {
+        "id": 6319,
+        "name": "Paone",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/6319.png"
+    },
+    {
+        "id": 6320,
+        "name": "Pellana",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/6320.png"
+    },
+    {
+        "id": 6321,
+        "name": "Potamia",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/6321.png"
+    },
+    {
+        "id": 6322,
+        "name": "Souli Paramythia",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/6322.png"
+    },
+    {
+        "id": 6323,
+        "name": "Thermaikos Thermis",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/6323.png"
+    },
+    {
+        "id": 6324,
+        "name": "Thinaliakos",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/6324.png"
+    },
+    {
+        "id": 6325,
+        "name": "Xenophon Krestena",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/6325.png"
+    },
+    {
+        "id": 6326,
+        "name": "Zakynthos",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/6326.png"
+    },
+    {
+        "id": 7509,
+        "name": "Aspropyrgos Enosis",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/7509.png"
+    },
+    {
+        "id": 7510,
+        "name": "Diagoras",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/7510.png"
+    },
+    {
+        "id": 7511,
+        "name": "Egaleo",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/7511.png"
+    },
+    {
+        "id": 7512,
+        "name": "Ialysos",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/7512.png"
+    },
+    {
+        "id": 7513,
+        "name": "Ionikos",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/7513.png"
+    },
+    {
+        "id": 7514,
+        "name": "Triglia",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/7514.png"
+    },
+    {
+        "id": 7519,
+        "name": "Olympiakos Volos",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/7519.png"
+    },
+    {
+        "id": 7918,
+        "name": "Olympiakos Piraeus U19",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/7918.png"
+    },
+    {
+        "id": 7920,
+        "name": "PAOK U19",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/7920.png"
+    },
+    {
+        "id": 7944,
+        "name": "AEK Athens U19",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/7944.png"
+    },
+    {
+        "id": 8198,
+        "name": "Greece U21",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/8198.png"
+    },
+    {
+        "id": 10364,
+        "name": "Greece U19",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/10364.png"
+    },
+    {
+        "id": 12260,
+        "name": "Atromitos",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/12260.png"
+    },
+    {
+        "id": 12361,
+        "name": "Antheias-Aristinou",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/12361.png"
+    },
+    {
+        "id": 12362,
+        "name": "Doxa Kato Kamila",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/12362.png"
+    },
+    {
+        "id": 12363,
+        "name": "Doxa Theologos",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/12363.png"
+    },
+    {
+        "id": 12364,
+        "name": "Iraklis Zygou",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/12364.png"
+    },
+    {
+        "id": 12365,
+        "name": "Keravnos Pernis",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/12365.png"
+    },
+    {
+        "id": 12366,
+        "name": "Kilkisiakos",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/12366.png"
+    },
+    {
+        "id": 12367,
+        "name": "Nestos Chrisoupolis",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/12367.png"
+    },
+    {
+        "id": 12368,
+        "name": "Almopos",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/12368.png"
+    },
+    {
+        "id": 12369,
+        "name": "Aris Palaiochori",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/12369.png"
+    },
+    {
+        "id": 12370,
+        "name": "Astrapi Mesopotamia",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/12370.png"
+    },
+    {
+        "id": 12371,
+        "name": "Florina",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/12371.png"
+    },
+    {
+        "id": 12372,
+        "name": "Makedonikos Neapolis",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/12372.png"
+    },
+    {
+        "id": 12373,
+        "name": "Nea Kallikrateia",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/12373.png"
+    },
+    {
+        "id": 12374,
+        "name": "Niki Agkathia",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/12374.png"
+    },
+    {
+        "id": 12375,
+        "name": "Poseidon Nea Michaniona",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/12375.png"
+    },
+    {
+        "id": 12376,
+        "name": "Seir\u00edna",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/12376.png"
+    },
+    {
+        "id": 12377,
+        "name": "Thyella Sarakinoi",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/12377.png"
+    },
+    {
+        "id": 12378,
+        "name": "Almyros",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/12378.png"
+    },
+    {
+        "id": 12379,
+        "name": "Atromitos Palamas",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/12379.png"
+    },
+    {
+        "id": 12380,
+        "name": "Diagoras Stefanovik",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/12380.png"
+    },
+    {
+        "id": 12381,
+        "name": "Dias Diou",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/12381.png"
+    },
+    {
+        "id": 12382,
+        "name": "Digenis Neochori",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/12382.png"
+    },
+    {
+        "id": 12383,
+        "name": "Iraklis Larissa",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/12383.png"
+    },
+    {
+        "id": 12384,
+        "name": "Pierikos",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/12384.png"
+    },
+    {
+        "id": 12385,
+        "name": "Thiseas Agria",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/12385.png"
+    },
+    {
+        "id": 12386,
+        "name": "Acheron Kanalaki",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/12386.png"
+    },
+    {
+        "id": 12387,
+        "name": "Anagennisi Artas",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/12387.png"
+    },
+    {
+        "id": 12388,
+        "name": "Anatoli",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/12388.png"
+    },
+    {
+        "id": 12389,
+        "name": "Lefkimmi",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/12389.png"
+    },
+    {
+        "id": 12390,
+        "name": "Missolonghi",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/12390.png"
+    },
+    {
+        "id": 12391,
+        "name": "Nafpaktiakos",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/12391.png"
+    },
+    {
+        "id": 12392,
+        "name": "Pontion Karagiannion",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/12392.png"
+    },
+    {
+        "id": 12393,
+        "name": "Preveza",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/12393.png"
+    },
+    {
+        "id": 12394,
+        "name": "Agioi Anargyroi",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/12394.png"
+    },
+    {
+        "id": 12395,
+        "name": "Agios Ierotheos",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/12395.png"
+    },
+    {
+        "id": 12396,
+        "name": "Akratitos",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/12396.png"
+    },
+    {
+        "id": 12397,
+        "name": "Ano Meras",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/12397.png"
+    },
+    {
+        "id": 12398,
+        "name": "Ermis Korydallos",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/12398.png"
+    },
+    {
+        "id": 12399,
+        "name": "Fostiras",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/12399.png"
+    },
+    {
+        "id": 12400,
+        "name": "Keratsini",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/12400.png"
+    },
+    {
+        "id": 12401,
+        "name": "Moschato",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/12401.png"
+    },
+    {
+        "id": 12402,
+        "name": "Kitheron",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/12402.png"
+    },
+    {
+        "id": 12403,
+        "name": "Marko",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/12403.png"
+    },
+    {
+        "id": 12404,
+        "name": "Palliniakos",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/12404.png"
+    },
+    {
+        "id": 12405,
+        "name": "Panarkadikos",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/12405.png"
+    },
+    {
+        "id": 12406,
+        "name": "Rodos",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/12406.png"
+    },
+    {
+        "id": 12407,
+        "name": "Tripolis",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/12407.png"
+    },
+    {
+        "id": 12408,
+        "name": "Asteras Vlachioti",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/12408.png"
+    },
+    {
+        "id": 12409,
+        "name": "Diavolitsi",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/12409.png"
+    },
+    {
+        "id": 12410,
+        "name": "Nafplio 2017",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/12410.png"
+    },
+    {
+        "id": 12411,
+        "name": "Olympiakos Zacharo",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/12411.png"
+    },
+    {
+        "id": 12412,
+        "name": "PAO Vardas",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/12412.png"
+    },
+    {
+        "id": 12413,
+        "name": "Pangytheatikos",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/12413.png"
+    },
+    {
+        "id": 12414,
+        "name": "Paniliakos",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/12414.png"
+    },
+    {
+        "id": 12415,
+        "name": "Thyella Patras",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/12415.png"
+    },
+    {
+        "id": 12416,
+        "name": "Tsilivi",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/12416.png"
+    },
+    {
+        "id": 12417,
+        "name": "Agios Nikolaos",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/12417.png"
+    },
+    {
+        "id": 12418,
+        "name": "Giouchtas",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/12418.png"
+    },
+    {
+        "id": 12419,
+        "name": "Panakrotiriakos",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/12419.png"
+    },
+    {
+        "id": 12420,
+        "name": "Poros",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/12420.png"
+    },
+    {
+        "id": 12421,
+        "name": "Rethymniakos",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/12421.png"
+    },
+    {
+        "id": 13910,
+        "name": "AOT Alimos",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/13910.png"
+    },
+    {
+        "id": 13911,
+        "name": "Ethnikos Gazoros",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/13911.png"
+    },
+    {
+        "id": 13912,
+        "name": "Fokikos",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/13912.png"
+    },
+    {
+        "id": 13913,
+        "name": "Iraklis Psachna",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/13913.png"
+    },
+    {
+        "id": 13914,
+        "name": "Tyrnavos",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/13914.png"
+    },
+    {
+        "id": 13915,
+        "name": "Asteras Magoula",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/13915.png"
+    },
+    {
+        "id": 13916,
+        "name": "Glyfadas",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/13916.png"
+    },
+    {
+        "id": 13917,
+        "name": "Vataniakos",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/13917.png"
+    },
+    {
+        "id": 13918,
+        "name": "Vyzas",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/13918.png"
+    },
+    {
+        "id": 13919,
+        "name": "Anagennisi Epanomis",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/13919.png"
+    },
+    {
+        "id": 13920,
+        "name": "Doxa Kranoulas",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/13920.png"
+    },
+    {
+        "id": 13921,
+        "name": "Ethnikos Asteras",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/13921.png"
+    },
+    {
+        "id": 13922,
+        "name": "Ethnikos Sidirokastro",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/13922.png"
+    },
+    {
+        "id": 13923,
+        "name": "Odysseas Kordelio",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/13923.png"
+    },
+    {
+        "id": 13924,
+        "name": "Proodeftiki",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/13924.png"
+    },
+    {
+        "id": 13925,
+        "name": "Rouvas",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/13925.png"
+    },
+    {
+        "id": 13926,
+        "name": "Thrasyvoulos",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/13926.png"
+    },
+    {
+        "id": 13927,
+        "name": "AEP Iraklis",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/13927.png"
+    },
+    {
+        "id": 13928,
+        "name": "Aetos Skydra",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/13928.png"
+    },
+    {
+        "id": 13929,
+        "name": "M. Alexandros Irakleia",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/13929.png"
+    },
+    {
+        "id": 13930,
+        "name": "Odysseas Anagennisi",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/13930.png"
+    },
+    {
+        "id": 13931,
+        "name": "PAO Rouf",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/13931.png"
+    },
+    {
+        "id": 15227,
+        "name": "Aetos Loutron",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/15227.png"
+    },
+    {
+        "id": 15228,
+        "name": "Aias Salamina",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/15228.png"
+    },
+    {
+        "id": 15229,
+        "name": "Asteras Varis",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/15229.png"
+    },
+    {
+        "id": 15230,
+        "name": "Karavas",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/15230.png"
+    },
+    {
+        "id": 15231,
+        "name": "Mikrasiatiki",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/15231.png"
+    },
+    {
+        "id": 15232,
+        "name": "Pyliou",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/15232.png"
+    },
+    {
+        "id": 15233,
+        "name": "Pythagoras Karlovasi",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/15233.png"
+    },
+    {
+        "id": 15234,
+        "name": "Charavgiakos",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/15234.png"
+    },
+    {
+        "id": 15235,
+        "name": "Ilioupoli",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/15235.png"
+    },
+    {
+        "id": 15236,
+        "name": "Pannaxiakos",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/15236.png"
+    },
+    {
+        "id": 15237,
+        "name": "Santorini 2020",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/15237.png"
+    },
+    {
+        "id": 15238,
+        "name": "Ampelokipon Drama",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/15238.png"
+    },
+    {
+        "id": 15239,
+        "name": "Anagennisi Thalassias",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/15239.png"
+    },
+    {
+        "id": 15240,
+        "name": "Didymoteicho",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/15240.png"
+    },
+    {
+        "id": 15241,
+        "name": "Elpida Sapes",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/15241.png"
+    },
+    {
+        "id": 15242,
+        "name": "Ethnikos Sochos",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/15242.png"
+    },
+    {
+        "id": 15243,
+        "name": "Evosmou",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/15243.png"
+    },
+    {
+        "id": 15244,
+        "name": "Iraklis Ampelokipon",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/15244.png"
+    },
+    {
+        "id": 15245,
+        "name": "M. Alexandros Orfaniou",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/15245.png"
+    },
+    {
+        "id": 15246,
+        "name": "Aetos Varvaras",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/15246.png"
+    },
+    {
+        "id": 15247,
+        "name": "Ethnikos Giannitsa",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/15247.png"
+    },
+    {
+        "id": 15248,
+        "name": "PAO Koufalion",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/15248.png"
+    },
+    {
+        "id": 15249,
+        "name": "PAOK Alexandreia",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/15249.png"
+    },
+    {
+        "id": 15250,
+        "name": "Agios Matthaios",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/15250.png"
+    },
+    {
+        "id": 15251,
+        "name": "Amvrakikos Loutrou",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/15251.png"
+    },
+    {
+        "id": 15252,
+        "name": "Asteras Kalirachis",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/15252.png"
+    },
+    {
+        "id": 15253,
+        "name": "M. Alexandros Kastorias",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/15253.png"
+    },
+    {
+        "id": 15254,
+        "name": "Panagriniakos",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/15254.png"
+    },
+    {
+        "id": 15255,
+        "name": "Thyella Katsikas",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/15255.png"
+    },
+    {
+        "id": 15256,
+        "name": "Thyella Monastirakiou",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/15256.png"
+    },
+    {
+        "id": 15257,
+        "name": "Aetos Makrychoriou",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/15257.png"
+    },
+    {
+        "id": 15258,
+        "name": "Fikis",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/15258.png"
+    },
+    {
+        "id": 15259,
+        "name": "Kozani",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/15259.png"
+    },
+    {
+        "id": 15260,
+        "name": "Aris Skalas",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/15260.png"
+    },
+    {
+        "id": 15261,
+        "name": "Atromitos Chiliomodi",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/15261.png"
+    },
+    {
+        "id": 15262,
+        "name": "Ermis Meligous",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/15262.png"
+    },
+    {
+        "id": 15263,
+        "name": "Foinikas N. Epidavrou",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/15263.png"
+    },
+    {
+        "id": 15264,
+        "name": "Koronida Koiladas",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/15264.png"
+    },
+    {
+        "id": 15265,
+        "name": "Molaikos",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/15265.png"
+    },
+    {
+        "id": 15266,
+        "name": "Amvrysseas",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/15266.png"
+    },
+    {
+        "id": 15267,
+        "name": "Dimitra Efxeinoupolis",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/15267.png"
+    },
+    {
+        "id": 15268,
+        "name": "Opountios",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/15268.png"
+    },
+    {
+        "id": 15364,
+        "name": "Achaiki",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/15364.png"
+    },
+    {
+        "id": 15365,
+        "name": "Aias Gastounis",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/15365.png"
+    },
+    {
+        "id": 15366,
+        "name": "Ethnikos Skoulikadou",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/15366.png"
+    },
+    {
+        "id": 15367,
+        "name": "Pamisos Messini",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/15367.png"
+    },
+    {
+        "id": 15368,
+        "name": "AE Neapolis",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/15368.png"
+    },
+    {
+        "id": 15369,
+        "name": "Almyros Gaziou",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/15369.png"
+    },
+    {
+        "id": 15370,
+        "name": "Anagennisi Ierapetra",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/15370.png"
+    },
+    {
+        "id": 15371,
+        "name": "Aris Rethymnou",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/15371.png"
+    },
+    {
+        "id": 15372,
+        "name": "Aris Soudas",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/15372.png"
+    },
+    {
+        "id": 15373,
+        "name": "Asteras Rethymnou",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/15373.png"
+    },
+    {
+        "id": 15374,
+        "name": "Damastas",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/15374.png"
+    },
+    {
+        "id": 15475,
+        "name": "Agiou Leonta",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/15475.png"
+    },
+    {
+        "id": 15476,
+        "name": "Anatoli Serron",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/15476.png"
+    },
+    {
+        "id": 15477,
+        "name": "Aris Archangelou",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/15477.png"
+    },
+    {
+        "id": 15478,
+        "name": "Ellispontos NL",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/15478.png"
+    },
+    {
+        "id": 15479,
+        "name": "Eordaikos",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/15479.png"
+    },
+    {
+        "id": 15480,
+        "name": "Falaniakos",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/15480.png"
+    },
+    {
+        "id": 15481,
+        "name": "Hephaestus Vrontama",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/15481.png"
+    },
+    {
+        "id": 15482,
+        "name": "Iraklis Xylokastro",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/15482.png"
+    },
+    {
+        "id": 15483,
+        "name": "Kokkino",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/15483.png"
+    },
+    {
+        "id": 15484,
+        "name": "Megalon Kalyvion",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/15484.png"
+    },
+    {
+        "id": 15485,
+        "name": "Mesotopos",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/15485.png"
+    },
+    {
+        "id": 15486,
+        "name": "Minotavros",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/15486.png"
+    },
+    {
+        "id": 15487,
+        "name": "Paxoi",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/15487.png"
+    },
+    {
+        "id": 15488,
+        "name": "Talos Melidoniou",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/15488.png"
+    },
+    {
+        "id": 17956,
+        "name": "Greece U17",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/17956.png"
+    },
+    {
+        "id": 17991,
+        "name": "Iraklis 1908",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/17991.png"
+    },
+    {
+        "id": 18016,
+        "name": "AEK Athens II",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/18016.png"
+    },
+    {
+        "id": 18017,
+        "name": "Olympiakos Piraeus II",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/18017.png"
+    },
+    {
+        "id": 18018,
+        "name": "PAOK II",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/18018.png"
+    },
+    {
+        "id": 18019,
+        "name": "Panathinaikos II",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/18019.png"
+    },
+    {
+        "id": 18057,
+        "name": "AE Mykonos",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/18057.png"
+    },
+    {
+        "id": 19070,
+        "name": "Greece U18",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/19070.png"
+    },
+    {
+        "id": 20043,
+        "name": "Afantou",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/20043.png"
+    },
+    {
+        "id": 20044,
+        "name": "Apollon Agios Ioannis",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/20044.png"
+    },
+    {
+        "id": 20045,
+        "name": "Aris Petinos",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/20045.png"
+    },
+    {
+        "id": 20046,
+        "name": "Aris Voula",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/20046.png"
+    },
+    {
+        "id": 20047,
+        "name": "Asteras Petriti",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/20047.png"
+    },
+    {
+        "id": 20048,
+        "name": "Asteras Stavros",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/20048.png"
+    },
+    {
+        "id": 20049,
+        "name": "Asteras Tripotamos",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/20049.png"
+    },
+    {
+        "id": 20050,
+        "name": "Byron Kavala",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/20050.png"
+    },
+    {
+        "id": 20051,
+        "name": "Ermis Zoniana",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/20051.png"
+    },
+    {
+        "id": 20052,
+        "name": "Ionikos Ionia",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/20052.png"
+    },
+    {
+        "id": 20053,
+        "name": "Katastari",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/20053.png"
+    },
+    {
+        "id": 20054,
+        "name": "Nea Selefkia",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/20054.png"
+    },
+    {
+        "id": 20055,
+        "name": "PAO Koutselio",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/20055.png"
+    },
+    {
+        "id": 20056,
+        "name": "PAO Kristoni",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/20056.png"
+    },
+    {
+        "id": 20057,
+        "name": "Panargiakos Argos",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/20057.png"
+    },
+    {
+        "id": 20058,
+        "name": "Pankamariakos",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/20058.png"
+    },
+    {
+        "id": 20059,
+        "name": "Panthouriakos",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/20059.png"
+    },
+    {
+        "id": 20060,
+        "name": "Poseidon Kardamyla",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/20060.png"
+    },
+    {
+        "id": 20061,
+        "name": "Pyrasos Nea Anchialos",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/20061.png"
+    },
+    {
+        "id": 20398,
+        "name": "Kastoria",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/20398.png"
+    },
+    {
+        "id": 20675,
+        "name": "Agia Paraskevi",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/20675.png"
+    },
+    {
+        "id": 20676,
+        "name": "Aris Petroupolis",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/20676.png"
+    },
+    {
+        "id": 20677,
+        "name": "Tympaki",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/20677.png"
+    },
+    {
+        "id": 20678,
+        "name": "Chaniotis",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/20678.png"
+    },
+    {
+        "id": 20679,
+        "name": "Dotieas Agias",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/20679.png"
+    },
+    {
+        "id": 20680,
+        "name": "Svoronos",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/20680.png"
+    },
+    {
+        "id": 20681,
+        "name": "Apollon Parga",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/20681.png"
+    },
+    {
+        "id": 20682,
+        "name": "Vyzas Megara",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/20682.png"
+    },
+    {
+        "id": 20683,
+        "name": "Kampaniakos Chalastra",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/20683.png"
+    },
+    {
+        "id": 20684,
+        "name": "APS Patrai",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/20684.png"
+    },
+    {
+        "id": 22238,
+        "name": "M. Alexandros Ag. Marina",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/22238.png"
+    },
+    {
+        "id": 22239,
+        "name": "Niki Efkarpia",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/22239.png"
+    },
+    {
+        "id": 22240,
+        "name": "Orestis Orestiadas",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/22240.png"
+    },
+    {
+        "id": 22241,
+        "name": "Astir Lianokladi",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/22241.png"
+    },
+    {
+        "id": 22242,
+        "name": "Kileler",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/22242.png"
+    },
+    {
+        "id": 22243,
+        "name": "Magnisiakos",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/22243.png"
+    },
+    {
+        "id": 22244,
+        "name": "Ellas Syros",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/22244.png"
+    },
+    {
+        "id": 22245,
+        "name": "Erani Filiatra",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/22245.png"
+    },
+    {
+        "id": 22246,
+        "name": "Atromitos Piraeus",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/22246.png"
+    },
+    {
+        "id": 22247,
+        "name": "Chaidari",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/22247.png"
+    },
+    {
+        "id": 22248,
+        "name": "Ellopiakos",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/22248.png"
+    },
+    {
+        "id": 22249,
+        "name": "Peramaikos",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/22249.png"
+    },
+    {
+        "id": 22270,
+        "name": "Agioi Theodoroi",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/22270.png"
+    },
+    {
+        "id": 22271,
+        "name": "Asteras Kaisarianis",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/22271.png"
+    },
+    {
+        "id": 22272,
+        "name": "Dilinaton",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/22272.png"
+    },
+    {
+        "id": 22273,
+        "name": "Dimitsana",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/22273.png"
+    },
+    {
+        "id": 22274,
+        "name": "Doxa Volakas",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/22274.png"
+    },
+    {
+        "id": 22275,
+        "name": "Graniths Agias Marinas",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/22275.png"
+    },
+    {
+        "id": 22276,
+        "name": "Kroussonas",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/22276.png"
+    },
+    {
+        "id": 22277,
+        "name": "Vistonida",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/22277.png"
+    },
+    {
+        "id": 22928,
+        "name": "Greece U16",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/teams/22928.png"
+    }
+]

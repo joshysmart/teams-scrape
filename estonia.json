@@ -1,0 +1,950 @@
+[
+    {
+        "id": 662,
+        "name": "Kalju Nomme",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/662.png"
+    },
+    {
+        "id": 687,
+        "name": "Flora Tallinn",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/687.png"
+    },
+    {
+        "id": 1101,
+        "name": "Estonia",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/1101.png"
+    },
+    {
+        "id": 1753,
+        "name": "Estonia W",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/1753.png"
+    },
+    {
+        "id": 2273,
+        "name": "FC Levadia Tallinn",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/2273.png"
+    },
+    {
+        "id": 2274,
+        "name": "Trans Narva",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/2274.png"
+    },
+    {
+        "id": 3516,
+        "name": "Elva",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/3516.png"
+    },
+    {
+        "id": 3517,
+        "name": "FCI Levadia II",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/3517.png"
+    },
+    {
+        "id": 3518,
+        "name": "Flora II",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/3518.png"
+    },
+    {
+        "id": 3519,
+        "name": "K-J\u00e4rve JK J\u00e4rve",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/3519.png"
+    },
+    {
+        "id": 3521,
+        "name": "Rakvere Tarvas",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/3521.png"
+    },
+    {
+        "id": 3522,
+        "name": "Tallinna Kalev II",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/3522.png"
+    },
+    {
+        "id": 3523,
+        "name": "Tammeka II",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/3523.png"
+    },
+    {
+        "id": 3524,
+        "name": "Tartu Welco",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/3524.png"
+    },
+    {
+        "id": 3525,
+        "name": "Vaprus",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/3525.png"
+    },
+    {
+        "id": 3526,
+        "name": "Kuressaare",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/3526.png"
+    },
+    {
+        "id": 3527,
+        "name": "Maardu",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/3527.png"
+    },
+    {
+        "id": 3528,
+        "name": "Paide",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/3528.png"
+    },
+    {
+        "id": 3529,
+        "name": "Tallinna Kalev",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/3529.png"
+    },
+    {
+        "id": 3530,
+        "name": "Tammeka",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/3530.png"
+    },
+    {
+        "id": 3531,
+        "name": "Tulevik",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/3531.png"
+    },
+    {
+        "id": 3883,
+        "name": "FCI Tallinn",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/3883.png"
+    },
+    {
+        "id": 7906,
+        "name": "Levadia U19",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/7906.png"
+    },
+    {
+        "id": 8191,
+        "name": "Estonia U21",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/8191.png"
+    },
+    {
+        "id": 10059,
+        "name": "N\u00f5mme United",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/10059.png"
+    },
+    {
+        "id": 10060,
+        "name": "V\u00e4ndra",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/10060.png"
+    },
+    {
+        "id": 10061,
+        "name": "P\u00e4rnu",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/10061.png"
+    },
+    {
+        "id": 10168,
+        "name": "Luunja",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/10168.png"
+    },
+    {
+        "id": 10361,
+        "name": "Estonia U19",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/10361.png"
+    },
+    {
+        "id": 10889,
+        "name": "Flora",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/10889.png"
+    },
+    {
+        "id": 13152,
+        "name": "Legion",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/13152.png"
+    },
+    {
+        "id": 13825,
+        "name": "Keila",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/13825.png"
+    },
+    {
+        "id": 13826,
+        "name": "N\u00f5mme Kalju II",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/13826.png"
+    },
+    {
+        "id": 13827,
+        "name": "Tartu Santos",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/13827.png"
+    },
+    {
+        "id": 13828,
+        "name": "FCI Tallinn II",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/13828.png"
+    },
+    {
+        "id": 13829,
+        "name": "Kivi\u00f5li Irbis",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/13829.png"
+    },
+    {
+        "id": 13830,
+        "name": "Puuma",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/13830.png"
+    },
+    {
+        "id": 13831,
+        "name": "Tartu SK 10",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/13831.png"
+    },
+    {
+        "id": 13832,
+        "name": "Orbiit",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/13832.png"
+    },
+    {
+        "id": 13833,
+        "name": "Lootus",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/13833.png"
+    },
+    {
+        "id": 13834,
+        "name": "Warrior",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/13834.png"
+    },
+    {
+        "id": 13835,
+        "name": "Sillam\u00e4e Kalev",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/13835.png"
+    },
+    {
+        "id": 13836,
+        "name": "Viljandi",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/13836.png"
+    },
+    {
+        "id": 13837,
+        "name": "Ajax Lasnam\u00e4e",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/13837.png"
+    },
+    {
+        "id": 14282,
+        "name": "Anija",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/14282.png"
+    },
+    {
+        "id": 14283,
+        "name": "Eston Villa",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/14283.png"
+    },
+    {
+        "id": 14284,
+        "name": "Eston Villa II",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/14284.png"
+    },
+    {
+        "id": 14285,
+        "name": "Eyjafjallaj\u00f6kull",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/14285.png"
+    },
+    {
+        "id": 14286,
+        "name": "FC Kohvile",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/14286.png"
+    },
+    {
+        "id": 14287,
+        "name": "FC Tallinn",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/14287.png"
+    },
+    {
+        "id": 14288,
+        "name": "Flora III",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/14288.png"
+    },
+    {
+        "id": 14289,
+        "name": "Helios",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/14289.png"
+    },
+    {
+        "id": 14290,
+        "name": "Hell Hunt",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/14290.png"
+    },
+    {
+        "id": 14291,
+        "name": "Here for Beer",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/14291.png"
+    },
+    {
+        "id": 14292,
+        "name": "Hiiumaa",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/14292.png"
+    },
+    {
+        "id": 14293,
+        "name": "Igiliikur",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/14293.png"
+    },
+    {
+        "id": 14294,
+        "name": "Imavere",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/14294.png"
+    },
+    {
+        "id": 14295,
+        "name": "JK 32.KK",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/14295.png"
+    },
+    {
+        "id": 14296,
+        "name": "Jalgpallihaigla",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/14296.png"
+    },
+    {
+        "id": 14297,
+        "name": "J\u00e4rva-Jaani",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/14297.png"
+    },
+    {
+        "id": 14298,
+        "name": "J\u00f5geva Wolves",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/14298.png"
+    },
+    {
+        "id": 14299,
+        "name": "K-J\u00e4rve JK J\u00e4rve II",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/14299.png"
+    },
+    {
+        "id": 14300,
+        "name": "Kadakas",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/14300.png"
+    },
+    {
+        "id": 14301,
+        "name": "Kohtla-N\u00f5mme",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/14301.png"
+    },
+    {
+        "id": 14302,
+        "name": "Kompanii Marjamaa",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/14302.png"
+    },
+    {
+        "id": 14303,
+        "name": "Kose",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/14303.png"
+    },
+    {
+        "id": 14304,
+        "name": "Kristiine JK",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/14304.png"
+    },
+    {
+        "id": 14305,
+        "name": "Lelle",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/14305.png"
+    },
+    {
+        "id": 14306,
+        "name": "Lillek\u00fcla Retro",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/14306.png"
+    },
+    {
+        "id": 14307,
+        "name": "Loo",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/14307.png"
+    },
+    {
+        "id": 14308,
+        "name": "Lootos",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/14308.png"
+    },
+    {
+        "id": 14309,
+        "name": "L\u00e4\u00e4nemaa Haapsalu",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/14309.png"
+    },
+    {
+        "id": 14310,
+        "name": "Maardu Aliens",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/14310.png"
+    },
+    {
+        "id": 14311,
+        "name": "Maksatransport",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/14311.png"
+    },
+    {
+        "id": 14312,
+        "name": "Metsis",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/14312.png"
+    },
+    {
+        "id": 14313,
+        "name": "Noorus-96",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/14313.png"
+    },
+    {
+        "id": 14314,
+        "name": "Paide III",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/14314.png"
+    },
+    {
+        "id": 14315,
+        "name": "Paide IV",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/14315.png"
+    },
+    {
+        "id": 14316,
+        "name": "Piraaja",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/14316.png"
+    },
+    {
+        "id": 14317,
+        "name": "Pocarr",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/14317.png"
+    },
+    {
+        "id": 14318,
+        "name": "Poseidon",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/14318.png"
+    },
+    {
+        "id": 14319,
+        "name": "Puhkus Mehhikos",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/14319.png"
+    },
+    {
+        "id": 14320,
+        "name": "P\u00e4rnu Sadam",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/14320.png"
+    },
+    {
+        "id": 14321,
+        "name": "P\u00f5hja-Sakala",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/14321.png"
+    },
+    {
+        "id": 14322,
+        "name": "P\u00f5hja-Tallinna JK Volta",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/14322.png"
+    },
+    {
+        "id": 14323,
+        "name": "Raplamaa",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/14323.png"
+    },
+    {
+        "id": 14324,
+        "name": "Rasmus V\u00e4rki",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/14324.png"
+    },
+    {
+        "id": 14325,
+        "name": "ReUnited Tallinn",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/14325.png"
+    },
+    {
+        "id": 14326,
+        "name": "Rummu D\u00fcnamo",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/14326.png"
+    },
+    {
+        "id": 14327,
+        "name": "Rumori Calcio",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/14327.png"
+    },
+    {
+        "id": 14328,
+        "name": "Rumori Calcio II",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/14328.png"
+    },
+    {
+        "id": 14329,
+        "name": "Saku Sporting",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/14329.png"
+    },
+    {
+        "id": 14330,
+        "name": "Soccernet",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/14330.png"
+    },
+    {
+        "id": 14331,
+        "name": "Sssolutions",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/14331.png"
+    },
+    {
+        "id": 14332,
+        "name": "TJK Legion II",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/14332.png"
+    },
+    {
+        "id": 14333,
+        "name": "Tallinna FC Zapoos",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/14333.png"
+    },
+    {
+        "id": 14334,
+        "name": "Tallinna Wolves",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/14334.png"
+    },
+    {
+        "id": 14335,
+        "name": "Team Helm",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/14335.png"
+    },
+    {
+        "id": 14336,
+        "name": "Teleios",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/14336.png"
+    },
+    {
+        "id": 14337,
+        "name": "TransferWise",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/14337.png"
+    },
+    {
+        "id": 14338,
+        "name": "Tulevik II",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/14338.png"
+    },
+    {
+        "id": 14339,
+        "name": "Vastseliina",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/14339.png"
+    },
+    {
+        "id": 14340,
+        "name": "Viimsi",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/14340.png"
+    },
+    {
+        "id": 14342,
+        "name": "\u00c4ksi Wolves",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/14342.png"
+    },
+    {
+        "id": 14343,
+        "name": "Olympic",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/14343.png"
+    },
+    {
+        "id": 16402,
+        "name": "Paide II",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/16402.png"
+    },
+    {
+        "id": 16716,
+        "name": "Ajax Annelinn",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/16716.png"
+    },
+    {
+        "id": 16717,
+        "name": "FCP P\u00e4rnu",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/16717.png"
+    },
+    {
+        "id": 16718,
+        "name": "JK Tabasalu",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/16718.png"
+    },
+    {
+        "id": 16719,
+        "name": "Karsklus",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/16719.png"
+    },
+    {
+        "id": 16720,
+        "name": "Kusti",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/16720.png"
+    },
+    {
+        "id": 16721,
+        "name": "L\u00e4\u00e4nemaa JK II",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/16721.png"
+    },
+    {
+        "id": 16722,
+        "name": "Mulgi",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/16722.png"
+    },
+    {
+        "id": 16723,
+        "name": "Tartu Welco II",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/16723.png"
+    },
+    {
+        "id": 16724,
+        "name": "Titans",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/16724.png"
+    },
+    {
+        "id": 16725,
+        "name": "Vigri Maarjam\u00e4e",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/16725.png"
+    },
+    {
+        "id": 16726,
+        "name": "Wolfram",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/16726.png"
+    },
+    {
+        "id": 16727,
+        "name": "Young",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/16727.png"
+    },
+    {
+        "id": 16738,
+        "name": "EstHam United",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/16738.png"
+    },
+    {
+        "id": 16837,
+        "name": "Ararat",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/16837.png"
+    },
+    {
+        "id": 16848,
+        "name": "Ganvix",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/16848.png"
+    },
+    {
+        "id": 16962,
+        "name": "Tartu Kalev",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/16962.png"
+    },
+    {
+        "id": 17137,
+        "name": "Tabasalu II",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/17137.png"
+    },
+    {
+        "id": 17950,
+        "name": "Estonia U17",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/17950.png"
+    },
+    {
+        "id": 18657,
+        "name": "Laagri",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/18657.png"
+    },
+    {
+        "id": 18993,
+        "name": "L\u00e4\u00e4neranna",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/18993.png"
+    },
+    {
+        "id": 18994,
+        "name": "Poseidon II",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/18994.png"
+    },
+    {
+        "id": 18995,
+        "name": "Tabasalu Ulasabat",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/18995.png"
+    },
+    {
+        "id": 18996,
+        "name": "Tallinna Wolves II",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/18996.png"
+    },
+    {
+        "id": 18997,
+        "name": "Vana Hea Puur",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/18997.png"
+    },
+    {
+        "id": 19115,
+        "name": "Jager",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/19115.png"
+    },
+    {
+        "id": 19161,
+        "name": "Saare Latte",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/19161.png"
+    },
+    {
+        "id": 19464,
+        "name": "V\u00e4ndra Vaprus / Lelle",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/19464.png"
+    },
+    {
+        "id": 21391,
+        "name": "Aruk\u00fcla",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/21391.png"
+    },
+    {
+        "id": 21392,
+        "name": "Drakon",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/21392.png"
+    },
+    {
+        "id": 21393,
+        "name": "Flora IV",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/21393.png"
+    },
+    {
+        "id": 21394,
+        "name": "NPM Silmet",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/21394.png"
+    },
+    {
+        "id": 21395,
+        "name": "Pelgu City",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/21395.png"
+    },
+    {
+        "id": 21396,
+        "name": "Saue",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/21396.png"
+    },
+    {
+        "id": 21397,
+        "name": "Tallinna Gorillad",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/21397.png"
+    },
+    {
+        "id": 21398,
+        "name": "Tallinna Kalev Juunior",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/21398.png"
+    },
+    {
+        "id": 21399,
+        "name": "Tervis",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/21399.png"
+    },
+    {
+        "id": 21503,
+        "name": "Estonia U18",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/21503.png"
+    },
+    {
+        "id": 23682,
+        "name": "Kohtla-J\u00e4rve",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/23682.png"
+    },
+    {
+        "id": 23683,
+        "name": "Kose II",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/23683.png"
+    },
+    {
+        "id": 23684,
+        "name": "Tamper",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/23684.png"
+    },
+    {
+        "id": 23685,
+        "name": "Zealot Sporting",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/23685.png"
+    },
+    {
+        "id": 23713,
+        "name": "GameSport",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/23713.png"
+    },
+    {
+        "id": 23714,
+        "name": "Inter Tartu",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/23714.png"
+    },
+    {
+        "id": 23715,
+        "name": "KUBIK",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/23715.png"
+    },
+    {
+        "id": 23716,
+        "name": "Kuusalu Kalev",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/23716.png"
+    },
+    {
+        "id": 23717,
+        "name": "Smsraha",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/23717.png"
+    },
+    {
+        "id": 23718,
+        "name": "Starmedia",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/23718.png"
+    },
+    {
+        "id": 24089,
+        "name": "Tallinna Kalev III",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/24089.png"
+    },
+    {
+        "id": 24110,
+        "name": "Welco X",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/24110.png"
+    },
+    {
+        "id": 24235,
+        "name": "Kuressaare II",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/24235.png"
+    },
+    {
+        "id": 24236,
+        "name": "Narva U21",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/24236.png"
+    },
+    {
+        "id": 24237,
+        "name": "Johvi Phoenix",
+        "country": "Estonia",
+        "logo": "https://media.api-sports.io/football/teams/24237.png"
+    }
+]

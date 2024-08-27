@@ -1,0 +1,1682 @@
+[
+    {
+        "id": 24,
+        "name": "Poland",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/24.png"
+    },
+    {
+        "id": 335,
+        "name": "Miedz Legnica",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/335.png"
+    },
+    {
+        "id": 336,
+        "name": "Jagiellonia",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/336.png"
+    },
+    {
+        "id": 337,
+        "name": "Slask Wroclaw",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/337.png"
+    },
+    {
+        "id": 338,
+        "name": "Wisla Krakow",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/338.png"
+    },
+    {
+        "id": 339,
+        "name": "Legia Warszawa",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/339.png"
+    },
+    {
+        "id": 340,
+        "name": "Gornik Zabrze",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/340.png"
+    },
+    {
+        "id": 341,
+        "name": "Wisla Plock",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/341.png"
+    },
+    {
+        "id": 342,
+        "name": "Zaglebie Sosnowiec",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/342.png"
+    },
+    {
+        "id": 343,
+        "name": "Lechia Gdansk",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/343.png"
+    },
+    {
+        "id": 344,
+        "name": "Arka Gdynia",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/344.png"
+    },
+    {
+        "id": 345,
+        "name": "Zaglebie Lubin",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/345.png"
+    },
+    {
+        "id": 346,
+        "name": "Korona Kielce",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/346.png"
+    },
+    {
+        "id": 347,
+        "name": "Lech Poznan",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/347.png"
+    },
+    {
+        "id": 348,
+        "name": "Pogon Szczecin",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/348.png"
+    },
+    {
+        "id": 349,
+        "name": "Piast Gliwice",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/349.png"
+    },
+    {
+        "id": 350,
+        "name": "Cracovia Krakow",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/350.png"
+    },
+    {
+        "id": 1749,
+        "name": "Poland W",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/1749.png"
+    },
+    {
+        "id": 3481,
+        "name": "Bytovia Byt\u00f3w",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/3481.png"
+    },
+    {
+        "id": 3482,
+        "name": "Chojniczanka Chojnice",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/3482.png"
+    },
+    {
+        "id": 3483,
+        "name": "Chrobry G\u0142og\u00f3w",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/3483.png"
+    },
+    {
+        "id": 3484,
+        "name": "GKS Katowice",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/3484.png"
+    },
+    {
+        "id": 3485,
+        "name": "Garbarnia Krak\u00f3w",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/3485.png"
+    },
+    {
+        "id": 3486,
+        "name": "Jastrz\u0119bie",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/3486.png"
+    },
+    {
+        "id": 3487,
+        "name": "Nieciecza",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/3487.png"
+    },
+    {
+        "id": 3488,
+        "name": "Odra Opole",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/3488.png"
+    },
+    {
+        "id": 3489,
+        "name": "Podbeskidzie",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/3489.png"
+    },
+    {
+        "id": 3490,
+        "name": "Puszcza Niepo\u0142omice",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/3490.png"
+    },
+    {
+        "id": 3491,
+        "name": "Rak\u00f3w Cz\u0119stochowa",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/3491.png"
+    },
+    {
+        "id": 3492,
+        "name": "Sandecja Nowy S\u0105cz",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/3492.png"
+    },
+    {
+        "id": 3493,
+        "name": "Stal Mielec",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/3493.png"
+    },
+    {
+        "id": 3494,
+        "name": "Stomil Olsztyn",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/3494.png"
+    },
+    {
+        "id": 3495,
+        "name": "Tychy 71",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/3495.png"
+    },
+    {
+        "id": 3496,
+        "name": "Warta Pozna\u0144",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/3496.png"
+    },
+    {
+        "id": 3497,
+        "name": "Wigry Suwa\u0142ki",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/3497.png"
+    },
+    {
+        "id": 3498,
+        "name": "\u0141KS \u0141\u00f3d\u017a",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/3498.png"
+    },
+    {
+        "id": 4246,
+        "name": "Be\u0142chat\u00f3w",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/4246.png"
+    },
+    {
+        "id": 4247,
+        "name": "Olimpia Grudzi\u0105dz",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/4247.png"
+    },
+    {
+        "id": 4248,
+        "name": "Radomiak Radom",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/4248.png"
+    },
+    {
+        "id": 6934,
+        "name": "Chemik Bydgoszcz",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/6934.png"
+    },
+    {
+        "id": 6935,
+        "name": "Chemik Police",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/6935.png"
+    },
+    {
+        "id": 6936,
+        "name": "Che\u0142mianka Che\u0142m",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/6936.png"
+    },
+    {
+        "id": 6937,
+        "name": "Concordia Elbl\u0105g",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/6937.png"
+    },
+    {
+        "id": 6938,
+        "name": "Elana Toru\u0144",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/6938.png"
+    },
+    {
+        "id": 6939,
+        "name": "Gryf S\u0142upsk",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/6939.png"
+    },
+    {
+        "id": 6940,
+        "name": "Gryf Wejherowo",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/6940.png"
+    },
+    {
+        "id": 6941,
+        "name": "G\u00f3rnik \u0141\u0119czna",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/6941.png"
+    },
+    {
+        "id": 6942,
+        "name": "Hutnik Krak\u00f3w",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/6942.png"
+    },
+    {
+        "id": 6943,
+        "name": "KSZO 1929",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/6943.png"
+    },
+    {
+        "id": 6944,
+        "name": "Legia Warszawa II",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/6944.png"
+    },
+    {
+        "id": 6945,
+        "name": "Olimpia Elbl\u0105g",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/6945.png"
+    },
+    {
+        "id": 6946,
+        "name": "Olimpia Zambr\u00f3w",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/6946.png"
+    },
+    {
+        "id": 6947,
+        "name": "Pogo\u0144 Siedlce",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/6947.png"
+    },
+    {
+        "id": 6948,
+        "name": "Polonia \u015aroda",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/6948.png"
+    },
+    {
+        "id": 6949,
+        "name": "ROW Rybnik",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/6949.png"
+    },
+    {
+        "id": 6950,
+        "name": "Rekord Bielsko-Bia\u0142a",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/6950.png"
+    },
+    {
+        "id": 6951,
+        "name": "Resovia Rzesz\u00f3w",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/6951.png"
+    },
+    {
+        "id": 6952,
+        "name": "Rozw\u00f3j Katowice",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/6952.png"
+    },
+    {
+        "id": 6953,
+        "name": "Ruch Chorz\u00f3w",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/6953.png"
+    },
+    {
+        "id": 6954,
+        "name": "SKRA Cz\u0119stochowa",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/6954.png"
+    },
+    {
+        "id": 6955,
+        "name": "Siarka Tarnobrzeg",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/6955.png"
+    },
+    {
+        "id": 6956,
+        "name": "Stal Brzeg",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/6956.png"
+    },
+    {
+        "id": 6957,
+        "name": "Stal Rzesz\u00f3w",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/6957.png"
+    },
+    {
+        "id": 6958,
+        "name": "Stal Stalowa Wola",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/6958.png"
+    },
+    {
+        "id": 6959,
+        "name": "Stargard Szczeci\u0144ski",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/6959.png"
+    },
+    {
+        "id": 6960,
+        "name": "Stilon Gorz\u00f3w",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/6960.png"
+    },
+    {
+        "id": 6961,
+        "name": "Unia Skierniewice",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/6961.png"
+    },
+    {
+        "id": 6962,
+        "name": "Widzew \u0141\u00f3d\u017a",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/6962.png"
+    },
+    {
+        "id": 6963,
+        "name": "Zag\u0142\u0119bie Lubin II",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/6963.png"
+    },
+    {
+        "id": 6964,
+        "name": "Znicz Pruszk\u00f3w",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/6964.png"
+    },
+    {
+        "id": 7905,
+        "name": "Korona Kielce U19",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/7905.png"
+    },
+    {
+        "id": 7958,
+        "name": "Lech Pozna\u0144 U19",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/7958.png"
+    },
+    {
+        "id": 8215,
+        "name": "Poland U21",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/8215.png"
+    },
+    {
+        "id": 9132,
+        "name": "G\u00f3rnik Polkowice",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/9132.png"
+    },
+    {
+        "id": 9133,
+        "name": "Lech Pozna\u0144 II",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/9133.png"
+    },
+    {
+        "id": 9134,
+        "name": "Legionovia Legionowo",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/9134.png"
+    },
+    {
+        "id": 10298,
+        "name": "Poland U20",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/10298.png"
+    },
+    {
+        "id": 10373,
+        "name": "Moldova U19",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/10373.png"
+    },
+    {
+        "id": 10376,
+        "name": "Poland U19",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/10376.png"
+    },
+    {
+        "id": 10379,
+        "name": "San Marino U19",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/10379.png"
+    },
+    {
+        "id": 10916,
+        "name": "G\u00f3rnik \u0141\u0119czna W",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/10916.png"
+    },
+    {
+        "id": 12775,
+        "name": "G\u00f3rnik Konin",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/12775.png"
+    },
+    {
+        "id": 12776,
+        "name": "G\u00f3rnik Zabrze II",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/12776.png"
+    },
+    {
+        "id": 12789,
+        "name": "Hetman Zamosc",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/12789.png"
+    },
+    {
+        "id": 12801,
+        "name": "Kalisz",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/12801.png"
+    },
+    {
+        "id": 12806,
+        "name": "Kluczbork",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/12806.png"
+    },
+    {
+        "id": 12815,
+        "name": "Mied\u017a Legnica II",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/12815.png"
+    },
+    {
+        "id": 12829,
+        "name": "Pelikan \u0141owicz",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/12829.png"
+    },
+    {
+        "id": 12834,
+        "name": "Podhale Nowy Targ",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/12834.png"
+    },
+    {
+        "id": 12835,
+        "name": "Polonia Bytom",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/12835.png"
+    },
+    {
+        "id": 12837,
+        "name": "Radunia St\u0119\u017cyca",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/12837.png"
+    },
+    {
+        "id": 12841,
+        "name": "Ruch Wysokie Mazowieckie",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/12841.png"
+    },
+    {
+        "id": 12842,
+        "name": "Ruch Zdzieszowice",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/12842.png"
+    },
+    {
+        "id": 12856,
+        "name": "Sok\u00f3\u0142 Aleksandr\u00f3w",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/12856.png"
+    },
+    {
+        "id": 12857,
+        "name": "Sok\u00f3\u0142 Ostr\u00f3da",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/12857.png"
+    },
+    {
+        "id": 12869,
+        "name": "Swit",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/12869.png"
+    },
+    {
+        "id": 12884,
+        "name": "Unia Janikowo",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/12884.png"
+    },
+    {
+        "id": 12899,
+        "name": "Znicz Bia\u0142a Piska",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/12899.png"
+    },
+    {
+        "id": 12900,
+        "name": "\u015al\u0105sk Wroc\u0142aw II",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/12900.png"
+    },
+    {
+        "id": 12901,
+        "name": "\u015al\u0119za Wroc\u0142aw",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/12901.png"
+    },
+    {
+        "id": 12902,
+        "name": "\u015awit Skolwin",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/12902.png"
+    },
+    {
+        "id": 13843,
+        "name": "Zawisza Bydgoszcz",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/13843.png"
+    },
+    {
+        "id": 14142,
+        "name": "Jaguar Gda\u0144sk",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/14142.png"
+    },
+    {
+        "id": 14143,
+        "name": "Lechia Zielona G\u00f3ra",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/14143.png"
+    },
+    {
+        "id": 14144,
+        "name": "Orl\u0119ta Radzy\u0144 Podlaski",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/14144.png"
+    },
+    {
+        "id": 14145,
+        "name": "Polonia Nysa",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/14145.png"
+    },
+    {
+        "id": 14266,
+        "name": "Karpaty Krosno",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/14266.png"
+    },
+    {
+        "id": 14267,
+        "name": "Paw\u0142owice \u015al\u0105skie",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/14267.png"
+    },
+    {
+        "id": 14562,
+        "name": "Motor Lublin",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/14562.png"
+    },
+    {
+        "id": 14750,
+        "name": "Pogo\u0144 Grod. Mazowiecki",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/14750.png"
+    },
+    {
+        "id": 14910,
+        "name": "Arka Gdynia U18",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/14910.png"
+    },
+    {
+        "id": 14911,
+        "name": "Cracovia U18",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/14911.png"
+    },
+    {
+        "id": 14912,
+        "name": "Escola Varsovia U18",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/14912.png"
+    },
+    {
+        "id": 14913,
+        "name": "Gwarek Zabrze U18",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/14913.png"
+    },
+    {
+        "id": 14914,
+        "name": "G\u00f3rnik Zabrze U18",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/14914.png"
+    },
+    {
+        "id": 14915,
+        "name": "Hutnik Krak\u00f3w U18",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/14915.png"
+    },
+    {
+        "id": 14916,
+        "name": "Jagiellonia U18",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/14916.png"
+    },
+    {
+        "id": 14917,
+        "name": "Korona Kielce U18",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/14917.png"
+    },
+    {
+        "id": 14918,
+        "name": "Lech Pozna\u0144 U18",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/14918.png"
+    },
+    {
+        "id": 14919,
+        "name": "Lechia Gda\u0144sk U18",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/14919.png"
+    },
+    {
+        "id": 14920,
+        "name": "Legia Warszawa U18",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/14920.png"
+    },
+    {
+        "id": 14921,
+        "name": "Pogo\u0144 Szczecin U18",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/14921.png"
+    },
+    {
+        "id": 14922,
+        "name": "SMS \u0141\u00f3d\u017a U18",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/14922.png"
+    },
+    {
+        "id": 14923,
+        "name": "Wis\u0142a Krak\u00f3w U18",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/14923.png"
+    },
+    {
+        "id": 14924,
+        "name": "Zag\u0142\u0119bie Lubin U18",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/14924.png"
+    },
+    {
+        "id": 14925,
+        "name": "\u015al\u0105sk Wroc\u0142aw U18",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/14925.png"
+    },
+    {
+        "id": 16233,
+        "name": "Bro\u0144 Radom",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/16233.png"
+    },
+    {
+        "id": 16234,
+        "name": "B\u0142onianka B\u0142onie",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/16234.png"
+    },
+    {
+        "id": 16235,
+        "name": "Huragan Mor\u0105g",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/16235.png"
+    },
+    {
+        "id": 16236,
+        "name": "Jagiellonia II",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/16236.png"
+    },
+    {
+        "id": 16237,
+        "name": "Kutno",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/16237.png"
+    },
+    {
+        "id": 16238,
+        "name": "Lechia T. Mazowiecki",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/16238.png"
+    },
+    {
+        "id": 16239,
+        "name": "Polonia Warszawa",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/16239.png"
+    },
+    {
+        "id": 16240,
+        "name": "Radomsko",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/16240.png"
+    },
+    {
+        "id": 16241,
+        "name": "Ursus Warszawa",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/16241.png"
+    },
+    {
+        "id": 16242,
+        "name": "Wasilk\u00f3w",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/16242.png"
+    },
+    {
+        "id": 16243,
+        "name": "Wikielec",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/16243.png"
+    },
+    {
+        "id": 16244,
+        "name": "Ba\u0142tyk Gdynia",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/16244.png"
+    },
+    {
+        "id": 16245,
+        "name": "Ba\u0142tyk Koszalin",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/16245.png"
+    },
+    {
+        "id": 16246,
+        "name": "Flota \u015awinouj\u015bcie",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/16246.png"
+    },
+    {
+        "id": 16247,
+        "name": "Gwardia Koszalin",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/16247.png"
+    },
+    {
+        "id": 16248,
+        "name": "Jarota Jarocin",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/16248.png"
+    },
+    {
+        "id": 16249,
+        "name": "Kotwica Ko\u0142obrzeg",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/16249.png"
+    },
+    {
+        "id": 16250,
+        "name": "Mieszko Gniezno",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/16250.png"
+    },
+    {
+        "id": 16251,
+        "name": "Nielba W\u0105growiec",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/16251.png"
+    },
+    {
+        "id": 16252,
+        "name": "Pogo\u0144 Szczecin II",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/16252.png"
+    },
+    {
+        "id": 16253,
+        "name": "Pomorzanin Toru\u0144",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/16253.png"
+    },
+    {
+        "id": 16254,
+        "name": "Przodkowo",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/16254.png"
+    },
+    {
+        "id": 16255,
+        "name": "Sok\u00f3\u0142 Kleczew",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/16255.png"
+    },
+    {
+        "id": 16256,
+        "name": "Starogard Gda\u0144ski",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/16256.png"
+    },
+    {
+        "id": 16257,
+        "name": "Unia Swarz\u0119dz",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/16257.png"
+    },
+    {
+        "id": 16258,
+        "name": "Ga\u0107 O\u0142awa",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/16258.png"
+    },
+    {
+        "id": 16259,
+        "name": "Gocza\u0142kowice Zdr\u00f3j",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/16259.png"
+    },
+    {
+        "id": 16260,
+        "name": "Gwarek Tarnowskie G\u00f3ry",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/16260.png"
+    },
+    {
+        "id": 16261,
+        "name": "Piast \u017bmigr\u00f3d",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/16261.png"
+    },
+    {
+        "id": 16262,
+        "name": "Polonia-Stal \u015awidnica",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/16262.png"
+    },
+    {
+        "id": 16263,
+        "name": "Warta Gorz\u00f3w",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/16263.png"
+    },
+    {
+        "id": 16264,
+        "name": "Avia \u015awidnik",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/16264.png"
+    },
+    {
+        "id": 16265,
+        "name": "Cracovia Krak\u00f3w II",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/16265.png"
+    },
+    {
+        "id": 16266,
+        "name": "Jutrzenka Giebu\u0142t\u00f3w",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/16266.png"
+    },
+    {
+        "id": 16267,
+        "name": "Korona Kielce II",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/16267.png"
+    },
+    {
+        "id": 16268,
+        "name": "Lewart",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/16268.png"
+    },
+    {
+        "id": 16269,
+        "name": "Podlasie Bia\u0142a Podlaska",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/16269.png"
+    },
+    {
+        "id": 16270,
+        "name": "Sok\u00f3\u0142 Sieniawa",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/16270.png"
+    },
+    {
+        "id": 16271,
+        "name": "Stal Kra\u015bnik",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/16271.png"
+    },
+    {
+        "id": 16272,
+        "name": "Wis\u0142a Pu\u0142awy",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/16272.png"
+    },
+    {
+        "id": 16273,
+        "name": "Wis\u0142a Sandomierz",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/16273.png"
+    },
+    {
+        "id": 16274,
+        "name": "Wis\u0142oka D\u0119bica",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/16274.png"
+    },
+    {
+        "id": 16275,
+        "name": "Wi\u0105zownica",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/16275.png"
+    },
+    {
+        "id": 16276,
+        "name": "W\u00f3lczanka W. Pe\u0142ki\u0144ska",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/16276.png"
+    },
+    {
+        "id": 16277,
+        "name": "\u0141ag\u00f3w",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/16277.png"
+    },
+    {
+        "id": 16391,
+        "name": "G\u00f3rnik Zabrze U19",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/16391.png"
+    },
+    {
+        "id": 16838,
+        "name": "Czarni Sosnowiec W",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/16838.png"
+    },
+    {
+        "id": 17053,
+        "name": "Jeziorak I\u0142awa",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/17053.png"
+    },
+    {
+        "id": 17058,
+        "name": "LZS Agroplon Gluszyna",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/17058.png"
+    },
+    {
+        "id": 17075,
+        "name": "Odra Wodzislaw",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/17075.png"
+    },
+    {
+        "id": 17115,
+        "name": "Wieczysta Krak\u00f3w",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/17115.png"
+    },
+    {
+        "id": 17118,
+        "name": "\u015al\u0105sk \u015awi\u0119toch\u0142owice",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/17118.png"
+    },
+    {
+        "id": 17322,
+        "name": "Unia Tarnow",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/17322.png"
+    },
+    {
+        "id": 17361,
+        "name": "Polonia Warszawa U18",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/17361.png"
+    },
+    {
+        "id": 17362,
+        "name": "Rak\u00f3w Cz\u0119stochowa U18",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/17362.png"
+    },
+    {
+        "id": 17363,
+        "name": "Stal Rzesz\u00f3w U18",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/17363.png"
+    },
+    {
+        "id": 17364,
+        "name": "Warta Pozna\u0144 U18",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/17364.png"
+    },
+    {
+        "id": 17394,
+        "name": "Mamry Gi\u017cycko",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/17394.png"
+    },
+    {
+        "id": 17395,
+        "name": "Pilica Bia\u0142obrzegi",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/17395.png"
+    },
+    {
+        "id": 17396,
+        "name": "Wissa Szczuczyn",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/17396.png"
+    },
+    {
+        "id": 17397,
+        "name": "\u0141KS \u0141\u00f3d\u017a II",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/17397.png"
+    },
+    {
+        "id": 17398,
+        "name": "Kluczevia Stargard",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/17398.png"
+    },
+    {
+        "id": 17399,
+        "name": "Pogo\u0144 Nowe Skalmierzyce",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/17399.png"
+    },
+    {
+        "id": 17400,
+        "name": "Stolem Gniewino",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/17400.png"
+    },
+    {
+        "id": 17401,
+        "name": "Carina Gubin",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/17401.png"
+    },
+    {
+        "id": 17402,
+        "name": "Karkonosze Jelenia G\u00f3ra",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/17402.png"
+    },
+    {
+        "id": 17403,
+        "name": "Czarni Po\u0142aniec",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/17403.png"
+    },
+    {
+        "id": 17404,
+        "name": "Korona Rzeszow",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/17404.png"
+    },
+    {
+        "id": 17405,
+        "name": "Tomasovia Tomasz\u00f3w",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/17405.png"
+    },
+    {
+        "id": 17699,
+        "name": "Pogo\u0144 Szczecin U19",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/17699.png"
+    },
+    {
+        "id": 17741,
+        "name": "Powi\u015ble Dzierzgo\u0144",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/17741.png"
+    },
+    {
+        "id": 17742,
+        "name": "W\u0142oc\u0142avia W\u0142oc\u0142awek",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/17742.png"
+    },
+    {
+        "id": 17970,
+        "name": "Poland U17",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/17970.png"
+    },
+    {
+        "id": 18165,
+        "name": "Glinik Gorlice",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/18165.png"
+    },
+    {
+        "id": 18383,
+        "name": "Centra Ostrow Wielkopolski",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/18383.png"
+    },
+    {
+        "id": 18385,
+        "name": "Gedania Gdansk",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/18385.png"
+    },
+    {
+        "id": 18407,
+        "name": "Radzionkow",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/18407.png"
+    },
+    {
+        "id": 18408,
+        "name": "Solec K.",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/18408.png"
+    },
+    {
+        "id": 19053,
+        "name": "UKS \u0141\u00f3d\u017a",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/19053.png"
+    },
+    {
+        "id": 19131,
+        "name": "Victoria Horia",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/19131.png"
+    },
+    {
+        "id": 19233,
+        "name": "Gr\u00fcnwald",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/19233.png"
+    },
+    {
+        "id": 19246,
+        "name": "Ku\u017ania Ustro\u0144",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/19246.png"
+    },
+    {
+        "id": 19618,
+        "name": "M\u0142awianka M\u0142awa",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/19618.png"
+    },
+    {
+        "id": 19619,
+        "name": "Warta Sieradz",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/19619.png"
+    },
+    {
+        "id": 19620,
+        "name": "Vineta Wolin",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/19620.png"
+    },
+    {
+        "id": 19621,
+        "name": "Chrobry G\u0142og\u00f3w II",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/19621.png"
+    },
+    {
+        "id": 19622,
+        "name": "Rak\u00f3w Cz\u0119stochowa II",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/19622.png"
+    },
+    {
+        "id": 19623,
+        "name": "Lublinianka",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/19623.png"
+    },
+    {
+        "id": 19661,
+        "name": "Chojniczanka Chojnice II",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/19661.png"
+    },
+    {
+        "id": 19693,
+        "name": "Luzino",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/19693.png"
+    },
+    {
+        "id": 19698,
+        "name": "Nieciecza II",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/19698.png"
+    },
+    {
+        "id": 19728,
+        "name": "Wi\u015blanie Ja\u015bkowice",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/19728.png"
+    },
+    {
+        "id": 19742,
+        "name": "Lechia Dzier\u017coni\u00f3w",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/19742.png"
+    },
+    {
+        "id": 19743,
+        "name": "Start Je\u0142owa",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/19743.png"
+    },
+    {
+        "id": 19749,
+        "name": "Mied\u017a Legnica U18",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/19749.png"
+    },
+    {
+        "id": 20244,
+        "name": "Zag\u0142\u0119bie Lubin U19",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/20244.png"
+    },
+    {
+        "id": 20587,
+        "name": "Arka Gdynia U19",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/20587.png"
+    },
+    {
+        "id": 20588,
+        "name": "Cracovia U19",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/20588.png"
+    },
+    {
+        "id": 20589,
+        "name": "Escola Varsovia U19",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/20589.png"
+    },
+    {
+        "id": 20590,
+        "name": "Jagiellonia U19",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/20590.png"
+    },
+    {
+        "id": 20591,
+        "name": "Lechia Gda\u0144sk U19",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/20591.png"
+    },
+    {
+        "id": 20592,
+        "name": "Mied\u017a Legnica U19",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/20592.png"
+    },
+    {
+        "id": 20593,
+        "name": "Polonia Warszawa U19",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/20593.png"
+    },
+    {
+        "id": 20594,
+        "name": "Rak\u00f3w Cz\u0119stochowa U19",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/20594.png"
+    },
+    {
+        "id": 20595,
+        "name": "Wis\u0142a Krak\u00f3w U19",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/20595.png"
+    },
+    {
+        "id": 20596,
+        "name": "\u015al\u0105sk Wroc\u0142aw U19",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/20596.png"
+    },
+    {
+        "id": 20625,
+        "name": "Cartusia Kartuzy",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/20625.png"
+    },
+    {
+        "id": 20824,
+        "name": "Mlawa",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/20824.png"
+    },
+    {
+        "id": 20827,
+        "name": "Ceramika Opoczno",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/20827.png"
+    },
+    {
+        "id": 20830,
+        "name": "Jaros\u0142aw",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/20830.png"
+    },
+    {
+        "id": 20863,
+        "name": "Polonia Przemy\u015bl",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/20863.png"
+    },
+    {
+        "id": 20877,
+        "name": "Zag\u0142\u0119bie Sosnowiec II",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/20877.png"
+    },
+    {
+        "id": 21455,
+        "name": "Odra Bytom Odrza\u0144ski",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/21455.png"
+    },
+    {
+        "id": 21475,
+        "name": "Poland U16",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/21475.png"
+    },
+    {
+        "id": 21476,
+        "name": "Poland U18",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/21476.png"
+    },
+    {
+        "id": 21522,
+        "name": "Ku\u017ania Jawor",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/21522.png"
+    },
+    {
+        "id": 21584,
+        "name": "GKS Katowice W",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/21584.png"
+    },
+    {
+        "id": 21655,
+        "name": "Victoria Sulej\u00f3wek",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/21655.png"
+    },
+    {
+        "id": 21656,
+        "name": "\u0141om\u017ca",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/21656.png"
+    },
+    {
+        "id": 21657,
+        "name": "Note\u0107 Czarnk\u00f3w",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/21657.png"
+    },
+    {
+        "id": 21658,
+        "name": "Starowice Dolne",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/21658.png"
+    },
+    {
+        "id": 21659,
+        "name": "Unia Turza \u015al\u0105ska",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/21659.png"
+    },
+    {
+        "id": 21660,
+        "name": "Star Starachowice",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/21660.png"
+    },
+    {
+        "id": 21661,
+        "name": "\u015awidniczanka \u015awidnik",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/21661.png"
+    },
+    {
+        "id": 21859,
+        "name": "Odra Opole U19",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/21859.png"
+    },
+    {
+        "id": 21860,
+        "name": "Sandecja Nowy S\u0105cz U19",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/21860.png"
+    },
+    {
+        "id": 21861,
+        "name": "Warta Pozna\u0144 U19",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/21861.png"
+    },
+    {
+        "id": 21862,
+        "name": "Widzew \u0141\u00f3d\u017a U19",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/21862.png"
+    },
+    {
+        "id": 22197,
+        "name": "Start Krasnystaw",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/22197.png"
+    },
+    {
+        "id": 22257,
+        "name": "Akademia Pi\u0142karska LG",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/22257.png"
+    },
+    {
+        "id": 22259,
+        "name": "Pogon Szczecin W",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/22259.png"
+    },
+    {
+        "id": 22260,
+        "name": "Pogon Tczew W",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/22260.png"
+    },
+    {
+        "id": 22261,
+        "name": "Rekord Bielsko-Biala W",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/22261.png"
+    },
+    {
+        "id": 22262,
+        "name": "Slask Wroclaw W",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/22262.png"
+    },
+    {
+        "id": 22263,
+        "name": "Stomilanki Olsztyn W",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/22263.png"
+    },
+    {
+        "id": 22264,
+        "name": "UJ Krakow W",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/22264.png"
+    },
+    {
+        "id": 22896,
+        "name": "Calisia Kalisz",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/22896.png"
+    },
+    {
+        "id": 22907,
+        "name": "Piast Nowa Ruda",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/22907.png"
+    },
+    {
+        "id": 22910,
+        "name": "Sparta Katowice",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/22910.png"
+    },
+    {
+        "id": 23046,
+        "name": "Wis\u0142a P\u0142ock II",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/23046.png"
+    },
+    {
+        "id": 24324,
+        "name": "Wis\u0142a Krak\u00f3w II",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/24324.png"
+    },
+    {
+        "id": 24325,
+        "name": "Podlesianka",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/24325.png"
+    },
+    {
+        "id": 24326,
+        "name": "Polonia S\u0142ubice",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/24326.png"
+    },
+    {
+        "id": 24327,
+        "name": "Kotwica K\u00f3rnik",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/24327.png"
+    },
+    {
+        "id": 24328,
+        "name": "Wda \u015awiecie",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/24328.png"
+    },
+    {
+        "id": 24329,
+        "name": "Wybrze\u017ce Rewalskie Rewal",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/24329.png"
+    },
+    {
+        "id": 24330,
+        "name": "Polonia Lidzbark Warm.",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/24330.png"
+    },
+    {
+        "id": 24369,
+        "name": "LSS Voin\u021ba Sibiu",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/24369.png"
+    },
+    {
+        "id": 24392,
+        "name": "Resovia Rzesz\u00f3w W",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/24392.png"
+    },
+    {
+        "id": 24393,
+        "name": "Skra Cz\u0119stochowa W",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/24393.png"
+    },
+    {
+        "id": 24519,
+        "name": "Stal Rzesz\u00f3w U19",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/24519.png"
+    },
+    {
+        "id": 24785,
+        "name": "Barycz Su\u0142\u00f3w",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/24785.png"
+    },
+    {
+        "id": 24786,
+        "name": "Grom Nowy Staw",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/24786.png"
+    },
+    {
+        "id": 24787,
+        "name": "Podbeskidzie II",
+        "country": "Poland",
+        "logo": "https://media.api-sports.io/football/teams/24787.png"
+    }
+]

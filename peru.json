@@ -1,0 +1,992 @@
+[
+    {
+        "id": 30,
+        "name": "Peru",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/30.png"
+    },
+    {
+        "id": 2539,
+        "name": "UTC",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/2539.png"
+    },
+    {
+        "id": 2540,
+        "name": "Universitario",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/2540.png"
+    },
+    {
+        "id": 2541,
+        "name": "Cesar Vallejo",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/2541.png"
+    },
+    {
+        "id": 2542,
+        "name": "Ayacucho FC",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/2542.png"
+    },
+    {
+        "id": 2543,
+        "name": "Academia Cantolao",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/2543.png"
+    },
+    {
+        "id": 2544,
+        "name": "Sport Boys",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/2544.png"
+    },
+    {
+        "id": 2545,
+        "name": "Deportivo Municipal",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/2545.png"
+    },
+    {
+        "id": 2546,
+        "name": "Sporting Cristal",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/2546.png"
+    },
+    {
+        "id": 2547,
+        "name": "Real Garcilaso",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/2547.png"
+    },
+    {
+        "id": 2548,
+        "name": "Alianza Universidad",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/2548.png"
+    },
+    {
+        "id": 2549,
+        "name": "U. San Martin",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/2549.png"
+    },
+    {
+        "id": 2550,
+        "name": "Deportivo Binacional",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/2550.png"
+    },
+    {
+        "id": 2551,
+        "name": "Carlos A. Mannucci",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/2551.png"
+    },
+    {
+        "id": 2552,
+        "name": "Union Comercio",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/2552.png"
+    },
+    {
+        "id": 2553,
+        "name": "Alianza Lima",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/2553.png"
+    },
+    {
+        "id": 2554,
+        "name": "FBC Melgar",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/2554.png"
+    },
+    {
+        "id": 2555,
+        "name": "Sport Huancayo",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/2555.png"
+    },
+    {
+        "id": 2556,
+        "name": "Molinos El Pirata",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/2556.png"
+    },
+    {
+        "id": 2557,
+        "name": "Sport Rosario",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/2557.png"
+    },
+    {
+        "id": 2558,
+        "name": "Comerciantes Unidos",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/2558.png"
+    },
+    {
+        "id": 2559,
+        "name": "Juan Aurich",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/2559.png"
+    },
+    {
+        "id": 2560,
+        "name": "Alianza Atletico",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/2560.png"
+    },
+    {
+        "id": 2561,
+        "name": "Defensor LA Bocana",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/2561.png"
+    },
+    {
+        "id": 2562,
+        "name": "Cienciano",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/2562.png"
+    },
+    {
+        "id": 2563,
+        "name": "Union Huaral",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/2563.png"
+    },
+    {
+        "id": 2564,
+        "name": "Atletico Grau",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/2564.png"
+    },
+    {
+        "id": 2565,
+        "name": "Deportivo Hualgayoc",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/2565.png"
+    },
+    {
+        "id": 2566,
+        "name": "Sport Victoria",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/2566.png"
+    },
+    {
+        "id": 2567,
+        "name": "Alfredo Salinas",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/2567.png"
+    },
+    {
+        "id": 2568,
+        "name": "Deportivo Coopsol",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/2568.png"
+    },
+    {
+        "id": 2569,
+        "name": "LOS Caimanes",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/2569.png"
+    },
+    {
+        "id": 2570,
+        "name": "Serrato Pacasmayo",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/2570.png"
+    },
+    {
+        "id": 2571,
+        "name": "Sport Loreto",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/2571.png"
+    },
+    {
+        "id": 2572,
+        "name": "Cultural Santa Rosa",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/2572.png"
+    },
+    {
+        "id": 2573,
+        "name": "Sport Ancash",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/2573.png"
+    },
+    {
+        "id": 2575,
+        "name": "Union Tarapoto",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/2575.png"
+    },
+    {
+        "id": 2576,
+        "name": "Atletico Torino",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/2576.png"
+    },
+    {
+        "id": 4226,
+        "name": "Santos",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/4226.png"
+    },
+    {
+        "id": 10012,
+        "name": "Carlos Stein",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/10012.png"
+    },
+    {
+        "id": 10013,
+        "name": "Cusco",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/10013.png"
+    },
+    {
+        "id": 10014,
+        "name": "Deportivo Llacuabamba",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/10014.png"
+    },
+    {
+        "id": 10089,
+        "name": "Deportivo Llacuaba",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/10089.png"
+    },
+    {
+        "id": 10090,
+        "name": "Sport Chavelines Juniors",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/10090.png"
+    },
+    {
+        "id": 10492,
+        "name": "ADT",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/10492.png"
+    },
+    {
+        "id": 10493,
+        "name": "Alfonso Ugarte Puno",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/10493.png"
+    },
+    {
+        "id": 10494,
+        "name": "Comerciantes",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/10494.png"
+    },
+    {
+        "id": 10495,
+        "name": "Credicoop San Crist\u00f3bal",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/10495.png"
+    },
+    {
+        "id": 10496,
+        "name": "Escuela JTR",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/10496.png"
+    },
+    {
+        "id": 10497,
+        "name": "Miguel Grau",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/10497.png"
+    },
+    {
+        "id": 10498,
+        "name": "Municipal de Agomarca",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/10498.png"
+    },
+    {
+        "id": 10499,
+        "name": "Octavio Espinoza",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/10499.png"
+    },
+    {
+        "id": 10500,
+        "name": "Sport Estrella",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/10500.png"
+    },
+    {
+        "id": 10501,
+        "name": "Sport Huanta",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/10501.png"
+    },
+    {
+        "id": 11061,
+        "name": "Sporting Cristal U20",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/11061.png"
+    },
+    {
+        "id": 12258,
+        "name": "Las Palmas",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/12258.png"
+    },
+    {
+        "id": 12982,
+        "name": "Am\u00e9rica RJ U20",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/12982.png"
+    },
+    {
+        "id": 16203,
+        "name": "Peru U20",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/16203.png"
+    },
+    {
+        "id": 18060,
+        "name": "Andahuaylas",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/18060.png"
+    },
+    {
+        "id": 18061,
+        "name": "Athletico Maldonado",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/18061.png"
+    },
+    {
+        "id": 18062,
+        "name": "Atl\u00e9tico Chalaco",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/18062.png"
+    },
+    {
+        "id": 18063,
+        "name": "CD Coremarca",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/18063.png"
+    },
+    {
+        "id": 18064,
+        "name": "Colegio Comercio",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/18064.png"
+    },
+    {
+        "id": 18065,
+        "name": "Credicoop San Rom\u00e1n",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/18065.png"
+    },
+    {
+        "id": 18066,
+        "name": "DIM Miraflores",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/18066.png"
+    },
+    {
+        "id": 18067,
+        "name": "Defensor Laure Sur",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/18067.png"
+    },
+    {
+        "id": 18068,
+        "name": "Deportivo UNH",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/18068.png"
+    },
+    {
+        "id": 18069,
+        "name": "Deportivo Verdecocha",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/18069.png"
+    },
+    {
+        "id": 18070,
+        "name": "Estrella Azul",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/18070.png"
+    },
+    {
+        "id": 18071,
+        "name": "Estudiantes de Econom\u00eda",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/18071.png"
+    },
+    {
+        "id": 18072,
+        "name": "Estudiantes de T\u00facume",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/18072.png"
+    },
+    {
+        "id": 18073,
+        "name": "Futuro Majes de Majes",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/18073.png"
+    },
+    {
+        "id": 18074,
+        "name": "Juventud Cautivo",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/18074.png"
+    },
+    {
+        "id": 18075,
+        "name": "Maristas",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/18075.png"
+    },
+    {
+        "id": 18076,
+        "name": "Miguel Grau UDH",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/18076.png"
+    },
+    {
+        "id": 18077,
+        "name": "Nacional FCB",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/18077.png"
+    },
+    {
+        "id": 18078,
+        "name": "Nihue Rao",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/18078.png"
+    },
+    {
+        "id": 18079,
+        "name": "Real Sociedad Chugay",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/18079.png"
+    },
+    {
+        "id": 18080,
+        "name": "Renovaci\u00f3n Pacifico",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/18080.png"
+    },
+    {
+        "id": 18081,
+        "name": "UD Parachique",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/18081.png"
+    },
+    {
+        "id": 18082,
+        "name": "UDA",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/18082.png"
+    },
+    {
+        "id": 18083,
+        "name": "Uni\u00f3n Juventud",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/18083.png"
+    },
+    {
+        "id": 18084,
+        "name": "Uni\u00f3n San Mart\u00edn",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/18084.png"
+    },
+    {
+        "id": 18085,
+        "name": "\u00c1ngeles Negros",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/18085.png"
+    },
+    {
+        "id": 18261,
+        "name": "Peru W",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/18261.png"
+    },
+    {
+        "id": 20304,
+        "name": "Agua San Mart\u00edn",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/20304.png"
+    },
+    {
+        "id": 20305,
+        "name": "Atl\u00e9tico Bruces",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/20305.png"
+    },
+    {
+        "id": 20306,
+        "name": "Atl\u00e9tico Municipal",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/20306.png"
+    },
+    {
+        "id": 20307,
+        "name": "Atl\u00e9tico Porvenir",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/20307.png"
+    },
+    {
+        "id": 20308,
+        "name": "Atl\u00e9tico Verd\u00fan",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/20308.png"
+    },
+    {
+        "id": 20309,
+        "name": "Bagua Grande",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/20309.png"
+    },
+    {
+        "id": 20310,
+        "name": "Bolognesi",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/20310.png"
+    },
+    {
+        "id": 20311,
+        "name": "CSD Leoncio Prado",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/20311.png"
+    },
+    {
+        "id": 20312,
+        "name": "Cahusi\u00f1os San Miguel",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/20312.png"
+    },
+    {
+        "id": 20313,
+        "name": "Centro Estudiantil",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/20313.png"
+    },
+    {
+        "id": 20314,
+        "name": "Cultural Hurac\u00e1n",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/20314.png"
+    },
+    {
+        "id": 20315,
+        "name": "Cultural Volante",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/20315.png"
+    },
+    {
+        "id": 20316,
+        "name": "Defensor Concepci\u00f3n",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/20316.png"
+    },
+    {
+        "id": 20317,
+        "name": "Defensor Cubillas",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/20317.png"
+    },
+    {
+        "id": 20318,
+        "name": "Deportiva CIMAC",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/20318.png"
+    },
+    {
+        "id": 20319,
+        "name": "Deportivo Ferrocarril",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/20319.png"
+    },
+    {
+        "id": 20320,
+        "name": "Deportivo La Balsa",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/20320.png"
+    },
+    {
+        "id": 20321,
+        "name": "Deportivo La Victoria",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/20321.png"
+    },
+    {
+        "id": 20322,
+        "name": "Deportivo Vianney",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/20322.png"
+    },
+    {
+        "id": 20323,
+        "name": "Ecosem Pasco",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/20323.png"
+    },
+    {
+        "id": 20324,
+        "name": "Estudiantil CNI",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/20324.png"
+    },
+    {
+        "id": 20325,
+        "name": "Independiente San Felipe",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/20325.png"
+    },
+    {
+        "id": 20326,
+        "name": "Juventud Palmeiras",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/20326.png"
+    },
+    {
+        "id": 20328,
+        "name": "Los Libertadores",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/20328.png"
+    },
+    {
+        "id": 20329,
+        "name": "Los Tigres de Cayma",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/20329.png"
+    },
+    {
+        "id": 20330,
+        "name": "Mariscal Nieto",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/20330.png"
+    },
+    {
+        "id": 20331,
+        "name": "Once Caldas Huariaca",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/20331.png"
+    },
+    {
+        "id": 20332,
+        "name": "Paz Soldan",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/20332.png"
+    },
+    {
+        "id": 20333,
+        "name": "Rosario Celendin",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/20333.png"
+    },
+    {
+        "id": 20334,
+        "name": "San Andr\u00e9s de Runtu",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/20334.png"
+    },
+    {
+        "id": 20335,
+        "name": "Se\u00f1or de Mayo",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/20335.png"
+    },
+    {
+        "id": 20336,
+        "name": "Social El Olivo",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/20336.png"
+    },
+    {
+        "id": 20337,
+        "name": "Sport C\u00e1ceres",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/20337.png"
+    },
+    {
+        "id": 20338,
+        "name": "Universitario UNAP",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/20338.png"
+    },
+    {
+        "id": 20339,
+        "name": "Uni\u00f3n Santo Domingo",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/20339.png"
+    },
+    {
+        "id": 20340,
+        "name": "Virgen de la Natividad",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/20340.png"
+    },
+    {
+        "id": 20536,
+        "name": "Peru U19",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/20536.png"
+    },
+    {
+        "id": 20960,
+        "name": "Deportivo Garcilaso",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/20960.png"
+    },
+    {
+        "id": 21211,
+        "name": "Peru U17",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/21211.png"
+    },
+    {
+        "id": 22456,
+        "name": "Alfonso Ugarte Chicl\u00edn",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/22456.png"
+    },
+    {
+        "id": 22457,
+        "name": "Alianza Pisco",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/22457.png"
+    },
+    {
+        "id": 22458,
+        "name": "Altiplano y del Pac\u00edfico",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/22458.png"
+    },
+    {
+        "id": 22459,
+        "name": "Atletico Juventud Inclan",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/22459.png"
+    },
+    {
+        "id": 22460,
+        "name": "Atl\u00e9tico Chanchamayo",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/22460.png"
+    },
+    {
+        "id": 22461,
+        "name": "Atl\u00e9tico Hospital",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/22461.png"
+    },
+    {
+        "id": 22462,
+        "name": "Bent\u00edn Tacna Heroica",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/22462.png"
+    },
+    {
+        "id": 22463,
+        "name": "Boca Junior de La Choza",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/22463.png"
+    },
+    {
+        "id": 22464,
+        "name": "Calidad Porte\u00f1a",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/22464.png"
+    },
+    {
+        "id": 22465,
+        "name": "Castle",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/22465.png"
+    },
+    {
+        "id": 22466,
+        "name": "Cristo Rey de Negritos",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/22466.png"
+    },
+    {
+        "id": 22467,
+        "name": "Defensor Porvenir",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/22467.png"
+    },
+    {
+        "id": 22468,
+        "name": "Defensor Tacna",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/22468.png"
+    },
+    {
+        "id": 22469,
+        "name": "Deportiva Agropecuaria",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/22469.png"
+    },
+    {
+        "id": 22470,
+        "name": "Deportiva Arteaga",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/22470.png"
+    },
+    {
+        "id": 22471,
+        "name": "Deportiva Tahuishco",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/22471.png"
+    },
+    {
+        "id": 22472,
+        "name": "Deportivo Hurac\u00e1n",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/22472.png"
+    },
+    {
+        "id": 22473,
+        "name": "Diablos Rojos Huancav.",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/22473.png"
+    },
+    {
+        "id": 22474,
+        "name": "Diablos Rojos Juliaca",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/22474.png"
+    },
+    {
+        "id": 22475,
+        "name": "Escuela Municipal",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/22475.png"
+    },
+    {
+        "id": 22476,
+        "name": "FBC Club Aurora",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/22476.png"
+    },
+    {
+        "id": 22477,
+        "name": "Independiente Huachog",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/22477.png"
+    },
+    {
+        "id": 22478,
+        "name": "Inter Manantay",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/22478.png"
+    },
+    {
+        "id": 22479,
+        "name": "Juan Pablo II College",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/22479.png"
+    },
+    {
+        "id": 22480,
+        "name": "Juventud La Joya",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/22480.png"
+    },
+    {
+        "id": 22481,
+        "name": "La Mas\u00eda Nace",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/22481.png"
+    },
+    {
+        "id": 22482,
+        "name": "Lolo Fernandez",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/22482.png"
+    },
+    {
+        "id": 22483,
+        "name": "Municipal Challhuahuacho",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/22483.png"
+    },
+    {
+        "id": 22484,
+        "name": "Municipal Jaz\u00e1n",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/22484.png"
+    },
+    {
+        "id": 22485,
+        "name": "Pedro del Castillo R\u00edos",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/22485.png"
+    },
+    {
+        "id": 22486,
+        "name": "Real Atl\u00e9tico Nueva",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/22486.png"
+    },
+    {
+        "id": 22487,
+        "name": "Sociedad de Tiro 28",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/22487.png"
+    },
+    {
+        "id": 22488,
+        "name": "Star Ancash",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/22488.png"
+    },
+    {
+        "id": 22489,
+        "name": "UCV Moquegua",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/22489.png"
+    },
+    {
+        "id": 22490,
+        "name": "VRAEM",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/22490.png"
+    },
+    {
+        "id": 22491,
+        "name": "\u00c1ngeles Vizcachani",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/22491.png"
+    },
+    {
+        "id": 22543,
+        "name": "FC Cajamarca",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/22543.png"
+    },
+    {
+        "id": 22926,
+        "name": "Peru U23",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/22926.png"
+    },
+    {
+        "id": 23311,
+        "name": "San Marcos",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/23311.png"
+    },
+    {
+        "id": 23379,
+        "name": "Peru U17 W",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/23379.png"
+    },
+    {
+        "id": 23461,
+        "name": "Peru U20 W",
+        "country": "Peru",
+        "logo": "https://media.api-sports.io/football/teams/23461.png"
+    }
+]

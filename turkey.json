@@ -1,0 +1,2084 @@
+[
+    {
+        "id": 549,
+        "name": "Besiktas",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/549.png"
+    },
+    {
+        "id": 564,
+        "name": "Istanbul Basaksehir",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/564.png"
+    },
+    {
+        "id": 607,
+        "name": "Konyaspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/607.png"
+    },
+    {
+        "id": 611,
+        "name": "Fenerbahce",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/611.png"
+    },
+    {
+        "id": 645,
+        "name": "Galatasaray",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/645.png"
+    },
+    {
+        "id": 780,
+        "name": "Ankaraspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/780.png"
+    },
+    {
+        "id": 994,
+        "name": "Goztepe",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/994.png"
+    },
+    {
+        "id": 995,
+        "name": "Akhisar Belediye",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/995.png"
+    },
+    {
+        "id": 996,
+        "name": "Alanyaspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/996.png"
+    },
+    {
+        "id": 997,
+        "name": "Genclerbirligi",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/997.png"
+    },
+    {
+        "id": 998,
+        "name": "Trabzonspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/998.png"
+    },
+    {
+        "id": 999,
+        "name": "Yeni Malatyaspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/999.png"
+    },
+    {
+        "id": 1000,
+        "name": "Kardemir Karabukspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/1000.png"
+    },
+    {
+        "id": 1001,
+        "name": "Kayserispor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/1001.png"
+    },
+    {
+        "id": 1002,
+        "name": "Sivasspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/1002.png"
+    },
+    {
+        "id": 1003,
+        "name": "Bursaspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/1003.png"
+    },
+    {
+        "id": 1004,
+        "name": "Kasimpasa",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/1004.png"
+    },
+    {
+        "id": 1005,
+        "name": "Antalyaspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/1005.png"
+    },
+    {
+        "id": 1007,
+        "name": "Rizespor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/1007.png"
+    },
+    {
+        "id": 1008,
+        "name": "Gaziantepspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/1008.png"
+    },
+    {
+        "id": 1009,
+        "name": "Erzurum BB",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/1009.png"
+    },
+    {
+        "id": 1010,
+        "name": "Ankaragucu",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/1010.png"
+    },
+    {
+        "id": 1759,
+        "name": "Turkey W",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/1759.png"
+    },
+    {
+        "id": 3563,
+        "name": "Adana Demirspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/3563.png"
+    },
+    {
+        "id": 3564,
+        "name": "Adanaspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/3564.png"
+    },
+    {
+        "id": 3565,
+        "name": "Afjet Afyonspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/3565.png"
+    },
+    {
+        "id": 3566,
+        "name": "Altay",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/3566.png"
+    },
+    {
+        "id": 3567,
+        "name": "Alt\u0131nordu",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/3567.png"
+    },
+    {
+        "id": 3568,
+        "name": "Bal\u0131kesirspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/3568.png"
+    },
+    {
+        "id": 3569,
+        "name": "Boluspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/3569.png"
+    },
+    {
+        "id": 3570,
+        "name": "Denizlispor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/3570.png"
+    },
+    {
+        "id": 3571,
+        "name": "Elaz\u0131\u011fspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/3571.png"
+    },
+    {
+        "id": 3572,
+        "name": "Eski\u015fehirspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/3572.png"
+    },
+    {
+        "id": 3573,
+        "name": "Gazi\u015fehir Gaziantep",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/3573.png"
+    },
+    {
+        "id": 3574,
+        "name": "Giresunspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/3574.png"
+    },
+    {
+        "id": 3575,
+        "name": "Hatayspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/3575.png"
+    },
+    {
+        "id": 3576,
+        "name": "Osmanl\u0131spor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/3576.png"
+    },
+    {
+        "id": 3577,
+        "name": "\u00dcmraniyespor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/3577.png"
+    },
+    {
+        "id": 3578,
+        "name": "\u0130stanbulspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/3578.png"
+    },
+    {
+        "id": 3579,
+        "name": "Amed",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/3579.png"
+    },
+    {
+        "id": 3580,
+        "name": "Anadolu Sel\u00e7ukspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/3580.png"
+    },
+    {
+        "id": 3581,
+        "name": "Ankara Demirspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/3581.png"
+    },
+    {
+        "id": 3582,
+        "name": "BAK",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/3582.png"
+    },
+    {
+        "id": 3583,
+        "name": "BB Bodrumspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/3583.png"
+    },
+    {
+        "id": 3584,
+        "name": "Band\u0131rmaspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/3584.png"
+    },
+    {
+        "id": 3585,
+        "name": "Bayrampa\u015faspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/3585.png"
+    },
+    {
+        "id": 3586,
+        "name": "Dar\u0131ca Gen\u00e7lerbirli\u011fi",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/3586.png"
+    },
+    {
+        "id": 3587,
+        "name": "Etimesgut Belediyespor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/3587.png"
+    },
+    {
+        "id": 3588,
+        "name": "Ey\u00fcpspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/3588.png"
+    },
+    {
+        "id": 3589,
+        "name": "Fatih Karag\u00fcmr\u00fck",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/3589.png"
+    },
+    {
+        "id": 3590,
+        "name": "Fethiyespor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/3590.png"
+    },
+    {
+        "id": 3591,
+        "name": "G\u00fcm\u00fc\u015fhanespor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/3591.png"
+    },
+    {
+        "id": 3592,
+        "name": "Hacettepe",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/3592.png"
+    },
+    {
+        "id": 3593,
+        "name": "Kahramanmara\u015fspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/3593.png"
+    },
+    {
+        "id": 3594,
+        "name": "Kastamonuspor 1966",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/3594.png"
+    },
+    {
+        "id": 3595,
+        "name": "Ke\u00e7i\u00f6reng\u00fcc\u00fc",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/3595.png"
+    },
+    {
+        "id": 3596,
+        "name": "K\u0131rklarelispor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/3596.png"
+    },
+    {
+        "id": 3597,
+        "name": "Manisa BBSK",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/3597.png"
+    },
+    {
+        "id": 3598,
+        "name": "Manisaspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/3598.png"
+    },
+    {
+        "id": 3599,
+        "name": "Menemen Belediyespor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/3599.png"
+    },
+    {
+        "id": 3600,
+        "name": "Ni\u011fde Anadolu",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/3600.png"
+    },
+    {
+        "id": 3601,
+        "name": "Pendikspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/3601.png"
+    },
+    {
+        "id": 3602,
+        "name": "Sakaryaspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/3602.png"
+    },
+    {
+        "id": 3603,
+        "name": "Samsunspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/3603.png"
+    },
+    {
+        "id": 3604,
+        "name": "Sancaktepe Belediyespor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/3604.png"
+    },
+    {
+        "id": 3605,
+        "name": "Sar\u0131yer",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/3605.png"
+    },
+    {
+        "id": 3606,
+        "name": "Sivas Belediyespor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/3606.png"
+    },
+    {
+        "id": 3607,
+        "name": "Tarsus \u0130dman Yurdu",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/3607.png"
+    },
+    {
+        "id": 3608,
+        "name": "Tokatspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/3608.png"
+    },
+    {
+        "id": 3609,
+        "name": "Tuzlaspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/3609.png"
+    },
+    {
+        "id": 3610,
+        "name": "Uta\u015f U\u015fakspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/3610.png"
+    },
+    {
+        "id": 3611,
+        "name": "Zonguldak K\u00f6m\u00fcrspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/3611.png"
+    },
+    {
+        "id": 3612,
+        "name": "\u0130neg\u00f6lspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/3612.png"
+    },
+    {
+        "id": 3613,
+        "name": "\u015eanl\u0131urfaspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/3613.png"
+    },
+    {
+        "id": 6338,
+        "name": "Bayburt \u0130\u00d6\u0130",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/6338.png"
+    },
+    {
+        "id": 6339,
+        "name": "Ergene Velime\u015fespor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/6339.png"
+    },
+    {
+        "id": 6340,
+        "name": "Hekimo\u011flu Trabzon",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/6340.png"
+    },
+    {
+        "id": 6341,
+        "name": "K\u0131r\u015fehir Belediyespor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/6341.png"
+    },
+    {
+        "id": 6342,
+        "name": "Van BB",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/6342.png"
+    },
+    {
+        "id": 6343,
+        "name": "Yeni \u00c7orumspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/6343.png"
+    },
+    {
+        "id": 6503,
+        "name": "1074 \u00c7ank\u0131r\u0131spor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/6503.png"
+    },
+    {
+        "id": 6504,
+        "name": "12 Bing\u00f6lspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/6504.png"
+    },
+    {
+        "id": 6505,
+        "name": "1877 Alemda\u011fspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/6505.png"
+    },
+    {
+        "id": 6506,
+        "name": "1954 Kelkit Belediyespor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/6506.png"
+    },
+    {
+        "id": 6507,
+        "name": "68 Aksaray Belediyespor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/6507.png"
+    },
+    {
+        "id": 6508,
+        "name": "Ak\u015fehirspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/6508.png"
+    },
+    {
+        "id": 6509,
+        "name": "A\u011fr\u0131 1970",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/6509.png"
+    },
+    {
+        "id": 6510,
+        "name": "Bart\u0131nspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/6510.png"
+    },
+    {
+        "id": 6511,
+        "name": "Belediye Derincespor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/6511.png"
+    },
+    {
+        "id": 6512,
+        "name": "Bigaspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/6512.png"
+    },
+    {
+        "id": 6513,
+        "name": "Bitlis \u00d6zg\u00fczelderespor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/6513.png"
+    },
+    {
+        "id": 6514,
+        "name": "Boyabat 1868 Spor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/6514.png"
+    },
+    {
+        "id": 6515,
+        "name": "Boz\u00fcy\u00fck Vitraspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/6515.png"
+    },
+    {
+        "id": 6516,
+        "name": "Bucak O\u011fuzhanspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/6516.png"
+    },
+    {
+        "id": 6517,
+        "name": "Bursa Y\u0131ld\u0131r\u0131mspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/6517.png"
+    },
+    {
+        "id": 6518,
+        "name": "Dersimspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/6518.png"
+    },
+    {
+        "id": 6519,
+        "name": "Edirnespor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/6519.png"
+    },
+    {
+        "id": 6520,
+        "name": "G\u00f6relespor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/6520.png"
+    },
+    {
+        "id": 6521,
+        "name": "Hendek Spor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/6521.png"
+    },
+    {
+        "id": 6522,
+        "name": "Ho\u00e7van Spor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/6522.png"
+    },
+    {
+        "id": 6523,
+        "name": "Isparta 32 Spor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/6523.png"
+    },
+    {
+        "id": 6524,
+        "name": "I\u011fd\u0131r Es",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/6524.png"
+    },
+    {
+        "id": 6525,
+        "name": "Kahta 02 Spor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/6525.png"
+    },
+    {
+        "id": 6526,
+        "name": "Karaman Belediyespor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/6526.png"
+    },
+    {
+        "id": 6527,
+        "name": "Kars 36",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/6527.png"
+    },
+    {
+        "id": 6528,
+        "name": "Kastamonu \u00d6zel \u0130dare KHS",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/6528.png"
+    },
+    {
+        "id": 6529,
+        "name": "Kepez Belediyespor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/6529.png"
+    },
+    {
+        "id": 6530,
+        "name": "Kilis Belediyespor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/6530.png"
+    },
+    {
+        "id": 6531,
+        "name": "K\u0131r\u0131kkale B\u00fcy\u00fck Anadolu",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/6531.png"
+    },
+    {
+        "id": 6532,
+        "name": "Maltepespor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/6532.png"
+    },
+    {
+        "id": 6533,
+        "name": "Mardin BB",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/6533.png"
+    },
+    {
+        "id": 6534,
+        "name": "Merzifonspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/6534.png"
+    },
+    {
+        "id": 6535,
+        "name": "Modafen",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/6535.png"
+    },
+    {
+        "id": 6536,
+        "name": "Mu\u015f Menderesspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/6536.png"
+    },
+    {
+        "id": 6537,
+        "name": "Siirt \u0130l \u00d6zel \u0130daresi",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/6537.png"
+    },
+    {
+        "id": 6538,
+        "name": "Somaspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/6538.png"
+    },
+    {
+        "id": 6539,
+        "name": "Tav\u015fanl\u0131 Linyitspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/6539.png"
+    },
+    {
+        "id": 6540,
+        "name": "Yalova Kad\u0131k\u00f6y",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/6540.png"
+    },
+    {
+        "id": 6541,
+        "name": "Ye\u015filyurt Belediyespor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/6541.png"
+    },
+    {
+        "id": 6542,
+        "name": "Yozgatspor 1959",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/6542.png"
+    },
+    {
+        "id": 6543,
+        "name": "Y\u00fcksekova Belediyespor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/6543.png"
+    },
+    {
+        "id": 6544,
+        "name": "\u00c7ar\u015fambaspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/6544.png"
+    },
+    {
+        "id": 6545,
+        "name": "\u00c7ubukspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/6545.png"
+    },
+    {
+        "id": 6546,
+        "name": "\u0130\u00e7el \u0130dmanyurdu Spor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/6546.png"
+    },
+    {
+        "id": 7392,
+        "name": "24 Erzincanspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/7392.png"
+    },
+    {
+        "id": 7393,
+        "name": "Alt\u0131nda\u011f Belediyesispor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/7393.png"
+    },
+    {
+        "id": 7394,
+        "name": "Artvin Hopaspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/7394.png"
+    },
+    {
+        "id": 7395,
+        "name": "Batman Petrolspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/7395.png"
+    },
+    {
+        "id": 7396,
+        "name": "Buca FK",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/7396.png"
+    },
+    {
+        "id": 7397,
+        "name": "Cizrespor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/7397.png"
+    },
+    {
+        "id": 7398,
+        "name": "Diyarbekirspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/7398.png"
+    },
+    {
+        "id": 7399,
+        "name": "D\u00fczcespor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/7399.png"
+    },
+    {
+        "id": 7400,
+        "name": "Elaz\u0131\u011f Belediyespor FK",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/7400.png"
+    },
+    {
+        "id": 7401,
+        "name": "Erbaaspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/7401.png"
+    },
+    {
+        "id": 7402,
+        "name": "Erokspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/7402.png"
+    },
+    {
+        "id": 7403,
+        "name": "Erzin Spor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/7403.png"
+    },
+    {
+        "id": 7404,
+        "name": "Fatsa Belediyespor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/7404.png"
+    },
+    {
+        "id": 7405,
+        "name": "G\u00f6lc\u00fckspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/7405.png"
+    },
+    {
+        "id": 7406,
+        "name": "Halide Edip Ad\u0131var",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/7406.png"
+    },
+    {
+        "id": 7407,
+        "name": "Karacabey Belediyespor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/7407.png"
+    },
+    {
+        "id": 7408,
+        "name": "Karak\u00f6pr\u00fc Belediyespor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/7408.png"
+    },
+    {
+        "id": 7409,
+        "name": "Kar\u015f\u0131yaka",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/7409.png"
+    },
+    {
+        "id": 7410,
+        "name": "Kemerspor 2003",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/7410.png"
+    },
+    {
+        "id": 7411,
+        "name": "Kocaelispor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/7411.png"
+    },
+    {
+        "id": 7412,
+        "name": "Kozan Spor FK",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/7412.png"
+    },
+    {
+        "id": 7413,
+        "name": "K\u0131z\u0131lcab\u00f6l\u00fckspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/7413.png"
+    },
+    {
+        "id": 7414,
+        "name": "Mu\u011flaspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/7414.png"
+    },
+    {
+        "id": 7415,
+        "name": "Nazilli Belediyespor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/7415.png"
+    },
+    {
+        "id": 7416,
+        "name": "Nev\u015fehir Belediyespor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/7416.png"
+    },
+    {
+        "id": 7417,
+        "name": "Ofspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/7417.png"
+    },
+    {
+        "id": 7418,
+        "name": "Osmaniyespor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/7418.png"
+    },
+    {
+        "id": 7419,
+        "name": "Payasspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/7419.png"
+    },
+    {
+        "id": 7420,
+        "name": "Pazarspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/7420.png"
+    },
+    {
+        "id": 7421,
+        "name": "Serik Belediyespor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/7421.png"
+    },
+    {
+        "id": 7422,
+        "name": "Silivrispor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/7422.png"
+    },
+    {
+        "id": 7423,
+        "name": "Sultanbeyli Belediyespor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/7423.png"
+    },
+    {
+        "id": 7424,
+        "name": "Tepecikspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/7424.png"
+    },
+    {
+        "id": 7425,
+        "name": "Turgutluspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/7425.png"
+    },
+    {
+        "id": 7426,
+        "name": "Yeni Orduspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/7426.png"
+    },
+    {
+        "id": 7427,
+        "name": "Yomraspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/7427.png"
+    },
+    {
+        "id": 7428,
+        "name": "\u00c7ankaya FK",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/7428.png"
+    },
+    {
+        "id": 7429,
+        "name": "\u00c7atalcaspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/7429.png"
+    },
+    {
+        "id": 7430,
+        "name": "\u015eile Y\u0131ld\u0131zspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/7430.png"
+    },
+    {
+        "id": 7900,
+        "name": "Galatasaray U19",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/7900.png"
+    },
+    {
+        "id": 7947,
+        "name": "Alt\u0131nordu U19",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/7947.png"
+    },
+    {
+        "id": 8227,
+        "name": "Turkey U21",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/8227.png"
+    },
+    {
+        "id": 10351,
+        "name": "Turkey U19",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/10351.png"
+    },
+    {
+        "id": 11085,
+        "name": "Gebzespor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/11085.png"
+    },
+    {
+        "id": 11086,
+        "name": "K\u00f6rfez Spor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/11086.png"
+    },
+    {
+        "id": 11087,
+        "name": "Bergama Belediyespor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/11087.png"
+    },
+    {
+        "id": 11088,
+        "name": "Orhangazispor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/11088.png"
+    },
+    {
+        "id": 11089,
+        "name": "\u00c7anakkale Dardanel",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/11089.png"
+    },
+    {
+        "id": 11090,
+        "name": "Beylerbeyispor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/11090.png"
+    },
+    {
+        "id": 11091,
+        "name": "Kartalspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/11091.png"
+    },
+    {
+        "id": 11092,
+        "name": "K\u00fctahyaspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/11092.png"
+    },
+    {
+        "id": 11093,
+        "name": "Manavgatspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/11093.png"
+    },
+    {
+        "id": 11094,
+        "name": "Tekirda\u011fspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/11094.png"
+    },
+    {
+        "id": 11095,
+        "name": "Ad\u0131yaman 1954",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/11095.png"
+    },
+    {
+        "id": 11096,
+        "name": "Alibeyk\u00f6yspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/11096.png"
+    },
+    {
+        "id": 11097,
+        "name": "1461 Trabzon",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/11097.png"
+    },
+    {
+        "id": 11098,
+        "name": "Anadolu Ba\u011fc\u0131lar",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/11098.png"
+    },
+    {
+        "id": 11099,
+        "name": "Kayseri Erciyesspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/11099.png"
+    },
+    {
+        "id": 11100,
+        "name": "K\u0131r\u0131khanspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/11100.png"
+    },
+    {
+        "id": 11101,
+        "name": "Ye\u015fil Bursa",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/11101.png"
+    },
+    {
+        "id": 11102,
+        "name": "Denizli BB",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/11102.png"
+    },
+    {
+        "id": 11103,
+        "name": "D\u00fczyurtspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/11103.png"
+    },
+    {
+        "id": 11104,
+        "name": "Orduspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/11104.png"
+    },
+    {
+        "id": 11105,
+        "name": "Bucaspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/11105.png"
+    },
+    {
+        "id": 11106,
+        "name": "Arsinspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/11106.png"
+    },
+    {
+        "id": 11107,
+        "name": "Ayd\u0131nspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/11107.png"
+    },
+    {
+        "id": 11108,
+        "name": "Ayd\u0131nspor 1923",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/11108.png"
+    },
+    {
+        "id": 13364,
+        "name": "1955 Batman Belediyespor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13364.png"
+    },
+    {
+        "id": 13365,
+        "name": "Alt\u0131nova Belediyespor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13365.png"
+    },
+    {
+        "id": 13366,
+        "name": "Diyarbak\u0131r Yolspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13366.png"
+    },
+    {
+        "id": 13367,
+        "name": "Gaziosmanpa\u015faspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13367.png"
+    },
+    {
+        "id": 13368,
+        "name": "Kale Belediyespor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13368.png"
+    },
+    {
+        "id": 13369,
+        "name": "Karadeniz Ere\u011fli BSK",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13369.png"
+    },
+    {
+        "id": 13370,
+        "name": "Karl\u0131ova Y\u0131ld\u0131r\u0131m",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13370.png"
+    },
+    {
+        "id": 13371,
+        "name": "Mut \u0130dmanyurdu Belediye",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13371.png"
+    },
+    {
+        "id": 13372,
+        "name": "Sar\u0131kam\u0131\u015f Gen\u00e7lerbirli\u011fi",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13372.png"
+    },
+    {
+        "id": 13373,
+        "name": "Serhat Ardahanspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13373.png"
+    },
+    {
+        "id": 13374,
+        "name": "Sinopspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13374.png"
+    },
+    {
+        "id": 13375,
+        "name": "Yeni Amasyaspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13375.png"
+    },
+    {
+        "id": 13376,
+        "name": "Yeni\u00e7a\u011faspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13376.png"
+    },
+    {
+        "id": 13377,
+        "name": "\u00c7ay\u0131rovaspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13377.png"
+    },
+    {
+        "id": 13378,
+        "name": "\u00c7engelk\u00f6yspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13378.png"
+    },
+    {
+        "id": 13379,
+        "name": "\u00c7erkezk\u00f6y 1911",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13379.png"
+    },
+    {
+        "id": 13380,
+        "name": "\u00d6demi\u015fspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13380.png"
+    },
+    {
+        "id": 13381,
+        "name": "\u00dcnye 1957",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13381.png"
+    },
+    {
+        "id": 13382,
+        "name": "Mersin \u0130dmanyurdu",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13382.png"
+    },
+    {
+        "id": 13383,
+        "name": "\u0130stanbul G\u00fcng\u00f6renspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13383.png"
+    },
+    {
+        "id": 13384,
+        "name": "Anadolu \u00dcsk\u00fcdar",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13384.png"
+    },
+    {
+        "id": 13385,
+        "name": "Kocaeli Birlikspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13385.png"
+    },
+    {
+        "id": 13386,
+        "name": "K\u00f6rfez \u0130skenderunspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13386.png"
+    },
+    {
+        "id": 13387,
+        "name": "\u00c7ank\u0131r\u0131spor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13387.png"
+    },
+    {
+        "id": 13388,
+        "name": "Beypazari Sekerspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13388.png"
+    },
+    {
+        "id": 13389,
+        "name": "Boz\u00fcy\u00fckspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13389.png"
+    },
+    {
+        "id": 13390,
+        "name": "Diyarbakirspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13390.png"
+    },
+    {
+        "id": 13391,
+        "name": "\u00c7orumspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13391.png"
+    },
+    {
+        "id": 13392,
+        "name": "MKE K\u0131r\u0131kkalespor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13392.png"
+    },
+    {
+        "id": 13393,
+        "name": "Mardin 47 Spor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13393.png"
+    },
+    {
+        "id": 13394,
+        "name": "Mu\u015fspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13394.png"
+    },
+    {
+        "id": 13395,
+        "name": "Tatvan Gen\u00e7lerbirli\u011fi",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13395.png"
+    },
+    {
+        "id": 13396,
+        "name": "Arakl\u0131spor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13396.png"
+    },
+    {
+        "id": 13397,
+        "name": "Ayanc\u0131k Belediyespor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13397.png"
+    },
+    {
+        "id": 13398,
+        "name": "E\u011firdirspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13398.png"
+    },
+    {
+        "id": 13399,
+        "name": "Hakkarispor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13399.png"
+    },
+    {
+        "id": 13400,
+        "name": "Kurtalanspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13400.png"
+    },
+    {
+        "id": 13401,
+        "name": "Saray\u00f6n\u00fc Belediyespor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13401.png"
+    },
+    {
+        "id": 13402,
+        "name": "Sar\u0131kam\u0131\u015f Belediyespor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13402.png"
+    },
+    {
+        "id": 13403,
+        "name": "Sultangazispor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13403.png"
+    },
+    {
+        "id": 13404,
+        "name": "Yaprakl\u0131 Belediyespor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13404.png"
+    },
+    {
+        "id": 13405,
+        "name": "1920 Mara\u015fspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13405.png"
+    },
+    {
+        "id": 13406,
+        "name": "Arhavispor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13406.png"
+    },
+    {
+        "id": 13407,
+        "name": "Ayval\u0131kg\u00fcc\u00fc Belediyespor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13407.png"
+    },
+    {
+        "id": 13408,
+        "name": "A\u011fr\u0131 Gen\u00e7lerbirli\u011fi",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13408.png"
+    },
+    {
+        "id": 13409,
+        "name": "Bilecik \u0130l \u00d6zel \u0130daresi",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13409.png"
+    },
+    {
+        "id": 13410,
+        "name": "Edirnespor Gen\u00e7lik",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13410.png"
+    },
+    {
+        "id": 13411,
+        "name": "K\u0131z\u0131ltepe F\u0131ratspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13411.png"
+    },
+    {
+        "id": 13412,
+        "name": "Mu\u015f Demirspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13412.png"
+    },
+    {
+        "id": 13413,
+        "name": "Sand\u0131kl\u0131spor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13413.png"
+    },
+    {
+        "id": 13414,
+        "name": "Zara Belediyespor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13414.png"
+    },
+    {
+        "id": 13415,
+        "name": "\u00c7ank\u0131r\u0131 Belediye Gen\u00e7lik",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13415.png"
+    },
+    {
+        "id": 13416,
+        "name": "\u00c7ine Madranspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13416.png"
+    },
+    {
+        "id": 13417,
+        "name": "Ad\u0131yaman \u0130l \u00d6zel \u0130dare",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13417.png"
+    },
+    {
+        "id": 13418,
+        "name": "Bal\u00e7ova Ya\u015famspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13418.png"
+    },
+    {
+        "id": 13419,
+        "name": "Beyk\u00f6y Belediyespor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13419.png"
+    },
+    {
+        "id": 13420,
+        "name": "Hask\u00f6y Yildizspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13420.png"
+    },
+    {
+        "id": 13421,
+        "name": "Karsspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13421.png"
+    },
+    {
+        "id": 13422,
+        "name": "Kayseri \u015eekerspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13422.png"
+    },
+    {
+        "id": 13423,
+        "name": "Mardinspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13423.png"
+    },
+    {
+        "id": 13424,
+        "name": "Patnos Gen\u00e7likspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13424.png"
+    },
+    {
+        "id": 13425,
+        "name": "Sorgun Belediyespor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13425.png"
+    },
+    {
+        "id": 13426,
+        "name": "Trabzon Kanuni",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13426.png"
+    },
+    {
+        "id": 13427,
+        "name": "1930 Bafraspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13427.png"
+    },
+    {
+        "id": 13428,
+        "name": "Ad\u0131yamanspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13428.png"
+    },
+    {
+        "id": 13429,
+        "name": "Armutlu Belediyespor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13429.png"
+    },
+    {
+        "id": 13430,
+        "name": "Belediye Bing\u00f6lspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13430.png"
+    },
+    {
+        "id": 13431,
+        "name": "Elaz\u0131\u011f Belediyespor SK",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13431.png"
+    },
+    {
+        "id": 13432,
+        "name": "Elaz\u0131\u011f Belediyespor SK",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13432.png"
+    },
+    {
+        "id": 13433,
+        "name": "Girmeli Belediyespor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13433.png"
+    },
+    {
+        "id": 13434,
+        "name": "G\u00f6le Belediyespor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13434.png"
+    },
+    {
+        "id": 13435,
+        "name": "Ispartaspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13435.png"
+    },
+    {
+        "id": 13436,
+        "name": "I\u011fd\u0131r Gen\u00e7lerbirli\u011fispor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13436.png"
+    },
+    {
+        "id": 13437,
+        "name": "Mu\u015f Ovas\u0131spor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13437.png"
+    },
+    {
+        "id": 13438,
+        "name": "Siirtspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13438.png"
+    },
+    {
+        "id": 13439,
+        "name": "Tosya Belediyespor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13439.png"
+    },
+    {
+        "id": 13440,
+        "name": "\u00c7\u0131ksal\u0131nspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13440.png"
+    },
+    {
+        "id": 13441,
+        "name": "\u00dcnyespor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13441.png"
+    },
+    {
+        "id": 13442,
+        "name": "Afyonkarahisarspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13442.png"
+    },
+    {
+        "id": 13443,
+        "name": "Ayanc\u0131kspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13443.png"
+    },
+    {
+        "id": 13444,
+        "name": "Be\u015fikd\u00fcz\u00fcspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13444.png"
+    },
+    {
+        "id": 13445,
+        "name": "Emrespor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13445.png"
+    },
+    {
+        "id": 13446,
+        "name": "Hakkari Zapspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13446.png"
+    },
+    {
+        "id": 13447,
+        "name": "I\u011fd\u0131r \u00dcniversitesi",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13447.png"
+    },
+    {
+        "id": 13448,
+        "name": "Kadirlispor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13448.png"
+    },
+    {
+        "id": 13449,
+        "name": "Kilimli Belediyespor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13449.png"
+    },
+    {
+        "id": 13450,
+        "name": "U\u015fak Belediyespor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13450.png"
+    },
+    {
+        "id": 13451,
+        "name": "Yozgatspor A\u015e",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13451.png"
+    },
+    {
+        "id": 13452,
+        "name": "\u00c7erkezk\u00f6yspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13452.png"
+    },
+    {
+        "id": 13453,
+        "name": "\u0130skenderunspor 1967",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13453.png"
+    },
+    {
+        "id": 13454,
+        "name": "OYAK-Renaultspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13454.png"
+    },
+    {
+        "id": 13455,
+        "name": "Sivas 4 Eyl\u00fcl",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13455.png"
+    },
+    {
+        "id": 13456,
+        "name": "Ak\u00e7aabat Sebatspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13456.png"
+    },
+    {
+        "id": 13457,
+        "name": "Ke\u00e7i\u00f6ren Sportif",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13457.png"
+    },
+    {
+        "id": 13458,
+        "name": "L\u00fcleburgazspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13458.png"
+    },
+    {
+        "id": 13459,
+        "name": "Erzincan Refahiyespor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13459.png"
+    },
+    {
+        "id": 13460,
+        "name": "Erganispor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13460.png"
+    },
+    {
+        "id": 13461,
+        "name": "K\u00fc\u00e7\u00fck\u00e7ekmecespor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13461.png"
+    },
+    {
+        "id": 13462,
+        "name": "Yeni Iskenderunspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13462.png"
+    },
+    {
+        "id": 13463,
+        "name": "Kayapinar Belediyespor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13463.png"
+    },
+    {
+        "id": 13464,
+        "name": "Yimpas Yozgatspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/13464.png"
+    },
+    {
+        "id": 15100,
+        "name": "Ceyhanspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/15100.png"
+    },
+    {
+        "id": 15101,
+        "name": "Arnavutk\u00f6y Belediyespor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/15101.png"
+    },
+    {
+        "id": 15102,
+        "name": "Yalovaspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/15102.png"
+    },
+    {
+        "id": 15360,
+        "name": "Alt\u0131nda\u011f",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/15360.png"
+    },
+    {
+        "id": 15361,
+        "name": "Kestelspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/15361.png"
+    },
+    {
+        "id": 17020,
+        "name": "Burdur MAK\u00dc Spor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/17020.png"
+    },
+    {
+        "id": 17259,
+        "name": "76 I\u011fd\u0131r Belediyespor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/17259.png"
+    },
+    {
+        "id": 17260,
+        "name": "Ku\u015fadas\u0131spor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/17260.png"
+    },
+    {
+        "id": 17261,
+        "name": "Orduspor 1967",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/17261.png"
+    },
+    {
+        "id": 17685,
+        "name": "Yevpatoriya",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/17685.png"
+    },
+    {
+        "id": 17982,
+        "name": "Turkey U17",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/17982.png"
+    },
+    {
+        "id": 19075,
+        "name": "Turkey U18",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/19075.png"
+    },
+    {
+        "id": 19209,
+        "name": "Beykoz",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/19209.png"
+    },
+    {
+        "id": 19299,
+        "name": "Amasyaspor 1968",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/19299.png"
+    },
+    {
+        "id": 19300,
+        "name": "Eynesil Belediyespor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/19300.png"
+    },
+    {
+        "id": 19301,
+        "name": "Kartal Bulvarspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/19301.png"
+    },
+    {
+        "id": 19302,
+        "name": "Arguvan Belediyespor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/19302.png"
+    },
+    {
+        "id": 19303,
+        "name": "Efeler 09 Spor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/19303.png"
+    },
+    {
+        "id": 19304,
+        "name": "Sapanca Gen\u00e7likspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/19304.png"
+    },
+    {
+        "id": 19930,
+        "name": "Turkey U23",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/19930.png"
+    },
+    {
+        "id": 20292,
+        "name": "Bilecik 1969 Spor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/20292.png"
+    },
+    {
+        "id": 20293,
+        "name": "Cizre Serhatspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/20293.png"
+    },
+    {
+        "id": 20294,
+        "name": "Karab\u00fck \u0130dman Yurdu",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/20294.png"
+    },
+    {
+        "id": 20295,
+        "name": "Maz\u0131da\u011f\u0131 Fosfatspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/20295.png"
+    },
+    {
+        "id": 21035,
+        "name": "Tokat Bld Plevnespor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/21035.png"
+    },
+    {
+        "id": 21993,
+        "name": "Alia\u011fa FA\u015e",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/21993.png"
+    },
+    {
+        "id": 21994,
+        "name": "K\u00fc\u00e7\u00fck\u00e7ekmece Sinopspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/21994.png"
+    },
+    {
+        "id": 21995,
+        "name": "Talasg\u00fcc\u00fc Belediyespor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/21995.png"
+    },
+    {
+        "id": 21996,
+        "name": "\u0130neg\u00f6l Kafkas Gen\u00e7lik",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/21996.png"
+    },
+    {
+        "id": 21997,
+        "name": "Anadolu \u00dcniversitesi",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/21997.png"
+    },
+    {
+        "id": 21998,
+        "name": "Silifke Belediyespor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/21998.png"
+    },
+    {
+        "id": 21999,
+        "name": "Viven Bornova",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/21999.png"
+    },
+    {
+        "id": 22009,
+        "name": "Adana 1954 FK",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/22009.png"
+    },
+    {
+        "id": 22010,
+        "name": "Sebat Gen\u00e7likspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/22010.png"
+    },
+    {
+        "id": 22442,
+        "name": "Burhaniye Belediyespor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/22442.png"
+    },
+    {
+        "id": 22443,
+        "name": "Do\u011fubayaz\u0131t FK",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/22443.png"
+    },
+    {
+        "id": 22444,
+        "name": "Kumluca Belediyespor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/22444.png"
+    },
+    {
+        "id": 22445,
+        "name": "Ni\u011fde Belediyesispor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/22445.png"
+    },
+    {
+        "id": 22446,
+        "name": "Sincan Belediyespor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/22446.png"
+    },
+    {
+        "id": 22447,
+        "name": "S\u00f6kespor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/22447.png"
+    },
+    {
+        "id": 22448,
+        "name": "Yozgat Bld Bozokspor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/22448.png"
+    },
+    {
+        "id": 22449,
+        "name": "Yunus Emre Belediyespor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/22449.png"
+    },
+    {
+        "id": 22450,
+        "name": "\u00c7ank\u0131r\u0131 Saray 18",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/22450.png"
+    },
+    {
+        "id": 22451,
+        "name": "\u00c7orluspor 1947",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/22451.png"
+    },
+    {
+        "id": 22452,
+        "name": "\u015e\u0131rnak \u0130dmanyurdu",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/22452.png"
+    },
+    {
+        "id": 22501,
+        "name": "Turkey U16",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/22501.png"
+    },
+    {
+        "id": 24209,
+        "name": "Galatasaray W",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/24209.png"
+    },
+    {
+        "id": 24600,
+        "name": "1926 Polatl\u0131 Belediye",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/24600.png"
+    },
+    {
+        "id": 24601,
+        "name": "Kahramanmara\u015f \u0130stiklalsp",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/24601.png"
+    },
+    {
+        "id": 24602,
+        "name": "Nil\u00fcfer Belediye",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/24602.png"
+    },
+    {
+        "id": 24603,
+        "name": "Beykoz \u0130shakl\u0131spor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/24603.png"
+    },
+    {
+        "id": 24604,
+        "name": "Tire 2021 FK",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/24604.png"
+    },
+    {
+        "id": 24605,
+        "name": "T\u00fcrk Metal 1963",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/24605.png"
+    },
+    {
+        "id": 24606,
+        "name": "\u00c7ayelispor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/24606.png"
+    },
+    {
+        "id": 24607,
+        "name": "Viran\u015fehir Belediyespor",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/teams/24607.png"
+    }
+]

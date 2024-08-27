@@ -1,0 +1,410 @@
+[
+    {
+        "id": 1568,
+        "name": "Uzbekistan",
+        "country": "Uzbekistan",
+        "logo": "https://media.api-sports.io/football/teams/1568.png"
+    },
+    {
+        "id": 3695,
+        "name": "Lokomotiv",
+        "country": "Uzbekistan",
+        "logo": "https://media.api-sports.io/football/teams/3695.png"
+    },
+    {
+        "id": 4209,
+        "name": "Andijan",
+        "country": "Uzbekistan",
+        "logo": "https://media.api-sports.io/football/teams/4209.png"
+    },
+    {
+        "id": 4210,
+        "name": "Bunyodkor",
+        "country": "Uzbekistan",
+        "logo": "https://media.api-sports.io/football/teams/4210.png"
+    },
+    {
+        "id": 4211,
+        "name": "Buxoro",
+        "country": "Uzbekistan",
+        "logo": "https://media.api-sports.io/football/teams/4211.png"
+    },
+    {
+        "id": 4212,
+        "name": "Kokand-1912",
+        "country": "Uzbekistan",
+        "logo": "https://media.api-sports.io/football/teams/4212.png"
+    },
+    {
+        "id": 4213,
+        "name": "Mash'al",
+        "country": "Uzbekistan",
+        "logo": "https://media.api-sports.io/football/teams/4213.png"
+    },
+    {
+        "id": 4214,
+        "name": "Metalourg",
+        "country": "Uzbekistan",
+        "logo": "https://media.api-sports.io/football/teams/4214.png"
+    },
+    {
+        "id": 4215,
+        "name": "Nasaf",
+        "country": "Uzbekistan",
+        "logo": "https://media.api-sports.io/football/teams/4215.png"
+    },
+    {
+        "id": 4216,
+        "name": "Navbahor",
+        "country": "Uzbekistan",
+        "logo": "https://media.api-sports.io/football/teams/4216.png"
+    },
+    {
+        "id": 4217,
+        "name": "Neftchi",
+        "country": "Uzbekistan",
+        "logo": "https://media.api-sports.io/football/teams/4217.png"
+    },
+    {
+        "id": 4218,
+        "name": "Obod",
+        "country": "Uzbekistan",
+        "logo": "https://media.api-sports.io/football/teams/4218.png"
+    },
+    {
+        "id": 4219,
+        "name": "Olmaliq",
+        "country": "Uzbekistan",
+        "logo": "https://media.api-sports.io/football/teams/4219.png"
+    },
+    {
+        "id": 4220,
+        "name": "Pakhtakor",
+        "country": "Uzbekistan",
+        "logo": "https://media.api-sports.io/football/teams/4220.png"
+    },
+    {
+        "id": 4221,
+        "name": "Qizilqum",
+        "country": "Uzbekistan",
+        "logo": "https://media.api-sports.io/football/teams/4221.png"
+    },
+    {
+        "id": 4222,
+        "name": "Shortan",
+        "country": "Uzbekistan",
+        "logo": "https://media.api-sports.io/football/teams/4222.png"
+    },
+    {
+        "id": 4223,
+        "name": "Sogdiana",
+        "country": "Uzbekistan",
+        "logo": "https://media.api-sports.io/football/teams/4223.png"
+    },
+    {
+        "id": 4224,
+        "name": "Dinamo Samarqand",
+        "country": "Uzbekistan",
+        "logo": "https://media.api-sports.io/football/teams/4224.png"
+    },
+    {
+        "id": 4225,
+        "name": "Surkhon",
+        "country": "Uzbekistan",
+        "logo": "https://media.api-sports.io/football/teams/4225.png"
+    },
+    {
+        "id": 10963,
+        "name": "Uzbekistan U23",
+        "country": "Uzbekistan",
+        "logo": "https://media.api-sports.io/football/teams/10963.png"
+    },
+    {
+        "id": 13269,
+        "name": "Gulistan",
+        "country": "Uzbekistan",
+        "logo": "https://media.api-sports.io/football/teams/13269.png"
+    },
+    {
+        "id": 16379,
+        "name": "Istiklol Fergana",
+        "country": "Uzbekistan",
+        "logo": "https://media.api-sports.io/football/teams/16379.png"
+    },
+    {
+        "id": 16380,
+        "name": "Oq-tepa",
+        "country": "Uzbekistan",
+        "logo": "https://media.api-sports.io/football/teams/16380.png"
+    },
+    {
+        "id": 16381,
+        "name": "Xorazm",
+        "country": "Uzbekistan",
+        "logo": "https://media.api-sports.io/football/teams/16381.png"
+    },
+    {
+        "id": 16382,
+        "name": "Zaamin",
+        "country": "Uzbekistan",
+        "logo": "https://media.api-sports.io/football/teams/16382.png"
+    },
+    {
+        "id": 16579,
+        "name": "Aral Nukus",
+        "country": "Uzbekistan",
+        "logo": "https://media.api-sports.io/football/teams/16579.png"
+    },
+    {
+        "id": 16580,
+        "name": "Chigatoy",
+        "country": "Uzbekistan",
+        "logo": "https://media.api-sports.io/football/teams/16580.png"
+    },
+    {
+        "id": 16581,
+        "name": "G'ijduvon",
+        "country": "Uzbekistan",
+        "logo": "https://media.api-sports.io/football/teams/16581.png"
+    },
+    {
+        "id": 16582,
+        "name": "Lochin",
+        "country": "Uzbekistan",
+        "logo": "https://media.api-sports.io/football/teams/16582.png"
+    },
+    {
+        "id": 16583,
+        "name": "Lokomotiv BFK",
+        "country": "Uzbekistan",
+        "logo": "https://media.api-sports.io/football/teams/16583.png"
+    },
+    {
+        "id": 16584,
+        "name": "Neftgazmontaj",
+        "country": "Uzbekistan",
+        "logo": "https://media.api-sports.io/football/teams/16584.png"
+    },
+    {
+        "id": 16585,
+        "name": "Yangiyer",
+        "country": "Uzbekistan",
+        "logo": "https://media.api-sports.io/football/teams/16585.png"
+    },
+    {
+        "id": 16586,
+        "name": "Zhomboy",
+        "country": "Uzbekistan",
+        "logo": "https://media.api-sports.io/football/teams/16586.png"
+    },
+    {
+        "id": 16615,
+        "name": "Rubin",
+        "country": "Uzbekistan",
+        "logo": "https://media.api-sports.io/football/teams/16615.png"
+    },
+    {
+        "id": 16945,
+        "name": "Uzbekistan W",
+        "country": "Uzbekistan",
+        "logo": "https://media.api-sports.io/football/teams/16945.png"
+    },
+    {
+        "id": 18723,
+        "name": "Olympic",
+        "country": "Uzbekistan",
+        "logo": "https://media.api-sports.io/football/teams/18723.png"
+    },
+    {
+        "id": 18785,
+        "name": "Aral",
+        "country": "Uzbekistan",
+        "logo": "https://media.api-sports.io/football/teams/18785.png"
+    },
+    {
+        "id": 18786,
+        "name": "Binokor",
+        "country": "Uzbekistan",
+        "logo": "https://media.api-sports.io/football/teams/18786.png"
+    },
+    {
+        "id": 18787,
+        "name": "Dostlik",
+        "country": "Uzbekistan",
+        "logo": "https://media.api-sports.io/football/teams/18787.png"
+    },
+    {
+        "id": 18788,
+        "name": "Dostlik Oltiariq",
+        "country": "Uzbekistan",
+        "logo": "https://media.api-sports.io/football/teams/18788.png"
+    },
+    {
+        "id": 18789,
+        "name": "Keles",
+        "country": "Uzbekistan",
+        "logo": "https://media.api-sports.io/football/teams/18789.png"
+    },
+    {
+        "id": 18790,
+        "name": "Paxtakor-79",
+        "country": "Uzbekistan",
+        "logo": "https://media.api-sports.io/football/teams/18790.png"
+    },
+    {
+        "id": 18791,
+        "name": "Qumqorgon",
+        "country": "Uzbekistan",
+        "logo": "https://media.api-sports.io/football/teams/18791.png"
+    },
+    {
+        "id": 18792,
+        "name": "Shahrixonchi",
+        "country": "Uzbekistan",
+        "logo": "https://media.api-sports.io/football/teams/18792.png"
+    },
+    {
+        "id": 18793,
+        "name": "Unired",
+        "country": "Uzbekistan",
+        "logo": "https://media.api-sports.io/football/teams/18793.png"
+    },
+    {
+        "id": 18798,
+        "name": "Denov",
+        "country": "Uzbekistan",
+        "logo": "https://media.api-sports.io/football/teams/18798.png"
+    },
+    {
+        "id": 18809,
+        "name": "Andijan II",
+        "country": "Uzbekistan",
+        "logo": "https://media.api-sports.io/football/teams/18809.png"
+    },
+    {
+        "id": 20721,
+        "name": "Turan",
+        "country": "Uzbekistan",
+        "logo": "https://media.api-sports.io/football/teams/20721.png"
+    },
+    {
+        "id": 21061,
+        "name": "Uzbekistan U20",
+        "country": "Uzbekistan",
+        "logo": "https://media.api-sports.io/football/teams/21061.png"
+    },
+    {
+        "id": 21159,
+        "name": "Jayxun",
+        "country": "Uzbekistan",
+        "logo": "https://media.api-sports.io/football/teams/21159.png"
+    },
+    {
+        "id": 21160,
+        "name": "Jizzax",
+        "country": "Uzbekistan",
+        "logo": "https://media.api-sports.io/football/teams/21160.png"
+    },
+    {
+        "id": 21161,
+        "name": "Nurafshon-Bukhara",
+        "country": "Uzbekistan",
+        "logo": "https://media.api-sports.io/football/teams/21161.png"
+    },
+    {
+        "id": 21162,
+        "name": "Olimpiya Toshkent",
+        "country": "Uzbekistan",
+        "logo": "https://media.api-sports.io/football/teams/21162.png"
+    },
+    {
+        "id": 21163,
+        "name": "Sementchi Kuvasoy",
+        "country": "Uzbekistan",
+        "logo": "https://media.api-sports.io/football/teams/21163.png"
+    },
+    {
+        "id": 21164,
+        "name": "Yangiyul",
+        "country": "Uzbekistan",
+        "logo": "https://media.api-sports.io/football/teams/21164.png"
+    },
+    {
+        "id": 21446,
+        "name": "Uzbekistan U17",
+        "country": "Uzbekistan",
+        "logo": "https://media.api-sports.io/football/teams/21446.png"
+    },
+    {
+        "id": 22440,
+        "name": "Uzbekistan U21",
+        "country": "Uzbekistan",
+        "logo": "https://media.api-sports.io/football/teams/22440.png"
+    },
+    {
+        "id": 23207,
+        "name": "Uzbekistan U20 W",
+        "country": "Uzbekistan",
+        "logo": "https://media.api-sports.io/football/teams/23207.png"
+    },
+    {
+        "id": 23309,
+        "name": "Olimpik-Mobiuz",
+        "country": "Uzbekistan",
+        "logo": "https://media.api-sports.io/football/teams/23309.png"
+    },
+    {
+        "id": 23389,
+        "name": "Andijan Football Academy",
+        "country": "Uzbekistan",
+        "logo": "https://media.api-sports.io/football/teams/23389.png"
+    },
+    {
+        "id": 23390,
+        "name": "Buxoro University",
+        "country": "Uzbekistan",
+        "logo": "https://media.api-sports.io/football/teams/23390.png"
+    },
+    {
+        "id": 23391,
+        "name": "Fergana University",
+        "country": "Uzbekistan",
+        "logo": "https://media.api-sports.io/football/teams/23391.png"
+    },
+    {
+        "id": 23392,
+        "name": "Namangan Academy",
+        "country": "Uzbekistan",
+        "logo": "https://media.api-sports.io/football/teams/23392.png"
+    },
+    {
+        "id": 23393,
+        "name": "Navoiy Football Academy",
+        "country": "Uzbekistan",
+        "logo": "https://media.api-sports.io/football/teams/23393.png"
+    },
+    {
+        "id": 23394,
+        "name": "Qiziriq",
+        "country": "Uzbekistan",
+        "logo": "https://media.api-sports.io/football/teams/23394.png"
+    },
+    {
+        "id": 23395,
+        "name": "Qoraqalpog\u2018iston Academy",
+        "country": "Uzbekistan",
+        "logo": "https://media.api-sports.io/football/teams/23395.png"
+    },
+    {
+        "id": 23396,
+        "name": "Syrdarya Academy",
+        "country": "Uzbekistan",
+        "logo": "https://media.api-sports.io/football/teams/23396.png"
+    },
+    {
+        "id": 23397,
+        "name": "Tashkent Academy",
+        "country": "Uzbekistan",
+        "logo": "https://media.api-sports.io/football/teams/23397.png"
+    }
+]

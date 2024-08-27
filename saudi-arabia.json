@@ -1,0 +1,614 @@
+[
+    {
+        "id": 23,
+        "name": "Saudi Arabia",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/23.png"
+    },
+    {
+        "id": 2926,
+        "name": "Al Baten",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/2926.png"
+    },
+    {
+        "id": 2927,
+        "name": "Najran",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/2927.png"
+    },
+    {
+        "id": 2928,
+        "name": "Al Khaleej Saihat",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/2928.png"
+    },
+    {
+        "id": 2929,
+        "name": "Al-Ahli Jeddah",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/2929.png"
+    },
+    {
+        "id": 2930,
+        "name": "Al-Faisaly FC",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/2930.png"
+    },
+    {
+        "id": 2931,
+        "name": "Al-Fateh",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/2931.png"
+    },
+    {
+        "id": 2932,
+        "name": "Al-Hilal Saudi FC",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/2932.png"
+    },
+    {
+        "id": 2933,
+        "name": "Al-Qadisiyah FC",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/2933.png"
+    },
+    {
+        "id": 2934,
+        "name": "Al-Ettifaq",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/2934.png"
+    },
+    {
+        "id": 2935,
+        "name": "Al-Raed",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/2935.png"
+    },
+    {
+        "id": 2936,
+        "name": "Al Taawon",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/2936.png"
+    },
+    {
+        "id": 2937,
+        "name": "Al Wehda Club",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/2937.png"
+    },
+    {
+        "id": 2938,
+        "name": "Al-Ittihad FC",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/2938.png"
+    },
+    {
+        "id": 2939,
+        "name": "Al-Nassr",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/2939.png"
+    },
+    {
+        "id": 2940,
+        "name": "Al Shabab",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/2940.png"
+    },
+    {
+        "id": 2941,
+        "name": "Al-Kawkab",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/2941.png"
+    },
+    {
+        "id": 2942,
+        "name": "Al Taee",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/2942.png"
+    },
+    {
+        "id": 2943,
+        "name": "Ohod",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/2943.png"
+    },
+    {
+        "id": 2944,
+        "name": "Al-Fayha",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/2944.png"
+    },
+    {
+        "id": 2945,
+        "name": "Al-Hazm",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/2945.png"
+    },
+    {
+        "id": 2946,
+        "name": "Al Najoom",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/2946.png"
+    },
+    {
+        "id": 2947,
+        "name": "Jeddah Club",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/2947.png"
+    },
+    {
+        "id": 2948,
+        "name": "Hajer",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/2948.png"
+    },
+    {
+        "id": 2950,
+        "name": "Al-Adalah",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/2950.png"
+    },
+    {
+        "id": 2951,
+        "name": "Abha",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/2951.png"
+    },
+    {
+        "id": 2952,
+        "name": "Al Mojzel",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/2952.png"
+    },
+    {
+        "id": 2953,
+        "name": "Al-Washm",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/2953.png"
+    },
+    {
+        "id": 2954,
+        "name": "Al-Ansar",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/2954.png"
+    },
+    {
+        "id": 2955,
+        "name": "Al Jeel",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/2955.png"
+    },
+    {
+        "id": 2956,
+        "name": "Damac",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/2956.png"
+    },
+    {
+        "id": 2957,
+        "name": "Al Shoalah",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/2957.png"
+    },
+    {
+        "id": 2958,
+        "name": "Al Jabalain",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/2958.png"
+    },
+    {
+        "id": 2959,
+        "name": "Al Qaisoma",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/2959.png"
+    },
+    {
+        "id": 2960,
+        "name": "Al Nahdha",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/2960.png"
+    },
+    {
+        "id": 2961,
+        "name": "Al Orubah",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/2961.png"
+    },
+    {
+        "id": 2962,
+        "name": "Al-Muzahmiyya",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/2962.png"
+    },
+    {
+        "id": 2963,
+        "name": "Al-Taqdom",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/2963.png"
+    },
+    {
+        "id": 2964,
+        "name": "Al-Watani",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/2964.png"
+    },
+    {
+        "id": 2965,
+        "name": "Al-Wajj",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/2965.png"
+    },
+    {
+        "id": 2966,
+        "name": "Al Bukayriyah",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/2966.png"
+    },
+    {
+        "id": 2967,
+        "name": "Al-Draih",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/2967.png"
+    },
+    {
+        "id": 2968,
+        "name": "Al-Ghazwa",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/2968.png"
+    },
+    {
+        "id": 2969,
+        "name": "Al-Sahel",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/2969.png"
+    },
+    {
+        "id": 2970,
+        "name": "Afif",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/2970.png"
+    },
+    {
+        "id": 2971,
+        "name": "Al Arabi SC",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/2971.png"
+    },
+    {
+        "id": 2972,
+        "name": "Al-Hait",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/2972.png"
+    },
+    {
+        "id": 2973,
+        "name": "Arar",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/2973.png"
+    },
+    {
+        "id": 2974,
+        "name": "Al-Suqoor",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/2974.png"
+    },
+    {
+        "id": 2975,
+        "name": "Al Drae",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/2975.png"
+    },
+    {
+        "id": 2976,
+        "name": "Al-Hjazz",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/2976.png"
+    },
+    {
+        "id": 2977,
+        "name": "Al Akhdoud",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/2977.png"
+    },
+    {
+        "id": 2978,
+        "name": "Hetten FC",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/2978.png"
+    },
+    {
+        "id": 2979,
+        "name": "Al Jndal",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/2979.png"
+    },
+    {
+        "id": 2980,
+        "name": "Al-Khlood",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/2980.png"
+    },
+    {
+        "id": 2981,
+        "name": "Al-Riyadh",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/2981.png"
+    },
+    {
+        "id": 2982,
+        "name": "Al-Sharq",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/2982.png"
+    },
+    {
+        "id": 2983,
+        "name": "Al-Jabil",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/2983.png"
+    },
+    {
+        "id": 2984,
+        "name": "Al-Thuqbah",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/2984.png"
+    },
+    {
+        "id": 2985,
+        "name": "Al Tuhami",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/2985.png"
+    },
+    {
+        "id": 2986,
+        "name": "Al-Nakhil",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/2986.png"
+    },
+    {
+        "id": 2987,
+        "name": "Al Oyoun",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/2987.png"
+    },
+    {
+        "id": 2988,
+        "name": "Al Badaya",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/2988.png"
+    },
+    {
+        "id": 2989,
+        "name": "Sdoos",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/2989.png"
+    },
+    {
+        "id": 2990,
+        "name": "Al Safa",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/2990.png"
+    },
+    {
+        "id": 2991,
+        "name": "Al Taraji",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/2991.png"
+    },
+    {
+        "id": 2992,
+        "name": "Al Najma",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/2992.png"
+    },
+    {
+        "id": 6257,
+        "name": "Al Taqdom",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/6257.png"
+    },
+    {
+        "id": 6258,
+        "name": "Hottain",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/6258.png"
+    },
+    {
+        "id": 10301,
+        "name": "Saudi Arabia U20",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/10301.png"
+    },
+    {
+        "id": 10502,
+        "name": "Afief",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/10502.png"
+    },
+    {
+        "id": 10503,
+        "name": "Al Anwar",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/10503.png"
+    },
+    {
+        "id": 10504,
+        "name": "Al Draih",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/10504.png"
+    },
+    {
+        "id": 10505,
+        "name": "Al Entesar",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/10505.png"
+    },
+    {
+        "id": 10506,
+        "name": "Al Hjazz",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/10506.png"
+    },
+    {
+        "id": 10507,
+        "name": "Al Jandal",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/10507.png"
+    },
+    {
+        "id": 10508,
+        "name": "Al Jubail",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/10508.png"
+    },
+    {
+        "id": 10509,
+        "name": "Al Kholood",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/10509.png"
+    },
+    {
+        "id": 10510,
+        "name": "Al Rawdhah",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/10510.png"
+    },
+    {
+        "id": 10511,
+        "name": "Al Riyadh",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/10511.png"
+    },
+    {
+        "id": 10512,
+        "name": "Al Sharq",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/10512.png"
+    },
+    {
+        "id": 10513,
+        "name": "Al Suqoor",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/10513.png"
+    },
+    {
+        "id": 10514,
+        "name": "Al-Lewaa",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/10514.png"
+    },
+    {
+        "id": 10515,
+        "name": "Al-Sadd",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/10515.png"
+    },
+    {
+        "id": 10516,
+        "name": "Okaz",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/10516.png"
+    },
+    {
+        "id": 10517,
+        "name": "Tabarjal",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/10517.png"
+    },
+    {
+        "id": 10518,
+        "name": "Tuwaiq",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/10518.png"
+    },
+    {
+        "id": 10519,
+        "name": "Al Amgad",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/10519.png"
+    },
+    {
+        "id": 10520,
+        "name": "Al Nairyah",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/10520.png"
+    },
+    {
+        "id": 10521,
+        "name": "Al Qotah",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/10521.png"
+    },
+    {
+        "id": 10522,
+        "name": "Al Shahed",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/10522.png"
+    },
+    {
+        "id": 10523,
+        "name": "Al Baha",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/10523.png"
+    },
+    {
+        "id": 10524,
+        "name": "Al Zulfi",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/10524.png"
+    },
+    {
+        "id": 10694,
+        "name": "Al Adalh",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/10694.png"
+    },
+    {
+        "id": 10695,
+        "name": "Al-Ain Atawlah",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/10695.png"
+    },
+    {
+        "id": 10955,
+        "name": "Saudi Arabia U23",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/10955.png"
+    },
+    {
+        "id": 13170,
+        "name": "Al-Ain",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/13170.png"
+    },
+    {
+        "id": 15362,
+        "name": "Al Sahel",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/15362.png"
+    },
+    {
+        "id": 17443,
+        "name": "Bisha",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/17443.png"
+    },
+    {
+        "id": 20453,
+        "name": "Saudi Arabia W",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/20453.png"
+    },
+    {
+        "id": 21444,
+        "name": "Saudi Arabia U17",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/21444.png"
+    },
+    {
+        "id": 22436,
+        "name": "Saudi Arabia U19",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/teams/22436.png"
+    }
+]

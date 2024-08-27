@@ -1,0 +1,512 @@
+[
+    {
+        "id": 1148,
+        "name": "Emelec",
+        "country": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/1148.png"
+    },
+    {
+        "id": 1149,
+        "name": "Delfin SC",
+        "country": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/1149.png"
+    },
+    {
+        "id": 1150,
+        "name": "El Nacional",
+        "country": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/1150.png"
+    },
+    {
+        "id": 1151,
+        "name": "Tecnico Universitario",
+        "country": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/1151.png"
+    },
+    {
+        "id": 1152,
+        "name": "Barcelona SC",
+        "country": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/1152.png"
+    },
+    {
+        "id": 1153,
+        "name": "Independiente del Valle",
+        "country": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/1153.png"
+    },
+    {
+        "id": 1154,
+        "name": "Deportivo Cuenca",
+        "country": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/1154.png"
+    },
+    {
+        "id": 1155,
+        "name": "Macara",
+        "country": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/1155.png"
+    },
+    {
+        "id": 1156,
+        "name": "Aucas",
+        "country": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/1156.png"
+    },
+    {
+        "id": 1157,
+        "name": "Universidad Catolica",
+        "country": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/1157.png"
+    },
+    {
+        "id": 1158,
+        "name": "LDU de Quito",
+        "country": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/1158.png"
+    },
+    {
+        "id": 1159,
+        "name": "Guayaquil City FC",
+        "country": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/1159.png"
+    },
+    {
+        "id": 1160,
+        "name": "Fuerza Amarilla",
+        "country": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/1160.png"
+    },
+    {
+        "id": 1161,
+        "name": "Clan Juvenil",
+        "country": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/1161.png"
+    },
+    {
+        "id": 1162,
+        "name": "Mushuc Runa SC",
+        "country": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/1162.png"
+    },
+    {
+        "id": 1980,
+        "name": "Manta FC",
+        "country": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/1980.png"
+    },
+    {
+        "id": 1981,
+        "name": "Deportivo Colon",
+        "country": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/1981.png"
+    },
+    {
+        "id": 1982,
+        "name": "Deportivo Espoli",
+        "country": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/1982.png"
+    },
+    {
+        "id": 1983,
+        "name": "Imbabura",
+        "country": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/1983.png"
+    },
+    {
+        "id": 1984,
+        "name": "Deportivo Quito",
+        "country": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/1984.png"
+    },
+    {
+        "id": 1985,
+        "name": "CD Olmedo",
+        "country": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/1985.png"
+    },
+    {
+        "id": 1986,
+        "name": "Gualaceo SC",
+        "country": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/1986.png"
+    },
+    {
+        "id": 1987,
+        "name": "LDU Loja",
+        "country": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/1987.png"
+    },
+    {
+        "id": 1988,
+        "name": "LDU Portoviejo",
+        "country": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/1988.png"
+    },
+    {
+        "id": 1990,
+        "name": "America de Quito",
+        "country": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/1990.png"
+    },
+    {
+        "id": 1991,
+        "name": "Puerto Quito",
+        "country": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/1991.png"
+    },
+    {
+        "id": 1992,
+        "name": "Orense SC",
+        "country": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/1992.png"
+    },
+    {
+        "id": 2237,
+        "name": "Duros del Balon",
+        "country": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2237.png"
+    },
+    {
+        "id": 2238,
+        "name": "UT Cotopaxi",
+        "country": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2238.png"
+    },
+    {
+        "id": 2382,
+        "name": "Ecuador",
+        "country": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/2382.png"
+    },
+    {
+        "id": 10111,
+        "name": "9 de Octubre",
+        "country": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/10111.png"
+    },
+    {
+        "id": 10112,
+        "name": "Chacaritas",
+        "country": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/10112.png"
+    },
+    {
+        "id": 10286,
+        "name": "Ecuador U20",
+        "country": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/10286.png"
+    },
+    {
+        "id": 11055,
+        "name": "Independiente U20",
+        "country": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/11055.png"
+    },
+    {
+        "id": 11678,
+        "name": "PNH FC",
+        "country": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/11678.png"
+    },
+    {
+        "id": 11680,
+        "name": "US LaJeune",
+        "country": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/11680.png"
+    },
+    {
+        "id": 12506,
+        "name": "Ecuador U17",
+        "country": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/12506.png"
+    },
+    {
+        "id": 13812,
+        "name": "Deportivo Quevedo",
+        "country": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/13812.png"
+    },
+    {
+        "id": 13813,
+        "name": "Deportivo Azogues",
+        "country": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/13813.png"
+    },
+    {
+        "id": 13814,
+        "name": "Ferroviarios",
+        "country": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/13814.png"
+    },
+    {
+        "id": 13815,
+        "name": "Grecia",
+        "country": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/13815.png"
+    },
+    {
+        "id": 13816,
+        "name": "Rocafuerte",
+        "country": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/13816.png"
+    },
+    {
+        "id": 13817,
+        "name": "Valle del Chota",
+        "country": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/13817.png"
+    },
+    {
+        "id": 16476,
+        "name": "Cumbay\u00e1",
+        "country": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/16476.png"
+    },
+    {
+        "id": 16477,
+        "name": "Guayaquil",
+        "country": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/16477.png"
+    },
+    {
+        "id": 18762,
+        "name": "Libertad",
+        "country": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/18762.png"
+    },
+    {
+        "id": 19026,
+        "name": "7 de Febrero",
+        "country": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/19026.png"
+    },
+    {
+        "id": 19027,
+        "name": "Aampetra",
+        "country": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/19027.png"
+    },
+    {
+        "id": 19028,
+        "name": "Atl\u00e9tico Samborond\u00f3n",
+        "country": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/19028.png"
+    },
+    {
+        "id": 19029,
+        "name": "Bonita Banana",
+        "country": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/19029.png"
+    },
+    {
+        "id": 19030,
+        "name": "CD Universitario",
+        "country": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/19030.png"
+    },
+    {
+        "id": 19031,
+        "name": "Dunamis",
+        "country": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/19031.png"
+    },
+    {
+        "id": 19032,
+        "name": "Independiente Azogues",
+        "country": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/19032.png"
+    },
+    {
+        "id": 19033,
+        "name": "Insutec",
+        "country": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/19033.png"
+    },
+    {
+        "id": 19034,
+        "name": "Leones del Norte",
+        "country": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/19034.png"
+    },
+    {
+        "id": 19035,
+        "name": "Orellanense",
+        "country": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/19035.png"
+    },
+    {
+        "id": 19036,
+        "name": "Portoviejo",
+        "country": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/19036.png"
+    },
+    {
+        "id": 19037,
+        "name": "Primero de Mayo",
+        "country": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/19037.png"
+    },
+    {
+        "id": 19038,
+        "name": "Quito",
+        "country": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/19038.png"
+    },
+    {
+        "id": 19039,
+        "name": "R\u00edo Aguarico",
+        "country": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/19039.png"
+    },
+    {
+        "id": 19040,
+        "name": "Santa Elena",
+        "country": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/19040.png"
+    },
+    {
+        "id": 19041,
+        "name": "Unibol\u00edvar",
+        "country": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/19041.png"
+    },
+    {
+        "id": 19042,
+        "name": "Vargas Torres",
+        "country": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/19042.png"
+    },
+    {
+        "id": 19413,
+        "name": "La Uni\u00f3n",
+        "country": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/19413.png"
+    },
+    {
+        "id": 19414,
+        "name": "Santo Domingo",
+        "country": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/19414.png"
+    },
+    {
+        "id": 20534,
+        "name": "Ecuador U19",
+        "country": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/20534.png"
+    },
+    {
+        "id": 21103,
+        "name": "Cuniburo",
+        "country": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/21103.png"
+    },
+    {
+        "id": 22579,
+        "name": "Barcelona SC W",
+        "country": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/22579.png"
+    },
+    {
+        "id": 22924,
+        "name": "Ecuador U23",
+        "country": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/22924.png"
+    },
+    {
+        "id": 23310,
+        "name": "San Antonio",
+        "country": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/23310.png"
+    },
+    {
+        "id": 23378,
+        "name": "Ecuador U17 W",
+        "country": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/23378.png"
+    },
+    {
+        "id": 24062,
+        "name": "Atl\u00e9tico Quinind\u00e9",
+        "country": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/24062.png"
+    },
+    {
+        "id": 24063,
+        "name": "Ba\u00f1os Ciudad de Fuego",
+        "country": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/24063.png"
+    },
+    {
+        "id": 24064,
+        "name": "Deportivo Coca",
+        "country": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/24064.png"
+    },
+    {
+        "id": 24065,
+        "name": "Ecuagenera",
+        "country": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/24065.png"
+    },
+    {
+        "id": 24066,
+        "name": "Grupo 7",
+        "country": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/24066.png"
+    },
+    {
+        "id": 24067,
+        "name": "La Cantera de Pastaza",
+        "country": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/24067.png"
+    },
+    {
+        "id": 24068,
+        "name": "Liga de Cuenca",
+        "country": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/24068.png"
+    },
+    {
+        "id": 24069,
+        "name": "Mineros",
+        "country": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/24069.png"
+    },
+    {
+        "id": 24070,
+        "name": "Naranja Mek\u00e1nica",
+        "country": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/24070.png"
+    },
+    {
+        "id": 24071,
+        "name": "R\u00edo Babahoyo",
+        "country": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/24071.png"
+    },
+    {
+        "id": 24072,
+        "name": "Santa Elena Sumpa",
+        "country": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/24072.png"
+    },
+    {
+        "id": 24073,
+        "name": "Tumbaco AV25",
+        "country": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/24073.png"
+    },
+    {
+        "id": 24074,
+        "name": "Vicentino Dragons",
+        "country": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/24074.png"
+    },
+    {
+        "id": 24118,
+        "name": "Castellana",
+        "country": "Ecuador",
+        "logo": "https://media.api-sports.io/football/teams/24118.png"
+    }
+]

@@ -1,0 +1,116 @@
+[
+    {
+        "id": 672,
+        "name": "Folgore",
+        "country": "San-Marino",
+        "logo": "https://media.api-sports.io/football/teams/672.png"
+    },
+    {
+        "id": 700,
+        "name": "Tre Penne",
+        "country": "San-Marino",
+        "logo": "https://media.api-sports.io/football/teams/700.png"
+    },
+    {
+        "id": 1115,
+        "name": "San Marino",
+        "country": "San-Marino",
+        "logo": "https://media.api-sports.io/football/teams/1115.png"
+    },
+    {
+        "id": 2249,
+        "name": "La Fiorita",
+        "country": "San-Marino",
+        "logo": "https://media.api-sports.io/football/teams/2249.png"
+    },
+    {
+        "id": 2260,
+        "name": "Tre Fiori",
+        "country": "San-Marino",
+        "logo": "https://media.api-sports.io/football/teams/2260.png"
+    },
+    {
+        "id": 5297,
+        "name": "Cailungo",
+        "country": "San-Marino",
+        "logo": "https://media.api-sports.io/football/teams/5297.png"
+    },
+    {
+        "id": 5298,
+        "name": "Cosmos",
+        "country": "San-Marino",
+        "logo": "https://media.api-sports.io/football/teams/5298.png"
+    },
+    {
+        "id": 5299,
+        "name": "Domagnano",
+        "country": "San-Marino",
+        "logo": "https://media.api-sports.io/football/teams/5299.png"
+    },
+    {
+        "id": 5300,
+        "name": "Faetano",
+        "country": "San-Marino",
+        "logo": "https://media.api-sports.io/football/teams/5300.png"
+    },
+    {
+        "id": 5301,
+        "name": "Fiorentino",
+        "country": "San-Marino",
+        "logo": "https://media.api-sports.io/football/teams/5301.png"
+    },
+    {
+        "id": 5302,
+        "name": "Juvenes / Dogana",
+        "country": "San-Marino",
+        "logo": "https://media.api-sports.io/football/teams/5302.png"
+    },
+    {
+        "id": 5303,
+        "name": "Libertas",
+        "country": "San-Marino",
+        "logo": "https://media.api-sports.io/football/teams/5303.png"
+    },
+    {
+        "id": 5305,
+        "name": "Murata",
+        "country": "San-Marino",
+        "logo": "https://media.api-sports.io/football/teams/5305.png"
+    },
+    {
+        "id": 5306,
+        "name": "Pennarossa",
+        "country": "San-Marino",
+        "logo": "https://media.api-sports.io/football/teams/5306.png"
+    },
+    {
+        "id": 5307,
+        "name": "San Giovanni",
+        "country": "San-Marino",
+        "logo": "https://media.api-sports.io/football/teams/5307.png"
+    },
+    {
+        "id": 5308,
+        "name": "Virtus",
+        "country": "San-Marino",
+        "logo": "https://media.api-sports.io/football/teams/5308.png"
+    },
+    {
+        "id": 8220,
+        "name": "San Marino U21",
+        "country": "San-Marino",
+        "logo": "https://media.api-sports.io/football/teams/8220.png"
+    },
+    {
+        "id": 17975,
+        "name": "San Marino U17",
+        "country": "San-Marino",
+        "logo": "https://media.api-sports.io/football/teams/17975.png"
+    },
+    {
+        "id": 22179,
+        "name": "San Marino Academy",
+        "country": "San-Marino",
+        "logo": "https://media.api-sports.io/football/teams/22179.png"
+    }
+]

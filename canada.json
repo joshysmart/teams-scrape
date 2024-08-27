@@ -1,0 +1,572 @@
+[
+    {
+        "id": 1601,
+        "name": "Toronto FC",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/1601.png"
+    },
+    {
+        "id": 1603,
+        "name": "Vancouver Whitecaps",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/1603.png"
+    },
+    {
+        "id": 1614,
+        "name": "CF Montreal",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/1614.png"
+    },
+    {
+        "id": 1717,
+        "name": "Canada W",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/1717.png"
+    },
+    {
+        "id": 2016,
+        "name": "Serbian White Eagles",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/2016.png"
+    },
+    {
+        "id": 2017,
+        "name": "York Region Shooters",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/2017.png"
+    },
+    {
+        "id": 2018,
+        "name": "Ukraine United",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/2018.png"
+    },
+    {
+        "id": 2019,
+        "name": "SC Scarborough",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/2019.png"
+    },
+    {
+        "id": 2020,
+        "name": "Milton SC",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/2020.png"
+    },
+    {
+        "id": 2022,
+        "name": "Brantford Galaxy",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/2022.png"
+    },
+    {
+        "id": 2023,
+        "name": "Hamilton City",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/2023.png"
+    },
+    {
+        "id": 2024,
+        "name": "FC Vorkuta",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/2024.png"
+    },
+    {
+        "id": 2025,
+        "name": "SC Waterloo",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/2025.png"
+    },
+    {
+        "id": 2026,
+        "name": "Royal Toronto FC",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/2026.png"
+    },
+    {
+        "id": 2027,
+        "name": "Real Mississauga",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/2027.png"
+    },
+    {
+        "id": 2028,
+        "name": "Csc Missisauga",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/2028.png"
+    },
+    {
+        "id": 2434,
+        "name": "Ottawa Fury FC",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/2434.png"
+    },
+    {
+        "id": 2435,
+        "name": "AS Blainville",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/2435.png"
+    },
+    {
+        "id": 2436,
+        "name": "Oakville Blue Devils",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/2436.png"
+    },
+    {
+        "id": 2437,
+        "name": "FC Edmonton",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/2437.png"
+    },
+    {
+        "id": 2619,
+        "name": "Cavalry FC",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/2619.png"
+    },
+    {
+        "id": 2620,
+        "name": "Vaughan Azzurri",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/2620.png"
+    },
+    {
+        "id": 2621,
+        "name": "HFX Wanderers FC",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/2621.png"
+    },
+    {
+        "id": 2622,
+        "name": "Pacific FC",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/2622.png"
+    },
+    {
+        "id": 2623,
+        "name": "York United",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/2623.png"
+    },
+    {
+        "id": 3515,
+        "name": "Kingsman",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/3515.png"
+    },
+    {
+        "id": 3555,
+        "name": "Kamloops Wolfpack",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/3555.png"
+    },
+    {
+        "id": 3556,
+        "name": "Khalsa",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/3556.png"
+    },
+    {
+        "id": 3557,
+        "name": "Mid Isle Mariners",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/3557.png"
+    },
+    {
+        "id": 3558,
+        "name": "Okanagan",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/3558.png"
+    },
+    {
+        "id": 3559,
+        "name": "Penticton",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/3559.png"
+    },
+    {
+        "id": 3560,
+        "name": "Surrey United",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/3560.png"
+    },
+    {
+        "id": 3561,
+        "name": "Tigers Vancouver",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/3561.png"
+    },
+    {
+        "id": 3562,
+        "name": "Victoria Highlanders II",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/3562.png"
+    },
+    {
+        "id": 3805,
+        "name": "Kingston",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/3805.png"
+    },
+    {
+        "id": 3830,
+        "name": "Forge",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/3830.png"
+    },
+    {
+        "id": 3831,
+        "name": "Valour",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/3831.png"
+    },
+    {
+        "id": 4008,
+        "name": "Ottawa Fury",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/4008.png"
+    },
+    {
+        "id": 4025,
+        "name": "Toronto II",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/4025.png"
+    },
+    {
+        "id": 4029,
+        "name": "FC Montr\u00e9al",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/4029.png"
+    },
+    {
+        "id": 4037,
+        "name": "Calgary Foothills",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/4037.png"
+    },
+    {
+        "id": 4085,
+        "name": "TSS Rovers",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/4085.png"
+    },
+    {
+        "id": 4088,
+        "name": "Thunder Bay Chill",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/4088.png"
+    },
+    {
+        "id": 4094,
+        "name": "Victoria Highlanders",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/4094.png"
+    },
+    {
+        "id": 5529,
+        "name": "Canada",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/5529.png"
+    },
+    {
+        "id": 8007,
+        "name": "Whitecaps",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/8007.png"
+    },
+    {
+        "id": 9988,
+        "name": "Master\u2019s Futbol Academy",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/9988.png"
+    },
+    {
+        "id": 10099,
+        "name": "Manitoba",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/10099.png"
+    },
+    {
+        "id": 10169,
+        "name": "Atl\u00e9tico Ottawa",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/10169.png"
+    },
+    {
+        "id": 10992,
+        "name": "Canada U20",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/10992.png"
+    },
+    {
+        "id": 16827,
+        "name": "Port Moody",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/16827.png"
+    },
+    {
+        "id": 17705,
+        "name": "Atletico Sporting",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/17705.png"
+    },
+    {
+        "id": 17706,
+        "name": "BGH City",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/17706.png"
+    },
+    {
+        "id": 17707,
+        "name": "Euru FA",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/17707.png"
+    },
+    {
+        "id": 17708,
+        "name": "St. Catharines Hrvat",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/17708.png"
+    },
+    {
+        "id": 17709,
+        "name": "Toronto Tigers",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/17709.png"
+    },
+    {
+        "id": 17866,
+        "name": "Canada U23",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/17866.png"
+    },
+    {
+        "id": 18766,
+        "name": "Guelph United",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/18766.png"
+    },
+    {
+        "id": 18767,
+        "name": "Mont-Royal Outremont",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/18767.png"
+    },
+    {
+        "id": 18916,
+        "name": "Fusion",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/18916.png"
+    },
+    {
+        "id": 18917,
+        "name": "Kamloops Rivers II",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/18917.png"
+    },
+    {
+        "id": 18918,
+        "name": "Koinonia",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/18918.png"
+    },
+    {
+        "id": 18919,
+        "name": "Victoria United",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/18919.png"
+    },
+    {
+        "id": 18920,
+        "name": "WIA",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/18920.png"
+    },
+    {
+        "id": 18979,
+        "name": "Toronto Falcons",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/18979.png"
+    },
+    {
+        "id": 19080,
+        "name": "Canada U20 W",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/19080.png"
+    },
+    {
+        "id": 19096,
+        "name": "Alliance United",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/19096.png"
+    },
+    {
+        "id": 19097,
+        "name": "BVB IA Waterloo",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/19097.png"
+    },
+    {
+        "id": 19098,
+        "name": "Blue Devils",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/19098.png"
+    },
+    {
+        "id": 19099,
+        "name": "Burlington",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/19099.png"
+    },
+    {
+        "id": 19100,
+        "name": "Darby",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/19100.png"
+    },
+    {
+        "id": 19101,
+        "name": "Electric City",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/19101.png"
+    },
+    {
+        "id": 19102,
+        "name": "FC London",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/19102.png"
+    },
+    {
+        "id": 19103,
+        "name": "Hamilton United",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/19103.png"
+    },
+    {
+        "id": 19104,
+        "name": "North Mississauga",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/19104.png"
+    },
+    {
+        "id": 19105,
+        "name": "North Toronto Nitros",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/19105.png"
+    },
+    {
+        "id": 19106,
+        "name": "Pickering FC",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/19106.png"
+    },
+    {
+        "id": 19107,
+        "name": "ProStars",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/19107.png"
+    },
+    {
+        "id": 19108,
+        "name": "Scrosoppi",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/19108.png"
+    },
+    {
+        "id": 19109,
+        "name": "Sigma",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/19109.png"
+    },
+    {
+        "id": 19110,
+        "name": "Simcoe County Rovers",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/19110.png"
+    },
+    {
+        "id": 19111,
+        "name": "St. Catharines Wolves",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/19111.png"
+    },
+    {
+        "id": 19112,
+        "name": "Unionville Milliken",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/19112.png"
+    },
+    {
+        "id": 19113,
+        "name": "Windsor TFC",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/19113.png"
+    },
+    {
+        "id": 19114,
+        "name": "Woodbridge Strikers",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/19114.png"
+    },
+    {
+        "id": 20881,
+        "name": "Vancouver FC",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/20881.png"
+    },
+    {
+        "id": 20886,
+        "name": "FC Laval",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/20886.png"
+    },
+    {
+        "id": 21340,
+        "name": "Dynamo Toronto",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/21340.png"
+    },
+    {
+        "id": 21341,
+        "name": "Ooty Black Pearl",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/21341.png"
+    },
+    {
+        "id": 21342,
+        "name": "Weston United",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/21342.png"
+    },
+    {
+        "id": 21600,
+        "name": "Dalhousie",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/21600.png"
+    },
+    {
+        "id": 23151,
+        "name": "Saint-Laurent",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/23151.png"
+    },
+    {
+        "id": 23430,
+        "name": "Blues",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/23430.png"
+    },
+    {
+        "id": 23627,
+        "name": "Future Stars",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/23627.png"
+    },
+    {
+        "id": 23628,
+        "name": "Unity ON",
+        "country": "Canada",
+        "logo": "https://media.api-sports.io/football/teams/23628.png"
+    }
+]

@@ -1,0 +1,1118 @@
+[
+    {
+        "id": 3,
+        "name": "Croatia",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/3.png"
+    },
+    {
+        "id": 561,
+        "name": "HNK Rijeka",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/561.png"
+    },
+    {
+        "id": 608,
+        "name": "HNK Hajduk Split",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/608.png"
+    },
+    {
+        "id": 616,
+        "name": "NK Osijek",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/616.png"
+    },
+    {
+        "id": 620,
+        "name": "Dinamo Zagreb",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/620.png"
+    },
+    {
+        "id": 1016,
+        "name": "Istra 1961",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/1016.png"
+    },
+    {
+        "id": 1017,
+        "name": "NK Lokomotiva Zagreb",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/1017.png"
+    },
+    {
+        "id": 1018,
+        "name": "NK Slaven Belupo",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/1018.png"
+    },
+    {
+        "id": 1019,
+        "name": "Rudes",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/1019.png"
+    },
+    {
+        "id": 1020,
+        "name": "Inter Zapresic",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/1020.png"
+    },
+    {
+        "id": 1021,
+        "name": "HNK Cibalia",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/1021.png"
+    },
+    {
+        "id": 1022,
+        "name": "RNK Split",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/1022.png"
+    },
+    {
+        "id": 1068,
+        "name": "HNK Gorica",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/1068.png"
+    },
+    {
+        "id": 1471,
+        "name": "Dugopolje",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/1471.png"
+    },
+    {
+        "id": 1472,
+        "name": "Hrvatski Dragovoljac",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/1472.png"
+    },
+    {
+        "id": 1473,
+        "name": "Imotski",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/1473.png"
+    },
+    {
+        "id": 1474,
+        "name": "NK Zagreb",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/1474.png"
+    },
+    {
+        "id": 1475,
+        "name": "Sibenik",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/1475.png"
+    },
+    {
+        "id": 1476,
+        "name": "Dinamo Zagreb II",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/1476.png"
+    },
+    {
+        "id": 1477,
+        "name": "Lucko",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/1477.png"
+    },
+    {
+        "id": 1478,
+        "name": "Novigrad",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/1478.png"
+    },
+    {
+        "id": 1479,
+        "name": "Sesvete",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/1479.png"
+    },
+    {
+        "id": 1480,
+        "name": "Solin",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/1480.png"
+    },
+    {
+        "id": 1481,
+        "name": "Kustosija",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/1481.png"
+    },
+    {
+        "id": 1482,
+        "name": "HNK Hajduk Split II",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/1482.png"
+    },
+    {
+        "id": 1483,
+        "name": "NK Varazdin",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/1483.png"
+    },
+    {
+        "id": 1484,
+        "name": "NK Zadar",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/1484.png"
+    },
+    {
+        "id": 1485,
+        "name": "Medjimurje Cakovec",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/1485.png"
+    },
+    {
+        "id": 1486,
+        "name": "NK Osijek II",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/1486.png"
+    },
+    {
+        "id": 1487,
+        "name": "Bsk Bijelo Brdo",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/1487.png"
+    },
+    {
+        "id": 1767,
+        "name": "Croatia W",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/1767.png"
+    },
+    {
+        "id": 5304,
+        "name": "Libertas",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/5304.png"
+    },
+    {
+        "id": 5704,
+        "name": "Bednja",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/5704.png"
+    },
+    {
+        "id": 5705,
+        "name": "Bjelovar",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/5705.png"
+    },
+    {
+        "id": 5706,
+        "name": "GO\u0160K Dubrovnik",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/5706.png"
+    },
+    {
+        "id": 5707,
+        "name": "Grani\u010dar \u017dupanja",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/5707.png"
+    },
+    {
+        "id": 5708,
+        "name": "Jadran LP",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/5708.png"
+    },
+    {
+        "id": 5709,
+        "name": "Karlovac",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/5709.png"
+    },
+    {
+        "id": 5710,
+        "name": "Koprivnica",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/5710.png"
+    },
+    {
+        "id": 5711,
+        "name": "Kri\u017eevci",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/5711.png"
+    },
+    {
+        "id": 5712,
+        "name": "Krk",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/5712.png"
+    },
+    {
+        "id": 5713,
+        "name": "Kurilovec",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/5713.png"
+    },
+    {
+        "id": 5714,
+        "name": "Marsonia",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/5714.png"
+    },
+    {
+        "id": 5715,
+        "name": "Nedeli\u0161\u0107e",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/5715.png"
+    },
+    {
+        "id": 5716,
+        "name": "Nehaj",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/5716.png"
+    },
+    {
+        "id": 5717,
+        "name": "Pitoma\u010da",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/5717.png"
+    },
+    {
+        "id": 5718,
+        "name": "Primorac Biograd",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/5718.png"
+    },
+    {
+        "id": 5719,
+        "name": "Rovinj",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/5719.png"
+    },
+    {
+        "id": 5720,
+        "name": "Rudar Labin",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/5720.png"
+    },
+    {
+        "id": 5721,
+        "name": "Sava Strmec",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/5721.png"
+    },
+    {
+        "id": 5722,
+        "name": "Segesta Sisak",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/5722.png"
+    },
+    {
+        "id": 5723,
+        "name": "Slavija Pleternica",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/5723.png"
+    },
+    {
+        "id": 5724,
+        "name": "Sloga Mravince",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/5724.png"
+    },
+    {
+        "id": 5725,
+        "name": "Sloga Nova Gradi\u0161ka",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/5725.png"
+    },
+    {
+        "id": 5726,
+        "name": "Suhopolje",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/5726.png"
+    },
+    {
+        "id": 5727,
+        "name": "Vinogradar",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/5727.png"
+    },
+    {
+        "id": 5728,
+        "name": "Vi\u0161njevac",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/5728.png"
+    },
+    {
+        "id": 5729,
+        "name": "Vrap\u010de Zagreb",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/5729.png"
+    },
+    {
+        "id": 5730,
+        "name": "Vukovar",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/5730.png"
+    },
+    {
+        "id": 5731,
+        "name": "Zagora",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/5731.png"
+    },
+    {
+        "id": 5732,
+        "name": "Zagorec",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/5732.png"
+    },
+    {
+        "id": 5733,
+        "name": "Zelina",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/5733.png"
+    },
+    {
+        "id": 6237,
+        "name": "Beli\u0161\u0107e",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/6237.png"
+    },
+    {
+        "id": 6238,
+        "name": "Borac Imbriovec",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/6238.png"
+    },
+    {
+        "id": 6239,
+        "name": "Buje",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/6239.png"
+    },
+    {
+        "id": 6240,
+        "name": "Dinamo Predavac",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/6240.png"
+    },
+    {
+        "id": 6241,
+        "name": "Hrvace",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/6241.png"
+    },
+    {
+        "id": 6242,
+        "name": "Jadran Pore\u010d",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/6242.png"
+    },
+    {
+        "id": 6243,
+        "name": "Maksimir Zagreb",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/6243.png"
+    },
+    {
+        "id": 6244,
+        "name": "Mladost Kl. Podravski",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/6244.png"
+    },
+    {
+        "id": 6245,
+        "name": "Mladost Petrinja",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/6245.png"
+    },
+    {
+        "id": 6246,
+        "name": "Opatija",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/6246.png"
+    },
+    {
+        "id": 6247,
+        "name": "Oriolik Oriovac",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/6247.png"
+    },
+    {
+        "id": 6248,
+        "name": "Papuk",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/6248.png"
+    },
+    {
+        "id": 6249,
+        "name": "Slavonac Komletinci",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/6249.png"
+    },
+    {
+        "id": 6250,
+        "name": "Slavonija Po\u017eega",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/6250.png"
+    },
+    {
+        "id": 6251,
+        "name": "Vuteks-Sloga",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/6251.png"
+    },
+    {
+        "id": 6254,
+        "name": "Croatia Zmijavci",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/6254.png"
+    },
+    {
+        "id": 6255,
+        "name": "Dubrava Zagreb",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/6255.png"
+    },
+    {
+        "id": 6256,
+        "name": "Orijent 1919",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/6256.png"
+    },
+    {
+        "id": 8186,
+        "name": "Croatia U21",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/8186.png"
+    },
+    {
+        "id": 8579,
+        "name": "Crikvenica",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/8579.png"
+    },
+    {
+        "id": 8580,
+        "name": "Grobni\u010dan \u010cavle",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/8580.png"
+    },
+    {
+        "id": 8581,
+        "name": "Pazinka",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/8581.png"
+    },
+    {
+        "id": 8582,
+        "name": "Uljanik",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/8582.png"
+    },
+    {
+        "id": 8583,
+        "name": "Vinodol",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/8583.png"
+    },
+    {
+        "id": 8584,
+        "name": "Junak",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/8584.png"
+    },
+    {
+        "id": 8585,
+        "name": "Kamen Ivanbegovina",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/8585.png"
+    },
+    {
+        "id": 8586,
+        "name": "Neretva Metkovi\u0107",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/8586.png"
+    },
+    {
+        "id": 8587,
+        "name": "Neretvanac Opuzen",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/8587.png"
+    },
+    {
+        "id": 8588,
+        "name": "Urania Ba\u0161ka Voda",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/8588.png"
+    },
+    {
+        "id": 8589,
+        "name": "Uskok Klis",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/8589.png"
+    },
+    {
+        "id": 8590,
+        "name": "Vodice",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/8590.png"
+    },
+    {
+        "id": 8591,
+        "name": "Zmaj Blato",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/8591.png"
+    },
+    {
+        "id": 8592,
+        "name": "Grani\u010dar \u0110ur\u0111evac",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/8592.png"
+    },
+    {
+        "id": 8593,
+        "name": "Mladost \u017ddralovi",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/8593.png"
+    },
+    {
+        "id": 8594,
+        "name": "Podravac Virje",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/8594.png"
+    },
+    {
+        "id": 8595,
+        "name": "Podravina Ludbreg",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/8595.png"
+    },
+    {
+        "id": 8596,
+        "name": "Polet",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/8596.png"
+    },
+    {
+        "id": 8597,
+        "name": "Rudar Mursko Sredi\u0161\u0107e",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/8597.png"
+    },
+    {
+        "id": 8598,
+        "name": "Tehni\u010dar 1974",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/8598.png"
+    },
+    {
+        "id": 8599,
+        "name": "Varteks Vara\u017edin",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/8599.png"
+    },
+    {
+        "id": 8600,
+        "name": "Virovitica",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/8600.png"
+    },
+    {
+        "id": 8601,
+        "name": "Bistra",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/8601.png"
+    },
+    {
+        "id": 8602,
+        "name": "Dugo Selo",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/8602.png"
+    },
+    {
+        "id": 8603,
+        "name": "Gaj",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/8603.png"
+    },
+    {
+        "id": 8604,
+        "name": "HA\u0160K",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/8604.png"
+    },
+    {
+        "id": 8605,
+        "name": "Jarun",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/8605.png"
+    },
+    {
+        "id": 8606,
+        "name": "Ponikve",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/8606.png"
+    },
+    {
+        "id": 8607,
+        "name": "Trnje",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/8607.png"
+    },
+    {
+        "id": 8608,
+        "name": "Vrbovec",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/8608.png"
+    },
+    {
+        "id": 8609,
+        "name": "\u0160pansko Zagreb",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/8609.png"
+    },
+    {
+        "id": 8610,
+        "name": "Bedem Ivankovo",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/8610.png"
+    },
+    {
+        "id": 8611,
+        "name": "Dakovo-Croatia",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/8611.png"
+    },
+    {
+        "id": 8612,
+        "name": "Kutjevo",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/8612.png"
+    },
+    {
+        "id": 8613,
+        "name": "NA\u0160K Na\u0161ice",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/8613.png"
+    },
+    {
+        "id": 8614,
+        "name": "Vihor",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/8614.png"
+    },
+    {
+        "id": 8615,
+        "name": "Zrinski Jurjevac",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/8615.png"
+    },
+    {
+        "id": 8616,
+        "name": "\u010cepin",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/8616.png"
+    },
+    {
+        "id": 10329,
+        "name": "Croatia U19",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/10329.png"
+    },
+    {
+        "id": 14442,
+        "name": "Tre\u0161njevka",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/14442.png"
+    },
+    {
+        "id": 14557,
+        "name": "Dilj",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/14557.png"
+    },
+    {
+        "id": 14558,
+        "name": "Ferdinandovac",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/14558.png"
+    },
+    {
+        "id": 14559,
+        "name": "Ivan\u010dica",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/14559.png"
+    },
+    {
+        "id": 14560,
+        "name": "Lika Korenica",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/14560.png"
+    },
+    {
+        "id": 14561,
+        "name": "Mladost Tribunj",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/14561.png"
+    },
+    {
+        "id": 15147,
+        "name": "Cres",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/15147.png"
+    },
+    {
+        "id": 15148,
+        "name": "Naprijed Hreljin",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/15148.png"
+    },
+    {
+        "id": 15149,
+        "name": "Hrvatski vitez",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/15149.png"
+    },
+    {
+        "id": 15150,
+        "name": "Otok",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/15150.png"
+    },
+    {
+        "id": 15151,
+        "name": "Zmaj Makarska",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/15151.png"
+    },
+    {
+        "id": 15152,
+        "name": "Slavonac Bukovlje",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/15152.png"
+    },
+    {
+        "id": 15153,
+        "name": "Valpovka",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/15153.png"
+    },
+    {
+        "id": 15294,
+        "name": "HNK Zadar",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/15294.png"
+    },
+    {
+        "id": 15295,
+        "name": "Karlovac 1919",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/15295.png"
+    },
+    {
+        "id": 16842,
+        "name": "Osijek W",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/16842.png"
+    },
+    {
+        "id": 17317,
+        "name": "Croatia Berlin",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/17317.png"
+    },
+    {
+        "id": 17318,
+        "name": "NK Polet",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/17318.png"
+    },
+    {
+        "id": 17407,
+        "name": "Moslavina",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/17407.png"
+    },
+    {
+        "id": 17408,
+        "name": "Samobor",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/17408.png"
+    },
+    {
+        "id": 17409,
+        "name": "Stra\u017ea Hum na Sutli",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/17409.png"
+    },
+    {
+        "id": 17473,
+        "name": "Mladost Prelog",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/17473.png"
+    },
+    {
+        "id": 17490,
+        "name": "Darda",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/17490.png"
+    },
+    {
+        "id": 17491,
+        "name": "Omladinac Gornja Vrba",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/17491.png"
+    },
+    {
+        "id": 17492,
+        "name": "NK Lukavec",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/17492.png"
+    },
+    {
+        "id": 17493,
+        "name": "Tekstilac Ravnice",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/17493.png"
+    },
+    {
+        "id": 17494,
+        "name": "Pomorac",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/17494.png"
+    },
+    {
+        "id": 17945,
+        "name": "Croatia U17",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/17945.png"
+    },
+    {
+        "id": 18168,
+        "name": "Nedeljanec",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/18168.png"
+    },
+    {
+        "id": 19767,
+        "name": "BSK Buk",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/19767.png"
+    },
+    {
+        "id": 19768,
+        "name": "Borinci Jarmina",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/19768.png"
+    },
+    {
+        "id": 19769,
+        "name": "Funtana",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/19769.png"
+    },
+    {
+        "id": 20009,
+        "name": "Kraljevica",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/20009.png"
+    },
+    {
+        "id": 20010,
+        "name": "Medulin",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/20010.png"
+    },
+    {
+        "id": 20011,
+        "name": "GO\u0160K Ka\u0161tel Gomilica",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/20011.png"
+    },
+    {
+        "id": 20012,
+        "name": "Dinamo Doma\u0161inec",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/20012.png"
+    },
+    {
+        "id": 20013,
+        "name": "Dinamo OO",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/20013.png"
+    },
+    {
+        "id": 20014,
+        "name": "Borac Kne\u017eevi Vinogradi",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/20014.png"
+    },
+    {
+        "id": 20015,
+        "name": "Sva\u010di\u0107",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/20015.png"
+    },
+    {
+        "id": 21517,
+        "name": "Granicar Laze",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/21517.png"
+    },
+    {
+        "id": 21965,
+        "name": "Bilogora 91",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/21965.png"
+    },
+    {
+        "id": 21966,
+        "name": "Gospi\u0107",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/21966.png"
+    },
+    {
+        "id": 21967,
+        "name": "Grani\u010dar Kotoriba",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/21967.png"
+    },
+    {
+        "id": 21968,
+        "name": "Jal\u017eabet",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/21968.png"
+    },
+    {
+        "id": 21969,
+        "name": "Me\u0111imurec Pretetinec",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/21969.png"
+    },
+    {
+        "id": 21970,
+        "name": "Novi Marof",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/21970.png"
+    },
+    {
+        "id": 21971,
+        "name": "Omladinac Staro Topolje",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/21971.png"
+    },
+    {
+        "id": 21972,
+        "name": "Tigar Sveta Nedelja",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/21972.png"
+    },
+    {
+        "id": 21973,
+        "name": "Tomislav Drnje",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/21973.png"
+    },
+    {
+        "id": 21974,
+        "name": "Vardarac",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/21974.png"
+    },
+    {
+        "id": 22075,
+        "name": "Tondach",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/22075.png"
+    },
+    {
+        "id": 22076,
+        "name": "Halubjan Vi\u0161kovo",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/22076.png"
+    },
+    {
+        "id": 22077,
+        "name": "Tomislav Cerna",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/22077.png"
+    },
+    {
+        "id": 22078,
+        "name": "Tomislav",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/22078.png"
+    },
+    {
+        "id": 22156,
+        "name": "Omi\u0161",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/22156.png"
+    },
+    {
+        "id": 22340,
+        "name": "Croatia U18",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/22340.png"
+    },
+    {
+        "id": 22416,
+        "name": "Dinamo Zagreb U21",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/22416.png"
+    },
+    {
+        "id": 22578,
+        "name": "Jaska Vinogradar",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/22578.png"
+    },
+    {
+        "id": 23594,
+        "name": "Croatia U16",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/23594.png"
+    },
+    {
+        "id": 24665,
+        "name": "Banjole",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/24665.png"
+    },
+    {
+        "id": 24666,
+        "name": "Sloga Borovo",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/24666.png"
+    },
+    {
+        "id": 24718,
+        "name": "Radni\u010dki Dalj",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/24718.png"
+    },
+    {
+        "id": 24719,
+        "name": "Vinogorac",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/24719.png"
+    },
+    {
+        "id": 24720,
+        "name": "Gari\u0107 Gare\u0161nica",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/24720.png"
+    },
+    {
+        "id": 24721,
+        "name": "Novalja",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/24721.png"
+    },
+    {
+        "id": 24792,
+        "name": "Val Ka\u0161tel Stari",
+        "country": "Croatia",
+        "logo": "https://media.api-sports.io/football/teams/24792.png"
+    }
+]

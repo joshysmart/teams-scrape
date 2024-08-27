@@ -1,0 +1,74 @@
+[
+    {
+        "id": 9420,
+        "name": "CPK",
+        "country": "Macao",
+        "logo": "https://media.api-sports.io/football/teams/9420.png"
+    },
+    {
+        "id": 10944,
+        "name": "Macao U23",
+        "country": "Macao",
+        "logo": "https://media.api-sports.io/football/teams/10944.png"
+    },
+    {
+        "id": 20401,
+        "name": "Monte Carlo",
+        "country": "Macao",
+        "logo": "https://media.api-sports.io/football/teams/20401.png"
+    },
+    {
+        "id": 21195,
+        "name": "Cheng Fung",
+        "country": "Macao",
+        "logo": "https://media.api-sports.io/football/teams/21195.png"
+    },
+    {
+        "id": 21196,
+        "name": "Hang Sai",
+        "country": "Macao",
+        "logo": "https://media.api-sports.io/football/teams/21196.png"
+    },
+    {
+        "id": 21197,
+        "name": "Lun Lok",
+        "country": "Macao",
+        "logo": "https://media.api-sports.io/football/teams/21197.png"
+    },
+    {
+        "id": 21198,
+        "name": "Sporting Macau",
+        "country": "Macao",
+        "logo": "https://media.api-sports.io/football/teams/21198.png"
+    },
+    {
+        "id": 21199,
+        "name": "Tak Chun Ka I",
+        "country": "Macao",
+        "logo": "https://media.api-sports.io/football/teams/21199.png"
+    },
+    {
+        "id": 21200,
+        "name": "Toi Seng",
+        "country": "Macao",
+        "logo": "https://media.api-sports.io/football/teams/21200.png"
+    },
+    {
+        "id": 21201,
+        "name": "Benfica",
+        "country": "Macao",
+        "logo": "https://media.api-sports.io/football/teams/21201.png"
+    },
+    {
+        "id": 23061,
+        "name": "Jia Hua",
+        "country": "Macao",
+        "logo": "https://media.api-sports.io/football/teams/23061.png"
+    },
+    {
+        "id": 23062,
+        "name": "Universidade de Macau",
+        "country": "Macao",
+        "logo": "https://media.api-sports.io/football/teams/23062.png"
+    }
+]

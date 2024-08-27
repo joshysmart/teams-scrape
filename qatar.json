@@ -1,0 +1,242 @@
+[
+    {
+        "id": 1569,
+        "name": "Qatar",
+        "country": "Qatar",
+        "logo": "https://media.api-sports.io/football/teams/1569.png"
+    },
+    {
+        "id": 2893,
+        "name": "Al Shahaniya",
+        "country": "Qatar",
+        "logo": "https://media.api-sports.io/football/teams/2893.png"
+    },
+    {
+        "id": 2894,
+        "name": "Al Kharaitiyat",
+        "country": "Qatar",
+        "logo": "https://media.api-sports.io/football/teams/2894.png"
+    },
+    {
+        "id": 2895,
+        "name": "Al Sadd",
+        "country": "Qatar",
+        "logo": "https://media.api-sports.io/football/teams/2895.png"
+    },
+    {
+        "id": 2896,
+        "name": "Al Ahli Doha",
+        "country": "Qatar",
+        "logo": "https://media.api-sports.io/football/teams/2896.png"
+    },
+    {
+        "id": 2897,
+        "name": "Al-Rayyan SC",
+        "country": "Qatar",
+        "logo": "https://media.api-sports.io/football/teams/2897.png"
+    },
+    {
+        "id": 2898,
+        "name": "Al-Sailiya",
+        "country": "Qatar",
+        "logo": "https://media.api-sports.io/football/teams/2898.png"
+    },
+    {
+        "id": 2899,
+        "name": "UMM Salal",
+        "country": "Qatar",
+        "logo": "https://media.api-sports.io/football/teams/2899.png"
+    },
+    {
+        "id": 2900,
+        "name": "Al Wakrah",
+        "country": "Qatar",
+        "logo": "https://media.api-sports.io/football/teams/2900.png"
+    },
+    {
+        "id": 2901,
+        "name": "Al-Khor",
+        "country": "Qatar",
+        "logo": "https://media.api-sports.io/football/teams/2901.png"
+    },
+    {
+        "id": 2902,
+        "name": "Muaither SC",
+        "country": "Qatar",
+        "logo": "https://media.api-sports.io/football/teams/2902.png"
+    },
+    {
+        "id": 2903,
+        "name": "Al-Gharafa",
+        "country": "Qatar",
+        "logo": "https://media.api-sports.io/football/teams/2903.png"
+    },
+    {
+        "id": 2904,
+        "name": "Al-Duhail SC",
+        "country": "Qatar",
+        "logo": "https://media.api-sports.io/football/teams/2904.png"
+    },
+    {
+        "id": 2905,
+        "name": "Al-Arabi SC",
+        "country": "Qatar",
+        "logo": "https://media.api-sports.io/football/teams/2905.png"
+    },
+    {
+        "id": 2906,
+        "name": "El Jaish SC",
+        "country": "Qatar",
+        "logo": "https://media.api-sports.io/football/teams/2906.png"
+    },
+    {
+        "id": 2907,
+        "name": "Qatar SC",
+        "country": "Qatar",
+        "logo": "https://media.api-sports.io/football/teams/2907.png"
+    },
+    {
+        "id": 2908,
+        "name": "Al-Markhiya",
+        "country": "Qatar",
+        "logo": "https://media.api-sports.io/football/teams/2908.png"
+    },
+    {
+        "id": 2909,
+        "name": "Al Rayyan SC B",
+        "country": "Qatar",
+        "logo": "https://media.api-sports.io/football/teams/2909.png"
+    },
+    {
+        "id": 2910,
+        "name": "Al Sadd B",
+        "country": "Qatar",
+        "logo": "https://media.api-sports.io/football/teams/2910.png"
+    },
+    {
+        "id": 2911,
+        "name": "Al-Gharafa B",
+        "country": "Qatar",
+        "logo": "https://media.api-sports.io/football/teams/2911.png"
+    },
+    {
+        "id": 2912,
+        "name": "Umm Salal B",
+        "country": "Qatar",
+        "logo": "https://media.api-sports.io/football/teams/2912.png"
+    },
+    {
+        "id": 2913,
+        "name": "Al Kharaitiyat B",
+        "country": "Qatar",
+        "logo": "https://media.api-sports.io/football/teams/2913.png"
+    },
+    {
+        "id": 2914,
+        "name": "Al Arabi SC B",
+        "country": "Qatar",
+        "logo": "https://media.api-sports.io/football/teams/2914.png"
+    },
+    {
+        "id": 2915,
+        "name": "Al Mesaimeer",
+        "country": "Qatar",
+        "logo": "https://media.api-sports.io/football/teams/2915.png"
+    },
+    {
+        "id": 2916,
+        "name": "Al Shamal",
+        "country": "Qatar",
+        "logo": "https://media.api-sports.io/football/teams/2916.png"
+    },
+    {
+        "id": 2917,
+        "name": "Lekhwiya SB B",
+        "country": "Qatar",
+        "logo": "https://media.api-sports.io/football/teams/2917.png"
+    },
+    {
+        "id": 2918,
+        "name": "Al Wakrah B",
+        "country": "Qatar",
+        "logo": "https://media.api-sports.io/football/teams/2918.png"
+    },
+    {
+        "id": 2919,
+        "name": "Al Sailiya B",
+        "country": "Qatar",
+        "logo": "https://media.api-sports.io/football/teams/2919.png"
+    },
+    {
+        "id": 2920,
+        "name": "Al Shahaniya II",
+        "country": "Qatar",
+        "logo": "https://media.api-sports.io/football/teams/2920.png"
+    },
+    {
+        "id": 2921,
+        "name": "Al Khor B",
+        "country": "Qatar",
+        "logo": "https://media.api-sports.io/football/teams/2921.png"
+    },
+    {
+        "id": 2922,
+        "name": "Al-Ahli Doha B",
+        "country": "Qatar",
+        "logo": "https://media.api-sports.io/football/teams/2922.png"
+    },
+    {
+        "id": 2923,
+        "name": "El Jaish SC B",
+        "country": "Qatar",
+        "logo": "https://media.api-sports.io/football/teams/2923.png"
+    },
+    {
+        "id": 2924,
+        "name": "Muaither B",
+        "country": "Qatar",
+        "logo": "https://media.api-sports.io/football/teams/2924.png"
+    },
+    {
+        "id": 2925,
+        "name": "Al Bidda SC",
+        "country": "Qatar",
+        "logo": "https://media.api-sports.io/football/teams/2925.png"
+    },
+    {
+        "id": 7527,
+        "name": "Lusail City",
+        "country": "Qatar",
+        "logo": "https://media.api-sports.io/football/teams/7527.png"
+    },
+    {
+        "id": 7577,
+        "name": "Al Waab",
+        "country": "Qatar",
+        "logo": "https://media.api-sports.io/football/teams/7577.png"
+    },
+    {
+        "id": 10300,
+        "name": "Qatar U20",
+        "country": "Qatar",
+        "logo": "https://media.api-sports.io/football/teams/10300.png"
+    },
+    {
+        "id": 10954,
+        "name": "Qatar U23",
+        "country": "Qatar",
+        "logo": "https://media.api-sports.io/football/teams/10954.png"
+    },
+    {
+        "id": 11909,
+        "name": "Al Shamal II",
+        "country": "Qatar",
+        "logo": "https://media.api-sports.io/football/teams/11909.png"
+    },
+    {
+        "id": 21443,
+        "name": "Qatar U17",
+        "country": "Qatar",
+        "logo": "https://media.api-sports.io/football/teams/21443.png"
+    }
+]

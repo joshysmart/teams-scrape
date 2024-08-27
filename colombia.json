@@ -1,0 +1,422 @@
+[
+    {
+        "id": 8,
+        "name": "Colombia",
+        "country": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/8.png"
+    },
+    {
+        "id": 1125,
+        "name": "Millonarios",
+        "country": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/1125.png"
+    },
+    {
+        "id": 1126,
+        "name": "Deportivo Pasto",
+        "country": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/1126.png"
+    },
+    {
+        "id": 1127,
+        "name": "Deportivo Cali",
+        "country": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/1127.png"
+    },
+    {
+        "id": 1128,
+        "name": "Independiente Medellin",
+        "country": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/1128.png"
+    },
+    {
+        "id": 1129,
+        "name": "Envigado",
+        "country": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/1129.png"
+    },
+    {
+        "id": 1130,
+        "name": "Huila",
+        "country": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/1130.png"
+    },
+    {
+        "id": 1131,
+        "name": "Bucaramanga",
+        "country": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/1131.png"
+    },
+    {
+        "id": 1132,
+        "name": "Chico",
+        "country": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/1132.png"
+    },
+    {
+        "id": 1133,
+        "name": "Jaguares",
+        "country": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/1133.png"
+    },
+    {
+        "id": 1134,
+        "name": "La Equidad",
+        "country": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/1134.png"
+    },
+    {
+        "id": 1135,
+        "name": "Junior",
+        "country": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/1135.png"
+    },
+    {
+        "id": 1136,
+        "name": "Once Caldas",
+        "country": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/1136.png"
+    },
+    {
+        "id": 1137,
+        "name": "Atletico Nacional",
+        "country": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/1137.png"
+    },
+    {
+        "id": 1138,
+        "name": "America de Cali",
+        "country": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/1138.png"
+    },
+    {
+        "id": 1139,
+        "name": "Santa Fe",
+        "country": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/1139.png"
+    },
+    {
+        "id": 1140,
+        "name": "Patriotas",
+        "country": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/1140.png"
+    },
+    {
+        "id": 1141,
+        "name": "Alianza Petrolera",
+        "country": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/1141.png"
+    },
+    {
+        "id": 1142,
+        "name": "Deportes Tolima",
+        "country": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/1142.png"
+    },
+    {
+        "id": 1143,
+        "name": "Leones FC",
+        "country": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/1143.png"
+    },
+    {
+        "id": 1144,
+        "name": "Rionegro Aguilas",
+        "country": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/1144.png"
+    },
+    {
+        "id": 1145,
+        "name": "Tigres FC",
+        "country": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/1145.png"
+    },
+    {
+        "id": 1146,
+        "name": "Cortulua",
+        "country": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/1146.png"
+    },
+    {
+        "id": 1147,
+        "name": "Fortaleza FC",
+        "country": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/1147.png"
+    },
+    {
+        "id": 1458,
+        "name": "Bogota FC",
+        "country": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/1458.png"
+    },
+    {
+        "id": 1459,
+        "name": "Real Cartagena",
+        "country": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/1459.png"
+    },
+    {
+        "id": 1460,
+        "name": "Popayan",
+        "country": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/1460.png"
+    },
+    {
+        "id": 1461,
+        "name": "Quindio",
+        "country": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/1461.png"
+    },
+    {
+        "id": 1462,
+        "name": "Deportivo Pereira",
+        "country": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/1462.png"
+    },
+    {
+        "id": 1463,
+        "name": "Real Santander",
+        "country": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/1463.png"
+    },
+    {
+        "id": 1464,
+        "name": "Llaneros",
+        "country": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/1464.png"
+    },
+    {
+        "id": 1465,
+        "name": "Union Magdalena",
+        "country": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/1465.png"
+    },
+    {
+        "id": 1466,
+        "name": "Barranquilla",
+        "country": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/1466.png"
+    },
+    {
+        "id": 1467,
+        "name": "Valledupar",
+        "country": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/1467.png"
+    },
+    {
+        "id": 1468,
+        "name": "Depor FC",
+        "country": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/1468.png"
+    },
+    {
+        "id": 1469,
+        "name": "Orsomarso",
+        "country": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/1469.png"
+    },
+    {
+        "id": 1470,
+        "name": "Cucuta",
+        "country": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/1470.png"
+    },
+    {
+        "id": 1737,
+        "name": "Colombia W",
+        "country": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/1737.png"
+    },
+    {
+        "id": 4636,
+        "name": "Academia",
+        "country": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/4636.png"
+    },
+    {
+        "id": 10188,
+        "name": "Colombia U23",
+        "country": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/10188.png"
+    },
+    {
+        "id": 10285,
+        "name": "Colombia U20",
+        "country": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/10285.png"
+    },
+    {
+        "id": 11057,
+        "name": "Millonarios U20",
+        "country": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/11057.png"
+    },
+    {
+        "id": 15718,
+        "name": "Atl\u00e9tico Bucaramanga W",
+        "country": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/15718.png"
+    },
+    {
+        "id": 15719,
+        "name": "Fortaleza",
+        "country": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/15719.png"
+    },
+    {
+        "id": 15720,
+        "name": "Real San Andr\u00e9s W",
+        "country": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/15720.png"
+    },
+    {
+        "id": 15721,
+        "name": "Am\u00e9rica de Cali W",
+        "country": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/15721.png"
+    },
+    {
+        "id": 15722,
+        "name": "Atl\u00e9tico Nacional W",
+        "country": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/15722.png"
+    },
+    {
+        "id": 15723,
+        "name": "Deportivo Cali W",
+        "country": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/15723.png"
+    },
+    {
+        "id": 15724,
+        "name": "Deportivo Pasto W",
+        "country": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/15724.png"
+    },
+    {
+        "id": 15725,
+        "name": "Independiente Medell\u00edn W",
+        "country": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/15725.png"
+    },
+    {
+        "id": 15726,
+        "name": "Junior W",
+        "country": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/15726.png"
+    },
+    {
+        "id": 15727,
+        "name": "La Equidad W",
+        "country": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/15727.png"
+    },
+    {
+        "id": 15728,
+        "name": "Llaneros W",
+        "country": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/15728.png"
+    },
+    {
+        "id": 15729,
+        "name": "Millonarios W",
+        "country": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/15729.png"
+    },
+    {
+        "id": 15730,
+        "name": "Santa Fe W",
+        "country": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/15730.png"
+    },
+    {
+        "id": 18428,
+        "name": "Atl\u00e9tico Huila",
+        "country": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/18428.png"
+    },
+    {
+        "id": 18429,
+        "name": "Cortulu\u00e1 W",
+        "country": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/18429.png"
+    },
+    {
+        "id": 18430,
+        "name": "Deportes Tolima W",
+        "country": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/18430.png"
+    },
+    {
+        "id": 18431,
+        "name": "Deportivo Pereira W",
+        "country": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/18431.png"
+    },
+    {
+        "id": 18432,
+        "name": "Orsomarso W",
+        "country": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/18432.png"
+    },
+    {
+        "id": 18981,
+        "name": "Colombia U19",
+        "country": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/18981.png"
+    },
+    {
+        "id": 19081,
+        "name": "Colombia U20 W",
+        "country": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/19081.png"
+    },
+    {
+        "id": 20527,
+        "name": "Colombia U17",
+        "country": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/20527.png"
+    },
+    {
+        "id": 20878,
+        "name": "Boyac\u00e1 Chic\u00f3",
+        "country": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/20878.png"
+    },
+    {
+        "id": 22099,
+        "name": "Real Soacha",
+        "country": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/22099.png"
+    },
+    {
+        "id": 22939,
+        "name": "C\u00facuta Deportivo",
+        "country": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/22939.png"
+    },
+    {
+        "id": 22940,
+        "name": "Internacional Palmira",
+        "country": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/22940.png"
+    },
+    {
+        "id": 22941,
+        "name": "Alianza W",
+        "country": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/22941.png"
+    },
+    {
+        "id": 23326,
+        "name": "Internacional Palmira",
+        "country": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/23326.png"
+    },
+    {
+        "id": 23377,
+        "name": "Colombia U17 W",
+        "country": "Colombia",
+        "logo": "https://media.api-sports.io/football/teams/23377.png"
+    }
+]

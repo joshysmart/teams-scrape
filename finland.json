@@ -1,0 +1,3326 @@
+[
+    {
+        "id": 587,
+        "name": "IFK Mariehamn",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/587.png"
+    },
+    {
+        "id": 649,
+        "name": "HJK helsinki",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/649.png"
+    },
+    {
+        "id": 650,
+        "name": "vaasa PS",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/650.png"
+    },
+    {
+        "id": 689,
+        "name": "SJK",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/689.png"
+    },
+    {
+        "id": 1099,
+        "name": "Finland",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/1099.png"
+    },
+    {
+        "id": 1163,
+        "name": "Ilves Tampere",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/1163.png"
+    },
+    {
+        "id": 1164,
+        "name": "Inter Turku",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/1164.png"
+    },
+    {
+        "id": 1165,
+        "name": "KuPS",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/1165.png"
+    },
+    {
+        "id": 1166,
+        "name": "FC Lahti",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/1166.png"
+    },
+    {
+        "id": 1167,
+        "name": "Rops",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/1167.png"
+    },
+    {
+        "id": 1168,
+        "name": "Turku PS",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/1168.png"
+    },
+    {
+        "id": 1169,
+        "name": "Honka",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/1169.png"
+    },
+    {
+        "id": 1170,
+        "name": "PS Kemi Kings",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/1170.png"
+    },
+    {
+        "id": 1171,
+        "name": "JJK",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/1171.png"
+    },
+    {
+        "id": 1172,
+        "name": "HIFK Elsinki",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/1172.png"
+    },
+    {
+        "id": 1173,
+        "name": "PK-35 Vantaa",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/1173.png"
+    },
+    {
+        "id": 1771,
+        "name": "Finland W",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/1771.png"
+    },
+    {
+        "id": 2074,
+        "name": "FC jazz",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/2074.png"
+    },
+    {
+        "id": 2075,
+        "name": "FF Jaro",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/2075.png"
+    },
+    {
+        "id": 2076,
+        "name": "Kooteepee",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/2076.png"
+    },
+    {
+        "id": 2077,
+        "name": "AC oulu",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/2077.png"
+    },
+    {
+        "id": 2078,
+        "name": "EIF",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/2078.png"
+    },
+    {
+        "id": 2079,
+        "name": "GrIFK",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/2079.png"
+    },
+    {
+        "id": 2080,
+        "name": "haka",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/2080.png"
+    },
+    {
+        "id": 2081,
+        "name": "KPV Kokkola",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/2081.png"
+    },
+    {
+        "id": 2082,
+        "name": "IF Gnistan",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/2082.png"
+    },
+    {
+        "id": 2083,
+        "name": "OPS Oulu",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/2083.png"
+    },
+    {
+        "id": 2084,
+        "name": "AC Kajaani",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/2084.png"
+    },
+    {
+        "id": 2085,
+        "name": "Klubi-04",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/2085.png"
+    },
+    {
+        "id": 2243,
+        "name": "MyPa",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/2243.png"
+    },
+    {
+        "id": 2244,
+        "name": "TPV",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/2244.png"
+    },
+    {
+        "id": 2245,
+        "name": "Musa",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/2245.png"
+    },
+    {
+        "id": 6073,
+        "name": "JS Hercules",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/6073.png"
+    },
+    {
+        "id": 6074,
+        "name": "Kiisto",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/6074.png"
+    },
+    {
+        "id": 6075,
+        "name": "VJS",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/6075.png"
+    },
+    {
+        "id": 7902,
+        "name": "Honka U19",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/7902.png"
+    },
+    {
+        "id": 8193,
+        "name": "Finland U21",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/8193.png"
+    },
+    {
+        "id": 9172,
+        "name": "JIPPO",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/9172.png"
+    },
+    {
+        "id": 9173,
+        "name": "J\u00e4PS",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/9173.png"
+    },
+    {
+        "id": 9174,
+        "name": "Kiffen",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/9174.png"
+    },
+    {
+        "id": 9175,
+        "name": "MP",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/9175.png"
+    },
+    {
+        "id": 9176,
+        "name": "MiPK",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/9176.png"
+    },
+    {
+        "id": 9177,
+        "name": "NJS",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/9177.png"
+    },
+    {
+        "id": 9178,
+        "name": "PEPO",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/9178.png"
+    },
+    {
+        "id": 9179,
+        "name": "Reipas",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/9179.png"
+    },
+    {
+        "id": 9180,
+        "name": "Sudet",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/9180.png"
+    },
+    {
+        "id": 9181,
+        "name": "Viikingit",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/9181.png"
+    },
+    {
+        "id": 9182,
+        "name": "EPS",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/9182.png"
+    },
+    {
+        "id": 9183,
+        "name": "FC Espoo",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/9183.png"
+    },
+    {
+        "id": 9184,
+        "name": "Honka Akatemia",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/9184.png"
+    },
+    {
+        "id": 9185,
+        "name": "Ilves II",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/9185.png"
+    },
+    {
+        "id": 9186,
+        "name": "KaaPo",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/9186.png"
+    },
+    {
+        "id": 9187,
+        "name": "K\u00e4Pa",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/9187.png"
+    },
+    {
+        "id": 9188,
+        "name": "P-Iirot",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/9188.png"
+    },
+    {
+        "id": 9189,
+        "name": "SalPa",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/9189.png"
+    },
+    {
+        "id": 9190,
+        "name": "Tampere United",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/9190.png"
+    },
+    {
+        "id": 9191,
+        "name": "GBK",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/9191.png"
+    },
+    {
+        "id": 9192,
+        "name": "JBK",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/9192.png"
+    },
+    {
+        "id": 9193,
+        "name": "KajHa",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/9193.png"
+    },
+    {
+        "id": 9194,
+        "name": "KuFu-98",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/9194.png"
+    },
+    {
+        "id": 9195,
+        "name": "OLS",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/9195.png"
+    },
+    {
+        "id": 9196,
+        "name": "PK-37",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/9196.png"
+    },
+    {
+        "id": 9197,
+        "name": "RoPS II",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/9197.png"
+    },
+    {
+        "id": 9198,
+        "name": "SJK Akatemia",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/9198.png"
+    },
+    {
+        "id": 9199,
+        "name": "VIFK",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/9199.png"
+    },
+    {
+        "id": 9200,
+        "name": "VPS II",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/9200.png"
+    },
+    {
+        "id": 9201,
+        "name": "Vaajakoski",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/9201.png"
+    },
+    {
+        "id": 9202,
+        "name": "LPS",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/9202.png"
+    },
+    {
+        "id": 9203,
+        "name": "PKKU",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/9203.png"
+    },
+    {
+        "id": 9204,
+        "name": "Kultsu",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/9204.png"
+    },
+    {
+        "id": 9205,
+        "name": "Lahti Akatemia",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/9205.png"
+    },
+    {
+        "id": 9206,
+        "name": "Legirus Inter",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/9206.png"
+    },
+    {
+        "id": 9207,
+        "name": "BK-46",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/9207.png"
+    },
+    {
+        "id": 9208,
+        "name": "HIFK 2",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/9208.png"
+    },
+    {
+        "id": 9209,
+        "name": "HJS Akatemia",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/9209.png"
+    },
+    {
+        "id": 9210,
+        "name": "EsPa",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/9210.png"
+    },
+    {
+        "id": 9211,
+        "name": "NuPS",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/9211.png"
+    },
+    {
+        "id": 9212,
+        "name": "Peimari United",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/9212.png"
+    },
+    {
+        "id": 9213,
+        "name": "Kraft",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/9213.png"
+    },
+    {
+        "id": 9214,
+        "name": "TP-47",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/9214.png"
+    },
+    {
+        "id": 9215,
+        "name": "OTP",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/9215.png"
+    },
+    {
+        "id": 9216,
+        "name": "Villiketut",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/9216.png"
+    },
+    {
+        "id": 10199,
+        "name": "KPV-j",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/10199.png"
+    },
+    {
+        "id": 10323,
+        "name": "PeKa",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/10323.png"
+    },
+    {
+        "id": 10324,
+        "name": "TiPS",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/10324.png"
+    },
+    {
+        "id": 10333,
+        "name": "Finland U19",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/10333.png"
+    },
+    {
+        "id": 10667,
+        "name": "Atlantis",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/10667.png"
+    },
+    {
+        "id": 10668,
+        "name": "PIF",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/10668.png"
+    },
+    {
+        "id": 10669,
+        "name": "PK-35",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/10669.png"
+    },
+    {
+        "id": 10920,
+        "name": "PK-35 Vantaa W",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/10920.png"
+    },
+    {
+        "id": 12519,
+        "name": "Solomon Islands U17",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/12519.png"
+    },
+    {
+        "id": 12879,
+        "name": "ToVe",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/12879.png"
+    },
+    {
+        "id": 13471,
+        "name": "H\u00e4meenlinna",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13471.png"
+    },
+    {
+        "id": 13472,
+        "name": "Finnkurd",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13472.png"
+    },
+    {
+        "id": 13473,
+        "name": "HIFK 3",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13473.png"
+    },
+    {
+        "id": 13474,
+        "name": "Kuopion Elo",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13474.png"
+    },
+    {
+        "id": 13475,
+        "name": "LIK",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13475.png"
+    },
+    {
+        "id": 13476,
+        "name": "LePa",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13476.png"
+    },
+    {
+        "id": 13477,
+        "name": "Tervakosken Pato",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13477.png"
+    },
+    {
+        "id": 13478,
+        "name": "T\u00f6\u00f6l\u00f6n Taisto",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13478.png"
+    },
+    {
+        "id": 13479,
+        "name": "Aztecas",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13479.png"
+    },
+    {
+        "id": 13480,
+        "name": "HauPa",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13480.png"
+    },
+    {
+        "id": 13481,
+        "name": "HyPS",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13481.png"
+    },
+    {
+        "id": 13482,
+        "name": "JanPa",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13482.png"
+    },
+    {
+        "id": 13483,
+        "name": "Jokerit",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13483.png"
+    },
+    {
+        "id": 13484,
+        "name": "KY-Sport",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13484.png"
+    },
+    {
+        "id": 13485,
+        "name": "Kings",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13485.png"
+    },
+    {
+        "id": 13486,
+        "name": "KuuLa",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13486.png"
+    },
+    {
+        "id": 13487,
+        "name": "PeFF",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13487.png"
+    },
+    {
+        "id": 13488,
+        "name": "Ponnistajat",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13488.png"
+    },
+    {
+        "id": 13489,
+        "name": "SJK-j Apollo",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13489.png"
+    },
+    {
+        "id": 13490,
+        "name": "Santa Claus",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13490.png"
+    },
+    {
+        "id": 13491,
+        "name": "SexyP\u00f6xyt",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13491.png"
+    },
+    {
+        "id": 13492,
+        "name": "Takink\u00e4\u00e4nt\u00e4j\u00e4t",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13492.png"
+    },
+    {
+        "id": 13493,
+        "name": "ToTe",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13493.png"
+    },
+    {
+        "id": 13494,
+        "name": "\u00c5IFK",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13494.png"
+    },
+    {
+        "id": 13495,
+        "name": "Wolves",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13495.png"
+    },
+    {
+        "id": 13496,
+        "name": "Gnistan / Ogeli",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13496.png"
+    },
+    {
+        "id": 13497,
+        "name": "HooGee II",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13497.png"
+    },
+    {
+        "id": 13498,
+        "name": "H\u00e4rm\u00e4",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13498.png"
+    },
+    {
+        "id": 13499,
+        "name": "I-HK",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13499.png"
+    },
+    {
+        "id": 13500,
+        "name": "Kasiysi / Rocky",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13500.png"
+    },
+    {
+        "id": 13501,
+        "name": "Kontu",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13501.png"
+    },
+    {
+        "id": 13502,
+        "name": "Korso United",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13502.png"
+    },
+    {
+        "id": 13503,
+        "name": "Kumu",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13503.png"
+    },
+    {
+        "id": 13504,
+        "name": "LoPa",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13504.png"
+    },
+    {
+        "id": 13505,
+        "name": "MPS/Atletico Malmi",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13505.png"
+    },
+    {
+        "id": 13506,
+        "name": "MynPa",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13506.png"
+    },
+    {
+        "id": 13507,
+        "name": "PEF",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13507.png"
+    },
+    {
+        "id": 13508,
+        "name": "PPJ",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13508.png"
+    },
+    {
+        "id": 13509,
+        "name": "Pelikaani",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13509.png"
+    },
+    {
+        "id": 13510,
+        "name": "RiPS",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13510.png"
+    },
+    {
+        "id": 13511,
+        "name": "Riverball",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13511.png"
+    },
+    {
+        "id": 13512,
+        "name": "Tervarit-j JuPa",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13512.png"
+    },
+    {
+        "id": 13513,
+        "name": "T\u00f6\u00f6l\u00f6n Vesa",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13513.png"
+    },
+    {
+        "id": 13514,
+        "name": "\u00c5land",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13514.png"
+    },
+    {
+        "id": 13515,
+        "name": "Allianssi Vantaa",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13515.png"
+    },
+    {
+        "id": 13516,
+        "name": "Futura",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13516.png"
+    },
+    {
+        "id": 13517,
+        "name": "HPS",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13517.png"
+    },
+    {
+        "id": 13518,
+        "name": "Hieho",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13518.png"
+    },
+    {
+        "id": 13519,
+        "name": "JIK",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13519.png"
+    },
+    {
+        "id": 13520,
+        "name": "JIlves",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13520.png"
+    },
+    {
+        "id": 13521,
+        "name": "KPS",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13521.png"
+    },
+    {
+        "id": 13522,
+        "name": "KPV Akatemia",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13522.png"
+    },
+    {
+        "id": 13523,
+        "name": "Myllypuro",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13523.png"
+    },
+    {
+        "id": 13524,
+        "name": "Nekalan Pallo",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13524.png"
+    },
+    {
+        "id": 13525,
+        "name": "Orimattilan Pedot",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13525.png"
+    },
+    {
+        "id": 13526,
+        "name": "PaiHa",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13526.png"
+    },
+    {
+        "id": 13527,
+        "name": "SUMU/77",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13527.png"
+    },
+    {
+        "id": 13528,
+        "name": "SaPa",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13528.png"
+    },
+    {
+        "id": 13529,
+        "name": "SiPS",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13529.png"
+    },
+    {
+        "id": 13530,
+        "name": "Spartak Kajaani",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13530.png"
+    },
+    {
+        "id": 13531,
+        "name": "TamU-K",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13531.png"
+    },
+    {
+        "id": 13532,
+        "name": "TuPS",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13532.png"
+    },
+    {
+        "id": 13533,
+        "name": "Virky",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13533.png"
+    },
+    {
+        "id": 13534,
+        "name": "FC Honka A2",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13534.png"
+    },
+    {
+        "id": 13535,
+        "name": "HIFK 4",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13535.png"
+    },
+    {
+        "id": 13536,
+        "name": "HJK-T\u00f6\u00f6l\u00f6",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13536.png"
+    },
+    {
+        "id": 13537,
+        "name": "HPS II",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13537.png"
+    },
+    {
+        "id": 13538,
+        "name": "JoPS",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13538.png"
+    },
+    {
+        "id": 13539,
+        "name": "LeKi-Futis",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13539.png"
+    },
+    {
+        "id": 13540,
+        "name": "MaPS",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13540.png"
+    },
+    {
+        "id": 13541,
+        "name": "Pallohonka",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13541.png"
+    },
+    {
+        "id": 13542,
+        "name": "Peltirumpu",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13542.png"
+    },
+    {
+        "id": 13543,
+        "name": "RoPo",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13543.png"
+    },
+    {
+        "id": 13544,
+        "name": "SUMU/SOB",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13544.png"
+    },
+    {
+        "id": 13545,
+        "name": "SibboV",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13545.png"
+    },
+    {
+        "id": 13546,
+        "name": "Sudet II",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13546.png"
+    },
+    {
+        "id": 13547,
+        "name": "VG-62",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13547.png"
+    },
+    {
+        "id": 13548,
+        "name": "VaKP",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13548.png"
+    },
+    {
+        "id": 13549,
+        "name": "Viikkarit",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13549.png"
+    },
+    {
+        "id": 13550,
+        "name": "Pisa",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13550.png"
+    },
+    {
+        "id": 13551,
+        "name": "Boda",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13551.png"
+    },
+    {
+        "id": 13552,
+        "name": "EBK",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13552.png"
+    },
+    {
+        "id": 13553,
+        "name": "HerTo",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13553.png"
+    },
+    {
+        "id": 13554,
+        "name": "Huima",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13554.png"
+    },
+    {
+        "id": 13555,
+        "name": "I-HK M09",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13555.png"
+    },
+    {
+        "id": 13556,
+        "name": "IFK Jakobstad",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13556.png"
+    },
+    {
+        "id": 13557,
+        "name": "Muurola",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13557.png"
+    },
+    {
+        "id": 13558,
+        "name": "PPV",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13558.png"
+    },
+    {
+        "id": 13559,
+        "name": "PaPe",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13559.png"
+    },
+    {
+        "id": 13560,
+        "name": "Purha II",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13560.png"
+    },
+    {
+        "id": 13561,
+        "name": "Babylon X",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13561.png"
+    },
+    {
+        "id": 13562,
+        "name": "IK Myran",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13562.png"
+    },
+    {
+        "id": 13563,
+        "name": "JPS",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13563.png"
+    },
+    {
+        "id": 13564,
+        "name": "KyIF",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13564.png"
+    },
+    {
+        "id": 13565,
+        "name": "MaKu",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13565.png"
+    },
+    {
+        "id": 13566,
+        "name": "NoPS",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13566.png"
+    },
+    {
+        "id": 13567,
+        "name": "Pallo-Pojat",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13567.png"
+    },
+    {
+        "id": 13568,
+        "name": "Ponnistus",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13568.png"
+    },
+    {
+        "id": 13569,
+        "name": "STPS",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13569.png"
+    },
+    {
+        "id": 13570,
+        "name": "SW",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13570.png"
+    },
+    {
+        "id": 13571,
+        "name": "TP-T",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13571.png"
+    },
+    {
+        "id": 13572,
+        "name": "ViPa",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13572.png"
+    },
+    {
+        "id": 13573,
+        "name": "MPS",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13573.png"
+    },
+    {
+        "id": 13574,
+        "name": "POHU",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13574.png"
+    },
+    {
+        "id": 13575,
+        "name": "I-Kissat",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13575.png"
+    },
+    {
+        "id": 13576,
+        "name": "SoVo",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13576.png"
+    },
+    {
+        "id": 13577,
+        "name": "Sporting Kristina",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13577.png"
+    },
+    {
+        "id": 13578,
+        "name": "PPT",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13578.png"
+    },
+    {
+        "id": 13579,
+        "name": "Virki\u00e4",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13579.png"
+    },
+    {
+        "id": 13580,
+        "name": "YPA",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13580.png"
+    },
+    {
+        "id": 13581,
+        "name": "Eken\u00e4s SC",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13581.png"
+    },
+    {
+        "id": 13582,
+        "name": "Kerho 07 (SJK II)",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13582.png"
+    },
+    {
+        "id": 13990,
+        "name": "HJK",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13990.png"
+    },
+    {
+        "id": 13991,
+        "name": "Ilves",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13991.png"
+    },
+    {
+        "id": 13992,
+        "name": "JyPK",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13992.png"
+    },
+    {
+        "id": 13993,
+        "name": "PK-35 Helsinki",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13993.png"
+    },
+    {
+        "id": 13994,
+        "name": "TPS",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13994.png"
+    },
+    {
+        "id": 13995,
+        "name": "\u00c5land United",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13995.png"
+    },
+    {
+        "id": 13996,
+        "name": "Honka W",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13996.png"
+    },
+    {
+        "id": 13997,
+        "name": "KuPS W",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13997.png"
+    },
+    {
+        "id": 13998,
+        "name": "TiPS W",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/13998.png"
+    },
+    {
+        "id": 14484,
+        "name": "EuPa",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/14484.png"
+    },
+    {
+        "id": 16383,
+        "name": "HPS W",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/16383.png"
+    },
+    {
+        "id": 17061,
+        "name": "LehPa",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/17061.png"
+    },
+    {
+        "id": 17952,
+        "name": "Finland U17",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/17952.png"
+    },
+    {
+        "id": 18480,
+        "name": "AFC Campus",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18480.png"
+    },
+    {
+        "id": 18481,
+        "name": "AFC Keltik",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18481.png"
+    },
+    {
+        "id": 18482,
+        "name": "APV",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18482.png"
+    },
+    {
+        "id": 18483,
+        "name": "Ares 86",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18483.png"
+    },
+    {
+        "id": 18484,
+        "name": "AskU",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18484.png"
+    },
+    {
+        "id": 18485,
+        "name": "Atlantis II",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18485.png"
+    },
+    {
+        "id": 18486,
+        "name": "BET Jyv\u00e4skyl\u00e4",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18486.png"
+    },
+    {
+        "id": 18487,
+        "name": "Barca",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18487.png"
+    },
+    {
+        "id": 18488,
+        "name": "Chicken Wings",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18488.png"
+    },
+    {
+        "id": 18489,
+        "name": "Colo-Colo",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18489.png"
+    },
+    {
+        "id": 18490,
+        "name": "EBK / Reservi",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18490.png"
+    },
+    {
+        "id": 18491,
+        "name": "EPS / 1",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18491.png"
+    },
+    {
+        "id": 18492,
+        "name": "EPS II",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18492.png"
+    },
+    {
+        "id": 18493,
+        "name": "Eurajoki",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18493.png"
+    },
+    {
+        "id": 18494,
+        "name": "Eurajoki II",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18494.png"
+    },
+    {
+        "id": 18495,
+        "name": "FC Kangasala",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18495.png"
+    },
+    {
+        "id": 18496,
+        "name": "FC RP",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18496.png"
+    },
+    {
+        "id": 18497,
+        "name": "FCS",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18497.png"
+    },
+    {
+        "id": 18498,
+        "name": "Fish United",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18498.png"
+    },
+    {
+        "id": 18499,
+        "name": "GNU O35",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18499.png"
+    },
+    {
+        "id": 18500,
+        "name": "Gnistan O35",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18500.png"
+    },
+    {
+        "id": 18501,
+        "name": "GrIFK U23",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18501.png"
+    },
+    {
+        "id": 18502,
+        "name": "HAlku",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18502.png"
+    },
+    {
+        "id": 18503,
+        "name": "HaPK Edustus",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18503.png"
+    },
+    {
+        "id": 18504,
+        "name": "HaPo",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18504.png"
+    },
+    {
+        "id": 18505,
+        "name": "Haka Juniorit",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18505.png"
+    },
+    {
+        "id": 18506,
+        "name": "Haka-j / Musta",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18506.png"
+    },
+    {
+        "id": 18507,
+        "name": "Harjun Potku",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18507.png"
+    },
+    {
+        "id": 18508,
+        "name": "Helmi J\u00e4tk\u00e4",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18508.png"
+    },
+    {
+        "id": 18509,
+        "name": "Honka / Leopardit",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18509.png"
+    },
+    {
+        "id": 18510,
+        "name": "Honka III",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18510.png"
+    },
+    {
+        "id": 18511,
+        "name": "HooGee",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18511.png"
+    },
+    {
+        "id": 18512,
+        "name": "HyMy",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18512.png"
+    },
+    {
+        "id": 18513,
+        "name": "IK Ilmajoki",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18513.png"
+    },
+    {
+        "id": 18514,
+        "name": "IPS Edustus",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18514.png"
+    },
+    {
+        "id": 18515,
+        "name": "Ilves III",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18515.png"
+    },
+    {
+        "id": 18516,
+        "name": "Ilves IV",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18516.png"
+    },
+    {
+        "id": 18517,
+        "name": "Inter Jyv\u00e4skyl\u00e4",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18517.png"
+    },
+    {
+        "id": 18518,
+        "name": "Inter Turku II",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18518.png"
+    },
+    {
+        "id": 18519,
+        "name": "Inter Turku O35",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18519.png"
+    },
+    {
+        "id": 18520,
+        "name": "JaPS O35",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18520.png"
+    },
+    {
+        "id": 18521,
+        "name": "JyTy Turku",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18521.png"
+    },
+    {
+        "id": 18522,
+        "name": "J\u00e4PS II",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18522.png"
+    },
+    {
+        "id": 18523,
+        "name": "J\u00e4PS III",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18523.png"
+    },
+    {
+        "id": 18524,
+        "name": "J\u00e4ntev\u00e4 Kotka",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18524.png"
+    },
+    {
+        "id": 18525,
+        "name": "J\u00e4pp\u00e4r\u00e4",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18525.png"
+    },
+    {
+        "id": 18526,
+        "name": "KJK",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18526.png"
+    },
+    {
+        "id": 18527,
+        "name": "KJP II",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18527.png"
+    },
+    {
+        "id": 18528,
+        "name": "KJV",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18528.png"
+    },
+    {
+        "id": 18529,
+        "name": "KOMU",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18529.png"
+    },
+    {
+        "id": 18530,
+        "name": "KaDy II",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18530.png"
+    },
+    {
+        "id": 18531,
+        "name": "KaPa Kajaani",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18531.png"
+    },
+    {
+        "id": 18532,
+        "name": "KaaPS",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18532.png"
+    },
+    {
+        "id": 18533,
+        "name": "Kajo",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18533.png"
+    },
+    {
+        "id": 18534,
+        "name": "KarPo",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18534.png"
+    },
+    {
+        "id": 18535,
+        "name": "KePS",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18535.png"
+    },
+    {
+        "id": 18536,
+        "name": "KelA",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18536.png"
+    },
+    {
+        "id": 18537,
+        "name": "KemPa",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18537.png"
+    },
+    {
+        "id": 18538,
+        "name": "KeuPa",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18538.png"
+    },
+    {
+        "id": 18539,
+        "name": "KeuPa II",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18539.png"
+    },
+    {
+        "id": 18540,
+        "name": "Kiffen 08 III",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18540.png"
+    },
+    {
+        "id": 18541,
+        "name": "Kilo IF",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18541.png"
+    },
+    {
+        "id": 18542,
+        "name": "Kirkkonummi",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18542.png"
+    },
+    {
+        "id": 18543,
+        "name": "Kirkkonummi III",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18543.png"
+    },
+    {
+        "id": 18544,
+        "name": "KoPa",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18544.png"
+    },
+    {
+        "id": 18545,
+        "name": "KoiPS",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18545.png"
+    },
+    {
+        "id": 18546,
+        "name": "KoiPS / Dynamo",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18546.png"
+    },
+    {
+        "id": 18547,
+        "name": "Kolarin Kontio",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18547.png"
+    },
+    {
+        "id": 18548,
+        "name": "KonnU",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18548.png"
+    },
+    {
+        "id": 18549,
+        "name": "Kontu / TDJ",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18549.png"
+    },
+    {
+        "id": 18550,
+        "name": "Kumu JT",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18550.png"
+    },
+    {
+        "id": 18551,
+        "name": "Kurvin Vauhti",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18551.png"
+    },
+    {
+        "id": 18552,
+        "name": "Kurvin Vauhti / Partiz",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18552.png"
+    },
+    {
+        "id": 18553,
+        "name": "KyPS",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18553.png"
+    },
+    {
+        "id": 18554,
+        "name": "K\u00e4Pa / NoLe",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18554.png"
+    },
+    {
+        "id": 18555,
+        "name": "K\u00e4pyl\u00e4 Maanantai",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18555.png"
+    },
+    {
+        "id": 18556,
+        "name": "LAUTP",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18556.png"
+    },
+    {
+        "id": 18557,
+        "name": "LJS",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18557.png"
+    },
+    {
+        "id": 18558,
+        "name": "LLuja",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18558.png"
+    },
+    {
+        "id": 18559,
+        "name": "LPS / Kuninkaat",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18559.png"
+    },
+    {
+        "id": 18560,
+        "name": "LPS II",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18560.png"
+    },
+    {
+        "id": 18561,
+        "name": "LaPa II",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18561.png"
+    },
+    {
+        "id": 18562,
+        "name": "LaPo 90",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18562.png"
+    },
+    {
+        "id": 18563,
+        "name": "LaVe / KPR",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18563.png"
+    },
+    {
+        "id": 18564,
+        "name": "LePa II",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18564.png"
+    },
+    {
+        "id": 18565,
+        "name": "LePa O35",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18565.png"
+    },
+    {
+        "id": 18566,
+        "name": "Lieto",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18566.png"
+    },
+    {
+        "id": 18567,
+        "name": "Loiske",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18567.png"
+    },
+    {
+        "id": 18568,
+        "name": "Loviisa",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18568.png"
+    },
+    {
+        "id": 18569,
+        "name": "L\u00e4nsiv\u00e4yl\u00e4n Dynamo",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18569.png"
+    },
+    {
+        "id": 18570,
+        "name": "MLHF",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18570.png"
+    },
+    {
+        "id": 18571,
+        "name": "Melody",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18571.png"
+    },
+    {
+        "id": 18572,
+        "name": "Naseva",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18572.png"
+    },
+    {
+        "id": 18573,
+        "name": "Nastolan Nopsa",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18573.png"
+    },
+    {
+        "id": 18574,
+        "name": "NiemU",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18574.png"
+    },
+    {
+        "id": 18575,
+        "name": "Nikinm\u00e4ki United",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18575.png"
+    },
+    {
+        "id": 18576,
+        "name": "NouLa",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18576.png"
+    },
+    {
+        "id": 18577,
+        "name": "Olarin Kiksi",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18577.png"
+    },
+    {
+        "id": 18578,
+        "name": "OuJK",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18578.png"
+    },
+    {
+        "id": 18579,
+        "name": "PEP",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18579.png"
+    },
+    {
+        "id": 18581,
+        "name": "PK-35 Vantaa II",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18581.png"
+    },
+    {
+        "id": 18582,
+        "name": "POHU / J\u00e4Pa",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18582.png"
+    },
+    {
+        "id": 18583,
+        "name": "POHU / Simpsons",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18583.png"
+    },
+    {
+        "id": 18584,
+        "name": "PPS",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18584.png"
+    },
+    {
+        "id": 18585,
+        "name": "PPS / Diablos Rojos",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18585.png"
+    },
+    {
+        "id": 18586,
+        "name": "PPS / Old Stars",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18586.png"
+    },
+    {
+        "id": 18587,
+        "name": "Pakila",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18587.png"
+    },
+    {
+        "id": 18588,
+        "name": "Peimari United II",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18588.png"
+    },
+    {
+        "id": 18589,
+        "name": "PetPet",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18589.png"
+    },
+    {
+        "id": 18590,
+        "name": "PiPS",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18590.png"
+    },
+    {
+        "id": 18591,
+        "name": "PiPo 79",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18591.png"
+    },
+    {
+        "id": 18592,
+        "name": "PoPa",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18592.png"
+    },
+    {
+        "id": 18593,
+        "name": "PoPo",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18593.png"
+    },
+    {
+        "id": 18594,
+        "name": "Ponnistus II",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18594.png"
+    },
+    {
+        "id": 18595,
+        "name": "PuPa O35",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18595.png"
+    },
+    {
+        "id": 18596,
+        "name": "PuiU Helsinki",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18596.png"
+    },
+    {
+        "id": 18597,
+        "name": "Puleward City",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18597.png"
+    },
+    {
+        "id": 18598,
+        "name": "Qppis",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18598.png"
+    },
+    {
+        "id": 18599,
+        "name": "RPS Lions",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18599.png"
+    },
+    {
+        "id": 18600,
+        "name": "RaPe",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18600.png"
+    },
+    {
+        "id": 18601,
+        "name": "Rastaala",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18601.png"
+    },
+    {
+        "id": 18602,
+        "name": "RiRa",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18602.png"
+    },
+    {
+        "id": 18603,
+        "name": "Roi United",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18603.png"
+    },
+    {
+        "id": 18604,
+        "name": "Ruila",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18604.png"
+    },
+    {
+        "id": 18605,
+        "name": "RyPK 84",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18605.png"
+    },
+    {
+        "id": 18606,
+        "name": "SAPA II",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18606.png"
+    },
+    {
+        "id": 18607,
+        "name": "SCJ",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18607.png"
+    },
+    {
+        "id": 18608,
+        "name": "SIF",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18608.png"
+    },
+    {
+        "id": 18609,
+        "name": "SJK-juniorit",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18609.png"
+    },
+    {
+        "id": 18610,
+        "name": "SaPa Pieks\u00e4m\u00e4ki",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18610.png"
+    },
+    {
+        "id": 18611,
+        "name": "Sexyp\u00f6xyt O35",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18611.png"
+    },
+    {
+        "id": 18612,
+        "name": "Sisu",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18612.png"
+    },
+    {
+        "id": 18613,
+        "name": "Soho Jyv\u00e4skyl\u00e4",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18613.png"
+    },
+    {
+        "id": 18614,
+        "name": "Soho SS",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18614.png"
+    },
+    {
+        "id": 18615,
+        "name": "StaSi",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18615.png"
+    },
+    {
+        "id": 18616,
+        "name": "S\u00e4\u00e4ripotku",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18616.png"
+    },
+    {
+        "id": 18617,
+        "name": "TP 49",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18617.png"
+    },
+    {
+        "id": 18618,
+        "name": "TPK",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18618.png"
+    },
+    {
+        "id": 18619,
+        "name": "Tampere United II",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18619.png"
+    },
+    {
+        "id": 18620,
+        "name": "Tarzan",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18620.png"
+    },
+    {
+        "id": 18621,
+        "name": "ToTe / Keparoi",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18621.png"
+    },
+    {
+        "id": 18622,
+        "name": "ToTe / Legends",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18622.png"
+    },
+    {
+        "id": 18623,
+        "name": "Torre Calcio",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18623.png"
+    },
+    {
+        "id": 18624,
+        "name": "TuKV II",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18624.png"
+    },
+    {
+        "id": 18625,
+        "name": "TuNL",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18625.png"
+    },
+    {
+        "id": 18626,
+        "name": "TuPV",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18626.png"
+    },
+    {
+        "id": 18627,
+        "name": "TuRaKe",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18627.png"
+    },
+    {
+        "id": 18628,
+        "name": "TuTo",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18628.png"
+    },
+    {
+        "id": 18629,
+        "name": "TuWe",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18629.png"
+    },
+    {
+        "id": 18630,
+        "name": "Tuisku",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18630.png"
+    },
+    {
+        "id": 18631,
+        "name": "TyPS",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18631.png"
+    },
+    {
+        "id": 18632,
+        "name": "UrPS",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18632.png"
+    },
+    {
+        "id": 18633,
+        "name": "VJS II",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18633.png"
+    },
+    {
+        "id": 18634,
+        "name": "Vaajakoski / Reds",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18634.png"
+    },
+    {
+        "id": 18635,
+        "name": "Valo",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18635.png"
+    },
+    {
+        "id": 18636,
+        "name": "Valtti",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18636.png"
+    },
+    {
+        "id": 18637,
+        "name": "Vapsi",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18637.png"
+    },
+    {
+        "id": 18638,
+        "name": "VesVi",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18638.png"
+    },
+    {
+        "id": 18639,
+        "name": "ViTa",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18639.png"
+    },
+    {
+        "id": 18640,
+        "name": "ViiPV",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18640.png"
+    },
+    {
+        "id": 18641,
+        "name": "Villan Pojat",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18641.png"
+    },
+    {
+        "id": 18642,
+        "name": "Villisiat",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18642.png"
+    },
+    {
+        "id": 18643,
+        "name": "Warkaus",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18643.png"
+    },
+    {
+        "id": 18644,
+        "name": "Wild",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18644.png"
+    },
+    {
+        "id": 18645,
+        "name": "Wild II",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18645.png"
+    },
+    {
+        "id": 18646,
+        "name": "Ylivieska II",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18646.png"
+    },
+    {
+        "id": 18647,
+        "name": "Yll\u00e4tys",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18647.png"
+    },
+    {
+        "id": 18648,
+        "name": "Yl\u00f6j\u00e4rvi United",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18648.png"
+    },
+    {
+        "id": 18649,
+        "name": "\u00c5CF",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18649.png"
+    },
+    {
+        "id": 18650,
+        "name": "EsPa / Renat",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18650.png"
+    },
+    {
+        "id": 18651,
+        "name": "Kontu / KoVa",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18651.png"
+    },
+    {
+        "id": 18662,
+        "name": "MoPo",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18662.png"
+    },
+    {
+        "id": 18663,
+        "name": "HAlku II",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18663.png"
+    },
+    {
+        "id": 18664,
+        "name": "MLHF II",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18664.png"
+    },
+    {
+        "id": 18665,
+        "name": "Purha",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18665.png"
+    },
+    {
+        "id": 18666,
+        "name": "Kasiysi",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18666.png"
+    },
+    {
+        "id": 18667,
+        "name": "Union Plaani",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18667.png"
+    },
+    {
+        "id": 18668,
+        "name": "ACE",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18668.png"
+    },
+    {
+        "id": 18670,
+        "name": "PP-70",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18670.png"
+    },
+    {
+        "id": 18671,
+        "name": "Union Plaani II",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18671.png"
+    },
+    {
+        "id": 18718,
+        "name": "KJP",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18718.png"
+    },
+    {
+        "id": 18719,
+        "name": "MPS / Atletico Akatemia",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18719.png"
+    },
+    {
+        "id": 18720,
+        "name": "Ponnistus / Peruskallio",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18720.png"
+    },
+    {
+        "id": 18721,
+        "name": "TPS O35",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18721.png"
+    },
+    {
+        "id": 18722,
+        "name": "TaPa",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18722.png"
+    },
+    {
+        "id": 18729,
+        "name": "P-Iirot II",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18729.png"
+    },
+    {
+        "id": 18756,
+        "name": "ONS",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18756.png"
+    },
+    {
+        "id": 18757,
+        "name": "NJS W",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18757.png"
+    },
+    {
+        "id": 18758,
+        "name": "KuPS Akatemia",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18758.png"
+    },
+    {
+        "id": 18759,
+        "name": "LaPa",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18759.png"
+    },
+    {
+        "id": 18760,
+        "name": "FC Komeetat",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/18760.png"
+    },
+    {
+        "id": 20896,
+        "name": "Afro Foot Club",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/20896.png"
+    },
+    {
+        "id": 20897,
+        "name": "Ajax Sarkkiranta",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/20897.png"
+    },
+    {
+        "id": 20898,
+        "name": "Akilles",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/20898.png"
+    },
+    {
+        "id": 20899,
+        "name": "Arkki",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/20899.png"
+    },
+    {
+        "id": 20900,
+        "name": "BK-48",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/20900.png"
+    },
+    {
+        "id": 20901,
+        "name": "CLE",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/20901.png"
+    },
+    {
+        "id": 20902,
+        "name": "Darra",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/20902.png"
+    },
+    {
+        "id": 20903,
+        "name": "EIF II",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/20903.png"
+    },
+    {
+        "id": 20904,
+        "name": "Espoon Tikka",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/20904.png"
+    },
+    {
+        "id": 20905,
+        "name": "Flamingo United",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/20905.png"
+    },
+    {
+        "id": 20906,
+        "name": "HJK / Kantsu",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/20906.png"
+    },
+    {
+        "id": 20907,
+        "name": "HausPA",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/20907.png"
+    },
+    {
+        "id": 20908,
+        "name": "HeMan",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/20908.png"
+    },
+    {
+        "id": 20909,
+        "name": "I-HK II",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/20909.png"
+    },
+    {
+        "id": 20910,
+        "name": "Inter Vuosaari",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/20910.png"
+    },
+    {
+        "id": 20911,
+        "name": "Jalas",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/20911.png"
+    },
+    {
+        "id": 20912,
+        "name": "Juniori STPS",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/20912.png"
+    },
+    {
+        "id": 20913,
+        "name": "J\u00e4PS / United",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/20913.png"
+    },
+    {
+        "id": 20914,
+        "name": "J\u00e4ntev\u00e4 Kotka II",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/20914.png"
+    },
+    {
+        "id": 20915,
+        "name": "KTU",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/20915.png"
+    },
+    {
+        "id": 20916,
+        "name": "KaPy",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/20916.png"
+    },
+    {
+        "id": 20917,
+        "name": "Karhu Futis II",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/20917.png"
+    },
+    {
+        "id": 20918,
+        "name": "KuuLa II",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/20918.png"
+    },
+    {
+        "id": 20919,
+        "name": "Kyp\u00e4r\u00e4m\u00e4ki Rangers",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/20919.png"
+    },
+    {
+        "id": 20920,
+        "name": "LTU",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/20920.png"
+    },
+    {
+        "id": 20921,
+        "name": "Lasten",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/20921.png"
+    },
+    {
+        "id": 20922,
+        "name": "Liry",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/20922.png"
+    },
+    {
+        "id": 20923,
+        "name": "LoPS",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/20923.png"
+    },
+    {
+        "id": 20924,
+        "name": "LoVe",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/20924.png"
+    },
+    {
+        "id": 20925,
+        "name": "LuoVu",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/20925.png"
+    },
+    {
+        "id": 20926,
+        "name": "L\u00e4hi\u00f6",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/20926.png"
+    },
+    {
+        "id": 20927,
+        "name": "MP II",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/20927.png"
+    },
+    {
+        "id": 20928,
+        "name": "MaPS II",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/20928.png"
+    },
+    {
+        "id": 20929,
+        "name": "Marski",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/20929.png"
+    },
+    {
+        "id": 20930,
+        "name": "Messukyl\u00e4 United",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/20930.png"
+    },
+    {
+        "id": 20931,
+        "name": "NJS III",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/20931.png"
+    },
+    {
+        "id": 20932,
+        "name": "NoPS II",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/20932.png"
+    },
+    {
+        "id": 20933,
+        "name": "NuPS II",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/20933.png"
+    },
+    {
+        "id": 20934,
+        "name": "PK-35 / \u00c4ij\u00e4t",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/20934.png"
+    },
+    {
+        "id": 20935,
+        "name": "POHU / Hurjin",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/20935.png"
+    },
+    {
+        "id": 20936,
+        "name": "Pehmeet ja M\u00e4r\u00e4t",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/20936.png"
+    },
+    {
+        "id": 20937,
+        "name": "PonPa",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/20937.png"
+    },
+    {
+        "id": 20938,
+        "name": "Pyry",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/20938.png"
+    },
+    {
+        "id": 20939,
+        "name": "SCR",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/20939.png"
+    },
+    {
+        "id": 20940,
+        "name": "SJK-j",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/20940.png"
+    },
+    {
+        "id": 20941,
+        "name": "SalPa II",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/20941.png"
+    },
+    {
+        "id": 20942,
+        "name": "Samba",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/20942.png"
+    },
+    {
+        "id": 20943,
+        "name": "Savannan Pallo / Savanna",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/20943.png"
+    },
+    {
+        "id": 20944,
+        "name": "Sexyp\u00f6xyt II",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/20944.png"
+    },
+    {
+        "id": 20945,
+        "name": "Spital",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/20945.png"
+    },
+    {
+        "id": 20946,
+        "name": "Strikers / Bertil",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/20946.png"
+    },
+    {
+        "id": 20947,
+        "name": "TPV II",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/20947.png"
+    },
+    {
+        "id": 20948,
+        "name": "Tampere United III",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/20948.png"
+    },
+    {
+        "id": 20949,
+        "name": "TiPS III",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/20949.png"
+    },
+    {
+        "id": 20950,
+        "name": "ToBK",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/20950.png"
+    },
+    {
+        "id": 20951,
+        "name": "ToTe / Taiskin Tykit",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/20951.png"
+    },
+    {
+        "id": 20952,
+        "name": "ToTe / Tapio",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/20952.png"
+    },
+    {
+        "id": 20953,
+        "name": "ToU",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/20953.png"
+    },
+    {
+        "id": 20954,
+        "name": "Torre Calcio II",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/20954.png"
+    },
+    {
+        "id": 20955,
+        "name": "TuPS O35",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/20955.png"
+    },
+    {
+        "id": 20956,
+        "name": "Ulvila",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/20956.png"
+    },
+    {
+        "id": 20957,
+        "name": "Valtti II",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/20957.png"
+    },
+    {
+        "id": 20958,
+        "name": "Vietfin",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/20958.png"
+    },
+    {
+        "id": 20959,
+        "name": "Viinikan Pallo",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/20959.png"
+    },
+    {
+        "id": 21049,
+        "name": "ACE II",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/21049.png"
+    },
+    {
+        "id": 21105,
+        "name": "Apassit",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/21105.png"
+    },
+    {
+        "id": 21106,
+        "name": "Polin Pallo",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/21106.png"
+    },
+    {
+        "id": 21108,
+        "name": "Dons",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/21108.png"
+    },
+    {
+        "id": 21109,
+        "name": "LPS / 7",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/21109.png"
+    },
+    {
+        "id": 21110,
+        "name": "LaVe",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/21110.png"
+    },
+    {
+        "id": 21111,
+        "name": "TPK II",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/21111.png"
+    },
+    {
+        "id": 21182,
+        "name": "OuPa",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/21182.png"
+    },
+    {
+        "id": 21183,
+        "name": "PPJ / Lauttasaari",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/21183.png"
+    },
+    {
+        "id": 21184,
+        "name": "Parseh",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/21184.png"
+    },
+    {
+        "id": 21185,
+        "name": "Tavastia",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/21185.png"
+    },
+    {
+        "id": 21467,
+        "name": "Finland U18",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/21467.png"
+    },
+    {
+        "id": 22556,
+        "name": "Finland U16",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/22556.png"
+    },
+    {
+        "id": 22942,
+        "name": "PKKU W",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/22942.png"
+    },
+    {
+        "id": 22962,
+        "name": "Andalus",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/22962.png"
+    },
+    {
+        "id": 22963,
+        "name": "Atlantis / PM",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/22963.png"
+    },
+    {
+        "id": 22964,
+        "name": "BK-48 II",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/22964.png"
+    },
+    {
+        "id": 22965,
+        "name": "Dons II",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/22965.png"
+    },
+    {
+        "id": 22966,
+        "name": "EsPa / United",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/22966.png"
+    },
+    {
+        "id": 22967,
+        "name": "Etu-T\u00f6\u00f6l\u00f6n Urhot",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/22967.png"
+    },
+    {
+        "id": 22968,
+        "name": "FCFJ",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/22968.png"
+    },
+    {
+        "id": 22970,
+        "name": "Gilla",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/22970.png"
+    },
+    {
+        "id": 22971,
+        "name": "Gnistan / 3",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/22971.png"
+    },
+    {
+        "id": 22972,
+        "name": "HJK / T\u00f6\u00f6l\u00f6n Ihme",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/22972.png"
+    },
+    {
+        "id": 22973,
+        "name": "HJS / sininen",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/22973.png"
+    },
+    {
+        "id": 22974,
+        "name": "HP-47",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/22974.png"
+    },
+    {
+        "id": 22975,
+        "name": "HPS / J\u00e4gers",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/22975.png"
+    },
+    {
+        "id": 22976,
+        "name": "HaPK Edustus II",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/22976.png"
+    },
+    {
+        "id": 22977,
+        "name": "HauPa II",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/22977.png"
+    },
+    {
+        "id": 22978,
+        "name": "HePu",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/22978.png"
+    },
+    {
+        "id": 22979,
+        "name": "Hein\u00e4p\u00e4\u00e4n Hanhet 24",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/22979.png"
+    },
+    {
+        "id": 22980,
+        "name": "Huima / Urho",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/22980.png"
+    },
+    {
+        "id": 22981,
+        "name": "Ilves-Kissat juniorit",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/22981.png"
+    },
+    {
+        "id": 22982,
+        "name": "Inter Turku III",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/22982.png"
+    },
+    {
+        "id": 22983,
+        "name": "JiiKoo",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/22983.png"
+    },
+    {
+        "id": 22984,
+        "name": "Juvantus",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/22984.png"
+    },
+    {
+        "id": 22985,
+        "name": "J\u00e4ntev\u00e4 / Ukot",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/22985.png"
+    },
+    {
+        "id": 22986,
+        "name": "KaIK",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/22986.png"
+    },
+    {
+        "id": 22987,
+        "name": "Karhu",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/22987.png"
+    },
+    {
+        "id": 22988,
+        "name": "Karhu-Futis",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/22988.png"
+    },
+    {
+        "id": 22989,
+        "name": "KeiKa",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/22989.png"
+    },
+    {
+        "id": 22990,
+        "name": "KoPo",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/22990.png"
+    },
+    {
+        "id": 22991,
+        "name": "Komeetat / 3",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/22991.png"
+    },
+    {
+        "id": 22992,
+        "name": "Komeetat / Piuku",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/22992.png"
+    },
+    {
+        "id": 22993,
+        "name": "Kullervo / Mosaic",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/22993.png"
+    },
+    {
+        "id": 22994,
+        "name": "Kuusysi II",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/22994.png"
+    },
+    {
+        "id": 22995,
+        "name": "KyPa",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/22995.png"
+    },
+    {
+        "id": 22996,
+        "name": "K\u00e4Pa / 2",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/22996.png"
+    },
+    {
+        "id": 22997,
+        "name": "LAUTP / 2",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/22997.png"
+    },
+    {
+        "id": 22998,
+        "name": "Lahti II",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/22998.png"
+    },
+    {
+        "id": 22999,
+        "name": "Laihia United",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/22999.png"
+    },
+    {
+        "id": 23000,
+        "name": "LePa / Bangers",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/23000.png"
+    },
+    {
+        "id": 23001,
+        "name": "LePa O40",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/23001.png"
+    },
+    {
+        "id": 23002,
+        "name": "LuVe",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/23002.png"
+    },
+    {
+        "id": 23003,
+        "name": "MK-United",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/23003.png"
+    },
+    {
+        "id": 23004,
+        "name": "Mango",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/23004.png"
+    },
+    {
+        "id": 23005,
+        "name": "MuurY",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/23005.png"
+    },
+    {
+        "id": 23006,
+        "name": "NJS II",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/23006.png"
+    },
+    {
+        "id": 23007,
+        "name": "Nousu",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/23007.png"
+    },
+    {
+        "id": 23008,
+        "name": "OT-77",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/23008.png"
+    },
+    {
+        "id": 23009,
+        "name": "POHU / Gettopojat",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/23009.png"
+    },
+    {
+        "id": 23010,
+        "name": "POHU / KY United",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/23010.png"
+    },
+    {
+        "id": 23011,
+        "name": "PaRi",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/23011.png"
+    },
+    {
+        "id": 23012,
+        "name": "Pessoas Boas",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/23012.png"
+    },
+    {
+        "id": 23013,
+        "name": "PiTa",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/23013.png"
+    },
+    {
+        "id": 23014,
+        "name": "Raiku",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/23014.png"
+    },
+    {
+        "id": 23015,
+        "name": "SUMU",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/23015.png"
+    },
+    {
+        "id": 23016,
+        "name": "San Siro",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/23016.png"
+    },
+    {
+        "id": 23017,
+        "name": "Sn\u00e5bit",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/23017.png"
+    },
+    {
+        "id": 23018,
+        "name": "StaPa De Royale",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/23018.png"
+    },
+    {
+        "id": 23019,
+        "name": "TaPa / 2",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/23019.png"
+    },
+    {
+        "id": 23020,
+        "name": "TiPS / 2",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/23020.png"
+    },
+    {
+        "id": 23021,
+        "name": "ToTe / Arabia",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/23021.png"
+    },
+    {
+        "id": 23022,
+        "name": "Universtas O35",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/23022.png"
+    },
+    {
+        "id": 23023,
+        "name": "Velenpojat",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/23023.png"
+    },
+    {
+        "id": 23024,
+        "name": "ViPa / 2",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/23024.png"
+    },
+    {
+        "id": 23025,
+        "name": "Vuosaari",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/23025.png"
+    },
+    {
+        "id": 23026,
+        "name": "\u00c5IFK / 2",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/23026.png"
+    },
+    {
+        "id": 23129,
+        "name": "Bosna",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/23129.png"
+    },
+    {
+        "id": 23130,
+        "name": "Norrvalla",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/23130.png"
+    },
+    {
+        "id": 23131,
+        "name": "SiU",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/23131.png"
+    },
+    {
+        "id": 23204,
+        "name": "EIF Akademi",
+        "country": "Finland",
+        "logo": "https://media.api-sports.io/football/teams/23204.png"
+    }
+]

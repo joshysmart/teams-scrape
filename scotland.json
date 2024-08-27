@@ -1,0 +1,1286 @@
+[
+    {
+        "id": 247,
+        "name": "Celtic",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/247.png"
+    },
+    {
+        "id": 248,
+        "name": "Hamilton Academical",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/248.png"
+    },
+    {
+        "id": 249,
+        "name": "Hibernian",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/249.png"
+    },
+    {
+        "id": 250,
+        "name": "Kilmarnock",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/250.png"
+    },
+    {
+        "id": 251,
+        "name": "ST Mirren",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/251.png"
+    },
+    {
+        "id": 252,
+        "name": "Aberdeen",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/252.png"
+    },
+    {
+        "id": 253,
+        "name": "Dundee",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/253.png"
+    },
+    {
+        "id": 254,
+        "name": "Heart Of Midlothian",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/254.png"
+    },
+    {
+        "id": 255,
+        "name": "Livingston",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/255.png"
+    },
+    {
+        "id": 256,
+        "name": "Motherwell",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/256.png"
+    },
+    {
+        "id": 257,
+        "name": "Rangers",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/257.png"
+    },
+    {
+        "id": 258,
+        "name": "ST Johnstone",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/258.png"
+    },
+    {
+        "id": 901,
+        "name": "Partick",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/901.png"
+    },
+    {
+        "id": 902,
+        "name": "Ross County",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/902.png"
+    },
+    {
+        "id": 903,
+        "name": "Inverness CT",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/903.png"
+    },
+    {
+        "id": 1108,
+        "name": "Scotland",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1108.png"
+    },
+    {
+        "id": 1382,
+        "name": "Dumbarton",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1382.png"
+    },
+    {
+        "id": 1383,
+        "name": "Morton",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1383.png"
+    },
+    {
+        "id": 1384,
+        "name": "Queen of the South",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1384.png"
+    },
+    {
+        "id": 1385,
+        "name": "Raith Rovers",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1385.png"
+    },
+    {
+        "id": 1386,
+        "name": "Dundee Utd",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1386.png"
+    },
+    {
+        "id": 1387,
+        "name": "Ayr Utd",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1387.png"
+    },
+    {
+        "id": 1388,
+        "name": "Dunfermline",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1388.png"
+    },
+    {
+        "id": 1389,
+        "name": "Falkirk",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1389.png"
+    },
+    {
+        "id": 1390,
+        "name": "Brechin",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1390.png"
+    },
+    {
+        "id": 1391,
+        "name": "Alloa Athletic",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1391.png"
+    },
+    {
+        "id": 1775,
+        "name": "Scotland W",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/1775.png"
+    },
+    {
+        "id": 4249,
+        "name": "Arbroath",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/4249.png"
+    },
+    {
+        "id": 4250,
+        "name": "Forfar Athletic",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/4250.png"
+    },
+    {
+        "id": 4251,
+        "name": "Montrose",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/4251.png"
+    },
+    {
+        "id": 4667,
+        "name": "Cowdenbeath",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/4667.png"
+    },
+    {
+        "id": 4668,
+        "name": "Airdrie United",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/4668.png"
+    },
+    {
+        "id": 4669,
+        "name": "Stirling Albion",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/4669.png"
+    },
+    {
+        "id": 6728,
+        "name": "Auchinleck Talbot",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/6728.png"
+    },
+    {
+        "id": 6729,
+        "name": "Banks O' Dee",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/6729.png"
+    },
+    {
+        "id": 6730,
+        "name": "Blackburn United",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/6730.png"
+    },
+    {
+        "id": 6731,
+        "name": "Broxburn Athletic",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/6731.png"
+    },
+    {
+        "id": 6732,
+        "name": "Burntisland Shipyard",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/6732.png"
+    },
+    {
+        "id": 6733,
+        "name": "Camelon Juniors",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/6733.png"
+    },
+    {
+        "id": 6734,
+        "name": "Coldstream",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/6734.png"
+    },
+    {
+        "id": 6735,
+        "name": "Colville Park",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/6735.png"
+    },
+    {
+        "id": 6736,
+        "name": "Dundonald Bluebell",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/6736.png"
+    },
+    {
+        "id": 6737,
+        "name": "Easthouses Lily",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/6737.png"
+    },
+    {
+        "id": 6738,
+        "name": "Girvan",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/6738.png"
+    },
+    {
+        "id": 6739,
+        "name": "Glasgow University",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/6739.png"
+    },
+    {
+        "id": 6740,
+        "name": "Golspie Sutherland",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/6740.png"
+    },
+    {
+        "id": 6741,
+        "name": "Hawick Royal Albert",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/6741.png"
+    },
+    {
+        "id": 6742,
+        "name": "Hill Of Beath Hawthorn",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/6742.png"
+    },
+    {
+        "id": 6743,
+        "name": "Jeanfield Swifts",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/6743.png"
+    },
+    {
+        "id": 6744,
+        "name": "Linlithgow Rose",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/6744.png"
+    },
+    {
+        "id": 6745,
+        "name": "Lochee United",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/6745.png"
+    },
+    {
+        "id": 6746,
+        "name": "Lothian Hutchison",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/6746.png"
+    },
+    {
+        "id": 6747,
+        "name": "Newton Stewart",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/6747.png"
+    },
+    {
+        "id": 6748,
+        "name": "Penicuik Athletic",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/6748.png"
+    },
+    {
+        "id": 6749,
+        "name": "Preston Athletic",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/6749.png"
+    },
+    {
+        "id": 6750,
+        "name": "St. Cuthbert Wanderers",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/6750.png"
+    },
+    {
+        "id": 6751,
+        "name": "Threave Rovers",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/6751.png"
+    },
+    {
+        "id": 6752,
+        "name": "Tynecastle",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/6752.png"
+    },
+    {
+        "id": 6753,
+        "name": "Whitehill Welfare",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/6753.png"
+    },
+    {
+        "id": 6754,
+        "name": "Wigtown & Bladnoch",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/6754.png"
+    },
+    {
+        "id": 6755,
+        "name": "Aberdeen U21",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/6755.png"
+    },
+    {
+        "id": 6756,
+        "name": "Albion Rovers",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/6756.png"
+    },
+    {
+        "id": 6757,
+        "name": "Annan Athletic",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/6757.png"
+    },
+    {
+        "id": 6758,
+        "name": "BSC Glasgow",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/6758.png"
+    },
+    {
+        "id": 6760,
+        "name": "Brora Rangers",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/6760.png"
+    },
+    {
+        "id": 6761,
+        "name": "Celtic U21",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/6761.png"
+    },
+    {
+        "id": 6762,
+        "name": "Clyde",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/6762.png"
+    },
+    {
+        "id": 6763,
+        "name": "Cove Rangers",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/6763.png"
+    },
+    {
+        "id": 6764,
+        "name": "East Fife",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/6764.png"
+    },
+    {
+        "id": 6765,
+        "name": "East Kilbride",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/6765.png"
+    },
+    {
+        "id": 6766,
+        "name": "Edinburgh City",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/6766.png"
+    },
+    {
+        "id": 6767,
+        "name": "Elgin City",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/6767.png"
+    },
+    {
+        "id": 6768,
+        "name": "Formartine United",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/6768.png"
+    },
+    {
+        "id": 6769,
+        "name": "Fraserburgh",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/6769.png"
+    },
+    {
+        "id": 6770,
+        "name": "Hamilton Academical U21",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/6770.png"
+    },
+    {
+        "id": 6771,
+        "name": "Hearts U21",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/6771.png"
+    },
+    {
+        "id": 6772,
+        "name": "Hibernian U21",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/6772.png"
+    },
+    {
+        "id": 6773,
+        "name": "Kelty Hearts",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/6773.png"
+    },
+    {
+        "id": 6774,
+        "name": "Kilmarnock U21",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/6774.png"
+    },
+    {
+        "id": 6775,
+        "name": "Livingston U21",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/6775.png"
+    },
+    {
+        "id": 6776,
+        "name": "Motherwell U21",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/6776.png"
+    },
+    {
+        "id": 6777,
+        "name": "Peterhead",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/6777.png"
+    },
+    {
+        "id": 6778,
+        "name": "Queen's Park",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/6778.png"
+    },
+    {
+        "id": 6779,
+        "name": "Rangers U21",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/6779.png"
+    },
+    {
+        "id": 6780,
+        "name": "Ross County U21",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/6780.png"
+    },
+    {
+        "id": 6781,
+        "name": "Spartans",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/6781.png"
+    },
+    {
+        "id": 6782,
+        "name": "St. Johnstone U21",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/6782.png"
+    },
+    {
+        "id": 6783,
+        "name": "St. Mirren U21",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/6783.png"
+    },
+    {
+        "id": 6784,
+        "name": "Stenhousemuir",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/6784.png"
+    },
+    {
+        "id": 6785,
+        "name": "Stranraer",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/6785.png"
+    },
+    {
+        "id": 7431,
+        "name": "Bonnyrigg Rose Athletic",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/7431.png"
+    },
+    {
+        "id": 7432,
+        "name": "Buckie Thistle",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/7432.png"
+    },
+    {
+        "id": 7433,
+        "name": "Caledonian Braves",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/7433.png"
+    },
+    {
+        "id": 7434,
+        "name": "Civil Service Strollers",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/7434.png"
+    },
+    {
+        "id": 7435,
+        "name": "Clachnacuddin",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/7435.png"
+    },
+    {
+        "id": 7436,
+        "name": "Cumbernauld Colts",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/7436.png"
+    },
+    {
+        "id": 7437,
+        "name": "Dalbeattie Star",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/7437.png"
+    },
+    {
+        "id": 7438,
+        "name": "Deveronvale",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/7438.png"
+    },
+    {
+        "id": 7439,
+        "name": "East Stirlingshire",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/7439.png"
+    },
+    {
+        "id": 7440,
+        "name": "Edinburgh University",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/7440.png"
+    },
+    {
+        "id": 7441,
+        "name": "Forres Mechanics",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/7441.png"
+    },
+    {
+        "id": 7442,
+        "name": "Fort William",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/7442.png"
+    },
+    {
+        "id": 7443,
+        "name": "Gala Fairydean Rovers",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/7443.png"
+    },
+    {
+        "id": 7444,
+        "name": "Gretna 2008",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/7444.png"
+    },
+    {
+        "id": 7445,
+        "name": "Inverurie Loco Works",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/7445.png"
+    },
+    {
+        "id": 7446,
+        "name": "Keith",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/7446.png"
+    },
+    {
+        "id": 7447,
+        "name": "Lossiemouth",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/7447.png"
+    },
+    {
+        "id": 7448,
+        "name": "Nairn County",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/7448.png"
+    },
+    {
+        "id": 7449,
+        "name": "Rothes",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/7449.png"
+    },
+    {
+        "id": 7450,
+        "name": "Stirling University",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/7450.png"
+    },
+    {
+        "id": 7451,
+        "name": "Strathspey Thistle",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/7451.png"
+    },
+    {
+        "id": 7452,
+        "name": "Turriff United",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/7452.png"
+    },
+    {
+        "id": 7453,
+        "name": "Vale of Leithen",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/7453.png"
+    },
+    {
+        "id": 7454,
+        "name": "Wick Academy",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/7454.png"
+    },
+    {
+        "id": 7521,
+        "name": "Huntly",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/7521.png"
+    },
+    {
+        "id": 7925,
+        "name": "Rangers U19",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/7925.png"
+    },
+    {
+        "id": 7953,
+        "name": "Hamilton Academical U19",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/7953.png"
+    },
+    {
+        "id": 7977,
+        "name": "Celtic U19",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/7977.png"
+    },
+    {
+        "id": 8221,
+        "name": "Scotland U21",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/8221.png"
+    },
+    {
+        "id": 10146,
+        "name": "Connah's Quay",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/10146.png"
+    },
+    {
+        "id": 10345,
+        "name": "Scotland U19",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/10345.png"
+    },
+    {
+        "id": 10892,
+        "name": "Glasgow City W",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/10892.png"
+    },
+    {
+        "id": 10917,
+        "name": "Hibernian W",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/10917.png"
+    },
+    {
+        "id": 15597,
+        "name": "Bo'ness United",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/15597.png"
+    },
+    {
+        "id": 15598,
+        "name": "Dunipace",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/15598.png"
+    },
+    {
+        "id": 15599,
+        "name": "Haddington Athletic",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/15599.png"
+    },
+    {
+        "id": 15600,
+        "name": "Musselburgh Athletic",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/15600.png"
+    },
+    {
+        "id": 15601,
+        "name": "Newtongrange Star",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/15601.png"
+    },
+    {
+        "id": 15602,
+        "name": "Tranent Juniors",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/15602.png"
+    },
+    {
+        "id": 16843,
+        "name": "Celtic W",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/16843.png"
+    },
+    {
+        "id": 16845,
+        "name": "Celtic II",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/16845.png"
+    },
+    {
+        "id": 16846,
+        "name": "Rangers II",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/16846.png"
+    },
+    {
+        "id": 16851,
+        "name": "Dundee II",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/16851.png"
+    },
+    {
+        "id": 16852,
+        "name": "Dundee United II",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/16852.png"
+    },
+    {
+        "id": 17024,
+        "name": "Clydebank",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/17024.png"
+    },
+    {
+        "id": 17025,
+        "name": "Clydebank",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/17025.png"
+    },
+    {
+        "id": 17768,
+        "name": "Cumnock Juniors",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/17768.png"
+    },
+    {
+        "id": 17769,
+        "name": "Dalkeith Thistle",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/17769.png"
+    },
+    {
+        "id": 17770,
+        "name": "Darvel",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/17770.png"
+    },
+    {
+        "id": 17771,
+        "name": "Dunbar United",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/17771.png"
+    },
+    {
+        "id": 17772,
+        "name": "Irvine Meadow",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/17772.png"
+    },
+    {
+        "id": 17773,
+        "name": "Sauchie Juniors",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/17773.png"
+    },
+    {
+        "id": 17976,
+        "name": "Scotland U17",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/17976.png"
+    },
+    {
+        "id": 19158,
+        "name": "Kilmarnock II",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/19158.png"
+    },
+    {
+        "id": 19237,
+        "name": "Hermes",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/19237.png"
+    },
+    {
+        "id": 19788,
+        "name": "Benburb",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/19788.png"
+    },
+    {
+        "id": 19789,
+        "name": "Bonnyton Thistle",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/19789.png"
+    },
+    {
+        "id": 19790,
+        "name": "Carnoustie Panmure",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/19790.png"
+    },
+    {
+        "id": 19791,
+        "name": "Drumchapel United",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/19791.png"
+    },
+    {
+        "id": 19792,
+        "name": "Invergordon",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/19792.png"
+    },
+    {
+        "id": 19793,
+        "name": "Kilwinning Rangers",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/19793.png"
+    },
+    {
+        "id": 19794,
+        "name": "Pollok",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/19794.png"
+    },
+    {
+        "id": 19795,
+        "name": "Rutherglen Glencairn",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/19795.png"
+    },
+    {
+        "id": 19796,
+        "name": "St Andrews United",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/19796.png"
+    },
+    {
+        "id": 19797,
+        "name": "Syngenta",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/19797.png"
+    },
+    {
+        "id": 19798,
+        "name": "Tayport",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/19798.png"
+    },
+    {
+        "id": 19799,
+        "name": "Tower Hearts",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/19799.png"
+    },
+    {
+        "id": 20374,
+        "name": "Rangers W",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/20374.png"
+    },
+    {
+        "id": 21388,
+        "name": "Nithsdale Wanderers",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/21388.png"
+    },
+    {
+        "id": 21451,
+        "name": "Dyce Juniors",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/21451.png"
+    },
+    {
+        "id": 21452,
+        "name": "Inverkeithing Hillfield",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/21452.png"
+    },
+    {
+        "id": 21501,
+        "name": "Hurlford United",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/21501.png"
+    },
+    {
+        "id": 21531,
+        "name": "Bo'ness Athletic",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/21531.png"
+    },
+    {
+        "id": 21900,
+        "name": "Beith",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/21900.png"
+    },
+    {
+        "id": 22019,
+        "name": "Abbey Vale",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/22019.png"
+    },
+    {
+        "id": 22020,
+        "name": "Carluke Rovers",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/22020.png"
+    },
+    {
+        "id": 22021,
+        "name": "Creetown",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/22021.png"
+    },
+    {
+        "id": 22022,
+        "name": "Culter",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/22022.png"
+    },
+    {
+        "id": 22023,
+        "name": "Cupar Hearts",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/22023.png"
+    },
+    {
+        "id": 22024,
+        "name": "Glenafton Athletic",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/22024.png"
+    },
+    {
+        "id": 22025,
+        "name": "Loch Ness",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/22025.png"
+    },
+    {
+        "id": 22026,
+        "name": "Luncarty",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/22026.png"
+    },
+    {
+        "id": 22559,
+        "name": "Scotland U16",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/22559.png"
+    },
+    {
+        "id": 23291,
+        "name": "Boroughmuir Thistle W",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/23291.png"
+    },
+    {
+        "id": 23292,
+        "name": "Dundee United W",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/23292.png"
+    },
+    {
+        "id": 23293,
+        "name": "Gartcairn",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/23293.png"
+    },
+    {
+        "id": 23294,
+        "name": "Glasgow Women",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/23294.png"
+    },
+    {
+        "id": 23295,
+        "name": "Hearts W",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/23295.png"
+    },
+    {
+        "id": 23296,
+        "name": "Partick Thistle W",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/23296.png"
+    },
+    {
+        "id": 23297,
+        "name": "St. Johnstone W",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/23297.png"
+    },
+    {
+        "id": 23298,
+        "name": "Aberdeen W",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/23298.png"
+    },
+    {
+        "id": 23299,
+        "name": "Kilmarnock W",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/23299.png"
+    },
+    {
+        "id": 23300,
+        "name": "Livingston W",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/23300.png"
+    },
+    {
+        "id": 23301,
+        "name": "Montrose W",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/23301.png"
+    },
+    {
+        "id": 23302,
+        "name": "Motherwell W",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/23302.png"
+    },
+    {
+        "id": 23303,
+        "name": "Queen's Park W",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/23303.png"
+    },
+    {
+        "id": 23304,
+        "name": "Spartans W",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/23304.png"
+    },
+    {
+        "id": 23305,
+        "name": "Stirling University W",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/23305.png"
+    },
+    {
+        "id": 23327,
+        "name": "Airdrie Ladies",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/23327.png"
+    },
+    {
+        "id": 23328,
+        "name": "Armadale Thistle",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/23328.png"
+    },
+    {
+        "id": 23329,
+        "name": "Ayr United",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/23329.png"
+    },
+    {
+        "id": 23330,
+        "name": "Bonnyrigg Rose",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/23330.png"
+    },
+    {
+        "id": 23331,
+        "name": "Dryburgh Athletic",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/23331.png"
+    },
+    {
+        "id": 23332,
+        "name": "Dyce",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/23332.png"
+    },
+    {
+        "id": 23333,
+        "name": "Edinburgh Caledonia",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/23333.png"
+    },
+    {
+        "id": 23334,
+        "name": "Falkirk Ladies",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/23334.png"
+    },
+    {
+        "id": 23335,
+        "name": "Giffnock",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/23335.png"
+    },
+    {
+        "id": 23336,
+        "name": "Glenrothes Strollers",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/23336.png"
+    },
+    {
+        "id": 23337,
+        "name": "Grampian",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/23337.png"
+    },
+    {
+        "id": 23338,
+        "name": "Greenock Morton",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/23338.png"
+    },
+    {
+        "id": 23339,
+        "name": "Hutchison Vale",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/23339.png"
+    },
+    {
+        "id": 23340,
+        "name": "Renfrew",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/23340.png"
+    },
+    {
+        "id": 23341,
+        "name": "Rossvale",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/23341.png"
+    },
+    {
+        "id": 23342,
+        "name": "St. Mirren",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/23342.png"
+    },
+    {
+        "id": 23343,
+        "name": "Westdyke",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/23343.png"
+    },
+    {
+        "id": 23344,
+        "name": "Drumchapel United W",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/23344.png"
+    },
+    {
+        "id": 23345,
+        "name": "East Fife W",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/23345.png"
+    },
+    {
+        "id": 23346,
+        "name": "Edinburgh City W",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/23346.png"
+    },
+    {
+        "id": 23347,
+        "name": "Hamilton Academical W",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/23347.png"
+    },
+    {
+        "id": 23348,
+        "name": "Inverness CT W",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/23348.png"
+    },
+    {
+        "id": 23349,
+        "name": "Inverurie Loco Works W",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/23349.png"
+    },
+    {
+        "id": 23350,
+        "name": "Queen of the South W",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/23350.png"
+    },
+    {
+        "id": 23351,
+        "name": "Stenhousemuir W",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/23351.png"
+    },
+    {
+        "id": 24533,
+        "name": "Dundee North End",
+        "country": "Scotland",
+        "logo": "https://media.api-sports.io/football/teams/24533.png"
+    }
+]

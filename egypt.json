@@ -1,0 +1,596 @@
+[
+    {
+        "id": 32,
+        "name": "Egypt",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/32.png"
+    },
+    {
+        "id": 1029,
+        "name": "AL Ahly Cairo",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/1029.png"
+    },
+    {
+        "id": 1030,
+        "name": "Ismaily SC",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/1030.png"
+    },
+    {
+        "id": 1031,
+        "name": "AL Masry",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/1031.png"
+    },
+    {
+        "id": 1032,
+        "name": "El Dakhleya",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/1032.png"
+    },
+    {
+        "id": 1033,
+        "name": "AL Mokawloon",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/1033.png"
+    },
+    {
+        "id": 1034,
+        "name": "El Entag EL Harby",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/1034.png"
+    },
+    {
+        "id": 1035,
+        "name": "AL Ittih. Alexandria",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/1035.png"
+    },
+    {
+        "id": 1036,
+        "name": "Pyramids FC",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/1036.png"
+    },
+    {
+        "id": 1037,
+        "name": "Enppi",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/1037.png"
+    },
+    {
+        "id": 1038,
+        "name": "Misr EL Makasa",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/1038.png"
+    },
+    {
+        "id": 1039,
+        "name": "El Geish",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/1039.png"
+    },
+    {
+        "id": 1040,
+        "name": "Zamalek SC",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/1040.png"
+    },
+    {
+        "id": 1041,
+        "name": "Petrojet",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/1041.png"
+    },
+    {
+        "id": 1042,
+        "name": "El Raja Marsa Matruh",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/1042.png"
+    },
+    {
+        "id": 1044,
+        "name": "Smouha SC",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/1044.png"
+    },
+    {
+        "id": 1045,
+        "name": "Tanta SC",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/1045.png"
+    },
+    {
+        "id": 1046,
+        "name": "Wadi Degla",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/1046.png"
+    },
+    {
+        "id": 1047,
+        "name": "Al Nasr Taaden",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/1047.png"
+    },
+    {
+        "id": 1048,
+        "name": "Aswan Sc",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/1048.png"
+    },
+    {
+        "id": 1049,
+        "name": "El Sharkia",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/1049.png"
+    },
+    {
+        "id": 1572,
+        "name": "Al Ittihad",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/1572.png"
+    },
+    {
+        "id": 1573,
+        "name": "Nogoom El Mostakbal FC",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/1573.png"
+    },
+    {
+        "id": 1574,
+        "name": "El Gouna FC",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/1574.png"
+    },
+    {
+        "id": 1575,
+        "name": "El Mokawloon",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/1575.png"
+    },
+    {
+        "id": 1576,
+        "name": "Haras El Hodood",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/1576.png"
+    },
+    {
+        "id": 1577,
+        "name": "Al Ahly",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/1577.png"
+    },
+    {
+        "id": 2617,
+        "name": "AL Nasr SC",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/2617.png"
+    },
+    {
+        "id": 7520,
+        "name": "Masr",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/7520.png"
+    },
+    {
+        "id": 10172,
+        "name": "Egypt U23",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/10172.png"
+    },
+    {
+        "id": 11027,
+        "name": "Egypt U20",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/11027.png"
+    },
+    {
+        "id": 13818,
+        "name": "El Shorta",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/13818.png"
+    },
+    {
+        "id": 13819,
+        "name": "Ghazl El Mehalla",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/13819.png"
+    },
+    {
+        "id": 13820,
+        "name": "Alaab Damanhour",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/13820.png"
+    },
+    {
+        "id": 13821,
+        "name": "El Minya",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/13821.png"
+    },
+    {
+        "id": 13822,
+        "name": "Olympic El Qanah",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/13822.png"
+    },
+    {
+        "id": 13823,
+        "name": "Telephonaat Beni Suef",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/13823.png"
+    },
+    {
+        "id": 14651,
+        "name": "Ceramica Cleopatra",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/14651.png"
+    },
+    {
+        "id": 15570,
+        "name": "National Bank of Egypt",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/15570.png"
+    },
+    {
+        "id": 15731,
+        "name": "Abu Qair Semad",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/15731.png"
+    },
+    {
+        "id": 15732,
+        "name": "Beni Suef",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/15732.png"
+    },
+    {
+        "id": 15733,
+        "name": "Biyala",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/15733.png"
+    },
+    {
+        "id": 15734,
+        "name": "Dikernis",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/15734.png"
+    },
+    {
+        "id": 15735,
+        "name": "Media",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/15735.png"
+    },
+    {
+        "id": 15736,
+        "name": "Pharco",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/15736.png"
+    },
+    {
+        "id": 15737,
+        "name": "Qena",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/15737.png"
+    },
+    {
+        "id": 15738,
+        "name": "Shabab Al Obour",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/15738.png"
+    },
+    {
+        "id": 15739,
+        "name": "Tersana",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/15739.png"
+    },
+    {
+        "id": 16430,
+        "name": "Ashmoun",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/16430.png"
+    },
+    {
+        "id": 16431,
+        "name": "Future FC",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/16431.png"
+    },
+    {
+        "id": 16432,
+        "name": "El Mansura",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/16432.png"
+    },
+    {
+        "id": 16433,
+        "name": "El Obour Sporting",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/16433.png"
+    },
+    {
+        "id": 16434,
+        "name": "Itehad Nabaroh",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/16434.png"
+    },
+    {
+        "id": 16435,
+        "name": "Kima Aswan",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/16435.png"
+    },
+    {
+        "id": 16436,
+        "name": "La Viena FC",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/16436.png"
+    },
+    {
+        "id": 16437,
+        "name": "Sohag",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/16437.png"
+    },
+    {
+        "id": 18020,
+        "name": "Aluminium Nag Hammadi",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/18020.png"
+    },
+    {
+        "id": 18021,
+        "name": "Asyut Petrol",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/18021.png"
+    },
+    {
+        "id": 18022,
+        "name": "Dayrout",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/18022.png"
+    },
+    {
+        "id": 18023,
+        "name": "El Badari",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/18023.png"
+    },
+    {
+        "id": 18024,
+        "name": "El Madina El Monowara",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/18024.png"
+    },
+    {
+        "id": 18025,
+        "name": "Fayoum",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/18025.png"
+    },
+    {
+        "id": 18026,
+        "name": "Mallawi",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/18026.png"
+    },
+    {
+        "id": 18027,
+        "name": "Tamya",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/18027.png"
+    },
+    {
+        "id": 18028,
+        "name": "Banha",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/18028.png"
+    },
+    {
+        "id": 18029,
+        "name": "Belbeis",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/18029.png"
+    },
+    {
+        "id": 18030,
+        "name": "Bur Fouad",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/18030.png"
+    },
+    {
+        "id": 18031,
+        "name": "El Seka El Hadid",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/18031.png"
+    },
+    {
+        "id": 18032,
+        "name": "Itesalat",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/18032.png"
+    },
+    {
+        "id": 18033,
+        "name": "Porto Suez",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/18033.png"
+    },
+    {
+        "id": 18034,
+        "name": "Suez",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/18034.png"
+    },
+    {
+        "id": 18035,
+        "name": "Al Merreikh",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/18035.png"
+    },
+    {
+        "id": 18036,
+        "name": "Baladiyyat Al Mehalla",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/18036.png"
+    },
+    {
+        "id": 18037,
+        "name": "El Hamam",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/18037.png"
+    },
+    {
+        "id": 18038,
+        "name": "El Magd",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/18038.png"
+    },
+    {
+        "id": 18039,
+        "name": "El Olympi",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/18039.png"
+    },
+    {
+        "id": 18040,
+        "name": "El Zarqa",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/18040.png"
+    },
+    {
+        "id": 18041,
+        "name": "Kafr El Sheikh",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/18041.png"
+    },
+    {
+        "id": 18042,
+        "name": "Pioneers",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/18042.png"
+    },
+    {
+        "id": 18043,
+        "name": "Sed Elmahla",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/18043.png"
+    },
+    {
+        "id": 18044,
+        "name": "Sporting Alexandria",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/18044.png"
+    },
+    {
+        "id": 18053,
+        "name": "El Sharqia Dokhan",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/18053.png"
+    },
+    {
+        "id": 18276,
+        "name": "Al Masry Salloum",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/18276.png"
+    },
+    {
+        "id": 18674,
+        "name": "Beni Ebeid",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/18674.png"
+    },
+    {
+        "id": 18675,
+        "name": "Helwan",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/18675.png"
+    },
+    {
+        "id": 19417,
+        "name": "Egypt W",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/19417.png"
+    },
+    {
+        "id": 20455,
+        "name": "Asmant Asyut",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/20455.png"
+    },
+    {
+        "id": 20456,
+        "name": "Shoban Moslemen Qena",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/20456.png"
+    },
+    {
+        "id": 20457,
+        "name": "Al Mostaqbal",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/20457.png"
+    },
+    {
+        "id": 20458,
+        "name": "Kahraba Ismailia",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/20458.png"
+    },
+    {
+        "id": 20459,
+        "name": "Gomhoreyat Shebin",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/20459.png"
+    },
+    {
+        "id": 20460,
+        "name": "Helal Aldabaa",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/20460.png"
+    },
+    {
+        "id": 20461,
+        "name": "Proxy",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/20461.png"
+    },
+    {
+        "id": 21303,
+        "name": "Alo Egypt",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/21303.png"
+    },
+    {
+        "id": 21304,
+        "name": "Raya Ghazl",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/21304.png"
+    },
+    {
+        "id": 21305,
+        "name": "Talaa El Ostoul",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/21305.png"
+    },
+    {
+        "id": 22874,
+        "name": "Makadi",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/22874.png"
+    },
+    {
+        "id": 23538,
+        "name": "Egypt U21",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/23538.png"
+    },
+    {
+        "id": 23679,
+        "name": "El Wasty",
+        "country": "Egypt",
+        "logo": "https://media.api-sports.io/football/teams/23679.png"
+    }
+]

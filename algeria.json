@@ -1,0 +1,1238 @@
+[
+    {
+        "id": 904,
+        "name": "CR Belouizdad",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/904.png"
+    },
+    {
+        "id": 905,
+        "name": "ES Setif",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/905.png"
+    },
+    {
+        "id": 906,
+        "name": "MC Alger",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/906.png"
+    },
+    {
+        "id": 907,
+        "name": "MC Oran",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/907.png"
+    },
+    {
+        "id": 908,
+        "name": "Olympique Medea",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/908.png"
+    },
+    {
+        "id": 909,
+        "name": "US Biskra",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/909.png"
+    },
+    {
+        "id": 910,
+        "name": "USM Alger",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/910.png"
+    },
+    {
+        "id": 911,
+        "name": "CS Constantine",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/911.png"
+    },
+    {
+        "id": 912,
+        "name": "Blida",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/912.png"
+    },
+    {
+        "id": 913,
+        "name": "Hussein Dey",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/913.png"
+    },
+    {
+        "id": 914,
+        "name": "JS Saoura",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/914.png"
+    },
+    {
+        "id": 915,
+        "name": "Paradou AC",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/915.png"
+    },
+    {
+        "id": 916,
+        "name": "Tadjenant",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/916.png"
+    },
+    {
+        "id": 917,
+        "name": "USM Bel Abbes",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/917.png"
+    },
+    {
+        "id": 918,
+        "name": "JS Kabylie",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/918.png"
+    },
+    {
+        "id": 919,
+        "name": "Usm El Harrach",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/919.png"
+    },
+    {
+        "id": 920,
+        "name": "MO Bejaia",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/920.png"
+    },
+    {
+        "id": 921,
+        "name": "RC Relizane",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/921.png"
+    },
+    {
+        "id": 922,
+        "name": "CA Batna",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/922.png"
+    },
+    {
+        "id": 923,
+        "name": "Amal BOU Saada",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/923.png"
+    },
+    {
+        "id": 924,
+        "name": "ASM Oran",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/924.png"
+    },
+    {
+        "id": 925,
+        "name": "Bordj BOU Arreridj",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/925.png"
+    },
+    {
+        "id": 926,
+        "name": "El Eulma",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/926.png"
+    },
+    {
+        "id": 927,
+        "name": "GC Mascara",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/927.png"
+    },
+    {
+        "id": 928,
+        "name": "WA Tlemcen",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/928.png"
+    },
+    {
+        "id": 929,
+        "name": "AIN Fakroun",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/929.png"
+    },
+    {
+        "id": 930,
+        "name": "AS AIN Mlila",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/930.png"
+    },
+    {
+        "id": 931,
+        "name": "ASO Chlef",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/931.png"
+    },
+    {
+        "id": 932,
+        "name": "JSM Bejaia",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/932.png"
+    },
+    {
+        "id": 933,
+        "name": "JSM Skikda",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/933.png"
+    },
+    {
+        "id": 934,
+        "name": "MC Saida",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/934.png"
+    },
+    {
+        "id": 935,
+        "name": "RC Kouba",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/935.png"
+    },
+    {
+        "id": 936,
+        "name": "Khroub",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/936.png"
+    },
+    {
+        "id": 937,
+        "name": "RC Arba",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/937.png"
+    },
+    {
+        "id": 938,
+        "name": "Wa Boufarik",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/938.png"
+    },
+    {
+        "id": 1069,
+        "name": "USM Annaba",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/1069.png"
+    },
+    {
+        "id": 1070,
+        "name": "Mostaganem",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/1070.png"
+    },
+    {
+        "id": 1071,
+        "name": "NC Magra",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/1071.png"
+    },
+    {
+        "id": 1532,
+        "name": "Algeria",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/1532.png"
+    },
+    {
+        "id": 6288,
+        "name": "Arzew",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/6288.png"
+    },
+    {
+        "id": 10186,
+        "name": "Algeria U23",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10186.png"
+    },
+    {
+        "id": 10708,
+        "name": "US Chaouia",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10708.png"
+    },
+    {
+        "id": 10709,
+        "name": "USMM Hadjout",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10709.png"
+    },
+    {
+        "id": 10710,
+        "name": "Kol\u00e9a",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10710.png"
+    },
+    {
+        "id": 10711,
+        "name": "M\u00e9rouana",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10711.png"
+    },
+    {
+        "id": 10712,
+        "name": "MSP Batna",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10712.png"
+    },
+    {
+        "id": 10713,
+        "name": "MO Constantine",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10713.png"
+    },
+    {
+        "id": 10714,
+        "name": "Mohammadia",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10714.png"
+    },
+    {
+        "id": 10715,
+        "name": "T\u00e9mouchent",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10715.png"
+    },
+    {
+        "id": 10732,
+        "name": "AB Chelghoum La\u00efd",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10732.png"
+    },
+    {
+        "id": 10733,
+        "name": "AB Sabath",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10733.png"
+    },
+    {
+        "id": 10734,
+        "name": "Beni Douala",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10734.png"
+    },
+    {
+        "id": 10735,
+        "name": "CR B\u00e9ni Thour",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10735.png"
+    },
+    {
+        "id": 10736,
+        "name": "CR M\u00e9chria",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10736.png"
+    },
+    {
+        "id": 10737,
+        "name": "CRB Adrar",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10737.png"
+    },
+    {
+        "id": 10738,
+        "name": "CRB Houari",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10738.png"
+    },
+    {
+        "id": 10739,
+        "name": "CRB Mila",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10739.png"
+    },
+    {
+        "id": 10740,
+        "name": "CSA Afak Sahel El-Marsa",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10740.png"
+    },
+    {
+        "id": 10741,
+        "name": "E Sour El-Ghozlane",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10741.png"
+    },
+    {
+        "id": 10742,
+        "name": "ES Guelma",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10742.png"
+    },
+    {
+        "id": 10743,
+        "name": "El Bayadh",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10743.png"
+    },
+    {
+        "id": 10744,
+        "name": "FC Bir El Arch",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10744.png"
+    },
+    {
+        "id": 10745,
+        "name": "FCB Telagh",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10745.png"
+    },
+    {
+        "id": 10746,
+        "name": "Ghriss",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10746.png"
+    },
+    {
+        "id": 10747,
+        "name": "Hydra",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10747.png"
+    },
+    {
+        "id": 10748,
+        "name": "IR Boumedfaa",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10748.png"
+    },
+    {
+        "id": 10749,
+        "name": "IR Mechria",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10749.png"
+    },
+    {
+        "id": 10750,
+        "name": "IRB Sougeur",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10750.png"
+    },
+    {
+        "id": 10751,
+        "name": "JS Bordj M\u00e9na\u00efel",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10751.png"
+    },
+    {
+        "id": 10752,
+        "name": "Khenchela",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10752.png"
+    },
+    {
+        "id": 10753,
+        "name": "Lakhdaria",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10753.png"
+    },
+    {
+        "id": 10754,
+        "name": "MJ Arzew",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10754.png"
+    },
+    {
+        "id": 10755,
+        "name": "Mouloudia Oued",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10755.png"
+    },
+    {
+        "id": 10756,
+        "name": "NRB Lardjem",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10756.png"
+    },
+    {
+        "id": 10757,
+        "name": "Nasr El Fedjoudj",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10757.png"
+    },
+    {
+        "id": 10758,
+        "name": "Oued Magrane",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10758.png"
+    },
+    {
+        "id": 10759,
+        "name": "Souf",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10759.png"
+    },
+    {
+        "id": 10760,
+        "name": "Tadamoun Souf",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10760.png"
+    },
+    {
+        "id": 10761,
+        "name": "US Tighenif",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10761.png"
+    },
+    {
+        "id": 10762,
+        "name": "USM Oran",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10762.png"
+    },
+    {
+        "id": 10763,
+        "name": "Village Moussa",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10763.png"
+    },
+    {
+        "id": 10764,
+        "name": "Zaouia",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10764.png"
+    },
+    {
+        "id": 10765,
+        "name": "ASB Maghnia",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10765.png"
+    },
+    {
+        "id": 10766,
+        "name": "ASS Nationale",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10766.png"
+    },
+    {
+        "id": 10767,
+        "name": "Abane Ramdane",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10767.png"
+    },
+    {
+        "id": 10768,
+        "name": "Besbes",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10768.png"
+    },
+    {
+        "id": 10769,
+        "name": "CRB Ain Ouessara",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10769.png"
+    },
+    {
+        "id": 10770,
+        "name": "CRM Bouguirat",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10770.png"
+    },
+    {
+        "id": 10771,
+        "name": "Ghir Abadla",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10771.png"
+    },
+    {
+        "id": 10772,
+        "name": "Hamra Annaba",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10772.png"
+    },
+    {
+        "id": 10773,
+        "name": "ICS Tlemcen",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10773.png"
+    },
+    {
+        "id": 10774,
+        "name": "IH Chellala",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10774.png"
+    },
+    {
+        "id": 10775,
+        "name": "Kais",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10775.png"
+    },
+    {
+        "id": 10776,
+        "name": "MB Bazer Sakhra",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10776.png"
+    },
+    {
+        "id": 10777,
+        "name": "MB Rouisset",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10777.png"
+    },
+    {
+        "id": 10778,
+        "name": "MS Cherchell",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10778.png"
+    },
+    {
+        "id": 10779,
+        "name": "ORB Boumahra",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10779.png"
+    },
+    {
+        "id": 10780,
+        "name": "Oued Akbou",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10780.png"
+    },
+    {
+        "id": 10781,
+        "name": "Oued Sly",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10781.png"
+    },
+    {
+        "id": 10782,
+        "name": "RA A\u00efn Defla",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10782.png"
+    },
+    {
+        "id": 10783,
+        "name": "RC Bougaa",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10783.png"
+    },
+    {
+        "id": 10784,
+        "name": "Remchi",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10784.png"
+    },
+    {
+        "id": 10785,
+        "name": "SA S\u00e9tif",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10785.png"
+    },
+    {
+        "id": 10786,
+        "name": "Tiaret",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10786.png"
+    },
+    {
+        "id": 10787,
+        "name": "USM Dra\u00e2 Ben Khedda",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10787.png"
+    },
+    {
+        "id": 10788,
+        "name": "USM S\u00e9tif",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10788.png"
+    },
+    {
+        "id": 10789,
+        "name": "A\u00efn Safra",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10789.png"
+    },
+    {
+        "id": 10790,
+        "name": "Belkheir",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10790.png"
+    },
+    {
+        "id": 10791,
+        "name": "Belvedere",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10791.png"
+    },
+    {
+        "id": 10792,
+        "name": "Ben Aknoun",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10792.png"
+    },
+    {
+        "id": 10793,
+        "name": "Berrahal",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10793.png"
+    },
+    {
+        "id": 10794,
+        "name": "Bir El Ater",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10794.png"
+    },
+    {
+        "id": 10795,
+        "name": "Boudjelbana",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10795.png"
+    },
+    {
+        "id": 10796,
+        "name": "Dar El Beida",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10796.png"
+    },
+    {
+        "id": 10797,
+        "name": "El Amria",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10797.png"
+    },
+    {
+        "id": 10798,
+        "name": "Firem",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10798.png"
+    },
+    {
+        "id": 10799,
+        "name": "HB Chelghoum La\u00efd",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10799.png"
+    },
+    {
+        "id": 10800,
+        "name": "Hassi Messaoud",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10800.png"
+    },
+    {
+        "id": 10801,
+        "name": "Hessasna",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10801.png"
+    },
+    {
+        "id": 10802,
+        "name": "Illizi",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10802.png"
+    },
+    {
+        "id": 10803,
+        "name": "Oued Rhiou",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10803.png"
+    },
+    {
+        "id": 10804,
+        "name": "Ouled Mimoun",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10804.png"
+    },
+    {
+        "id": 10805,
+        "name": "Staou\u00e9li",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10805.png"
+    },
+    {
+        "id": 10806,
+        "name": "Teleghma",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10806.png"
+    },
+    {
+        "id": 10807,
+        "name": "Touggourt",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10807.png"
+    },
+    {
+        "id": 10808,
+        "name": "AS Bordj Ghedir",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10808.png"
+    },
+    {
+        "id": 10809,
+        "name": "AS Mahdi",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10809.png"
+    },
+    {
+        "id": 10810,
+        "name": "Azazga",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10810.png"
+    },
+    {
+        "id": 10811,
+        "name": "Bouakeul",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10811.png"
+    },
+    {
+        "id": 10812,
+        "name": "B\u00e9char Djedid",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10812.png"
+    },
+    {
+        "id": 10813,
+        "name": "CAM Skikda",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10813.png"
+    },
+    {
+        "id": 10814,
+        "name": "CRB El Milia",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10814.png"
+    },
+    {
+        "id": 10815,
+        "name": "CRB Hennaya",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10815.png"
+    },
+    {
+        "id": 10816,
+        "name": "EC Oued Smar",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10816.png"
+    },
+    {
+        "id": 10817,
+        "name": "ES Berrouaghia",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10817.png"
+    },
+    {
+        "id": 10818,
+        "name": "FCB Frenda",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10818.png"
+    },
+    {
+        "id": 10819,
+        "name": "IRB A\u00efn Hadjar",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10819.png"
+    },
+    {
+        "id": 10820,
+        "name": "IRB A\u00efn Lhadjar",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10820.png"
+    },
+    {
+        "id": 10821,
+        "name": "IRB El Kerma",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10821.png"
+    },
+    {
+        "id": 10822,
+        "name": "JS Bouaziz",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10822.png"
+    },
+    {
+        "id": 10823,
+        "name": "NRB Bouchegouf",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10823.png"
+    },
+    {
+        "id": 10824,
+        "name": "Oued Fodda",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10824.png"
+    },
+    {
+        "id": 10825,
+        "name": "SCM Oran",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10825.png"
+    },
+    {
+        "id": 10826,
+        "name": "US T\u00e9bessa",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10826.png"
+    },
+    {
+        "id": 10827,
+        "name": "WAB Tissemsilt",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10827.png"
+    },
+    {
+        "id": 10828,
+        "name": "ASO Chlef U21",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10828.png"
+    },
+    {
+        "id": 10829,
+        "name": "A\u00efn M'lila U21",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10829.png"
+    },
+    {
+        "id": 10830,
+        "name": "Bordj Bou Arreridj U21",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10830.png"
+    },
+    {
+        "id": 10831,
+        "name": "CR Belouizdad U21",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10831.png"
+    },
+    {
+        "id": 10832,
+        "name": "CS Constantine U21",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10832.png"
+    },
+    {
+        "id": 10833,
+        "name": "ES S\u00e9tif U21",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10833.png"
+    },
+    {
+        "id": 10834,
+        "name": "JS Kabylie U21",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10834.png"
+    },
+    {
+        "id": 10835,
+        "name": "JS Saoura U21",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10835.png"
+    },
+    {
+        "id": 10836,
+        "name": "MC Alger U21",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10836.png"
+    },
+    {
+        "id": 10837,
+        "name": "MC Oran U21",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10837.png"
+    },
+    {
+        "id": 10838,
+        "name": "NA Hussein Dey U21",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10838.png"
+    },
+    {
+        "id": 10839,
+        "name": "NC Magra U21",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10839.png"
+    },
+    {
+        "id": 10840,
+        "name": "Paradou AC U21",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10840.png"
+    },
+    {
+        "id": 10841,
+        "name": "US Biskra U21",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10841.png"
+    },
+    {
+        "id": 10842,
+        "name": "USM Alger U21",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10842.png"
+    },
+    {
+        "id": 10843,
+        "name": "USM Bel Abb\u00e8s U21",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/10843.png"
+    },
+    {
+        "id": 11017,
+        "name": "Algeria U20",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/11017.png"
+    },
+    {
+        "id": 15554,
+        "name": "JSM Skikda U21",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/15554.png"
+    },
+    {
+        "id": 15555,
+        "name": "Olympique M\u00e9d\u00e9a U21",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/15555.png"
+    },
+    {
+        "id": 15556,
+        "name": "RC Relizane U21",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/15556.png"
+    },
+    {
+        "id": 15557,
+        "name": "WA Tlemcen U21",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/15557.png"
+    },
+    {
+        "id": 15624,
+        "name": "CRB Ouled Djellal",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/15624.png"
+    },
+    {
+        "id": 15625,
+        "name": "Msila",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/15625.png"
+    },
+    {
+        "id": 15626,
+        "name": "SC A\u00efn Defla",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/15626.png"
+    },
+    {
+        "id": 15627,
+        "name": "SKAF Kh\u00e9mis M\u00e9lina",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/15627.png"
+    },
+    {
+        "id": 18015,
+        "name": "RB Ouargla",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/18015.png"
+    },
+    {
+        "id": 18045,
+        "name": "HB Chelghoum La\u00efd U21",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/18045.png"
+    },
+    {
+        "id": 18046,
+        "name": "RC Arba\u00e2 U21",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/18046.png"
+    },
+    {
+        "id": 18257,
+        "name": "Algeria W",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/18257.png"
+    },
+    {
+        "id": 19068,
+        "name": "Algeria U18",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/19068.png"
+    },
+    {
+        "id": 19963,
+        "name": "El Bayadh U21",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/19963.png"
+    },
+    {
+        "id": 19964,
+        "name": "Khenchela U21",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/19964.png"
+    },
+    {
+        "id": 19993,
+        "name": "IB Kh\u00e9mis El Khechna",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/19993.png"
+    },
+    {
+        "id": 19994,
+        "name": "US Souf",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/19994.png"
+    },
+    {
+        "id": 20691,
+        "name": "AE M\u00e9d\u00e9a",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/20691.png"
+    },
+    {
+        "id": 20692,
+        "name": "Bir Bouhouche",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/20692.png"
+    },
+    {
+        "id": 20693,
+        "name": "CR Bendaoud",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/20693.png"
+    },
+    {
+        "id": 20694,
+        "name": "CRB Layoune",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/20694.png"
+    },
+    {
+        "id": 20695,
+        "name": "IRB Maghnia",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/20695.png"
+    },
+    {
+        "id": 20696,
+        "name": "IRB Nezla",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/20696.png"
+    },
+    {
+        "id": 20697,
+        "name": "IRB Sedrata",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/20697.png"
+    },
+    {
+        "id": 20698,
+        "name": "JS Berrouaghia",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/20698.png"
+    },
+    {
+        "id": 20699,
+        "name": "JS El Biar",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/20699.png"
+    },
+    {
+        "id": 20700,
+        "name": "MB Barika",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/20700.png"
+    },
+    {
+        "id": 20701,
+        "name": "RCG Oran",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/20701.png"
+    },
+    {
+        "id": 20702,
+        "name": "USF Constantine",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/20702.png"
+    },
+    {
+        "id": 20703,
+        "name": "WA Mostaganem",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/20703.png"
+    },
+    {
+        "id": 20712,
+        "name": "JS Jijel",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/20712.png"
+    },
+    {
+        "id": 21295,
+        "name": "Algeria U17",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/21295.png"
+    },
+    {
+        "id": 22410,
+        "name": "Ben Aknoun U21",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/22410.png"
+    },
+    {
+        "id": 22411,
+        "name": "US Souf U21",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/22411.png"
+    },
+    {
+        "id": 22876,
+        "name": "AB Barika",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/22876.png"
+    },
+    {
+        "id": 22877,
+        "name": "Ben Badis",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/22877.png"
+    },
+    {
+        "id": 22878,
+        "name": "Bougtob",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/22878.png"
+    },
+    {
+        "id": 22879,
+        "name": "Bouhenni",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/22879.png"
+    },
+    {
+        "id": 22880,
+        "name": "B\u00e9ni Thamou",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/22880.png"
+    },
+    {
+        "id": 22881,
+        "name": "IRB Ouled Yaich",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/22881.png"
+    },
+    {
+        "id": 22882,
+        "name": "JSM Sidi Salem",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/22882.png"
+    },
+    {
+        "id": 22883,
+        "name": "NR Bouakal",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/22883.png"
+    },
+    {
+        "id": 22884,
+        "name": "NRB Tazeguert",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/22884.png"
+    },
+    {
+        "id": 22885,
+        "name": "US Boukhadara",
+        "country": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/22885.png"
+    }
+]

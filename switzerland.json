@@ -1,0 +1,1736 @@
+[
+    {
+        "id": 15,
+        "name": "Switzerland",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/15.png"
+    },
+    {
+        "id": 551,
+        "name": "FC Basel 1893",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/551.png"
+    },
+    {
+        "id": 565,
+        "name": "BSC Young Boys",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/565.png"
+    },
+    {
+        "id": 606,
+        "name": "FC Lugano",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/606.png"
+    },
+    {
+        "id": 630,
+        "name": "FC Sion",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/630.png"
+    },
+    {
+        "id": 644,
+        "name": "FC Luzern",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/644.png"
+    },
+    {
+        "id": 783,
+        "name": "FC Zurich",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/783.png"
+    },
+    {
+        "id": 1011,
+        "name": "FC ST. Gallen",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/1011.png"
+    },
+    {
+        "id": 1012,
+        "name": "FC Thun",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/1012.png"
+    },
+    {
+        "id": 1013,
+        "name": "Grasshoppers",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/1013.png"
+    },
+    {
+        "id": 1014,
+        "name": "Lausanne",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/1014.png"
+    },
+    {
+        "id": 1015,
+        "name": "Neuchatel Xamax FC",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/1015.png"
+    },
+    {
+        "id": 1732,
+        "name": "Switzerland W",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/1732.png"
+    },
+    {
+        "id": 2177,
+        "name": "FC Aarau",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/2177.png"
+    },
+    {
+        "id": 2178,
+        "name": "FC Le Mont",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/2178.png"
+    },
+    {
+        "id": 2179,
+        "name": "FC WIL 1900",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/2179.png"
+    },
+    {
+        "id": 2180,
+        "name": "FC Winterthur",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/2180.png"
+    },
+    {
+        "id": 2181,
+        "name": "FC Chiasso",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/2181.png"
+    },
+    {
+        "id": 2182,
+        "name": "FC Schaffhausen",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/2182.png"
+    },
+    {
+        "id": 2183,
+        "name": "FC Wohlen",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/2183.png"
+    },
+    {
+        "id": 2184,
+        "name": "Servette FC",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/2184.png"
+    },
+    {
+        "id": 2185,
+        "name": "Rapperswil",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/2185.png"
+    },
+    {
+        "id": 2186,
+        "name": "SC Kriens",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/2186.png"
+    },
+    {
+        "id": 4269,
+        "name": "Stade Lausanne-Ouchy",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/4269.png"
+    },
+    {
+        "id": 6612,
+        "name": "Allschwil",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/6612.png"
+    },
+    {
+        "id": 6613,
+        "name": "Altst\u00e4tten",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/6613.png"
+    },
+    {
+        "id": 6614,
+        "name": "Bassecourt",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/6614.png"
+    },
+    {
+        "id": 6615,
+        "name": "Bavois",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/6615.png"
+    },
+    {
+        "id": 6616,
+        "name": "Bellinzona",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/6616.png"
+    },
+    {
+        "id": 6617,
+        "name": "Black Stars",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/6617.png"
+    },
+    {
+        "id": 6618,
+        "name": "Bulle",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/6618.png"
+    },
+    {
+        "id": 6619,
+        "name": "B\u00e9roche-Gorgier",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/6619.png"
+    },
+    {
+        "id": 6620,
+        "name": "Calcio Kreuzlingen",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/6620.png"
+    },
+    {
+        "id": 6621,
+        "name": "Cham",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/6621.png"
+    },
+    {
+        "id": 6622,
+        "name": "Concordia Basel",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/6622.png"
+    },
+    {
+        "id": 6623,
+        "name": "Echallens",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/6623.png"
+    },
+    {
+        "id": 6624,
+        "name": "Escholzmatt-Marbach",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/6624.png"
+    },
+    {
+        "id": 6625,
+        "name": "Freienbach",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/6625.png"
+    },
+    {
+        "id": 6626,
+        "name": "Gambarogno - Contone",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/6626.png"
+    },
+    {
+        "id": 6627,
+        "name": "Iliria",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/6627.png"
+    },
+    {
+        "id": 6628,
+        "name": "Lancy",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/6628.png"
+    },
+    {
+        "id": 6629,
+        "name": "Linth",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/6629.png"
+    },
+    {
+        "id": 6630,
+        "name": "Meyrin",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/6630.png"
+    },
+    {
+        "id": 6631,
+        "name": "Monthey",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/6631.png"
+    },
+    {
+        "id": 6632,
+        "name": "Muri",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/6632.png"
+    },
+    {
+        "id": 6633,
+        "name": "Mutschellen",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/6633.png"
+    },
+    {
+        "id": 6634,
+        "name": "Olten",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/6634.png"
+    },
+    {
+        "id": 6635,
+        "name": "Olympique de Gen\u00e8ve",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/6635.png"
+    },
+    {
+        "id": 6636,
+        "name": "Perly-Certoux",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/6636.png"
+    },
+    {
+        "id": 6637,
+        "name": "Pully Football",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/6637.png"
+    },
+    {
+        "id": 6638,
+        "name": "Red Star Z\u00fcrich",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/6638.png"
+    },
+    {
+        "id": 6639,
+        "name": "Rothorn",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/6639.png"
+    },
+    {
+        "id": 6640,
+        "name": "Rotkreuz",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/6640.png"
+    },
+    {
+        "id": 6641,
+        "name": "Saxon Sports",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/6641.png"
+    },
+    {
+        "id": 6642,
+        "name": "Schoenberg",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/6642.png"
+    },
+    {
+        "id": 6643,
+        "name": "Seefeld",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/6643.png"
+    },
+    {
+        "id": 6644,
+        "name": "Signal",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/6644.png"
+    },
+    {
+        "id": 6645,
+        "name": "Spiez",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/6645.png"
+    },
+    {
+        "id": 6646,
+        "name": "Stade Nyonnais",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/6646.png"
+    },
+    {
+        "id": 6647,
+        "name": "Sursee",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/6647.png"
+    },
+    {
+        "id": 6648,
+        "name": "Taverne",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/6648.png"
+    },
+    {
+        "id": 6649,
+        "name": "Uster",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/6649.png"
+    },
+    {
+        "id": 6650,
+        "name": "Wettswil-Bonstetten",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/6650.png"
+    },
+    {
+        "id": 6651,
+        "name": "Wetzikon",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/6651.png"
+    },
+    {
+        "id": 6652,
+        "name": "YF Juventus",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/6652.png"
+    },
+    {
+        "id": 6653,
+        "name": "Yverdon Sport",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/6653.png"
+    },
+    {
+        "id": 6654,
+        "name": "\u00c9toile Carouge",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/6654.png"
+    },
+    {
+        "id": 7940,
+        "name": "Young Boys U19",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/7940.png"
+    },
+    {
+        "id": 7950,
+        "name": "Basel U19",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/7950.png"
+    },
+    {
+        "id": 8226,
+        "name": "Switzerland U21",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/8226.png"
+    },
+    {
+        "id": 10183,
+        "name": "Switzerland U23",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/10183.png"
+    },
+    {
+        "id": 10350,
+        "name": "Switzerland U19",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/10350.png"
+    },
+    {
+        "id": 10585,
+        "name": "Basel II",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/10585.png"
+    },
+    {
+        "id": 10586,
+        "name": "Breitenrain",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/10586.png"
+    },
+    {
+        "id": 10587,
+        "name": "Br\u00fchl",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/10587.png"
+    },
+    {
+        "id": 10588,
+        "name": "K\u00f6niz",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/10588.png"
+    },
+    {
+        "id": 10589,
+        "name": "M\u00fcnsingen",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/10589.png"
+    },
+    {
+        "id": 10590,
+        "name": "Sion II",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/10590.png"
+    },
+    {
+        "id": 10591,
+        "name": "Z\u00fcrich II",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/10591.png"
+    },
+    {
+        "id": 10592,
+        "name": "La Chaux-de-Fonds",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/10592.png"
+    },
+    {
+        "id": 10593,
+        "name": "Old Boys",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/10593.png"
+    },
+    {
+        "id": 10594,
+        "name": "United Z\u00fcrich",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/10594.png"
+    },
+    {
+        "id": 10909,
+        "name": "Z\u00fcrich W",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/10909.png"
+    },
+    {
+        "id": 10919,
+        "name": "Lugano W",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/10919.png"
+    },
+    {
+        "id": 12691,
+        "name": "Azzurri 90",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/12691.png"
+    },
+    {
+        "id": 12692,
+        "name": "Ch\u00eanois",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/12692.png"
+    },
+    {
+        "id": 12693,
+        "name": "Lausanne Sport II",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/12693.png"
+    },
+    {
+        "id": 12694,
+        "name": "Martigny Sports",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/12694.png"
+    },
+    {
+        "id": 12695,
+        "name": "Naters",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/12695.png"
+    },
+    {
+        "id": 12696,
+        "name": "Terre Sainte",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/12696.png"
+    },
+    {
+        "id": 12697,
+        "name": "Vevey Sports",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/12697.png"
+    },
+    {
+        "id": 12698,
+        "name": "Young Boys II",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/12698.png"
+    },
+    {
+        "id": 12699,
+        "name": "Baden",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/12699.png"
+    },
+    {
+        "id": 12700,
+        "name": "Biel-Bienne",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/12700.png"
+    },
+    {
+        "id": 12701,
+        "name": "Buochs",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/12701.png"
+    },
+    {
+        "id": 12702,
+        "name": "Del\u00e9mont",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/12702.png"
+    },
+    {
+        "id": 12703,
+        "name": "Goldau",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/12703.png"
+    },
+    {
+        "id": 12704,
+        "name": "Grasshopper II",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/12704.png"
+    },
+    {
+        "id": 12705,
+        "name": "Langenthal",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/12705.png"
+    },
+    {
+        "id": 12706,
+        "name": "Luzern II",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/12706.png"
+    },
+    {
+        "id": 12707,
+        "name": "Muttenz",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/12707.png"
+    },
+    {
+        "id": 12708,
+        "name": "Sch\u00f6tz",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/12708.png"
+    },
+    {
+        "id": 12709,
+        "name": "Solothurn",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/12709.png"
+    },
+    {
+        "id": 12710,
+        "name": "Zug",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/12710.png"
+    },
+    {
+        "id": 12712,
+        "name": "Dietikon",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/12712.png"
+    },
+    {
+        "id": 12714,
+        "name": "Gossau",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/12714.png"
+    },
+    {
+        "id": 12715,
+        "name": "H\u00f6ngg",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/12715.png"
+    },
+    {
+        "id": 12716,
+        "name": "Kosova",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/12716.png"
+    },
+    {
+        "id": 12717,
+        "name": "Paradiso",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/12717.png"
+    },
+    {
+        "id": 12718,
+        "name": "St. Gallen II",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/12718.png"
+    },
+    {
+        "id": 12719,
+        "name": "Thalwil",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/12719.png"
+    },
+    {
+        "id": 12720,
+        "name": "Tuggen",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/12720.png"
+    },
+    {
+        "id": 12721,
+        "name": "Winterthur II",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/12721.png"
+    },
+    {
+        "id": 12753,
+        "name": "Dornach",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/12753.png"
+    },
+    {
+        "id": 14504,
+        "name": "Kreuzlingen",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/14504.png"
+    },
+    {
+        "id": 14525,
+        "name": "Sementina",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/14525.png"
+    },
+    {
+        "id": 14601,
+        "name": "Ajoie-Monterri",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/14601.png"
+    },
+    {
+        "id": 14602,
+        "name": "Balerna",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/14602.png"
+    },
+    {
+        "id": 14603,
+        "name": "D\u00fcbendorf",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/14603.png"
+    },
+    {
+        "id": 14604,
+        "name": "FC Savi\u00e8se",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/14604.png"
+    },
+    {
+        "id": 14605,
+        "name": "Haute-Broye",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/14605.png"
+    },
+    {
+        "id": 14606,
+        "name": "Laufen",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/14606.png"
+    },
+    {
+        "id": 14607,
+        "name": "Sch\u00f6ftland",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/14607.png"
+    },
+    {
+        "id": 14608,
+        "name": "Sierre",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/14608.png"
+    },
+    {
+        "id": 14609,
+        "name": "Zollbr\u00fcck",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/14609.png"
+    },
+    {
+        "id": 14614,
+        "name": "D\u00fcrrenast",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/14614.png"
+    },
+    {
+        "id": 15548,
+        "name": "Servette Ch\u00eanois W",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/15548.png"
+    },
+    {
+        "id": 16038,
+        "name": "Basel W",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/16038.png"
+    },
+    {
+        "id": 16039,
+        "name": "Grasshopper W",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/16039.png"
+    },
+    {
+        "id": 16040,
+        "name": "Luzern W",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/16040.png"
+    },
+    {
+        "id": 16041,
+        "name": "St. Gallen W",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/16041.png"
+    },
+    {
+        "id": 16064,
+        "name": "BSC Young Boys W",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/16064.png"
+    },
+    {
+        "id": 16316,
+        "name": "Amical Saint-Prex",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/16316.png"
+    },
+    {
+        "id": 16317,
+        "name": "Collex-Bossy",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/16317.png"
+    },
+    {
+        "id": 16318,
+        "name": "Conthey",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/16318.png"
+    },
+    {
+        "id": 16319,
+        "name": "Genolier-Begnins",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/16319.png"
+    },
+    {
+        "id": 16320,
+        "name": "Italien",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/16320.png"
+    },
+    {
+        "id": 16321,
+        "name": "Renens",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/16321.png"
+    },
+    {
+        "id": 16322,
+        "name": "Saint-Maurice",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/16322.png"
+    },
+    {
+        "id": 16323,
+        "name": "Servette II",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/16323.png"
+    },
+    {
+        "id": 16324,
+        "name": "UGS",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/16324.png"
+    },
+    {
+        "id": 16325,
+        "name": "Veyrier Sports",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/16325.png"
+    },
+    {
+        "id": 16326,
+        "name": "Forward",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/16326.png"
+    },
+    {
+        "id": 16327,
+        "name": "Colombier",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/16327.png"
+    },
+    {
+        "id": 16328,
+        "name": "D\u00fcdingen",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/16328.png"
+    },
+    {
+        "id": 16329,
+        "name": "Echichens",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/16329.png"
+    },
+    {
+        "id": 16330,
+        "name": "Farvagny / Ogoz",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/16330.png"
+    },
+    {
+        "id": 16331,
+        "name": "Fribourg",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/16331.png"
+    },
+    {
+        "id": 16332,
+        "name": "La Sarraz-Ecl\u00e9pens",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/16332.png"
+    },
+    {
+        "id": 16333,
+        "name": "La Tour / Le P\u00e2quier",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/16333.png"
+    },
+    {
+        "id": 16334,
+        "name": "Le Locle Sports",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/16334.png"
+    },
+    {
+        "id": 16335,
+        "name": "Neuch\u00e2tel Xamax II",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/16335.png"
+    },
+    {
+        "id": 16336,
+        "name": "Piamont",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/16336.png"
+    },
+    {
+        "id": 16337,
+        "name": "Portalban / Gletterens",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/16337.png"
+    },
+    {
+        "id": 16338,
+        "name": "Romontois",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/16338.png"
+    },
+    {
+        "id": 16339,
+        "name": "Stade Payerne",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/16339.png"
+    },
+    {
+        "id": 16340,
+        "name": "Binningen",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/16340.png"
+    },
+    {
+        "id": 16341,
+        "name": "Bubendorf",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/16341.png"
+    },
+    {
+        "id": 16342,
+        "name": "Konolfingen",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/16342.png"
+    },
+    {
+        "id": 16343,
+        "name": "K\u00f6niz II",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/16343.png"
+    },
+    {
+        "id": 16344,
+        "name": "Lerchenfeld",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/16344.png"
+    },
+    {
+        "id": 16345,
+        "name": "Liestal",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/16345.png"
+    },
+    {
+        "id": 16346,
+        "name": "Moutier",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/16346.png"
+    },
+    {
+        "id": 16347,
+        "name": "Tavannes / Tramelan",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/16347.png"
+    },
+    {
+        "id": 16348,
+        "name": "Thun II",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/16348.png"
+    },
+    {
+        "id": 16349,
+        "name": "Brunnen",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/16349.png"
+    },
+    {
+        "id": 16350,
+        "name": "Emmenbr\u00fccke",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/16350.png"
+    },
+    {
+        "id": 16351,
+        "name": "Hergiswil",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/16351.png"
+    },
+    {
+        "id": 16352,
+        "name": "Ibach",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/16352.png"
+    },
+    {
+        "id": 16353,
+        "name": "Kickers Luzern",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/16353.png"
+    },
+    {
+        "id": 16354,
+        "name": "Mendrisio",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/16354.png"
+    },
+    {
+        "id": 16355,
+        "name": "Novazzano",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/16355.png"
+    },
+    {
+        "id": 16356,
+        "name": "Perlen-Buchrain",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/16356.png"
+    },
+    {
+        "id": 16357,
+        "name": "Sarnen",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/16357.png"
+    },
+    {
+        "id": 16358,
+        "name": "Team Ticino",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/16358.png"
+    },
+    {
+        "id": 16359,
+        "name": "Willisau",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/16359.png"
+    },
+    {
+        "id": 16360,
+        "name": "Adliswil",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/16360.png"
+    },
+    {
+        "id": 16361,
+        "name": "Aegeri",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/16361.png"
+    },
+    {
+        "id": 16362,
+        "name": "Blue Stars Z\u00fcrich",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/16362.png"
+    },
+    {
+        "id": 16363,
+        "name": "Einsiedeln",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/16363.png"
+    },
+    {
+        "id": 16364,
+        "name": "Grenchen",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/16364.png"
+    },
+    {
+        "id": 16365,
+        "name": "Klingnau",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/16365.png"
+    },
+    {
+        "id": 16366,
+        "name": "Lachen / Altendorf",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/16366.png"
+    },
+    {
+        "id": 16367,
+        "name": "Pajde",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/16367.png"
+    },
+    {
+        "id": 16368,
+        "name": "Zofingen",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/16368.png"
+    },
+    {
+        "id": 16369,
+        "name": "Amriswil",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/16369.png"
+    },
+    {
+        "id": 16370,
+        "name": "Bassersdorf",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/16370.png"
+    },
+    {
+        "id": 16371,
+        "name": "Bazenheid",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/16371.png"
+    },
+    {
+        "id": 16372,
+        "name": "Chur 97",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/16372.png"
+    },
+    {
+        "id": 16373,
+        "name": "R\u00fcti",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/16373.png"
+    },
+    {
+        "id": 16374,
+        "name": "Seuzach",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/16374.png"
+    },
+    {
+        "id": 16375,
+        "name": "Uzwil",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/16375.png"
+    },
+    {
+        "id": 16376,
+        "name": "Weesen",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/16376.png"
+    },
+    {
+        "id": 16377,
+        "name": "Widnau",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/16377.png"
+    },
+    {
+        "id": 16378,
+        "name": "Wil II",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/16378.png"
+    },
+    {
+        "id": 17365,
+        "name": "Aarau",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/17365.png"
+    },
+    {
+        "id": 17366,
+        "name": "Yverdon",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/17366.png"
+    },
+    {
+        "id": 17367,
+        "name": "Young Boys W",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/17367.png"
+    },
+    {
+        "id": 17411,
+        "name": "Bosporus",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/17411.png"
+    },
+    {
+        "id": 17412,
+        "name": "Ch\u00e2tel-St-Denis",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/17412.png"
+    },
+    {
+        "id": 17413,
+        "name": "Coffrane",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/17413.png"
+    },
+    {
+        "id": 17414,
+        "name": "Dardania Lausanne",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/17414.png"
+    },
+    {
+        "id": 17415,
+        "name": "Grand-Saconnex",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/17415.png"
+    },
+    {
+        "id": 17416,
+        "name": "Hausen am Albis",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/17416.png"
+    },
+    {
+        "id": 17417,
+        "name": "Littau",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/17417.png"
+    },
+    {
+        "id": 17418,
+        "name": "Porrentruy",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/17418.png"
+    },
+    {
+        "id": 17419,
+        "name": "Rorschach",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/17419.png"
+    },
+    {
+        "id": 17420,
+        "name": "Saint-L\u00e9onard",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/17420.png"
+    },
+    {
+        "id": 17421,
+        "name": "Sch\u00f6nenwerd-Niederg\u00f6sgen",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/17421.png"
+    },
+    {
+        "id": 17422,
+        "name": "Someo",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/17422.png"
+    },
+    {
+        "id": 17423,
+        "name": "Unterstrass",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/17423.png"
+    },
+    {
+        "id": 17424,
+        "name": "Winkeln St. Gallen",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/17424.png"
+    },
+    {
+        "id": 17441,
+        "name": "Lugano II",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/17441.png"
+    },
+    {
+        "id": 17480,
+        "name": "Court\u00e9telle",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/17480.png"
+    },
+    {
+        "id": 17481,
+        "name": "Wangen",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/17481.png"
+    },
+    {
+        "id": 17482,
+        "name": "Frauenfeld",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/17482.png"
+    },
+    {
+        "id": 17483,
+        "name": "SV Schaffhausen",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/17483.png"
+    },
+    {
+        "id": 17484,
+        "name": "Prishtina Bern",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/17484.png"
+    },
+    {
+        "id": 17485,
+        "name": "Ascona",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/17485.png"
+    },
+    {
+        "id": 17486,
+        "name": "Eschenbach",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/17486.png"
+    },
+    {
+        "id": 17487,
+        "name": "Schattdorf",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/17487.png"
+    },
+    {
+        "id": 17488,
+        "name": "Concordia Lausanne",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/17488.png"
+    },
+    {
+        "id": 17489,
+        "name": "Yverdon Sport II",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/17489.png"
+    },
+    {
+        "id": 17981,
+        "name": "Switzerland U17",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/17981.png"
+    },
+    {
+        "id": 18162,
+        "name": "Collina d'Oro",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/18162.png"
+    },
+    {
+        "id": 19194,
+        "name": "Rapperswil Jona",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/19194.png"
+    },
+    {
+        "id": 19590,
+        "name": "ASI Audax-Friul",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/19590.png"
+    },
+    {
+        "id": 19591,
+        "name": "Affoltern am Albis",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/19591.png"
+    },
+    {
+        "id": 19592,
+        "name": "Arbedo-Castione",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/19592.png"
+    },
+    {
+        "id": 19593,
+        "name": "Bischofszell",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/19593.png"
+    },
+    {
+        "id": 19594,
+        "name": "Compesi\u00e8res",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/19594.png"
+    },
+    {
+        "id": 19595,
+        "name": "Gland",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/19595.png"
+    },
+    {
+        "id": 19596,
+        "name": "Goldstern",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/19596.png"
+    },
+    {
+        "id": 19597,
+        "name": "Sarmenstorf",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/19597.png"
+    },
+    {
+        "id": 19598,
+        "name": "Sternenberg",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/19598.png"
+    },
+    {
+        "id": 19599,
+        "name": "Subingen",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/19599.png"
+    },
+    {
+        "id": 19600,
+        "name": "Wiedikon",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/19600.png"
+    },
+    {
+        "id": 19601,
+        "name": "Wittenbach",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/19601.png"
+    },
+    {
+        "id": 19602,
+        "name": "Plan-les-Ouates",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/19602.png"
+    },
+    {
+        "id": 19603,
+        "name": "Printse-Nendaz",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/19603.png"
+    },
+    {
+        "id": 19604,
+        "name": "Thierrens",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/19604.png"
+    },
+    {
+        "id": 19605,
+        "name": "Besa Biel/Bienne",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/19605.png"
+    },
+    {
+        "id": 19606,
+        "name": "Ergu\u00ebl",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/19606.png"
+    },
+    {
+        "id": 19607,
+        "name": "Matran",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/19607.png"
+    },
+    {
+        "id": 19608,
+        "name": "Muri-G\u00fcmligen",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/19608.png"
+    },
+    {
+        "id": 19609,
+        "name": "FC Windisch",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/19609.png"
+    },
+    {
+        "id": 19610,
+        "name": "Pratteln",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/19610.png"
+    },
+    {
+        "id": 19611,
+        "name": "Regensdorf",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/19611.png"
+    },
+    {
+        "id": 19612,
+        "name": "Cham II",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/19612.png"
+    },
+    {
+        "id": 19613,
+        "name": "Dardania St. Gallen",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/19613.png"
+    },
+    {
+        "id": 19614,
+        "name": "Rapperswil-Jona II",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/19614.png"
+    },
+    {
+        "id": 19615,
+        "name": "Emmen",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/19615.png"
+    },
+    {
+        "id": 21024,
+        "name": "AC Malcantone",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/21024.png"
+    },
+    {
+        "id": 21587,
+        "name": "Buchs",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/21587.png"
+    },
+    {
+        "id": 21588,
+        "name": "Frutigen",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/21588.png"
+    },
+    {
+        "id": 21589,
+        "name": "Greifensee",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/21589.png"
+    },
+    {
+        "id": 21590,
+        "name": "Gunzwil",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/21590.png"
+    },
+    {
+        "id": 21591,
+        "name": "Haute-Gruy\u00e8re",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/21591.png"
+    },
+    {
+        "id": 21592,
+        "name": "Kleinh\u00fcningen",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/21592.png"
+    },
+    {
+        "id": 21593,
+        "name": "Onex",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/21593.png"
+    },
+    {
+        "id": 21594,
+        "name": "Saint-Blaise",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/21594.png"
+    },
+    {
+        "id": 21689,
+        "name": "Thun",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/21689.png"
+    },
+    {
+        "id": 21865,
+        "name": "Ueberstorf",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/21865.png"
+    },
+    {
+        "id": 21866,
+        "name": "Locarno",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/21866.png"
+    },
+    {
+        "id": 21867,
+        "name": "B\u00fclach",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/21867.png"
+    },
+    {
+        "id": 21868,
+        "name": "T\u00e4gerwilen",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/21868.png"
+    },
+    {
+        "id": 22341,
+        "name": "Switzerland U18",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/22341.png"
+    },
+    {
+        "id": 22438,
+        "name": "Switzerland U16",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/22438.png"
+    },
+    {
+        "id": 23672,
+        "name": "Sion W",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/23672.png"
+    },
+    {
+        "id": 23673,
+        "name": "Wil W",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/23673.png"
+    },
+    {
+        "id": 24178,
+        "name": "Aemme",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/24178.png"
+    },
+    {
+        "id": 24179,
+        "name": "Besa St. Gallen",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/24179.png"
+    },
+    {
+        "id": 24180,
+        "name": "Champel",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/24180.png"
+    },
+    {
+        "id": 24181,
+        "name": "Haute-Ajoie",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/24181.png"
+    },
+    {
+        "id": 24182,
+        "name": "Schwyz",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/24182.png"
+    },
+    {
+        "id": 24183,
+        "name": "Suhr",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/24183.png"
+    },
+    {
+        "id": 24184,
+        "name": "Ursy",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/24184.png"
+    },
+    {
+        "id": 24185,
+        "name": "Wallbach",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/24185.png"
+    },
+    {
+        "id": 24186,
+        "name": "Z\u00fcrich City",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/24186.png"
+    },
+    {
+        "id": 24225,
+        "name": "Arbon",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/24225.png"
+    },
+    {
+        "id": 24226,
+        "name": "Schaffhausen II",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/24226.png"
+    },
+    {
+        "id": 24227,
+        "name": "Rothrist",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/24227.png"
+    },
+    {
+        "id": 24228,
+        "name": "Bosna Neuch\u00e2tel",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/24228.png"
+    },
+    {
+        "id": 24229,
+        "name": "Lommiswil",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/24229.png"
+    },
+    {
+        "id": 24230,
+        "name": "Lyss",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/24230.png"
+    },
+    {
+        "id": 24231,
+        "name": "Stade-Lausanne-Ouchy II",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/24231.png"
+    },
+    {
+        "id": 24232,
+        "name": "Collombey-Muraz",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/24232.png"
+    },
+    {
+        "id": 24233,
+        "name": "Stade-Lausanne-Ouchy III",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/24233.png"
+    },
+    {
+        "id": 24234,
+        "name": "Vernier",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/teams/24234.png"
+    }
+]

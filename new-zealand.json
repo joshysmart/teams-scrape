@@ -1,0 +1,308 @@
+[
+    {
+        "id": 942,
+        "name": "Wellington Phoenix",
+        "country": "New-Zealand",
+        "logo": "https://media.api-sports.io/football/teams/942.png"
+    },
+    {
+        "id": 1716,
+        "name": "New Zealand W",
+        "country": "New-Zealand",
+        "logo": "https://media.api-sports.io/football/teams/1716.png"
+    },
+    {
+        "id": 2529,
+        "name": "Southern United",
+        "country": "New-Zealand",
+        "logo": "https://media.api-sports.io/football/teams/2529.png"
+    },
+    {
+        "id": 2530,
+        "name": "Waitakere United",
+        "country": "New-Zealand",
+        "logo": "https://media.api-sports.io/football/teams/2530.png"
+    },
+    {
+        "id": 2532,
+        "name": "Hawkes BAY United",
+        "country": "New-Zealand",
+        "logo": "https://media.api-sports.io/football/teams/2532.png"
+    },
+    {
+        "id": 2533,
+        "name": "Tasman United",
+        "country": "New-Zealand",
+        "logo": "https://media.api-sports.io/football/teams/2533.png"
+    },
+    {
+        "id": 2534,
+        "name": "Team Wellington",
+        "country": "New-Zealand",
+        "logo": "https://media.api-sports.io/football/teams/2534.png"
+    },
+    {
+        "id": 2535,
+        "name": "Wellington Phoenix II",
+        "country": "New-Zealand",
+        "logo": "https://media.api-sports.io/football/teams/2535.png"
+    },
+    {
+        "id": 2536,
+        "name": "Hamilton Wanderers",
+        "country": "New-Zealand",
+        "logo": "https://media.api-sports.io/football/teams/2536.png"
+    },
+    {
+        "id": 2537,
+        "name": "Auckland City",
+        "country": "New-Zealand",
+        "logo": "https://media.api-sports.io/football/teams/2537.png"
+    },
+    {
+        "id": 2538,
+        "name": "Canterbury United",
+        "country": "New-Zealand",
+        "logo": "https://media.api-sports.io/football/teams/2538.png"
+    },
+    {
+        "id": 4673,
+        "name": "New Zealand",
+        "country": "New-Zealand",
+        "logo": "https://media.api-sports.io/football/teams/4673.png"
+    },
+    {
+        "id": 10180,
+        "name": "New Zealand U23",
+        "country": "New-Zealand",
+        "logo": "https://media.api-sports.io/football/teams/10180.png"
+    },
+    {
+        "id": 10294,
+        "name": "New Zealand U20",
+        "country": "New-Zealand",
+        "logo": "https://media.api-sports.io/football/teams/10294.png"
+    },
+    {
+        "id": 13977,
+        "name": "Eastern Suburbs",
+        "country": "New-Zealand",
+        "logo": "https://media.api-sports.io/football/teams/13977.png"
+    },
+    {
+        "id": 19089,
+        "name": "New Zealand U20 W",
+        "country": "New-Zealand",
+        "logo": "https://media.api-sports.io/football/teams/19089.png"
+    },
+    {
+        "id": 20641,
+        "name": "Havelock North Wanderers",
+        "country": "New-Zealand",
+        "logo": "https://media.api-sports.io/football/teams/20641.png"
+    },
+    {
+        "id": 20642,
+        "name": "Napier City Rovers",
+        "country": "New-Zealand",
+        "logo": "https://media.api-sports.io/football/teams/20642.png"
+    },
+    {
+        "id": 20643,
+        "name": "North Wellington",
+        "country": "New-Zealand",
+        "logo": "https://media.api-sports.io/football/teams/20643.png"
+    },
+    {
+        "id": 20644,
+        "name": "Petone",
+        "country": "New-Zealand",
+        "logo": "https://media.api-sports.io/football/teams/20644.png"
+    },
+    {
+        "id": 20645,
+        "name": "Waterside Karori",
+        "country": "New-Zealand",
+        "logo": "https://media.api-sports.io/football/teams/20645.png"
+    },
+    {
+        "id": 20647,
+        "name": "Wellington United",
+        "country": "New-Zealand",
+        "logo": "https://media.api-sports.io/football/teams/20647.png"
+    },
+    {
+        "id": 20649,
+        "name": "Auckland United",
+        "country": "New-Zealand",
+        "logo": "https://media.api-sports.io/football/teams/20649.png"
+    },
+    {
+        "id": 20650,
+        "name": "Birkenhead United",
+        "country": "New-Zealand",
+        "logo": "https://media.api-sports.io/football/teams/20650.png"
+    },
+    {
+        "id": 20651,
+        "name": "Cashmere Technical",
+        "country": "New-Zealand",
+        "logo": "https://media.api-sports.io/football/teams/20651.png"
+    },
+    {
+        "id": 20652,
+        "name": "Christchurch United",
+        "country": "New-Zealand",
+        "logo": "https://media.api-sports.io/football/teams/20652.png"
+    },
+    {
+        "id": 20653,
+        "name": "Melville United",
+        "country": "New-Zealand",
+        "logo": "https://media.api-sports.io/football/teams/20653.png"
+    },
+    {
+        "id": 20654,
+        "name": "Bay Olympic",
+        "country": "New-Zealand",
+        "logo": "https://media.api-sports.io/football/teams/20654.png"
+    },
+    {
+        "id": 20655,
+        "name": "Manukau United",
+        "country": "New-Zealand",
+        "logo": "https://media.api-sports.io/football/teams/20655.png"
+    },
+    {
+        "id": 20656,
+        "name": "North Shore United",
+        "country": "New-Zealand",
+        "logo": "https://media.api-sports.io/football/teams/20656.png"
+    },
+    {
+        "id": 20657,
+        "name": "Takapuna",
+        "country": "New-Zealand",
+        "logo": "https://media.api-sports.io/football/teams/20657.png"
+    },
+    {
+        "id": 20658,
+        "name": "Waiheke United",
+        "country": "New-Zealand",
+        "logo": "https://media.api-sports.io/football/teams/20658.png"
+    },
+    {
+        "id": 20659,
+        "name": "Western Springs",
+        "country": "New-Zealand",
+        "logo": "https://media.api-sports.io/football/teams/20659.png"
+    },
+    {
+        "id": 20660,
+        "name": "Coastal Spirit",
+        "country": "New-Zealand",
+        "logo": "https://media.api-sports.io/football/teams/20660.png"
+    },
+    {
+        "id": 20661,
+        "name": "Dunedin City Royals",
+        "country": "New-Zealand",
+        "logo": "https://media.api-sports.io/football/teams/20661.png"
+    },
+    {
+        "id": 20662,
+        "name": "Ferrymead Bays",
+        "country": "New-Zealand",
+        "logo": "https://media.api-sports.io/football/teams/20662.png"
+    },
+    {
+        "id": 20663,
+        "name": "Green Island",
+        "country": "New-Zealand",
+        "logo": "https://media.api-sports.io/football/teams/20663.png"
+    },
+    {
+        "id": 20664,
+        "name": "Mosgiel",
+        "country": "New-Zealand",
+        "logo": "https://media.api-sports.io/football/teams/20664.png"
+    },
+    {
+        "id": 20665,
+        "name": "Nelson Suburbs",
+        "country": "New-Zealand",
+        "logo": "https://media.api-sports.io/football/teams/20665.png"
+    },
+    {
+        "id": 20666,
+        "name": "Nomads United",
+        "country": "New-Zealand",
+        "logo": "https://media.api-sports.io/football/teams/20666.png"
+    },
+    {
+        "id": 20667,
+        "name": "Selwyn United",
+        "country": "New-Zealand",
+        "logo": "https://media.api-sports.io/football/teams/20667.png"
+    },
+    {
+        "id": 20672,
+        "name": "Miramar",
+        "country": "New-Zealand",
+        "logo": "https://media.api-sports.io/football/teams/20672.png"
+    },
+    {
+        "id": 21120,
+        "name": "Stop Out",
+        "country": "New-Zealand",
+        "logo": "https://media.api-sports.io/football/teams/21120.png"
+    },
+    {
+        "id": 21121,
+        "name": "Whanganui Athletic",
+        "country": "New-Zealand",
+        "logo": "https://media.api-sports.io/football/teams/21121.png"
+    },
+    {
+        "id": 21122,
+        "name": "Twenty 11",
+        "country": "New-Zealand",
+        "logo": "https://media.api-sports.io/football/teams/21122.png"
+    },
+    {
+        "id": 21123,
+        "name": "Manurewa",
+        "country": "New-Zealand",
+        "logo": "https://media.api-sports.io/football/teams/21123.png"
+    },
+    {
+        "id": 21124,
+        "name": "West Coast Rangers",
+        "country": "New-Zealand",
+        "logo": "https://media.api-sports.io/football/teams/21124.png"
+    },
+    {
+        "id": 23210,
+        "name": "Universities",
+        "country": "New-Zealand",
+        "logo": "https://media.api-sports.io/football/teams/23210.png"
+    },
+    {
+        "id": 23211,
+        "name": "Island Bay United",
+        "country": "New-Zealand",
+        "logo": "https://media.api-sports.io/football/teams/23211.png"
+    },
+    {
+        "id": 23212,
+        "name": "East Coast Bays",
+        "country": "New-Zealand",
+        "logo": "https://media.api-sports.io/football/teams/23212.png"
+    },
+    {
+        "id": 23213,
+        "name": "Tauranga City United",
+        "country": "New-Zealand",
+        "logo": "https://media.api-sports.io/football/teams/23213.png"
+    }
+]

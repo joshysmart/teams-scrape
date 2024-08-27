@@ -1,0 +1,560 @@
+[
+    {
+        "id": 2381,
+        "name": "Bolivia",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/2381.png"
+    },
+    {
+        "id": 3637,
+        "name": "Aurora",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/3637.png"
+    },
+    {
+        "id": 3699,
+        "name": "Sport Boys",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/3699.png"
+    },
+    {
+        "id": 3700,
+        "name": "Always Ready",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/3700.png"
+    },
+    {
+        "id": 3701,
+        "name": "Blooming",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/3701.png"
+    },
+    {
+        "id": 3702,
+        "name": "Bol\u00edvar",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/3702.png"
+    },
+    {
+        "id": 3703,
+        "name": "Club Destroyers",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/3703.png"
+    },
+    {
+        "id": 3704,
+        "name": "Guabir\u00e1",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/3704.png"
+    },
+    {
+        "id": 3705,
+        "name": "Jorge Wilstermann",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/3705.png"
+    },
+    {
+        "id": 3706,
+        "name": "Nacional Potos\u00ed",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/3706.png"
+    },
+    {
+        "id": 3707,
+        "name": "Oriente Petrolero",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/3707.png"
+    },
+    {
+        "id": 3708,
+        "name": "Real Potos\u00ed",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/3708.png"
+    },
+    {
+        "id": 3709,
+        "name": "Royal Pari",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/3709.png"
+    },
+    {
+        "id": 3710,
+        "name": "San Jos\u00e9",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/3710.png"
+    },
+    {
+        "id": 3711,
+        "name": "The Strongest",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/3711.png"
+    },
+    {
+        "id": 3875,
+        "name": "Club Universitario",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/3875.png"
+    },
+    {
+        "id": 10011,
+        "name": "Atl\u00e9tico Palmaflor",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/10011.png"
+    },
+    {
+        "id": 11062,
+        "name": "Wilstermann U20",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/11062.png"
+    },
+    {
+        "id": 12259,
+        "name": "Santa Cruz",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/12259.png"
+    },
+    {
+        "id": 15689,
+        "name": "AMDECAR",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/15689.png"
+    },
+    {
+        "id": 15690,
+        "name": "Blooming Guayaramer\u00edn",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/15690.png"
+    },
+    {
+        "id": 15691,
+        "name": "CA Bermejo",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/15691.png"
+    },
+    {
+        "id": 15692,
+        "name": "Chaco Petrolero",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/15692.png"
+    },
+    {
+        "id": 15693,
+        "name": "Cochabamba FC",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/15693.png"
+    },
+    {
+        "id": 15694,
+        "name": "Deportivo Cervecer\u00eda",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/15694.png"
+    },
+    {
+        "id": 15695,
+        "name": "Deportivo FATIC",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/15695.png"
+    },
+    {
+        "id": 15696,
+        "name": "Deportivo Kiv\u00f3n",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/15696.png"
+    },
+    {
+        "id": 15697,
+        "name": "Deportivo Sur-Car",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/15697.png"
+    },
+    {
+        "id": 15698,
+        "name": "EM Huanuni",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/15698.png"
+    },
+    {
+        "id": 15699,
+        "name": "Escuela Enrique Happ",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/15699.png"
+    },
+    {
+        "id": 15700,
+        "name": "Fancesa",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/15700.png"
+    },
+    {
+        "id": 15701,
+        "name": "Garc\u00eda \u00c1greda",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/15701.png"
+    },
+    {
+        "id": 15702,
+        "name": "Independiente Petrolero",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/15702.png"
+    },
+    {
+        "id": 15703,
+        "name": "Mariscal Sucre",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/15703.png"
+    },
+    {
+        "id": 15704,
+        "name": "Municipal Tiquipaya",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/15704.png"
+    },
+    {
+        "id": 15705,
+        "name": "Oruro Royal",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/15705.png"
+    },
+    {
+        "id": 15706,
+        "name": "Quebracho Villa Montes",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/15706.png"
+    },
+    {
+        "id": 15707,
+        "name": "Real Monteagudo",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/15707.png"
+    },
+    {
+        "id": 15708,
+        "name": "Real Tomayapo",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/15708.png"
+    },
+    {
+        "id": 15709,
+        "name": "Sat\u00e9lite Norte",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/15709.png"
+    },
+    {
+        "id": 15710,
+        "name": "Sol Radiante",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/15710.png"
+    },
+    {
+        "id": 15711,
+        "name": "Stormers San Lorenzo",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/15711.png"
+    },
+    {
+        "id": 15712,
+        "name": "Torre Fuerte",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/15712.png"
+    },
+    {
+        "id": 15713,
+        "name": "Universitario Pando",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/15713.png"
+    },
+    {
+        "id": 15714,
+        "name": "Vaca D\u00edez",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/15714.png"
+    },
+    {
+        "id": 15715,
+        "name": "Libertad",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/15715.png"
+    },
+    {
+        "id": 15716,
+        "name": "Rosario Central",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/15716.png"
+    },
+    {
+        "id": 16924,
+        "name": "Bolivia W",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/16924.png"
+    },
+    {
+        "id": 17743,
+        "name": "ABB",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/17743.png"
+    },
+    {
+        "id": 17744,
+        "name": "Academia Santa Cruz",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/17744.png"
+    },
+    {
+        "id": 17745,
+        "name": "Ciudad Nueva Santa Cruz",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/17745.png"
+    },
+    {
+        "id": 17746,
+        "name": "Los Almendros",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/17746.png"
+    },
+    {
+        "id": 17747,
+        "name": "Municipal Achocalla",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/17747.png"
+    },
+    {
+        "id": 17748,
+        "name": "Nacional SENAC",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/17748.png"
+    },
+    {
+        "id": 17749,
+        "name": "Uni\u00f3n Maestranza",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/17749.png"
+    },
+    {
+        "id": 17750,
+        "name": "Villa Real Sociedad",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/17750.png"
+    },
+    {
+        "id": 17751,
+        "name": "Moto Club",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/17751.png"
+    },
+    {
+        "id": 17754,
+        "name": "Am\u00e9rica Villaz\u00f3n",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/17754.png"
+    },
+    {
+        "id": 17755,
+        "name": "Atl\u00e9tico de Padilla",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/17755.png"
+    },
+    {
+        "id": 17756,
+        "name": "Deportivo Shalon",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/17756.png"
+    },
+    {
+        "id": 17757,
+        "name": "Ferrocarril Palmeiras",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/17757.png"
+    },
+    {
+        "id": 17758,
+        "name": "Mojocoya",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/17758.png"
+    },
+    {
+        "id": 17759,
+        "name": "Nueva Cliza",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/17759.png"
+    },
+    {
+        "id": 17760,
+        "name": "San Antonio Bulo Bulo",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/17760.png"
+    },
+    {
+        "id": 17761,
+        "name": "San Jos\u00e9 de Caracollo",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/17761.png"
+    },
+    {
+        "id": 17762,
+        "name": "Universitario de Vinto",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/17762.png"
+    },
+    {
+        "id": 17763,
+        "name": "Wilstermann Cooperativa",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/17763.png"
+    },
+    {
+        "id": 20247,
+        "name": "24 de Septiembre",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/20247.png"
+    },
+    {
+        "id": 20248,
+        "name": "Alianza Beni",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/20248.png"
+    },
+    {
+        "id": 20249,
+        "name": "Atl\u00e9tico Warnes",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/20249.png"
+    },
+    {
+        "id": 20250,
+        "name": "Deportivo JUVA",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/20250.png"
+    },
+    {
+        "id": 20251,
+        "name": "Morro Municipal",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/20251.png"
+    },
+    {
+        "id": 20252,
+        "name": "Real Oruro",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/20252.png"
+    },
+    {
+        "id": 20253,
+        "name": "Stormers SC",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/20253.png"
+    },
+    {
+        "id": 20254,
+        "name": "Universitario Beni",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/20254.png"
+    },
+    {
+        "id": 20327,
+        "name": "La Paz",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/20327.png"
+    },
+    {
+        "id": 21210,
+        "name": "Bolivia U17",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/21210.png"
+    },
+    {
+        "id": 21217,
+        "name": "Bolivia U23",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/21217.png"
+    },
+    {
+        "id": 22265,
+        "name": "Deportivo Aleman",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/22265.png"
+    },
+    {
+        "id": 22266,
+        "name": "Gualberto Villarroel SJ",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/22266.png"
+    },
+    {
+        "id": 22267,
+        "name": "Hiska Nacional",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/22267.png"
+    },
+    {
+        "id": 22268,
+        "name": "Municipal Tarija",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/22268.png"
+    },
+    {
+        "id": 22269,
+        "name": "Real Mizque",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/22269.png"
+    },
+    {
+        "id": 22551,
+        "name": "Municipalidad Yacuiba",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/22551.png"
+    },
+    {
+        "id": 22552,
+        "name": "Nacional Sucre",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/22552.png"
+    },
+    {
+        "id": 22553,
+        "name": "Pasi\u00f3n Celeste",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/22553.png"
+    },
+    {
+        "id": 22554,
+        "name": "Real Mapajo",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/22554.png"
+    },
+    {
+        "id": 22555,
+        "name": "San Lorenzo del Beni",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/22555.png"
+    },
+    {
+        "id": 23376,
+        "name": "Bolivia U17 W",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/23376.png"
+    },
+    {
+        "id": 24593,
+        "name": "Amanecer",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/24593.png"
+    },
+    {
+        "id": 24594,
+        "name": "Cicl\u00f3n",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/24594.png"
+    },
+    {
+        "id": 24595,
+        "name": "El Tejar",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/24595.png"
+    },
+    {
+        "id": 24596,
+        "name": "Nueva Santa Cruz",
+        "country": "Bolivia",
+        "logo": "https://media.api-sports.io/football/teams/24596.png"
+    }
+]

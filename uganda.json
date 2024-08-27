@@ -1,0 +1,278 @@
+[
+    {
+        "id": 1519,
+        "name": "Uganda",
+        "country": "Uganda",
+        "logo": "https://media.api-sports.io/football/teams/1519.png"
+    },
+    {
+        "id": 6422,
+        "name": "KCCA",
+        "country": "Uganda",
+        "logo": "https://media.api-sports.io/football/teams/6422.png"
+    },
+    {
+        "id": 8068,
+        "name": "Proline",
+        "country": "Uganda",
+        "logo": "https://media.api-sports.io/football/teams/8068.png"
+    },
+    {
+        "id": 8114,
+        "name": "Vipers",
+        "country": "Uganda",
+        "logo": "https://media.api-sports.io/football/teams/8114.png"
+    },
+    {
+        "id": 11050,
+        "name": "Uganda U20",
+        "country": "Uganda",
+        "logo": "https://media.api-sports.io/football/teams/11050.png"
+    },
+    {
+        "id": 12449,
+        "name": "BUL",
+        "country": "Uganda",
+        "logo": "https://media.api-sports.io/football/teams/12449.png"
+    },
+    {
+        "id": 12450,
+        "name": "Bright Stars",
+        "country": "Uganda",
+        "logo": "https://media.api-sports.io/football/teams/12450.png"
+    },
+    {
+        "id": 12451,
+        "name": "Busoga United",
+        "country": "Uganda",
+        "logo": "https://media.api-sports.io/football/teams/12451.png"
+    },
+    {
+        "id": 12452,
+        "name": "Express",
+        "country": "Uganda",
+        "logo": "https://media.api-sports.io/football/teams/12452.png"
+    },
+    {
+        "id": 12453,
+        "name": "Kyetume",
+        "country": "Uganda",
+        "logo": "https://media.api-sports.io/football/teams/12453.png"
+    },
+    {
+        "id": 12454,
+        "name": "Maroons",
+        "country": "Uganda",
+        "logo": "https://media.api-sports.io/football/teams/12454.png"
+    },
+    {
+        "id": 12455,
+        "name": "Mbarara City",
+        "country": "Uganda",
+        "logo": "https://media.api-sports.io/football/teams/12455.png"
+    },
+    {
+        "id": 12456,
+        "name": "Onduparaka",
+        "country": "Uganda",
+        "logo": "https://media.api-sports.io/football/teams/12456.png"
+    },
+    {
+        "id": 12457,
+        "name": "SC Villa",
+        "country": "Uganda",
+        "logo": "https://media.api-sports.io/football/teams/12457.png"
+    },
+    {
+        "id": 12458,
+        "name": "Tooro United",
+        "country": "Uganda",
+        "logo": "https://media.api-sports.io/football/teams/12458.png"
+    },
+    {
+        "id": 12459,
+        "name": "URA",
+        "country": "Uganda",
+        "logo": "https://media.api-sports.io/football/teams/12459.png"
+    },
+    {
+        "id": 12460,
+        "name": "Wakiso Giants",
+        "country": "Uganda",
+        "logo": "https://media.api-sports.io/football/teams/12460.png"
+    },
+    {
+        "id": 12461,
+        "name": "Police",
+        "country": "Uganda",
+        "logo": "https://media.api-sports.io/football/teams/12461.png"
+    },
+    {
+        "id": 12462,
+        "name": "Ndejje University",
+        "country": "Uganda",
+        "logo": "https://media.api-sports.io/football/teams/12462.png"
+    },
+    {
+        "id": 12463,
+        "name": "Nyamityobora",
+        "country": "Uganda",
+        "logo": "https://media.api-sports.io/football/teams/12463.png"
+    },
+    {
+        "id": 12464,
+        "name": "Paidha Black Angels",
+        "country": "Uganda",
+        "logo": "https://media.api-sports.io/football/teams/12464.png"
+    },
+    {
+        "id": 12465,
+        "name": "Masavu",
+        "country": "Uganda",
+        "logo": "https://media.api-sports.io/football/teams/12465.png"
+    },
+    {
+        "id": 12466,
+        "name": "UPDF",
+        "country": "Uganda",
+        "logo": "https://media.api-sports.io/football/teams/12466.png"
+    },
+    {
+        "id": 12467,
+        "name": "JMC Hippos",
+        "country": "Uganda",
+        "logo": "https://media.api-sports.io/football/teams/12467.png"
+    },
+    {
+        "id": 12468,
+        "name": "Lweza",
+        "country": "Uganda",
+        "logo": "https://media.api-sports.io/football/teams/12468.png"
+    },
+    {
+        "id": 12469,
+        "name": "Sadolin Paints",
+        "country": "Uganda",
+        "logo": "https://media.api-sports.io/football/teams/12469.png"
+    },
+    {
+        "id": 12470,
+        "name": "The Saints",
+        "country": "Uganda",
+        "logo": "https://media.api-sports.io/football/teams/12470.png"
+    },
+    {
+        "id": 12471,
+        "name": "SCVU",
+        "country": "Uganda",
+        "logo": "https://media.api-sports.io/football/teams/12471.png"
+    },
+    {
+        "id": 12472,
+        "name": "Entebbe",
+        "country": "Uganda",
+        "logo": "https://media.api-sports.io/football/teams/12472.png"
+    },
+    {
+        "id": 12473,
+        "name": "Kira Young",
+        "country": "Uganda",
+        "logo": "https://media.api-sports.io/football/teams/12473.png"
+    },
+    {
+        "id": 12474,
+        "name": "Rwenshama",
+        "country": "Uganda",
+        "logo": "https://media.api-sports.io/football/teams/12474.png"
+    },
+    {
+        "id": 12475,
+        "name": "CRO",
+        "country": "Uganda",
+        "logo": "https://media.api-sports.io/football/teams/12475.png"
+    },
+    {
+        "id": 12476,
+        "name": "Masaka LC",
+        "country": "Uganda",
+        "logo": "https://media.api-sports.io/football/teams/12476.png"
+    },
+    {
+        "id": 12477,
+        "name": "Aurum Roses",
+        "country": "Uganda",
+        "logo": "https://media.api-sports.io/football/teams/12477.png"
+    },
+    {
+        "id": 12478,
+        "name": "Victors",
+        "country": "Uganda",
+        "logo": "https://media.api-sports.io/football/teams/12478.png"
+    },
+    {
+        "id": 12479,
+        "name": "Water",
+        "country": "Uganda",
+        "logo": "https://media.api-sports.io/football/teams/12479.png"
+    },
+    {
+        "id": 15559,
+        "name": "MYDA",
+        "country": "Uganda",
+        "logo": "https://media.api-sports.io/football/teams/15559.png"
+    },
+    {
+        "id": 15562,
+        "name": "Kitara",
+        "country": "Uganda",
+        "logo": "https://media.api-sports.io/football/teams/15562.png"
+    },
+    {
+        "id": 17128,
+        "name": "Uganda U23",
+        "country": "Uganda",
+        "logo": "https://media.api-sports.io/football/teams/17128.png"
+    },
+    {
+        "id": 18011,
+        "name": "Arua Hill",
+        "country": "Uganda",
+        "logo": "https://media.api-sports.io/football/teams/18011.png"
+    },
+    {
+        "id": 18012,
+        "name": "Gaddafi",
+        "country": "Uganda",
+        "logo": "https://media.api-sports.io/football/teams/18012.png"
+    },
+    {
+        "id": 19095,
+        "name": "Uganda W",
+        "country": "Uganda",
+        "logo": "https://media.api-sports.io/football/teams/19095.png"
+    },
+    {
+        "id": 19127,
+        "name": "Villa",
+        "country": "Uganda",
+        "logo": "https://media.api-sports.io/football/teams/19127.png"
+    },
+    {
+        "id": 20297,
+        "name": "Blacks Power",
+        "country": "Uganda",
+        "logo": "https://media.api-sports.io/football/teams/20297.png"
+    },
+    {
+        "id": 22699,
+        "name": "NEC",
+        "country": "Uganda",
+        "logo": "https://media.api-sports.io/football/teams/22699.png"
+    },
+    {
+        "id": 24777,
+        "name": "Mbale Heroes",
+        "country": "Uganda",
+        "logo": "https://media.api-sports.io/football/teams/24777.png"
+    }
+]

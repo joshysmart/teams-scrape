@@ -1,0 +1,4760 @@
+[
+    {
+        "id": 1595,
+        "name": "Seattle Sounders",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/1595.png"
+    },
+    {
+        "id": 1596,
+        "name": "San Jose Earthquakes",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/1596.png"
+    },
+    {
+        "id": 1597,
+        "name": "FC Dallas",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/1597.png"
+    },
+    {
+        "id": 1598,
+        "name": "Orlando City SC",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/1598.png"
+    },
+    {
+        "id": 1599,
+        "name": "Philadelphia Union",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/1599.png"
+    },
+    {
+        "id": 1600,
+        "name": "Houston Dynamo",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/1600.png"
+    },
+    {
+        "id": 1602,
+        "name": "New York Red Bulls",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/1602.png"
+    },
+    {
+        "id": 1604,
+        "name": "New York City FC",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/1604.png"
+    },
+    {
+        "id": 1605,
+        "name": "Los Angeles Galaxy",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/1605.png"
+    },
+    {
+        "id": 1606,
+        "name": "Real Salt Lake",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/1606.png"
+    },
+    {
+        "id": 1607,
+        "name": "Chicago Fire",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/1607.png"
+    },
+    {
+        "id": 1608,
+        "name": "Atlanta United FC",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/1608.png"
+    },
+    {
+        "id": 1609,
+        "name": "New England Revolution",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/1609.png"
+    },
+    {
+        "id": 1610,
+        "name": "Colorado Rapids",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/1610.png"
+    },
+    {
+        "id": 1611,
+        "name": "Sporting Kansas City",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/1611.png"
+    },
+    {
+        "id": 1612,
+        "name": "Minnesota United FC",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/1612.png"
+    },
+    {
+        "id": 1613,
+        "name": "Columbus Crew",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/1613.png"
+    },
+    {
+        "id": 1615,
+        "name": "DC United",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/1615.png"
+    },
+    {
+        "id": 1616,
+        "name": "Los Angeles FC",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/1616.png"
+    },
+    {
+        "id": 1617,
+        "name": "Portland Timbers",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/1617.png"
+    },
+    {
+        "id": 1718,
+        "name": "USA W",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/1718.png"
+    },
+    {
+        "id": 2242,
+        "name": "FC Cincinnati",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/2242.png"
+    },
+    {
+        "id": 2384,
+        "name": "USA",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/2384.png"
+    },
+    {
+        "id": 2997,
+        "name": "Chicago Red Stars W",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/2997.png"
+    },
+    {
+        "id": 2998,
+        "name": "Houston Dash W",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/2998.png"
+    },
+    {
+        "id": 2999,
+        "name": "North Carolina Courage W",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/2999.png"
+    },
+    {
+        "id": 3000,
+        "name": "Orlando Pride W",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/3000.png"
+    },
+    {
+        "id": 3001,
+        "name": "Portland Thorns W",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/3001.png"
+    },
+    {
+        "id": 3002,
+        "name": "Seattle Reign FC",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/3002.png"
+    },
+    {
+        "id": 3003,
+        "name": "NJ/NY Gotham FC W",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/3003.png"
+    },
+    {
+        "id": 3004,
+        "name": "Utah Royals W",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/3004.png"
+    },
+    {
+        "id": 3005,
+        "name": "Washington Spirit W",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/3005.png"
+    },
+    {
+        "id": 3986,
+        "name": "Atlanta United II",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/3986.png"
+    },
+    {
+        "id": 3987,
+        "name": "Austin Bold",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/3987.png"
+    },
+    {
+        "id": 3988,
+        "name": "Bethlehem Steel",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/3988.png"
+    },
+    {
+        "id": 3989,
+        "name": "Birmingham Legion",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/3989.png"
+    },
+    {
+        "id": 3990,
+        "name": "Charleston Battery",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/3990.png"
+    },
+    {
+        "id": 3991,
+        "name": "Charlotte Independence",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/3991.png"
+    },
+    {
+        "id": 3992,
+        "name": "Colorado Springs",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/3992.png"
+    },
+    {
+        "id": 3993,
+        "name": "El Paso Locomotive",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/3993.png"
+    },
+    {
+        "id": 3994,
+        "name": "Fresno FC",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/3994.png"
+    },
+    {
+        "id": 3995,
+        "name": "Hartford Athletic",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/3995.png"
+    },
+    {
+        "id": 3996,
+        "name": "Indy Eleven",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/3996.png"
+    },
+    {
+        "id": 3997,
+        "name": "LA Galaxy II",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/3997.png"
+    },
+    {
+        "id": 3998,
+        "name": "Las Vegas Lights",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/3998.png"
+    },
+    {
+        "id": 3999,
+        "name": "Loudoun United",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/3999.png"
+    },
+    {
+        "id": 4000,
+        "name": "Louisville City",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4000.png"
+    },
+    {
+        "id": 4001,
+        "name": "Memphis 901",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4001.png"
+    },
+    {
+        "id": 4002,
+        "name": "Nashville",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4002.png"
+    },
+    {
+        "id": 4003,
+        "name": "New Mexico United",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4003.png"
+    },
+    {
+        "id": 4004,
+        "name": "New York RB II",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4004.png"
+    },
+    {
+        "id": 4005,
+        "name": "North Carolina",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4005.png"
+    },
+    {
+        "id": 4006,
+        "name": "OKC Energy",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4006.png"
+    },
+    {
+        "id": 4007,
+        "name": "Orange County SC",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4007.png"
+    },
+    {
+        "id": 4009,
+        "name": "Phoenix Rising",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4009.png"
+    },
+    {
+        "id": 4010,
+        "name": "Pittsburgh Riverhounds",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4010.png"
+    },
+    {
+        "id": 4011,
+        "name": "Portland Timbers II",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4011.png"
+    },
+    {
+        "id": 4012,
+        "name": "Real Monarchs",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4012.png"
+    },
+    {
+        "id": 4013,
+        "name": "Reno 1868",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4013.png"
+    },
+    {
+        "id": 4014,
+        "name": "Rio Grande Valley",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4014.png"
+    },
+    {
+        "id": 4015,
+        "name": "Sacramento Republic",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4015.png"
+    },
+    {
+        "id": 4016,
+        "name": "Saint Louis",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4016.png"
+    },
+    {
+        "id": 4017,
+        "name": "San Antonio",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4017.png"
+    },
+    {
+        "id": 4018,
+        "name": "Seattle Sounders II",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4018.png"
+    },
+    {
+        "id": 4019,
+        "name": "Swope Park Rangers",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4019.png"
+    },
+    {
+        "id": 4020,
+        "name": "Tacoma Defiance",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4020.png"
+    },
+    {
+        "id": 4021,
+        "name": "Tampa Bay Rowdies",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4021.png"
+    },
+    {
+        "id": 4022,
+        "name": "FC Tulsa",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4022.png"
+    },
+    {
+        "id": 4023,
+        "name": "Penn",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4023.png"
+    },
+    {
+        "id": 4024,
+        "name": "Richmond Kickers",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4024.png"
+    },
+    {
+        "id": 4026,
+        "name": "Orlando City II",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4026.png"
+    },
+    {
+        "id": 4027,
+        "name": "Rochester Rhinos",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4027.png"
+    },
+    {
+        "id": 4028,
+        "name": "Whitecaps II",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4028.png"
+    },
+    {
+        "id": 4030,
+        "name": "Wilmington Hammerheads",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4030.png"
+    },
+    {
+        "id": 4031,
+        "name": "AC Connecticut",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4031.png"
+    },
+    {
+        "id": 4032,
+        "name": "AHFC Royals",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4032.png"
+    },
+    {
+        "id": 4033,
+        "name": "Albuquerque Sol",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4033.png"
+    },
+    {
+        "id": 4034,
+        "name": "Black Rock",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4034.png"
+    },
+    {
+        "id": 4035,
+        "name": "Boston Bolts",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4035.png"
+    },
+    {
+        "id": 4036,
+        "name": "Brazos Valley",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4036.png"
+    },
+    {
+        "id": 4038,
+        "name": "Cedar Stars Rush",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4038.png"
+    },
+    {
+        "id": 4039,
+        "name": "Charlotte Eagles",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4039.png"
+    },
+    {
+        "id": 4040,
+        "name": "Chicago Fire II",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4040.png"
+    },
+    {
+        "id": 4041,
+        "name": "Cincinnati Dutch Lions",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4041.png"
+    },
+    {
+        "id": 4042,
+        "name": "Colorado Switchbacks II",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4042.png"
+    },
+    {
+        "id": 4043,
+        "name": "Corpus Christi",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4043.png"
+    },
+    {
+        "id": 4044,
+        "name": "Dalton Red Wolves",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4044.png"
+    },
+    {
+        "id": 4045,
+        "name": "Dayton Dutch Lions",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4045.png"
+    },
+    {
+        "id": 4046,
+        "name": "Daytona",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4046.png"
+    },
+    {
+        "id": 4047,
+        "name": "Des Moines Menace",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4047.png"
+    },
+    {
+        "id": 4048,
+        "name": "Discoveries",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4048.png"
+    },
+    {
+        "id": 4049,
+        "name": "Evergreen",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4049.png"
+    },
+    {
+        "id": 4050,
+        "name": "FA Euro New York",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4050.png"
+    },
+    {
+        "id": 4051,
+        "name": "FC Miami City",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4051.png"
+    },
+    {
+        "id": 4052,
+        "name": "Flint City Bucks",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4052.png"
+    },
+    {
+        "id": 4053,
+        "name": "Florida Elite",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4053.png"
+    },
+    {
+        "id": 4054,
+        "name": "Golden State Force",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4054.png"
+    },
+    {
+        "id": 4055,
+        "name": "Green Bay Voyageurs",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4055.png"
+    },
+    {
+        "id": 4056,
+        "name": "Houston FC",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4056.png"
+    },
+    {
+        "id": 4057,
+        "name": "Kaw Valley",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4057.png"
+    },
+    {
+        "id": 4058,
+        "name": "Lakeland Tropics",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4058.png"
+    },
+    {
+        "id": 4059,
+        "name": "Lane United",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4059.png"
+    },
+    {
+        "id": 4060,
+        "name": "Lehigh Valley United",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4060.png"
+    },
+    {
+        "id": 4061,
+        "name": "Lionsbridge",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4061.png"
+    },
+    {
+        "id": 4062,
+        "name": "Long Island Rough Riders",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4062.png"
+    },
+    {
+        "id": 4063,
+        "name": "Manhattan",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4063.png"
+    },
+    {
+        "id": 4064,
+        "name": "Mississippi Brilla",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4064.png"
+    },
+    {
+        "id": 4065,
+        "name": "New York RB III",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4065.png"
+    },
+    {
+        "id": 4066,
+        "name": "North Carolina Fusion",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4066.png"
+    },
+    {
+        "id": 4067,
+        "name": "North Carolina II",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4067.png"
+    },
+    {
+        "id": 4068,
+        "name": "Ocean City Nor'easters",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4068.png"
+    },
+    {
+        "id": 4069,
+        "name": "Ogden City",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4069.png"
+    },
+    {
+        "id": 4070,
+        "name": "Orange County SC II",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4070.png"
+    },
+    {
+        "id": 4071,
+        "name": "Park City Red Wolves",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4071.png"
+    },
+    {
+        "id": 4072,
+        "name": "Peachtree City",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4072.png"
+    },
+    {
+        "id": 4073,
+        "name": "Portland Phoenix",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4073.png"
+    },
+    {
+        "id": 4074,
+        "name": "Portland Timbers III",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4074.png"
+    },
+    {
+        "id": 4075,
+        "name": "Reading United",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4075.png"
+    },
+    {
+        "id": 4076,
+        "name": "SC United Bantams",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4076.png"
+    },
+    {
+        "id": 4077,
+        "name": "SF Glens",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4077.png"
+    },
+    {
+        "id": 4078,
+        "name": "San Diego Zest",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4078.png"
+    },
+    {
+        "id": 4079,
+        "name": "San Francisco City",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4079.png"
+    },
+    {
+        "id": 4080,
+        "name": "Santa Cruz Breakers",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4080.png"
+    },
+    {
+        "id": 4081,
+        "name": "Sarasota Metropolis",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4081.png"
+    },
+    {
+        "id": 4082,
+        "name": "Seacoast United Phantoms",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4082.png"
+    },
+    {
+        "id": 4083,
+        "name": "Seahorses",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4083.png"
+    },
+    {
+        "id": 4084,
+        "name": "Seattle Sounders III",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4084.png"
+    },
+    {
+        "id": 4086,
+        "name": "Texas United",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4086.png"
+    },
+    {
+        "id": 4087,
+        "name": "The Villages",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4087.png"
+    },
+    {
+        "id": 4089,
+        "name": "Tobacco Road",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4089.png"
+    },
+    {
+        "id": 4090,
+        "name": "Tormenta II",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4090.png"
+    },
+    {
+        "id": 4091,
+        "name": "Treasure Coast Tritons",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4091.png"
+    },
+    {
+        "id": 4092,
+        "name": "Tri-Cities",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4092.png"
+    },
+    {
+        "id": 4093,
+        "name": "Ventura County Fusion",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4093.png"
+    },
+    {
+        "id": 4095,
+        "name": "Virginia Beach United",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4095.png"
+    },
+    {
+        "id": 4096,
+        "name": "WSA Winnipeg",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4096.png"
+    },
+    {
+        "id": 4097,
+        "name": "Wake",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4097.png"
+    },
+    {
+        "id": 4098,
+        "name": "West Virginia Alliance",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4098.png"
+    },
+    {
+        "id": 4099,
+        "name": "Westchester Flames",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4099.png"
+    },
+    {
+        "id": 4100,
+        "name": "Western Mass Pioneers",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4100.png"
+    },
+    {
+        "id": 4101,
+        "name": "Weston",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4101.png"
+    },
+    {
+        "id": 4102,
+        "name": "Colorado Rapids II",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4102.png"
+    },
+    {
+        "id": 4103,
+        "name": "Lansing United",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4103.png"
+    },
+    {
+        "id": 4104,
+        "name": "Myrtle Beach Mutiny",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4104.png"
+    },
+    {
+        "id": 4105,
+        "name": "Next Academy",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4105.png"
+    },
+    {
+        "id": 4106,
+        "name": "OKC Energy II",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4106.png"
+    },
+    {
+        "id": 4107,
+        "name": "SIMA \u00c1guilas",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4107.png"
+    },
+    {
+        "id": 4108,
+        "name": "Tormenta",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4108.png"
+    },
+    {
+        "id": 4109,
+        "name": "Tucson",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/4109.png"
+    },
+    {
+        "id": 7973,
+        "name": "Be\u015fikta\u015f U19",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/7973.png"
+    },
+    {
+        "id": 8203,
+        "name": "Kosovo U21",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/8203.png"
+    },
+    {
+        "id": 9013,
+        "name": "Ann Arbor",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9013.png"
+    },
+    {
+        "id": 9014,
+        "name": "Bavarian",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9014.png"
+    },
+    {
+        "id": 9015,
+        "name": "Cal",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9015.png"
+    },
+    {
+        "id": 9016,
+        "name": "Chattanooga Red Wolves",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9016.png"
+    },
+    {
+        "id": 9017,
+        "name": "Denver",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9017.png"
+    },
+    {
+        "id": 9018,
+        "name": "Duluth",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9018.png"
+    },
+    {
+        "id": 9019,
+        "name": "El Farolito",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9019.png"
+    },
+    {
+        "id": 9020,
+        "name": "Erie Commodores",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9020.png"
+    },
+    {
+        "id": 9021,
+        "name": "FC Baltimore",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9021.png"
+    },
+    {
+        "id": 9022,
+        "name": "FC Motown",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9022.png"
+    },
+    {
+        "id": 9023,
+        "name": "FCM Portland",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9023.png"
+    },
+    {
+        "id": 9024,
+        "name": "Florida Soccer Soldiers",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9024.png"
+    },
+    {
+        "id": 9025,
+        "name": "Forward Madison",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9025.png"
+    },
+    {
+        "id": 9026,
+        "name": "Greenville Triumph",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9026.png"
+    },
+    {
+        "id": 9027,
+        "name": "Lansing Ignite",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9027.png"
+    },
+    {
+        "id": 9028,
+        "name": "Laredo Heat",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9028.png"
+    },
+    {
+        "id": 9029,
+        "name": "Little Rock Rangers",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9029.png"
+    },
+    {
+        "id": 9030,
+        "name": "Miami FC",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9030.png"
+    },
+    {
+        "id": 9031,
+        "name": "Midland-Odessa",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9031.png"
+    },
+    {
+        "id": 9032,
+        "name": "NTX Rayados",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9032.png"
+    },
+    {
+        "id": 9033,
+        "name": "NY Cosmos",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9033.png"
+    },
+    {
+        "id": 9034,
+        "name": "Orange County FC",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9034.png"
+    },
+    {
+        "id": 9035,
+        "name": "Philadelphia Lone Star",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9035.png"
+    },
+    {
+        "id": 9037,
+        "name": "West Chester United",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9037.png"
+    },
+    {
+        "id": 9038,
+        "name": "Aguiluchos",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9038.png"
+    },
+    {
+        "id": 9039,
+        "name": "Azteca",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9039.png"
+    },
+    {
+        "id": 9040,
+        "name": "Brooklyn Italians",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9040.png"
+    },
+    {
+        "id": 9041,
+        "name": "Christos",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9041.png"
+    },
+    {
+        "id": 9042,
+        "name": "Dakota Fusion",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9042.png"
+    },
+    {
+        "id": 9043,
+        "name": "Detroit City",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9043.png"
+    },
+    {
+        "id": 9044,
+        "name": "Elm City Express",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9044.png"
+    },
+    {
+        "id": 9045,
+        "name": "FC Arizona",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9045.png"
+    },
+    {
+        "id": 9046,
+        "name": "FC Kendall",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9046.png"
+    },
+    {
+        "id": 9047,
+        "name": "Fort Worth Vaqueros",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9047.png"
+    },
+    {
+        "id": 9048,
+        "name": "Inter Nashville",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9048.png"
+    },
+    {
+        "id": 9049,
+        "name": "Jacksonville Armada",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9049.png"
+    },
+    {
+        "id": 9050,
+        "name": "Kendall Wanderers",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9050.png"
+    },
+    {
+        "id": 9051,
+        "name": "Kingston Stockade",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9051.png"
+    },
+    {
+        "id": 9052,
+        "name": "Kitsap Pumas",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9052.png"
+    },
+    {
+        "id": 9053,
+        "name": "LA Wolves",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9053.png"
+    },
+    {
+        "id": 9054,
+        "name": "La Maquina",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9054.png"
+    },
+    {
+        "id": 9055,
+        "name": "Lansdowne Bhoys",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9055.png"
+    },
+    {
+        "id": 9056,
+        "name": "Miami FC 2",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9056.png"
+    },
+    {
+        "id": 9057,
+        "name": "Miami United",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9057.png"
+    },
+    {
+        "id": 9058,
+        "name": "NY Cosmos B",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9058.png"
+    },
+    {
+        "id": 9059,
+        "name": "New Orleans Jesters",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9059.png"
+    },
+    {
+        "id": 9060,
+        "name": "Red Force",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9060.png"
+    },
+    {
+        "id": 9061,
+        "name": "Rochester Lancers",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9061.png"
+    },
+    {
+        "id": 9062,
+        "name": "Santa Ana Winds",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9062.png"
+    },
+    {
+        "id": 9063,
+        "name": "Sporting Arizona",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9063.png"
+    },
+    {
+        "id": 9064,
+        "name": "Wichita",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9064.png"
+    },
+    {
+        "id": 9065,
+        "name": "AFC Ann Arbor",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9065.png"
+    },
+    {
+        "id": 9066,
+        "name": "AFC Cleveland",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9066.png"
+    },
+    {
+        "id": 9067,
+        "name": "Albion Pros",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9067.png"
+    },
+    {
+        "id": 9068,
+        "name": "Anahuac",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9068.png"
+    },
+    {
+        "id": 9069,
+        "name": "Atlanta Silverbacks",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9069.png"
+    },
+    {
+        "id": 9070,
+        "name": "Boca Raton",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9070.png"
+    },
+    {
+        "id": 9071,
+        "name": "Boston City",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9071.png"
+    },
+    {
+        "id": 9072,
+        "name": "Burlingame Dragons",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9072.png"
+    },
+    {
+        "id": 9073,
+        "name": "Chattanooga",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9073.png"
+    },
+    {
+        "id": 9074,
+        "name": "Chula Vista",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9074.png"
+    },
+    {
+        "id": 9075,
+        "name": "Colorado Rush",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9075.png"
+    },
+    {
+        "id": 9076,
+        "name": "Derby City Rovers",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9076.png"
+    },
+    {
+        "id": 9077,
+        "name": "Fredericksburg",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9077.png"
+    },
+    {
+        "id": 9078,
+        "name": "Fresno Fuego",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9078.png"
+    },
+    {
+        "id": 9079,
+        "name": "GPS Omens",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9079.png"
+    },
+    {
+        "id": 9080,
+        "name": "Grand Rapids",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9080.png"
+    },
+    {
+        "id": 9081,
+        "name": "Houston Dutch Lions",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9081.png"
+    },
+    {
+        "id": 9082,
+        "name": "Jacksonville Armada II",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9082.png"
+    },
+    {
+        "id": 9083,
+        "name": "Miami",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9083.png"
+    },
+    {
+        "id": 9084,
+        "name": "Moreno Valley",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9084.png"
+    },
+    {
+        "id": 9085,
+        "name": "Motown",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9085.png"
+    },
+    {
+        "id": 9086,
+        "name": "New Jersey Copa",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9086.png"
+    },
+    {
+        "id": 9087,
+        "name": "OSA",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9087.png"
+    },
+    {
+        "id": 9088,
+        "name": "Outbreak",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9088.png"
+    },
+    {
+        "id": 9089,
+        "name": "San Francisco Deltas",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9089.png"
+    },
+    {
+        "id": 9090,
+        "name": "Sonoma County Sol",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9090.png"
+    },
+    {
+        "id": 9091,
+        "name": "Tartan Devils",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9091.png"
+    },
+    {
+        "id": 9092,
+        "name": "Tulsa Athletics",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9092.png"
+    },
+    {
+        "id": 9093,
+        "name": "Virginia Legacy",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9093.png"
+    },
+    {
+        "id": 9094,
+        "name": "Aromas Caf\u00e9",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9094.png"
+    },
+    {
+        "id": 9095,
+        "name": "Corinthians FC",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9095.png"
+    },
+    {
+        "id": 9096,
+        "name": "Fort Lauderdale Strikers",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9096.png"
+    },
+    {
+        "id": 9097,
+        "name": "Fredericksburg FC",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9097.png"
+    },
+    {
+        "id": 9098,
+        "name": "Harpo's FC",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9098.png"
+    },
+    {
+        "id": 9099,
+        "name": "Indy Eleven NPSL",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9099.png"
+    },
+    {
+        "id": 9100,
+        "name": "Jersey Express",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9100.png"
+    },
+    {
+        "id": 9101,
+        "name": "Kraze United",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9101.png"
+    },
+    {
+        "id": 9102,
+        "name": "Miami Fusion",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9102.png"
+    },
+    {
+        "id": 9103,
+        "name": "Motagua New Orleans",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9103.png"
+    },
+    {
+        "id": 9104,
+        "name": "NY Pancyprian Freedoms",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9104.png"
+    },
+    {
+        "id": 9105,
+        "name": "Rayo OKC",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9105.png"
+    },
+    {
+        "id": 9106,
+        "name": "Richmond Strikers",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9106.png"
+    },
+    {
+        "id": 9107,
+        "name": "Sacramento Gold",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9107.png"
+    },
+    {
+        "id": 9109,
+        "name": "Southie",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9109.png"
+    },
+    {
+        "id": 9568,
+        "name": "Inter Miami",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9568.png"
+    },
+    {
+        "id": 9569,
+        "name": "Nashville SC",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9569.png"
+    },
+    {
+        "id": 9991,
+        "name": "San Diego Loyal",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/9991.png"
+    },
+    {
+        "id": 10062,
+        "name": "Atlantic City",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/10062.png"
+    },
+    {
+        "id": 10063,
+        "name": "Cleveland SC",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/10063.png"
+    },
+    {
+        "id": 10064,
+        "name": "Crossfire Redmond",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/10064.png"
+    },
+    {
+        "id": 10065,
+        "name": "Davis",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/10065.png"
+    },
+    {
+        "id": 10066,
+        "name": "Denton Diablos",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/10066.png"
+    },
+    {
+        "id": 10067,
+        "name": "Louisiana Krewe",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/10067.png"
+    },
+    {
+        "id": 10068,
+        "name": "Med City",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/10068.png"
+    },
+    {
+        "id": 10069,
+        "name": "Minneapolis City",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/10069.png"
+    },
+    {
+        "id": 10070,
+        "name": "Naples United",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/10070.png"
+    },
+    {
+        "id": 10071,
+        "name": "Nashville United",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/10071.png"
+    },
+    {
+        "id": 10072,
+        "name": "Newtown Pride",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/10072.png"
+    },
+    {
+        "id": 10073,
+        "name": "Olympic Club",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/10073.png"
+    },
+    {
+        "id": 10074,
+        "name": "Vereinigung Erzgebirge",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/10074.png"
+    },
+    {
+        "id": 10094,
+        "name": "Asheville City",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/10094.png"
+    },
+    {
+        "id": 10096,
+        "name": "Charlotte Independence 2",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/10096.png"
+    },
+    {
+        "id": 10097,
+        "name": "East Atlanta",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/10097.png"
+    },
+    {
+        "id": 10098,
+        "name": "Louisville City II",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/10098.png"
+    },
+    {
+        "id": 10100,
+        "name": "Oakland County",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/10100.png"
+    },
+    {
+        "id": 10101,
+        "name": "Peoria",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/10101.png"
+    },
+    {
+        "id": 10102,
+        "name": "South Bend Lions",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/10102.png"
+    },
+    {
+        "id": 10103,
+        "name": "Southern Soccer Academy",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/10103.png"
+    },
+    {
+        "id": 10104,
+        "name": "TFA Willamette",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/10104.png"
+    },
+    {
+        "id": 10105,
+        "name": "Tampa Bay Rowdies II",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/10105.png"
+    },
+    {
+        "id": 10145,
+        "name": "Academica",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/10145.png"
+    },
+    {
+        "id": 10280,
+        "name": "Fort Lauderdale CF",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/10280.png"
+    },
+    {
+        "id": 10281,
+        "name": "New England II",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/10281.png"
+    },
+    {
+        "id": 10282,
+        "name": "North Texas",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/10282.png"
+    },
+    {
+        "id": 10283,
+        "name": "Union Omaha",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/10283.png"
+    },
+    {
+        "id": 10306,
+        "name": "United States U20",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/10306.png"
+    },
+    {
+        "id": 10871,
+        "name": "California Utd Strikers",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/10871.png"
+    },
+    {
+        "id": 10872,
+        "name": "LA Force",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/10872.png"
+    },
+    {
+        "id": 10873,
+        "name": "Michigan Stars",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/10873.png"
+    },
+    {
+        "id": 10874,
+        "name": "Oakland Roots",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/10874.png"
+    },
+    {
+        "id": 10875,
+        "name": "San Diego 1904",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/10875.png"
+    },
+    {
+        "id": 10876,
+        "name": "Stumptown Athletic",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/10876.png"
+    },
+    {
+        "id": 11123,
+        "name": "Atlanta SC",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/11123.png"
+    },
+    {
+        "id": 11124,
+        "name": "Philadelphia Fury",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/11124.png"
+    },
+    {
+        "id": 12522,
+        "name": "United States U17",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/12522.png"
+    },
+    {
+        "id": 13167,
+        "name": "Virginia United",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/13167.png"
+    },
+    {
+        "id": 13173,
+        "name": "Chivas USA",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/13173.png"
+    },
+    {
+        "id": 13174,
+        "name": "Austin Aztex",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/13174.png"
+    },
+    {
+        "id": 13175,
+        "name": "BYU Cougars",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/13175.png"
+    },
+    {
+        "id": 13176,
+        "name": "Binghamton Thunder",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/13176.png"
+    },
+    {
+        "id": 13177,
+        "name": "Fort Pitt Regiment",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/13177.png"
+    },
+    {
+        "id": 13178,
+        "name": "Global Premier Soccer",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/13178.png"
+    },
+    {
+        "id": 13179,
+        "name": "Golden State Misioneros",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/13179.png"
+    },
+    {
+        "id": 13180,
+        "name": "Madison Fire",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/13180.png"
+    },
+    {
+        "id": 13181,
+        "name": "Maryland Bays",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/13181.png"
+    },
+    {
+        "id": 13182,
+        "name": "NY Greek Americans",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/13182.png"
+    },
+    {
+        "id": 13183,
+        "name": "Ocala Stampede",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/13183.png"
+    },
+    {
+        "id": 13184,
+        "name": "PSA Elite",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/13184.png"
+    },
+    {
+        "id": 13185,
+        "name": "RWB Adria",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/13185.png"
+    },
+    {
+        "id": 13186,
+        "name": "SW Florida Adrenaline",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/13186.png"
+    },
+    {
+        "id": 13187,
+        "name": "Saint Louis FC",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/13187.png"
+    },
+    {
+        "id": 13188,
+        "name": "San Antonio Scorpions",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/13188.png"
+    },
+    {
+        "id": 13189,
+        "name": "Tacoma 253",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/13189.png"
+    },
+    {
+        "id": 13190,
+        "name": "Triangle Brigade",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/13190.png"
+    },
+    {
+        "id": 13191,
+        "name": "Upward Stars",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/13191.png"
+    },
+    {
+        "id": 13192,
+        "name": "Virginia Beach City",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/13192.png"
+    },
+    {
+        "id": 13193,
+        "name": "Baltimore Bohemians",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/13193.png"
+    },
+    {
+        "id": 13194,
+        "name": "Beach Pirates",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/13194.png"
+    },
+    {
+        "id": 13195,
+        "name": "Colorado Rovers",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/13195.png"
+    },
+    {
+        "id": 13196,
+        "name": "Corinthians USA",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/13196.png"
+    },
+    {
+        "id": 13197,
+        "name": "Icon",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/13197.png"
+    },
+    {
+        "id": 13198,
+        "name": "Mass Premier Soccer",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/13198.png"
+    },
+    {
+        "id": 13199,
+        "name": "New York RB U23",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/13199.png"
+    },
+    {
+        "id": 13200,
+        "name": "Real Colorado Foxes",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/13200.png"
+    },
+    {
+        "id": 13201,
+        "name": "San Diego Flash",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/13201.png"
+    },
+    {
+        "id": 13202,
+        "name": "Schwaben",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/13202.png"
+    },
+    {
+        "id": 13203,
+        "name": "Vermont Voltage",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/13203.png"
+    },
+    {
+        "id": 13204,
+        "name": "Dearborn Stars",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/13204.png"
+    },
+    {
+        "id": 13205,
+        "name": "Doxa Italia",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/13205.png"
+    },
+    {
+        "id": 13206,
+        "name": "Georgia Revolution",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/13206.png"
+    },
+    {
+        "id": 13207,
+        "name": "Hasental",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/13207.png"
+    },
+    {
+        "id": 13208,
+        "name": "Madison 56ers",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/13208.png"
+    },
+    {
+        "id": 13209,
+        "name": "Phoenix",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/13209.png"
+    },
+    {
+        "id": 13210,
+        "name": "Sonic",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/13210.png"
+    },
+    {
+        "id": 13211,
+        "name": "VSI Tampa Bay",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/13211.png"
+    },
+    {
+        "id": 13212,
+        "name": "ASC New Stars",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/13212.png"
+    },
+    {
+        "id": 13213,
+        "name": "Aegean Hawks",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/13213.png"
+    },
+    {
+        "id": 13214,
+        "name": "Croatian Eagles",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/13214.png"
+    },
+    {
+        "id": 13215,
+        "name": "El Paso Patriots",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/13215.png"
+    },
+    {
+        "id": 13216,
+        "name": "Fullerton Rangers",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/13216.png"
+    },
+    {
+        "id": 13217,
+        "name": "Jersey Shore Boca",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/13217.png"
+    },
+    {
+        "id": 13218,
+        "name": "Kansas City Athletics",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/13218.png"
+    },
+    {
+        "id": 13219,
+        "name": "Stanislaus United Turlock Express",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/13219.png"
+    },
+    {
+        "id": 13220,
+        "name": "Toronto FC II",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/13220.png"
+    },
+    {
+        "id": 14268,
+        "name": "New Amsterdam",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/14268.png"
+    },
+    {
+        "id": 14388,
+        "name": "Sveikata",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/14388.png"
+    },
+    {
+        "id": 16487,
+        "name": "Kansas City W",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/16487.png"
+    },
+    {
+        "id": 16488,
+        "name": "Racing Louisville W",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/16488.png"
+    },
+    {
+        "id": 16489,
+        "name": "Austin",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/16489.png"
+    },
+    {
+        "id": 16501,
+        "name": "Maryland Bobcats",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/16501.png"
+    },
+    {
+        "id": 16678,
+        "name": "FC Florida II",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/16678.png"
+    },
+    {
+        "id": 16679,
+        "name": "Fort Wayne",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/16679.png"
+    },
+    {
+        "id": 16680,
+        "name": "Kalamazoo FC",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/16680.png"
+    },
+    {
+        "id": 16681,
+        "name": "Kings Hammer",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/16681.png"
+    },
+    {
+        "id": 16682,
+        "name": "Morris Elite",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/16682.png"
+    },
+    {
+        "id": 16684,
+        "name": "OVF Alliance",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/16684.png"
+    },
+    {
+        "id": 16685,
+        "name": "PDX",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/16685.png"
+    },
+    {
+        "id": 16686,
+        "name": "Real Central New Jersey",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/16686.png"
+    },
+    {
+        "id": 16687,
+        "name": "Round Rock",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/16687.png"
+    },
+    {
+        "id": 16688,
+        "name": "St. Louis SG",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/16688.png"
+    },
+    {
+        "id": 16689,
+        "name": "Tampa Bay United",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/16689.png"
+    },
+    {
+        "id": 16690,
+        "name": "Toledo Villa",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/16690.png"
+    },
+    {
+        "id": 16728,
+        "name": "Lone Star II",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/16728.png"
+    },
+    {
+        "id": 17019,
+        "name": "Buffalo",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/17019.png"
+    },
+    {
+        "id": 17026,
+        "name": "Contra Costa",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/17026.png"
+    },
+    {
+        "id": 17071,
+        "name": "Napa Valley 1839",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/17071.png"
+    },
+    {
+        "id": 17073,
+        "name": "North Alabama",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/17073.png"
+    },
+    {
+        "id": 17074,
+        "name": "Oakland Stompers",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/17074.png"
+    },
+    {
+        "id": 17375,
+        "name": "Chicago House",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/17375.png"
+    },
+    {
+        "id": 17664,
+        "name": "Liga MX All-Stars",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/17664.png"
+    },
+    {
+        "id": 17665,
+        "name": "MLS All-Stars",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/17665.png"
+    },
+    {
+        "id": 17883,
+        "name": "United States U23",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/17883.png"
+    },
+    {
+        "id": 18310,
+        "name": "Charlotte",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/18310.png"
+    },
+    {
+        "id": 18357,
+        "name": "Central Valley Fuego",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/18357.png"
+    },
+    {
+        "id": 18358,
+        "name": "Northern Colorado",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/18358.png"
+    },
+    {
+        "id": 18375,
+        "name": "Monterey Bay",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/18375.png"
+    },
+    {
+        "id": 18450,
+        "name": "Angel City W",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/18450.png"
+    },
+    {
+        "id": 18451,
+        "name": "San Diego Wave W",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/18451.png"
+    },
+    {
+        "id": 18452,
+        "name": "Brockton",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/18452.png"
+    },
+    {
+        "id": 18453,
+        "name": "City Soccer",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/18453.png"
+    },
+    {
+        "id": 18454,
+        "name": "D'Feeters Kicks",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/18454.png"
+    },
+    {
+        "id": 18455,
+        "name": "Escondido",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/18455.png"
+    },
+    {
+        "id": 18456,
+        "name": "Hartford City",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/18456.png"
+    },
+    {
+        "id": 18457,
+        "name": "Las Vegas Legends FC",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/18457.png"
+    },
+    {
+        "id": 18458,
+        "name": "Lynchburg",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/18458.png"
+    },
+    {
+        "id": 18459,
+        "name": "Orlando FC Wolves",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/18459.png"
+    },
+    {
+        "id": 18460,
+        "name": "Oyster Bay United",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/18460.png"
+    },
+    {
+        "id": 18461,
+        "name": "San Fernando Valley",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/18461.png"
+    },
+    {
+        "id": 18462,
+        "name": "South Carolina United",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/18462.png"
+    },
+    {
+        "id": 18463,
+        "name": "Southern States",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/18463.png"
+    },
+    {
+        "id": 18469,
+        "name": "Bay Cities",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/18469.png"
+    },
+    {
+        "id": 18470,
+        "name": "Flower City Union",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/18470.png"
+    },
+    {
+        "id": 18471,
+        "name": "Syracuse Pulse",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/18471.png"
+    },
+    {
+        "id": 18472,
+        "name": "Valley United",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/18472.png"
+    },
+    {
+        "id": 18740,
+        "name": "St. Louis City II",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/18740.png"
+    },
+    {
+        "id": 18811,
+        "name": "Columbus Crew II",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/18811.png"
+    },
+    {
+        "id": 18812,
+        "name": "FC Cincinnati II",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/18812.png"
+    },
+    {
+        "id": 18813,
+        "name": "Houston Dynamo FC II",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/18813.png"
+    },
+    {
+        "id": 18814,
+        "name": "Minnesota United II",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/18814.png"
+    },
+    {
+        "id": 18815,
+        "name": "New York City II",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/18815.png"
+    },
+    {
+        "id": 18816,
+        "name": "San Jose Earthquakes II",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/18816.png"
+    },
+    {
+        "id": 18882,
+        "name": "Ballard",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/18882.png"
+    },
+    {
+        "id": 18883,
+        "name": "Baton Rouge LA",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/18883.png"
+    },
+    {
+        "id": 18884,
+        "name": "Blackwatch Rush",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/18884.png"
+    },
+    {
+        "id": 18885,
+        "name": "Blue Goose",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/18885.png"
+    },
+    {
+        "id": 18886,
+        "name": "Caledonia",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/18886.png"
+    },
+    {
+        "id": 18887,
+        "name": "Central Valley Fuego II",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/18887.png"
+    },
+    {
+        "id": 18888,
+        "name": "Chicago City",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/18888.png"
+    },
+    {
+        "id": 18889,
+        "name": "Chicago Dutch Lions",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/18889.png"
+    },
+    {
+        "id": 18890,
+        "name": "Cleveland Force",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/18890.png"
+    },
+    {
+        "id": 18891,
+        "name": "Colorado ISA",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/18891.png"
+    },
+    {
+        "id": 18892,
+        "name": "Commonwealth Cardinals",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/18892.png"
+    },
+    {
+        "id": 18893,
+        "name": "Davis Legacy",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/18893.png"
+    },
+    {
+        "id": 18894,
+        "name": "FC Motown II",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/18894.png"
+    },
+    {
+        "id": 18895,
+        "name": "Flatirons Rush",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/18895.png"
+    },
+    {
+        "id": 18896,
+        "name": "Houston Sur",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/18896.png"
+    },
+    {
+        "id": 18897,
+        "name": "Hudson Valley Hammers",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/18897.png"
+    },
+    {
+        "id": 18898,
+        "name": "Lansing City",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/18898.png"
+    },
+    {
+        "id": 18899,
+        "name": "Marin",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/18899.png"
+    },
+    {
+        "id": 18900,
+        "name": "Miami AC",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/18900.png"
+    },
+    {
+        "id": 18901,
+        "name": "Midwest United",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/18901.png"
+    },
+    {
+        "id": 18902,
+        "name": "New Mexico United II",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/18902.png"
+    },
+    {
+        "id": 18903,
+        "name": "Nona",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/18903.png"
+    },
+    {
+        "id": 18904,
+        "name": "Oly Town",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/18904.png"
+    },
+    {
+        "id": 18905,
+        "name": "One Knoxville",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/18905.png"
+    },
+    {
+        "id": 18906,
+        "name": "Pathfinder",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/18906.png"
+    },
+    {
+        "id": 18907,
+        "name": "Patuxent",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/18907.png"
+    },
+    {
+        "id": 18908,
+        "name": "Project 51O",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/18908.png"
+    },
+    {
+        "id": 18909,
+        "name": "Springfield ASC",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/18909.png"
+    },
+    {
+        "id": 18910,
+        "name": "St. Croix",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/18910.png"
+    },
+    {
+        "id": 18911,
+        "name": "Tennessee",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/18911.png"
+    },
+    {
+        "id": 18912,
+        "name": "Vermont Green",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/18912.png"
+    },
+    {
+        "id": 18913,
+        "name": "West Chester United II",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/18913.png"
+    },
+    {
+        "id": 18955,
+        "name": "United States W U17",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/18955.png"
+    },
+    {
+        "id": 19091,
+        "name": "United States U20 W",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/19091.png"
+    },
+    {
+        "id": 20243,
+        "name": "Tren\u010d\u00edn U19",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/20243.png"
+    },
+    {
+        "id": 20787,
+        "name": "St. Louis City",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/20787.png"
+    },
+    {
+        "id": 20808,
+        "name": "Lexington",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/20808.png"
+    },
+    {
+        "id": 20828,
+        "name": "FIU Panthers",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/20828.png"
+    },
+    {
+        "id": 20961,
+        "name": "Appalachian",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/20961.png"
+    },
+    {
+        "id": 20962,
+        "name": "Beaman United",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/20962.png"
+    },
+    {
+        "id": 20963,
+        "name": "Capo",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/20963.png"
+    },
+    {
+        "id": 20964,
+        "name": "Club De Lyon II",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/20964.png"
+    },
+    {
+        "id": 20965,
+        "name": "Inter San Francisco",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/20965.png"
+    },
+    {
+        "id": 20966,
+        "name": "UDA Soccer",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/20966.png"
+    },
+    {
+        "id": 21003,
+        "name": "Club De Lyon",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/21003.png"
+    },
+    {
+        "id": 21004,
+        "name": "Gold Star",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/21004.png"
+    },
+    {
+        "id": 21005,
+        "name": "Savannah Clovers",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/21005.png"
+    },
+    {
+        "id": 21138,
+        "name": "Austin II",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/21138.png"
+    },
+    {
+        "id": 21139,
+        "name": "Crown Legacy",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/21139.png"
+    },
+    {
+        "id": 21140,
+        "name": "Huntsville City",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/21140.png"
+    },
+    {
+        "id": 21141,
+        "name": "Los Angeles II",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/21141.png"
+    },
+    {
+        "id": 21278,
+        "name": "Altitude Rush",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/21278.png"
+    },
+    {
+        "id": 21279,
+        "name": "Arizona Arsenal",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/21279.png"
+    },
+    {
+        "id": 21280,
+        "name": "Boulder County United",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/21280.png"
+    },
+    {
+        "id": 21281,
+        "name": "Brevard",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/21281.png"
+    },
+    {
+        "id": 21282,
+        "name": "Carolinas",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/21282.png"
+    },
+    {
+        "id": 21283,
+        "name": "Ironbound",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/21283.png"
+    },
+    {
+        "id": 21284,
+        "name": "Monterey Bay II",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/21284.png"
+    },
+    {
+        "id": 21285,
+        "name": "Pinellas County",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/21285.png"
+    },
+    {
+        "id": 21286,
+        "name": "RKC",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/21286.png"
+    },
+    {
+        "id": 21287,
+        "name": "Redlands",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/21287.png"
+    },
+    {
+        "id": 21288,
+        "name": "Rochester",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/21288.png"
+    },
+    {
+        "id": 21289,
+        "name": "Sarasota Paradise",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/21289.png"
+    },
+    {
+        "id": 21290,
+        "name": "St. Charles",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/21290.png"
+    },
+    {
+        "id": 21291,
+        "name": "Swan City",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/21291.png"
+    },
+    {
+        "id": 21292,
+        "name": "United PDX",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/21292.png"
+    },
+    {
+        "id": 21293,
+        "name": "Virginia Marauders",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/21293.png"
+    },
+    {
+        "id": 22342,
+        "name": "USA U18",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/22342.png"
+    },
+    {
+        "id": 22593,
+        "name": "USA U17",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/22593.png"
+    },
+    {
+        "id": 22785,
+        "name": "Spokane Velocity",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/22785.png"
+    },
+    {
+        "id": 22855,
+        "name": "Rhode Island",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/22855.png"
+    },
+    {
+        "id": 22943,
+        "name": "Bay FC",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/22943.png"
+    },
+    {
+        "id": 23063,
+        "name": "Carolina Core",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23063.png"
+    },
+    {
+        "id": 23107,
+        "name": "AMSG",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23107.png"
+    },
+    {
+        "id": 23108,
+        "name": "Albion Colorado",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23108.png"
+    },
+    {
+        "id": 23109,
+        "name": "Almaden",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23109.png"
+    },
+    {
+        "id": 23110,
+        "name": "Athens United",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23110.png"
+    },
+    {
+        "id": 23111,
+        "name": "Birmingham Legion II",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23111.png"
+    },
+    {
+        "id": 23112,
+        "name": "Brooke House",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23112.png"
+    },
+    {
+        "id": 23113,
+        "name": "Capo II",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23113.png"
+    },
+    {
+        "id": 23114,
+        "name": "Charlottesville Blues",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23114.png"
+    },
+    {
+        "id": 23115,
+        "name": "Coachella",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23115.png"
+    },
+    {
+        "id": 23116,
+        "name": "Dothan United",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23116.png"
+    },
+    {
+        "id": 23117,
+        "name": "Hattiesburg",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23117.png"
+    },
+    {
+        "id": 23118,
+        "name": "Hill Country Lobos",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23118.png"
+    },
+    {
+        "id": 23119,
+        "name": "Inter Gainesville",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23119.png"
+    },
+    {
+        "id": 23120,
+        "name": "Midlakes United",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23120.png"
+    },
+    {
+        "id": 23121,
+        "name": "River Light",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23121.png"
+    },
+    {
+        "id": 23122,
+        "name": "Staten Island Athletic",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23122.png"
+    },
+    {
+        "id": 23123,
+        "name": "Sueno",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23123.png"
+    },
+    {
+        "id": 23124,
+        "name": "Tacoma Stars",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23124.png"
+    },
+    {
+        "id": 23125,
+        "name": "Union Macomb",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23125.png"
+    },
+    {
+        "id": 23126,
+        "name": "Utah Avalanche",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23126.png"
+    },
+    {
+        "id": 23127,
+        "name": "Utah United",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23127.png"
+    },
+    {
+        "id": 23128,
+        "name": "West Seattle Junction",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23128.png"
+    },
+    {
+        "id": 23215,
+        "name": "America CFL Spurs",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23215.png"
+    },
+    {
+        "id": 23216,
+        "name": "Apotheos",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23216.png"
+    },
+    {
+        "id": 23217,
+        "name": "Arizona Monsoon",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23217.png"
+    },
+    {
+        "id": 23218,
+        "name": "Folsom",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23218.png"
+    },
+    {
+        "id": 23219,
+        "name": "Foro",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23219.png"
+    },
+    {
+        "id": 23220,
+        "name": "Frenzi",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23220.png"
+    },
+    {
+        "id": 23221,
+        "name": "Georgia Lions",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23221.png"
+    },
+    {
+        "id": 23222,
+        "name": "Irvine Zeta",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23222.png"
+    },
+    {
+        "id": 23223,
+        "name": "Irvine Zeta II",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23223.png"
+    },
+    {
+        "id": 23224,
+        "name": "Lubbock Matadors",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23224.png"
+    },
+    {
+        "id": 23225,
+        "name": "MesoAmerica",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23225.png"
+    },
+    {
+        "id": 23226,
+        "name": "SC United Heat",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23226.png"
+    },
+    {
+        "id": 23227,
+        "name": "Steel City",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23227.png"
+    },
+    {
+        "id": 23747,
+        "name": "865 Alliance",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23747.png"
+    },
+    {
+        "id": 23748,
+        "name": "AGC",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23748.png"
+    },
+    {
+        "id": 23749,
+        "name": "Albion San Diego",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23749.png"
+    },
+    {
+        "id": 23750,
+        "name": "Alexandria Reds",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23750.png"
+    },
+    {
+        "id": 23751,
+        "name": "Ambassadors Cleveland",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23751.png"
+    },
+    {
+        "id": 23752,
+        "name": "Arlington VA",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23752.png"
+    },
+    {
+        "id": 23753,
+        "name": "Atlanta Fire",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23753.png"
+    },
+    {
+        "id": 23754,
+        "name": "Austin Rise",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23754.png"
+    },
+    {
+        "id": 23755,
+        "name": "BC United NY",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23755.png"
+    },
+    {
+        "id": 23756,
+        "name": "Beach",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23756.png"
+    },
+    {
+        "id": 23757,
+        "name": "Beadling",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23757.png"
+    },
+    {
+        "id": 23758,
+        "name": "Brooklyn City",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23758.png"
+    },
+    {
+        "id": 23759,
+        "name": "Broomfield Burn",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23759.png"
+    },
+    {
+        "id": 23760,
+        "name": "California Storm",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23760.png"
+    },
+    {
+        "id": 23761,
+        "name": "Cape Coral Cyclones",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23761.png"
+    },
+    {
+        "id": 23762,
+        "name": "Chicago KICS",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23762.png"
+    },
+    {
+        "id": 23763,
+        "name": "Clarkstown",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23763.png"
+    },
+    {
+        "id": 23764,
+        "name": "Classics Elite",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23764.png"
+    },
+    {
+        "id": 23765,
+        "name": "Cleveland Ambassadors",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23765.png"
+    },
+    {
+        "id": 23766,
+        "name": "Colorado Blizzard",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23766.png"
+    },
+    {
+        "id": 23767,
+        "name": "Colorado Pride",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23767.png"
+    },
+    {
+        "id": 23768,
+        "name": "Columbus Eagles",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23768.png"
+    },
+    {
+        "id": 23769,
+        "name": "Corktown",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23769.png"
+    },
+    {
+        "id": 23770,
+        "name": "Dade County",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23770.png"
+    },
+    {
+        "id": 23771,
+        "name": "Dayton",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23771.png"
+    },
+    {
+        "id": 23772,
+        "name": "Decatur",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23772.png"
+    },
+    {
+        "id": 23773,
+        "name": "Delaware Ospreys",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23773.png"
+    },
+    {
+        "id": 23774,
+        "name": "Downtown United",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23774.png"
+    },
+    {
+        "id": 23775,
+        "name": "El Paso Surf",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23775.png"
+    },
+    {
+        "id": 23776,
+        "name": "Erie",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23776.png"
+    },
+    {
+        "id": 23777,
+        "name": "FC Birmingham",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23777.png"
+    },
+    {
+        "id": 23778,
+        "name": "FC Premier Women",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23778.png"
+    },
+    {
+        "id": 23779,
+        "name": "FC Pride",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23779.png"
+    },
+    {
+        "id": 23780,
+        "name": "Fever",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23780.png"
+    },
+    {
+        "id": 23781,
+        "name": "Force New York",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23781.png"
+    },
+    {
+        "id": 23782,
+        "name": "Fresno Freeze",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23782.png"
+    },
+    {
+        "id": 23783,
+        "name": "Futbolera Select",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23783.png"
+    },
+    {
+        "id": 23784,
+        "name": "Georgia Impact",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23784.png"
+    },
+    {
+        "id": 23785,
+        "name": "Greater Toledo",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23785.png"
+    },
+    {
+        "id": 23786,
+        "name": "Green Bay Glory",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23786.png"
+    },
+    {
+        "id": 23787,
+        "name": "Griffins",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23787.png"
+    },
+    {
+        "id": 23788,
+        "name": "Gulf Coast Dutch Lions",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23788.png"
+    },
+    {
+        "id": 23789,
+        "name": "HEX Tempest",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23789.png"
+    },
+    {
+        "id": 23790,
+        "name": "Hershey",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23790.png"
+    },
+    {
+        "id": 23791,
+        "name": "Houston Aces",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23791.png"
+    },
+    {
+        "id": 23792,
+        "name": "Indios Denver",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23792.png"
+    },
+    {
+        "id": 23793,
+        "name": "Iron Rose",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23793.png"
+    },
+    {
+        "id": 23794,
+        "name": "Joy",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23794.png"
+    },
+    {
+        "id": 23795,
+        "name": "Junction",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23795.png"
+    },
+    {
+        "id": 23796,
+        "name": "KC Courage",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23796.png"
+    },
+    {
+        "id": 23797,
+        "name": "Kansas City SG",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23797.png"
+    },
+    {
+        "id": 23798,
+        "name": "Keystone",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23798.png"
+    },
+    {
+        "id": 23799,
+        "name": "LA Surf",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23799.png"
+    },
+    {
+        "id": 23800,
+        "name": "LVU Rush",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23800.png"
+    },
+    {
+        "id": 23801,
+        "name": "La Roca",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23801.png"
+    },
+    {
+        "id": 23802,
+        "name": "Lamorinda United",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23802.png"
+    },
+    {
+        "id": 23803,
+        "name": "Lou Fusz Athletic",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23803.png"
+    },
+    {
+        "id": 23804,
+        "name": "Manitou",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23804.png"
+    },
+    {
+        "id": 23805,
+        "name": "Mankato",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23805.png"
+    },
+    {
+        "id": 23806,
+        "name": "Maplebrook Fury",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23806.png"
+    },
+    {
+        "id": 23807,
+        "name": "McLean",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23807.png"
+    },
+    {
+        "id": 23808,
+        "name": "Merrimack Valley Hawks",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23808.png"
+    },
+    {
+        "id": 23809,
+        "name": "Milwaukee Torrent",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23809.png"
+    },
+    {
+        "id": 23810,
+        "name": "Minnesota Thunder",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23810.png"
+    },
+    {
+        "id": 23811,
+        "name": "Miss Kick",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23811.png"
+    },
+    {
+        "id": 23812,
+        "name": "Missouri Reign",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23812.png"
+    },
+    {
+        "id": 23813,
+        "name": "NJ Wizards",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23813.png"
+    },
+    {
+        "id": 23814,
+        "name": "Nashville Rhythm",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23814.png"
+    },
+    {
+        "id": 23815,
+        "name": "Nashville Wolves",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23815.png"
+    },
+    {
+        "id": 23816,
+        "name": "Neuse River",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23816.png"
+    },
+    {
+        "id": 23817,
+        "name": "Nevada",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23817.png"
+    },
+    {
+        "id": 23818,
+        "name": "New York Athletic",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23818.png"
+    },
+    {
+        "id": 23819,
+        "name": "New York Dutch Lions",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23819.png"
+    },
+    {
+        "id": 23820,
+        "name": "New York Shockers",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23820.png"
+    },
+    {
+        "id": 23821,
+        "name": "Niagara 1812",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23821.png"
+    },
+    {
+        "id": 23822,
+        "name": "North Port Fusion",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23822.png"
+    },
+    {
+        "id": 23823,
+        "name": "Northern Utah United",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23823.png"
+    },
+    {
+        "id": 23824,
+        "name": "Oklahoma City",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23824.png"
+    },
+    {
+        "id": 23825,
+        "name": "PA Classics",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23825.png"
+    },
+    {
+        "id": 23826,
+        "name": "PSD Academy",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23826.png"
+    },
+    {
+        "id": 23827,
+        "name": "Penn Fusion SA",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23827.png"
+    },
+    {
+        "id": 23828,
+        "name": "Philadelphia Ukrainians",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23828.png"
+    },
+    {
+        "id": 23829,
+        "name": "Port City NC",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23829.png"
+    },
+    {
+        "id": 23830,
+        "name": "Portland Thorns II",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23830.png"
+    },
+    {
+        "id": 23831,
+        "name": "Prime",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23831.png"
+    },
+    {
+        "id": 23832,
+        "name": "Quad Cities Rush",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23832.png"
+    },
+    {
+        "id": 23833,
+        "name": "RSL Southern Arizona",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23833.png"
+    },
+    {
+        "id": 23834,
+        "name": "Real Central NJ",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23834.png"
+    },
+    {
+        "id": 23835,
+        "name": "Rebels Chula Vista",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23835.png"
+    },
+    {
+        "id": 23836,
+        "name": "Rebels Empire",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23836.png"
+    },
+    {
+        "id": 23837,
+        "name": "Rhode Island Rogues",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23837.png"
+    },
+    {
+        "id": 23838,
+        "name": "Rochester New York",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23838.png"
+    },
+    {
+        "id": 23839,
+        "name": "Royals AZ",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23839.png"
+    },
+    {
+        "id": 23840,
+        "name": "SC del Sol",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23840.png"
+    },
+    {
+        "id": 23841,
+        "name": "SJEB",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23841.png"
+    },
+    {
+        "id": 23842,
+        "name": "STA",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23842.png"
+    },
+    {
+        "id": 23843,
+        "name": "Salvo",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23843.png"
+    },
+    {
+        "id": 23844,
+        "name": "San Antonio Runners",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23844.png"
+    },
+    {
+        "id": 23845,
+        "name": "San Diego Parceiro",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23845.png"
+    },
+    {
+        "id": 23846,
+        "name": "San Diego Strikers",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23846.png"
+    },
+    {
+        "id": 23847,
+        "name": "San Diego Surf",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23847.png"
+    },
+    {
+        "id": 23848,
+        "name": "San Francisco Elite",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23848.png"
+    },
+    {
+        "id": 23849,
+        "name": "San Francisco Nighthawks",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23849.png"
+    },
+    {
+        "id": 23850,
+        "name": "San Ramon",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23850.png"
+    },
+    {
+        "id": 23851,
+        "name": "Seattle Reign II",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23851.png"
+    },
+    {
+        "id": 23852,
+        "name": "Seminole Ice",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23852.png"
+    },
+    {
+        "id": 23853,
+        "name": "Side FC 92",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23853.png"
+    },
+    {
+        "id": 23854,
+        "name": "Sioux Falls City",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23854.png"
+    },
+    {
+        "id": 23855,
+        "name": "So Cal Eagles",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23855.png"
+    },
+    {
+        "id": 23856,
+        "name": "So Cal Union",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23856.png"
+    },
+    {
+        "id": 23857,
+        "name": "SoCal Dutch Lions",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23857.png"
+    },
+    {
+        "id": 23858,
+        "name": "SouthStar",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23858.png"
+    },
+    {
+        "id": 23859,
+        "name": "Spirit",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23859.png"
+    },
+    {
+        "id": 23860,
+        "name": "Spokane SC Shadow",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23860.png"
+    },
+    {
+        "id": 23861,
+        "name": "St. Croix Legacy",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23861.png"
+    },
+    {
+        "id": 23862,
+        "name": "Sunflower State",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23862.png"
+    },
+    {
+        "id": 23863,
+        "name": "Trinity Fire",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23863.png"
+    },
+    {
+        "id": 23864,
+        "name": "UFA Gunners",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23864.png"
+    },
+    {
+        "id": 23865,
+        "name": "UK FC",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23865.png"
+    },
+    {
+        "id": 23866,
+        "name": "Utah Red Devils",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23866.png"
+    },
+    {
+        "id": 23867,
+        "name": "Utah Surf",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23867.png"
+    },
+    {
+        "id": 23868,
+        "name": "Vancouver Victory",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23868.png"
+    },
+    {
+        "id": 23869,
+        "name": "WFC Charlotte",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23869.png"
+    },
+    {
+        "id": 23870,
+        "name": "Washington Dutch Lions",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23870.png"
+    },
+    {
+        "id": 23871,
+        "name": "West Florida Flames",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23871.png"
+    },
+    {
+        "id": 23872,
+        "name": "West-Mont United",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23872.png"
+    },
+    {
+        "id": 23873,
+        "name": "Westside Metros",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23873.png"
+    },
+    {
+        "id": 23874,
+        "name": "Arizona Arsenal W",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23874.png"
+    },
+    {
+        "id": 23875,
+        "name": "Charlotte Eagles W",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23875.png"
+    },
+    {
+        "id": 23876,
+        "name": "Chattanooga W",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23876.png"
+    },
+    {
+        "id": 23877,
+        "name": "Chicago House W",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23877.png"
+    },
+    {
+        "id": 23878,
+        "name": "Dakota Fusion W",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23878.png"
+    },
+    {
+        "id": 23879,
+        "name": "Davis W",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23879.png"
+    },
+    {
+        "id": 23880,
+        "name": "Dayton Dutch Lions W",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23880.png"
+    },
+    {
+        "id": 23881,
+        "name": "Jacksonville Armada W",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23881.png"
+    },
+    {
+        "id": 23882,
+        "name": "Napa Valley 1839 W",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23882.png"
+    },
+    {
+        "id": 23883,
+        "name": "Reading United W",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23883.png"
+    },
+    {
+        "id": 23884,
+        "name": "Rochester United W",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23884.png"
+    },
+    {
+        "id": 23885,
+        "name": "SUSA W",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23885.png"
+    },
+    {
+        "id": 23886,
+        "name": "Tucson W",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23886.png"
+    },
+    {
+        "id": 23887,
+        "name": "Utah Avalanche W",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23887.png"
+    },
+    {
+        "id": 23888,
+        "name": "Wichita W",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23888.png"
+    },
+    {
+        "id": 23889,
+        "name": "AHFC Royals II",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23889.png"
+    },
+    {
+        "id": 23890,
+        "name": "Academica SC",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23890.png"
+    },
+    {
+        "id": 23891,
+        "name": "Bavarian United",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23891.png"
+    },
+    {
+        "id": 23892,
+        "name": "Brevard Riptide",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23892.png"
+    },
+    {
+        "id": 23893,
+        "name": "California Storm II",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23893.png"
+    },
+    {
+        "id": 23894,
+        "name": "Carolina",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23894.png"
+    },
+    {
+        "id": 23895,
+        "name": "Cedar Stars",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23895.png"
+    },
+    {
+        "id": 23896,
+        "name": "Challenge",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23896.png"
+    },
+    {
+        "id": 23897,
+        "name": "Charlotte Eagles II",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23897.png"
+    },
+    {
+        "id": 23898,
+        "name": "Colorado Storm",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23898.png"
+    },
+    {
+        "id": 23899,
+        "name": "Eagle FC",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23899.png"
+    },
+    {
+        "id": 23900,
+        "name": "Fayetteville Fury",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23900.png"
+    },
+    {
+        "id": 23901,
+        "name": "Flatirons II",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23901.png"
+    },
+    {
+        "id": 23902,
+        "name": "Flint City",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23902.png"
+    },
+    {
+        "id": 23903,
+        "name": "Florida Elite SA",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23903.png"
+    },
+    {
+        "id": 23904,
+        "name": "Greenville Liberty",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23904.png"
+    },
+    {
+        "id": 23905,
+        "name": "Lancaster Inferno II",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23905.png"
+    },
+    {
+        "id": 23906,
+        "name": "Lexington II",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23906.png"
+    },
+    {
+        "id": 23907,
+        "name": "Lonestar II",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23907.png"
+    },
+    {
+        "id": 23908,
+        "name": "Marin FC Siren",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23908.png"
+    },
+    {
+        "id": 23909,
+        "name": "Michiana",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23909.png"
+    },
+    {
+        "id": 23910,
+        "name": "Minnesota Aurora",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23910.png"
+    },
+    {
+        "id": 23911,
+        "name": "NC Courage II",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23911.png"
+    },
+    {
+        "id": 23912,
+        "name": "NoCo Rain",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23912.png"
+    },
+    {
+        "id": 23913,
+        "name": "Northern Virginia FC",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23913.png"
+    },
+    {
+        "id": 23914,
+        "name": "Oakland Soul",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23914.png"
+    },
+    {
+        "id": 23915,
+        "name": "Olympia",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23915.png"
+    },
+    {
+        "id": 23916,
+        "name": "Paisley Athletic",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23916.png"
+    },
+    {
+        "id": 23917,
+        "name": "Palm City Americanas",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23917.png"
+    },
+    {
+        "id": 23918,
+        "name": "Pleasanton Rage",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23918.png"
+    },
+    {
+        "id": 23919,
+        "name": "RKC Third Coast",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23919.png"
+    },
+    {
+        "id": 23920,
+        "name": "Racing Louisville II",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23920.png"
+    },
+    {
+        "id": 23921,
+        "name": "Richmond",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23921.png"
+    },
+    {
+        "id": 23922,
+        "name": "SSA Royals",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23922.png"
+    },
+    {
+        "id": 23923,
+        "name": "San Antonio Athenians",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23923.png"
+    },
+    {
+        "id": 23924,
+        "name": "Stockton Cargo",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23924.png"
+    },
+    {
+        "id": 23925,
+        "name": "TLH Reckoning",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23925.png"
+    },
+    {
+        "id": 23926,
+        "name": "Tacoma Galaxy",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23926.png"
+    },
+    {
+        "id": 23927,
+        "name": "Tennessee SC",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23927.png"
+    },
+    {
+        "id": 23928,
+        "name": "AC Connecticut W",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23928.png"
+    },
+    {
+        "id": 23929,
+        "name": "Albion Colorado W",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23929.png"
+    },
+    {
+        "id": 23930,
+        "name": "Ann Arbor W",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23930.png"
+    },
+    {
+        "id": 23931,
+        "name": "Asheville City W",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23931.png"
+    },
+    {
+        "id": 23932,
+        "name": "Athens United W",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23932.png"
+    },
+    {
+        "id": 23933,
+        "name": "Birmingham Legion W",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23933.png"
+    },
+    {
+        "id": 23934,
+        "name": "Brooke House W",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23934.png"
+    },
+    {
+        "id": 23935,
+        "name": "Capital W",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23935.png"
+    },
+    {
+        "id": 23936,
+        "name": "Charlottesville Blues W",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23936.png"
+    },
+    {
+        "id": 23937,
+        "name": "Chattanooga Red Wolves W",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23937.png"
+    },
+    {
+        "id": 23938,
+        "name": "Chicago City W",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23938.png"
+    },
+    {
+        "id": 23939,
+        "name": "Chicago Dutch Lions W",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23939.png"
+    },
+    {
+        "id": 23940,
+        "name": "Christos W",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23940.png"
+    },
+    {
+        "id": 23941,
+        "name": "Cleveland Force W",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23941.png"
+    },
+    {
+        "id": 23942,
+        "name": "Colorado ISA W",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23942.png"
+    },
+    {
+        "id": 23943,
+        "name": "Detroit City W",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23943.png"
+    },
+    {
+        "id": 23944,
+        "name": "Houston Sur W",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23944.png"
+    },
+    {
+        "id": 23945,
+        "name": "Indy Eleven W",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23945.png"
+    },
+    {
+        "id": 23946,
+        "name": "Kalamazoo FC W",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23946.png"
+    },
+    {
+        "id": 23947,
+        "name": "Kings Hammer W",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23947.png"
+    },
+    {
+        "id": 23948,
+        "name": "Lane United W",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23948.png"
+    },
+    {
+        "id": 23949,
+        "name": "Long Island Rough Riders W",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23949.png"
+    },
+    {
+        "id": 23950,
+        "name": "Manhattan W",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23950.png"
+    },
+    {
+        "id": 23951,
+        "name": "Miami AC W",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23951.png"
+    },
+    {
+        "id": 23952,
+        "name": "Midwest United W",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23952.png"
+    },
+    {
+        "id": 23953,
+        "name": "Morris Elite W",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23953.png"
+    },
+    {
+        "id": 23954,
+        "name": "North Carolina Fusion W",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23954.png"
+    },
+    {
+        "id": 23955,
+        "name": "Olympic Club W",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23955.png"
+    },
+    {
+        "id": 23956,
+        "name": "Patuxent W",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23956.png"
+    },
+    {
+        "id": 23957,
+        "name": "River Light W",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23957.png"
+    },
+    {
+        "id": 23958,
+        "name": "Rochester W",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23958.png"
+    },
+    {
+        "id": 23959,
+        "name": "SC United Bantams W",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23959.png"
+    },
+    {
+        "id": 23960,
+        "name": "SF Glens W",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23960.png"
+    },
+    {
+        "id": 23961,
+        "name": "St. Charles W",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23961.png"
+    },
+    {
+        "id": 23962,
+        "name": "Swan City W",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23962.png"
+    },
+    {
+        "id": 23963,
+        "name": "Tampa Bay United W",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23963.png"
+    },
+    {
+        "id": 23964,
+        "name": "Tormenta W",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23964.png"
+    },
+    {
+        "id": 23965,
+        "name": "United PDX W",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23965.png"
+    },
+    {
+        "id": 23966,
+        "name": "Virginia Marauders W",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23966.png"
+    },
+    {
+        "id": 23967,
+        "name": "Wake W",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23967.png"
+    },
+    {
+        "id": 23968,
+        "name": "Westchester Flames W",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23968.png"
+    },
+    {
+        "id": 23969,
+        "name": "AV Rough Diamonds",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23969.png"
+    },
+    {
+        "id": 23970,
+        "name": "Akron City",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23970.png"
+    },
+    {
+        "id": 23971,
+        "name": "Annapolis Blues",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23971.png"
+    },
+    {
+        "id": 23972,
+        "name": "Arkansas Wolves",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23972.png"
+    },
+    {
+        "id": 23973,
+        "name": "Austin United",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23973.png"
+    },
+    {
+        "id": 23974,
+        "name": "Bristol Rhythm",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23974.png"
+    },
+    {
+        "id": 23975,
+        "name": "Brownsville",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23975.png"
+    },
+    {
+        "id": 23976,
+        "name": "CF10 Houston",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23976.png"
+    },
+    {
+        "id": 23977,
+        "name": "California Odyssey",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23977.png"
+    },
+    {
+        "id": 23978,
+        "name": "Charlottetowne Hops",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23978.png"
+    },
+    {
+        "id": 23979,
+        "name": "Columbus United",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23979.png"
+    },
+    {
+        "id": 23980,
+        "name": "DMV Elite",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23980.png"
+    },
+    {
+        "id": 23981,
+        "name": "Demize NPSL",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23981.png"
+    },
+    {
+        "id": 23982,
+        "name": "Des Moines United",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23982.png"
+    },
+    {
+        "id": 23983,
+        "name": "Ehtar Belleville",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23983.png"
+    },
+    {
+        "id": 23984,
+        "name": "Electric City Shock",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23984.png"
+    },
+    {
+        "id": 23985,
+        "name": "FC Frederick",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23985.png"
+    },
+    {
+        "id": 23986,
+        "name": "FCAZ Tucson",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23986.png"
+    },
+    {
+        "id": 23987,
+        "name": "First State",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23987.png"
+    },
+    {
+        "id": 23988,
+        "name": "Gio's Lions",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23988.png"
+    },
+    {
+        "id": 23989,
+        "name": "Glendale Lions",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23989.png"
+    },
+    {
+        "id": 23990,
+        "name": "Global Soccer Pathways",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23990.png"
+    },
+    {
+        "id": 23991,
+        "name": "Greenville United",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23991.png"
+    },
+    {
+        "id": 23992,
+        "name": "Grove Soccer United",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23992.png"
+    },
+    {
+        "id": 23993,
+        "name": "Hickory",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23993.png"
+    },
+    {
+        "id": 23994,
+        "name": "Jackson Lions",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23994.png"
+    },
+    {
+        "id": 23995,
+        "name": "Kansas City Sol",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23995.png"
+    },
+    {
+        "id": 23996,
+        "name": "Las Vegas Knights",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23996.png"
+    },
+    {
+        "id": 23997,
+        "name": "Lions United",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23997.png"
+    },
+    {
+        "id": 23998,
+        "name": "Miami Dutch Lions",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23998.png"
+    },
+    {
+        "id": 23999,
+        "name": "Michigan Rangers",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/23999.png"
+    },
+    {
+        "id": 24000,
+        "name": "Minnesota Blizzard",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/24000.png"
+    },
+    {
+        "id": 24001,
+        "name": "Minnesota Twin Stars",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/24001.png"
+    },
+    {
+        "id": 24002,
+        "name": "Monmouth",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/24002.png"
+    },
+    {
+        "id": 24003,
+        "name": "New Jersey United",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/24003.png"
+    },
+    {
+        "id": 24004,
+        "name": "Oakland SC",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/24004.png"
+    },
+    {
+        "id": 24005,
+        "name": "Oklahoma City 1889",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/24005.png"
+    },
+    {
+        "id": 24006,
+        "name": "Pennsylvania Classics",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/24006.png"
+    },
+    {
+        "id": 24007,
+        "name": "Pensacola",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/24007.png"
+    },
+    {
+        "id": 24008,
+        "name": "Philadelphia Union III",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/24008.png"
+    },
+    {
+        "id": 24009,
+        "name": "SI Guardians",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/24009.png"
+    },
+    {
+        "id": 24010,
+        "name": "Sioux Falls Thunder",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/24010.png"
+    },
+    {
+        "id": 24011,
+        "name": "Siouxland United",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/24011.png"
+    },
+    {
+        "id": 24012,
+        "name": "St. Louis Club Atletico",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/24012.png"
+    },
+    {
+        "id": 24013,
+        "name": "Syracuse FC",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/24013.png"
+    },
+    {
+        "id": 24014,
+        "name": "Tallahassee",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/24014.png"
+    },
+    {
+        "id": 24015,
+        "name": "Valeo",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/24015.png"
+    },
+    {
+        "id": 24016,
+        "name": "Virginia Dream",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/24016.png"
+    },
+    {
+        "id": 24017,
+        "name": "WC Predators",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/24017.png"
+    },
+    {
+        "id": 24018,
+        "name": "West Texas",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/24018.png"
+    },
+    {
+        "id": 24019,
+        "name": "Wisconsin Conquerors",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/24019.png"
+    },
+    {
+        "id": 24020,
+        "name": "865 Alliance",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/24020.png"
+    },
+    {
+        "id": 24021,
+        "name": "Alexandria Reds",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/24021.png"
+    },
+    {
+        "id": 24022,
+        "name": "Hershey",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/24022.png"
+    },
+    {
+        "id": 24023,
+        "name": "Joy",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/24023.png"
+    },
+    {
+        "id": 24024,
+        "name": "Milwaukee Torrent",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/24024.png"
+    },
+    {
+        "id": 24025,
+        "name": "New York Shockers",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/24025.png"
+    },
+    {
+        "id": 24026,
+        "name": "Niagara 1812",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/24026.png"
+    },
+    {
+        "id": 24027,
+        "name": "Port City NC",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/24027.png"
+    },
+    {
+        "id": 24028,
+        "name": "San Ramon",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/24028.png"
+    },
+    {
+        "id": 24029,
+        "name": "Sunflower State",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/24029.png"
+    },
+    {
+        "id": 24134,
+        "name": "Lancaster Inferno",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/24134.png"
+    },
+    {
+        "id": 24657,
+        "name": "Brooklyn W",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/24657.png"
+    },
+    {
+        "id": 24658,
+        "name": "Carolina Ascent W",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/24658.png"
+    },
+    {
+        "id": 24659,
+        "name": "DC Power W",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/24659.png"
+    },
+    {
+        "id": 24660,
+        "name": "Dallas Trinity W",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/24660.png"
+    },
+    {
+        "id": 24661,
+        "name": "Fort Lauderdale United W",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/24661.png"
+    },
+    {
+        "id": 24662,
+        "name": "Spokane Zephyr W",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/24662.png"
+    },
+    {
+        "id": 24663,
+        "name": "Tampa Bay Sun W",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/24663.png"
+    },
+    {
+        "id": 24664,
+        "name": "Lexington W",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/teams/24664.png"
+    }
+]

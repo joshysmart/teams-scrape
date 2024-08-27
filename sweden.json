@@ -1,0 +1,2576 @@
+[
+    {
+        "id": 5,
+        "name": "Sweden",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/5.png"
+    },
+    {
+        "id": 363,
+        "name": "Hammarby FF",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/363.png"
+    },
+    {
+        "id": 364,
+        "name": "Djurgardens IF",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/364.png"
+    },
+    {
+        "id": 365,
+        "name": "Orebro SK",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/365.png"
+    },
+    {
+        "id": 366,
+        "name": "IFK Goteborg",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/366.png"
+    },
+    {
+        "id": 367,
+        "name": "BK Hacken",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/367.png"
+    },
+    {
+        "id": 368,
+        "name": "dalkurd FF",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/368.png"
+    },
+    {
+        "id": 369,
+        "name": "trelleborgs FF",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/369.png"
+    },
+    {
+        "id": 370,
+        "name": "Sirius",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/370.png"
+    },
+    {
+        "id": 371,
+        "name": "IF Brommapojkarna",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/371.png"
+    },
+    {
+        "id": 372,
+        "name": "IF elfsborg",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/372.png"
+    },
+    {
+        "id": 373,
+        "name": "GIF Sundsvall",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/373.png"
+    },
+    {
+        "id": 374,
+        "name": "kalmar FF",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/374.png"
+    },
+    {
+        "id": 375,
+        "name": "Malmo FF",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/375.png"
+    },
+    {
+        "id": 376,
+        "name": "Ostersunds FK",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/376.png"
+    },
+    {
+        "id": 377,
+        "name": "AIK stockholm",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/377.png"
+    },
+    {
+        "id": 378,
+        "name": "IFK Norrkoping",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/378.png"
+    },
+    {
+        "id": 764,
+        "name": "Jonkopings Sodra",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/764.png"
+    },
+    {
+        "id": 765,
+        "name": "AFC Eskilstuna",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/765.png"
+    },
+    {
+        "id": 766,
+        "name": "Halmstad",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/766.png"
+    },
+    {
+        "id": 811,
+        "name": "Helsingborg",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/811.png"
+    },
+    {
+        "id": 812,
+        "name": "falkenbergs FF",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/812.png"
+    },
+    {
+        "id": 813,
+        "name": "gefle IF",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/813.png"
+    },
+    {
+        "id": 1731,
+        "name": "Ecuador W",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/1731.png"
+    },
+    {
+        "id": 1739,
+        "name": "Sweden W",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/1739.png"
+    },
+    {
+        "id": 2162,
+        "name": "Atvidabergs FF",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/2162.png"
+    },
+    {
+        "id": 2163,
+        "name": "IFK Varnamo",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/2163.png"
+    },
+    {
+        "id": 2164,
+        "name": "IK Frej",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/2164.png"
+    },
+    {
+        "id": 2165,
+        "name": "ljungSKile SK",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/2165.png"
+    },
+    {
+        "id": 2166,
+        "name": "Orgryte IS",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/2166.png"
+    },
+    {
+        "id": 2167,
+        "name": "Syrianska FC",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/2167.png"
+    },
+    {
+        "id": 2168,
+        "name": "Angelholms FF",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/2168.png"
+    },
+    {
+        "id": 2169,
+        "name": "Assyriska FF",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/2169.png"
+    },
+    {
+        "id": 2170,
+        "name": "Gais",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/2170.png"
+    },
+    {
+        "id": 2171,
+        "name": "Varbergs BoIS FC",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/2171.png"
+    },
+    {
+        "id": 2172,
+        "name": "Degerfors IF",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/2172.png"
+    },
+    {
+        "id": 2173,
+        "name": "Norrby IF",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/2173.png"
+    },
+    {
+        "id": 2174,
+        "name": "Osters IF",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/2174.png"
+    },
+    {
+        "id": 2175,
+        "name": "IK brage",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/2175.png"
+    },
+    {
+        "id": 2176,
+        "name": "Landskrona BoIS",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/2176.png"
+    },
+    {
+        "id": 2240,
+        "name": "Mjallby AIF",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/2240.png"
+    },
+    {
+        "id": 2241,
+        "name": "Vasteras SK FK",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/2241.png"
+    },
+    {
+        "id": 6655,
+        "name": "Akropolis",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/6655.png"
+    },
+    {
+        "id": 6656,
+        "name": "Assyriska BK",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/6656.png"
+    },
+    {
+        "id": 6657,
+        "name": "Astrio",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/6657.png"
+    },
+    {
+        "id": 6658,
+        "name": "Brom\u00f6lla",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/6658.png"
+    },
+    {
+        "id": 6659,
+        "name": "Carlstad United",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/6659.png"
+    },
+    {
+        "id": 6660,
+        "name": "Dagsbergs",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/6660.png"
+    },
+    {
+        "id": 6661,
+        "name": "Eneby",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/6661.png"
+    },
+    {
+        "id": 6662,
+        "name": "Enskede",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/6662.png"
+    },
+    {
+        "id": 6663,
+        "name": "Eskilsminne",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/6663.png"
+    },
+    {
+        "id": 6664,
+        "name": "Forssa",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/6664.png"
+    },
+    {
+        "id": 6665,
+        "name": "Franke",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/6665.png"
+    },
+    {
+        "id": 6666,
+        "name": "Gamla Upsala",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/6666.png"
+    },
+    {
+        "id": 6667,
+        "name": "Gauthiod",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/6667.png"
+    },
+    {
+        "id": 6668,
+        "name": "Gnosj\u00f6",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/6668.png"
+    },
+    {
+        "id": 6669,
+        "name": "Gottne",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/6669.png"
+    },
+    {
+        "id": 6670,
+        "name": "Grebbestad",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/6670.png"
+    },
+    {
+        "id": 6671,
+        "name": "Gute",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/6671.png"
+    },
+    {
+        "id": 6672,
+        "name": "Haninge",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/6672.png"
+    },
+    {
+        "id": 6673,
+        "name": "Hittarp",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/6673.png"
+    },
+    {
+        "id": 6674,
+        "name": "Hudiksvall",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/6674.png"
+    },
+    {
+        "id": 6675,
+        "name": "Husqvarna",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/6675.png"
+    },
+    {
+        "id": 6676,
+        "name": "H\u00e4ssleholms IF",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/6676.png"
+    },
+    {
+        "id": 6677,
+        "name": "H\u00f6gan\u00e4s",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/6677.png"
+    },
+    {
+        "id": 6678,
+        "name": "H\u00f6gs\u00e4ter",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/6678.png"
+    },
+    {
+        "id": 6679,
+        "name": "IFK Lule\u00e5",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/6679.png"
+    },
+    {
+        "id": 6680,
+        "name": "IFK Timr\u00e5",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/6680.png"
+    },
+    {
+        "id": 6681,
+        "name": "IFK \u00d6stersund",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/6681.png"
+    },
+    {
+        "id": 6682,
+        "name": "Karlberg",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/6682.png"
+    },
+    {
+        "id": 6683,
+        "name": "Karlskrona",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/6683.png"
+    },
+    {
+        "id": 6684,
+        "name": "Karlstad",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/6684.png"
+    },
+    {
+        "id": 6685,
+        "name": "Liding\u00f6",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/6685.png"
+    },
+    {
+        "id": 6686,
+        "name": "Lindome",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/6686.png"
+    },
+    {
+        "id": 6687,
+        "name": "Lund",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/6687.png"
+    },
+    {
+        "id": 6689,
+        "name": "Newroz",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/6689.png"
+    },
+    {
+        "id": 6690,
+        "name": "Norrt\u00e4lje",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/6690.png"
+    },
+    {
+        "id": 6691,
+        "name": "Nyk\u00f6ping",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/6691.png"
+    },
+    {
+        "id": 6692,
+        "name": "Oskarshamns AIK",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/6692.png"
+    },
+    {
+        "id": 6693,
+        "name": "Qviding FIF",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/6693.png"
+    },
+    {
+        "id": 6694,
+        "name": "Roseng\u00e5rd",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/6694.png"
+    },
+    {
+        "id": 6695,
+        "name": "Rynninge",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/6695.png"
+    },
+    {
+        "id": 6696,
+        "name": "R\u00e5sl\u00e4tts",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/6696.png"
+    },
+    {
+        "id": 6697,
+        "name": "Sandviken",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/6697.png"
+    },
+    {
+        "id": 6698,
+        "name": "Sk\u00f6vde AIK",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/6698.png"
+    },
+    {
+        "id": 6699,
+        "name": "Sollentuna",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/6699.png"
+    },
+    {
+        "id": 6700,
+        "name": "Stocksund",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/6700.png"
+    },
+    {
+        "id": 6701,
+        "name": "Torns",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/6701.png"
+    },
+    {
+        "id": 6702,
+        "name": "Trollh\u00e4ttan",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/6702.png"
+    },
+    {
+        "id": 6703,
+        "name": "Tv\u00e5\u00e5ker",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/6703.png"
+    },
+    {
+        "id": 6704,
+        "name": "T\u00e5garps AIK",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/6704.png"
+    },
+    {
+        "id": 6705,
+        "name": "Ume\u00e5 FC",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/6705.png"
+    },
+    {
+        "id": 6706,
+        "name": "Utsikten",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/6706.png"
+    },
+    {
+        "id": 6707,
+        "name": "Vartans",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/6707.png"
+    },
+    {
+        "id": 6708,
+        "name": "Vasalund",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/6708.png"
+    },
+    {
+        "id": 6709,
+        "name": "Vattholma",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/6709.png"
+    },
+    {
+        "id": 6710,
+        "name": "Velebit",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/6710.png"
+    },
+    {
+        "id": 6711,
+        "name": "Vendels\u00f6",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/6711.png"
+    },
+    {
+        "id": 6712,
+        "name": "Vinberg",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/6712.png"
+    },
+    {
+        "id": 6713,
+        "name": "V\u00e4nersborgs IF",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/6713.png"
+    },
+    {
+        "id": 6714,
+        "name": "V\u00e4rmbols",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/6714.png"
+    },
+    {
+        "id": 6715,
+        "name": "V\u00e4xj\u00f6 United",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/6715.png"
+    },
+    {
+        "id": 6716,
+        "name": "V\u00e5rg\u00e5rda",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/6716.png"
+    },
+    {
+        "id": 6717,
+        "name": "\u00d6stria Lambohov",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/6717.png"
+    },
+    {
+        "id": 7880,
+        "name": "APOEL U19",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/7880.png"
+    },
+    {
+        "id": 7911,
+        "name": "Ludogorets U19",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/7911.png"
+    },
+    {
+        "id": 7961,
+        "name": "Maribor U19",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/7961.png"
+    },
+    {
+        "id": 7963,
+        "name": "Monaco  U19",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/7963.png"
+    },
+    {
+        "id": 7997,
+        "name": "Sporting CP U19",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/7997.png"
+    },
+    {
+        "id": 8225,
+        "name": "Sweden U21",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/8225.png"
+    },
+    {
+        "id": 10156,
+        "name": "Mora",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/10156.png"
+    },
+    {
+        "id": 10196,
+        "name": "Sweden U23",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/10196.png"
+    },
+    {
+        "id": 10302,
+        "name": "Senegal U20",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/10302.png"
+    },
+    {
+        "id": 10380,
+        "name": "Sweden U19",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/10380.png"
+    },
+    {
+        "id": 10893,
+        "name": "G\u00f6teborg",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/10893.png"
+    },
+    {
+        "id": 10900,
+        "name": "Pite\u00e5",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/10900.png"
+    },
+    {
+        "id": 11075,
+        "name": "Roseng\u00e5rd W",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/11075.png"
+    },
+    {
+        "id": 11076,
+        "name": "Djurg\u00e5rden",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/11076.png"
+    },
+    {
+        "id": 11077,
+        "name": "Eskilstuna United",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/11077.png"
+    },
+    {
+        "id": 11078,
+        "name": "KIF \u00d6rebro",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/11078.png"
+    },
+    {
+        "id": 11079,
+        "name": "Kristianstad",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/11079.png"
+    },
+    {
+        "id": 11080,
+        "name": "Link\u00f6ping",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/11080.png"
+    },
+    {
+        "id": 11081,
+        "name": "Ume\u00e5",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/11081.png"
+    },
+    {
+        "id": 11082,
+        "name": "Uppsala W",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/11082.png"
+    },
+    {
+        "id": 11083,
+        "name": "Vittsj\u00f6",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/11083.png"
+    },
+    {
+        "id": 11084,
+        "name": "V\u00e4xj\u00f6",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/11084.png"
+    },
+    {
+        "id": 11659,
+        "name": "IF Karlstad",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/11659.png"
+    },
+    {
+        "id": 11660,
+        "name": "Karlslund",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/11660.png"
+    },
+    {
+        "id": 11661,
+        "name": "Sylvia",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/11661.png"
+    },
+    {
+        "id": 11662,
+        "name": "Team Thoren",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/11662.png"
+    },
+    {
+        "id": 11663,
+        "name": "T\u00e4by",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/11663.png"
+    },
+    {
+        "id": 11664,
+        "name": "\u00d6rebro Syrianska",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/11664.png"
+    },
+    {
+        "id": 11665,
+        "name": "Boden",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/11665.png"
+    },
+    {
+        "id": 11666,
+        "name": "Forward",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/11666.png"
+    },
+    {
+        "id": 11667,
+        "name": "Link\u00f6ping City",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/11667.png"
+    },
+    {
+        "id": 11668,
+        "name": "Arameiska / Syrianska",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/11668.png"
+    },
+    {
+        "id": 11669,
+        "name": "Skellefte\u00e5",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/11669.png"
+    },
+    {
+        "id": 11670,
+        "name": "Sleipner",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/11670.png"
+    },
+    {
+        "id": 11671,
+        "name": "Pite\u00e5",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/11671.png"
+    },
+    {
+        "id": 11672,
+        "name": "Assyriska Turabdin",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/11672.png"
+    },
+    {
+        "id": 11673,
+        "name": "Motala",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/11673.png"
+    },
+    {
+        "id": 11674,
+        "name": "Oddevold",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/11674.png"
+    },
+    {
+        "id": 11675,
+        "name": "Kristianstad",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/11675.png"
+    },
+    {
+        "id": 11676,
+        "name": "H\u00f6llviken",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/11676.png"
+    },
+    {
+        "id": 11677,
+        "name": "Prespa Birlik",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/11677.png"
+    },
+    {
+        "id": 12570,
+        "name": "Ahlafors",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12570.png"
+    },
+    {
+        "id": 12571,
+        "name": "IF Karlstad II",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12571.png"
+    },
+    {
+        "id": 12572,
+        "name": "IFK Tidaholm",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12572.png"
+    },
+    {
+        "id": 12573,
+        "name": "Lidk\u00f6ping",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12573.png"
+    },
+    {
+        "id": 12574,
+        "name": "Nordv\u00e4rmland",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12574.png"
+    },
+    {
+        "id": 12575,
+        "name": "Stenungsund",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12575.png"
+    },
+    {
+        "id": 12576,
+        "name": "S\u00e4vedalen",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12576.png"
+    },
+    {
+        "id": 12577,
+        "name": "V\u00e4nersborgs FK",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12577.png"
+    },
+    {
+        "id": 12578,
+        "name": "Enk\u00f6ping",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12578.png"
+    },
+    {
+        "id": 12579,
+        "name": "Fagersta S\u00f6dra IK",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12579.png"
+    },
+    {
+        "id": 12580,
+        "name": "Fanna BK",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12580.png"
+    },
+    {
+        "id": 12581,
+        "name": "IFK \u00d6ster\u00e5ker",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12581.png"
+    },
+    {
+        "id": 12582,
+        "name": "Kungs\u00e4ngen",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12582.png"
+    },
+    {
+        "id": 12583,
+        "name": "Kvarnsveden",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12583.png"
+    },
+    {
+        "id": 12584,
+        "name": "Skiljebo",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12584.png"
+    },
+    {
+        "id": 12585,
+        "name": "Stockholm Internazionale",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12585.png"
+    },
+    {
+        "id": 12586,
+        "name": "Friska Viljor",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12586.png"
+    },
+    {
+        "id": 12587,
+        "name": "IFK Ume\u00e5",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12587.png"
+    },
+    {
+        "id": 12588,
+        "name": "Mor\u00f6n",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12588.png"
+    },
+    {
+        "id": 12589,
+        "name": "Notvikens IK",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12589.png"
+    },
+    {
+        "id": 12590,
+        "name": "Sandviks",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12590.png"
+    },
+    {
+        "id": 12591,
+        "name": "St\u00f6de",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12591.png"
+    },
+    {
+        "id": 12592,
+        "name": "T\u00e4fte\u00e5",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12592.png"
+    },
+    {
+        "id": 12593,
+        "name": "Ume\u00e5 FC Akademi",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12593.png"
+    },
+    {
+        "id": 12594,
+        "name": "Ytterhogdal",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12594.png"
+    },
+    {
+        "id": 12595,
+        "name": "Assyriska IF",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12595.png"
+    },
+    {
+        "id": 12596,
+        "name": "Huddinge",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12596.png"
+    },
+    {
+        "id": 12597,
+        "name": "IFK Eskilstuna",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12597.png"
+    },
+    {
+        "id": 12598,
+        "name": "Kumla",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12598.png"
+    },
+    {
+        "id": 12599,
+        "name": "Trosa-Vagnh\u00e4rad SK",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12599.png"
+    },
+    {
+        "id": 12600,
+        "name": "Tyres\u00f6",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12600.png"
+    },
+    {
+        "id": 12601,
+        "name": "Olympic",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12601.png"
+    },
+    {
+        "id": 12602,
+        "name": "Eslov",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12602.png"
+    },
+    {
+        "id": 12603,
+        "name": "Halmia",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12603.png"
+    },
+    {
+        "id": 12604,
+        "name": "IFK Malm\u00f6",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12604.png"
+    },
+    {
+        "id": 12605,
+        "name": "Limhamn Bunkeflo 07",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12605.png"
+    },
+    {
+        "id": 12606,
+        "name": "Onsala",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12606.png"
+    },
+    {
+        "id": 12607,
+        "name": "Ullared",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12607.png"
+    },
+    {
+        "id": 12608,
+        "name": "Varbergs GIF",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12608.png"
+    },
+    {
+        "id": 12609,
+        "name": "V\u00e4stra Fr\u00f6lunda",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12609.png"
+    },
+    {
+        "id": 12610,
+        "name": "Almeboda Linneryd",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12610.png"
+    },
+    {
+        "id": 12611,
+        "name": "Asarum",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12611.png"
+    },
+    {
+        "id": 12612,
+        "name": "Berga",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12612.png"
+    },
+    {
+        "id": 12613,
+        "name": "Dalstorps",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12613.png"
+    },
+    {
+        "id": 12614,
+        "name": "IFK H\u00e4ssleholm",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12614.png"
+    },
+    {
+        "id": 12615,
+        "name": "Karlshamn",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12615.png"
+    },
+    {
+        "id": 12616,
+        "name": "Nosaby",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12616.png"
+    },
+    {
+        "id": 12617,
+        "name": "R\u00e4ppe",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12617.png"
+    },
+    {
+        "id": 12618,
+        "name": "Tord",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12618.png"
+    },
+    {
+        "id": 12619,
+        "name": "\u00d6sterlen",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12619.png"
+    },
+    {
+        "id": 12620,
+        "name": "Torslanda",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12620.png"
+    },
+    {
+        "id": 12621,
+        "name": "Uddevalla",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12621.png"
+    },
+    {
+        "id": 12622,
+        "name": "FBK Karlstad",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12622.png"
+    },
+    {
+        "id": 12623,
+        "name": "Hisingsbacka",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12623.png"
+    },
+    {
+        "id": 12624,
+        "name": "Skoftebyn",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12624.png"
+    },
+    {
+        "id": 12625,
+        "name": "Lerum",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12625.png"
+    },
+    {
+        "id": 12626,
+        "name": "Gunnilse",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12626.png"
+    },
+    {
+        "id": 12627,
+        "name": "Kortedala",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12627.png"
+    },
+    {
+        "id": 12628,
+        "name": "Sundbyberg",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12628.png"
+    },
+    {
+        "id": 12629,
+        "name": "Valbo",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12629.png"
+    },
+    {
+        "id": 12630,
+        "name": "Bolln\u00e4s",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12630.png"
+    },
+    {
+        "id": 12631,
+        "name": "Str\u00f6msberg",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12631.png"
+    },
+    {
+        "id": 12632,
+        "name": "Aspudden-Tellus",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12632.png"
+    },
+    {
+        "id": 12633,
+        "name": "Eskilstuna City",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12633.png"
+    },
+    {
+        "id": 12634,
+        "name": "H\u00e5bo",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12634.png"
+    },
+    {
+        "id": 12635,
+        "name": "Syrianska IF",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12635.png"
+    },
+    {
+        "id": 12636,
+        "name": "Boo",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12636.png"
+    },
+    {
+        "id": 12637,
+        "name": "V\u00e4rmd\u00f6",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12637.png"
+    },
+    {
+        "id": 12638,
+        "name": "V\u00e4ster\u00e5s IK",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12638.png"
+    },
+    {
+        "id": 12639,
+        "name": "Anundsj\u00f6",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12639.png"
+    },
+    {
+        "id": 12640,
+        "name": "Kramfors-Alliansen",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12640.png"
+    },
+    {
+        "id": 12641,
+        "name": "G\u00e4llivare Malmbergets",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12641.png"
+    },
+    {
+        "id": 12642,
+        "name": "H\u00e4rn\u00f6sand",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12642.png"
+    },
+    {
+        "id": 12643,
+        "name": "S\u00f6derhamn",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12643.png"
+    },
+    {
+        "id": 12644,
+        "name": "\u00c5nge",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12644.png"
+    },
+    {
+        "id": 12645,
+        "name": "Tyres\u00f6",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12645.png"
+    },
+    {
+        "id": 12646,
+        "name": "AFK Link\u00f6ping",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12646.png"
+    },
+    {
+        "id": 12647,
+        "name": "S\u00f6dert\u00e4lje",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12647.png"
+    },
+    {
+        "id": 12648,
+        "name": "Nora",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12648.png"
+    },
+    {
+        "id": 12649,
+        "name": "Konyaspor",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12649.png"
+    },
+    {
+        "id": 12650,
+        "name": "Smedby",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12650.png"
+    },
+    {
+        "id": 12651,
+        "name": "Vimmerby",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12651.png"
+    },
+    {
+        "id": 12652,
+        "name": "Stafsinge",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12652.png"
+    },
+    {
+        "id": 12653,
+        "name": "H\u00f6gaborg",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12653.png"
+    },
+    {
+        "id": 12654,
+        "name": "Kvarnby",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12654.png"
+    },
+    {
+        "id": 12655,
+        "name": "Tenhult",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12655.png"
+    },
+    {
+        "id": 12656,
+        "name": "Akademi HIF",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12656.png"
+    },
+    {
+        "id": 12657,
+        "name": "Laholm",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12657.png"
+    },
+    {
+        "id": 12658,
+        "name": "N\u00e4ssj\u00f6",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12658.png"
+    },
+    {
+        "id": 12659,
+        "name": "Lindsdal",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12659.png"
+    },
+    {
+        "id": 12660,
+        "name": "S\u00f6lvesborg",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12660.png"
+    },
+    {
+        "id": 12661,
+        "name": "Nybro",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12661.png"
+    },
+    {
+        "id": 12662,
+        "name": "BW 90",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12662.png"
+    },
+    {
+        "id": 12810,
+        "name": "Lunds SK",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12810.png"
+    },
+    {
+        "id": 12854,
+        "name": "Skabersj\u00f6",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/12854.png"
+    },
+    {
+        "id": 13165,
+        "name": "FBK Karlstad",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/13165.png"
+    },
+    {
+        "id": 13810,
+        "name": "\u00c5m\u00e5l",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/13810.png"
+    },
+    {
+        "id": 14107,
+        "name": "Anderstorp",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/14107.png"
+    },
+    {
+        "id": 14108,
+        "name": "Angered BK",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/14108.png"
+    },
+    {
+        "id": 14109,
+        "name": "Boxholm",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/14109.png"
+    },
+    {
+        "id": 14110,
+        "name": "Ekedalen",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/14110.png"
+    },
+    {
+        "id": 14111,
+        "name": "IFK Falk\u00f6ping",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/14111.png"
+    },
+    {
+        "id": 14112,
+        "name": "L\u00f6dde",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/14112.png"
+    },
+    {
+        "id": 14113,
+        "name": "Rosersberg",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/14113.png"
+    },
+    {
+        "id": 14114,
+        "name": "\u00c5ryd",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/14114.png"
+    },
+    {
+        "id": 14467,
+        "name": "Argo",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/14467.png"
+    },
+    {
+        "id": 14482,
+        "name": "Eskilstuna FC",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/14482.png"
+    },
+    {
+        "id": 14486,
+        "name": "Flagg",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/14486.png"
+    },
+    {
+        "id": 14491,
+        "name": "GoF",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/14491.png"
+    },
+    {
+        "id": 14492,
+        "name": "Helsingkrona",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/14492.png"
+    },
+    {
+        "id": 14497,
+        "name": "H\u00e4rlanda Prisoners",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/14497.png"
+    },
+    {
+        "id": 14505,
+        "name": "Kullav\u00e4gen",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/14505.png"
+    },
+    {
+        "id": 14510,
+        "name": "Nacka Iliria",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/14510.png"
+    },
+    {
+        "id": 14514,
+        "name": "N\u00e4shulta",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/14514.png"
+    },
+    {
+        "id": 14519,
+        "name": "Rinkeby United",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/14519.png"
+    },
+    {
+        "id": 14529,
+        "name": "Strass",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/14529.png"
+    },
+    {
+        "id": 14538,
+        "name": "V\u00e4stra Ingelstad",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/14538.png"
+    },
+    {
+        "id": 14543,
+        "name": "\u00c5storp",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/14543.png"
+    },
+    {
+        "id": 14544,
+        "name": "Nike",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/14544.png"
+    },
+    {
+        "id": 15629,
+        "name": "AIK",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/15629.png"
+    },
+    {
+        "id": 15630,
+        "name": "Hammarby",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/15630.png"
+    },
+    {
+        "id": 16001,
+        "name": "Alings\u00e5s W",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/16001.png"
+    },
+    {
+        "id": 16002,
+        "name": "Bollstan\u00e4s W",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/16002.png"
+    },
+    {
+        "id": 16003,
+        "name": "Borgeby W",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/16003.png"
+    },
+    {
+        "id": 16004,
+        "name": "Brommapojkarna W",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/16004.png"
+    },
+    {
+        "id": 16005,
+        "name": "Jitex W",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/16005.png"
+    },
+    {
+        "id": 16006,
+        "name": "Kalmar W",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/16006.png"
+    },
+    {
+        "id": 16007,
+        "name": "Mallbacken W",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/16007.png"
+    },
+    {
+        "id": 16008,
+        "name": "Norrk\u00f6ping W",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/16008.png"
+    },
+    {
+        "id": 16009,
+        "name": "Sundsvall W",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/16009.png"
+    },
+    {
+        "id": 16010,
+        "name": "\u00c4lvsj\u00f6 AIK W",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/16010.png"
+    },
+    {
+        "id": 16011,
+        "name": "Lidk\u00f6ping W",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/16011.png"
+    },
+    {
+        "id": 16012,
+        "name": "Mor\u00f6n W",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/16012.png"
+    },
+    {
+        "id": 16013,
+        "name": "Gefle W",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/16013.png"
+    },
+    {
+        "id": 16014,
+        "name": "G\u00f6teborgs DFF W",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/16014.png"
+    },
+    {
+        "id": 16015,
+        "name": "Hammenh\u00f6gs W",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/16015.png"
+    },
+    {
+        "id": 16016,
+        "name": "Hittarps W",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/16016.png"
+    },
+    {
+        "id": 16017,
+        "name": "Lule\u00e5 SK W",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/16017.png"
+    },
+    {
+        "id": 16018,
+        "name": "Mariebo W",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/16018.png"
+    },
+    {
+        "id": 16019,
+        "name": "Nittorps W",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/16019.png"
+    },
+    {
+        "id": 16020,
+        "name": "Norrstrands IF W",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/16020.png"
+    },
+    {
+        "id": 16021,
+        "name": "Ostervala W",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/16021.png"
+    },
+    {
+        "id": 16022,
+        "name": "Qviding W",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/16022.png"
+    },
+    {
+        "id": 16023,
+        "name": "Sj\u00e4levad W",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/16023.png"
+    },
+    {
+        "id": 16024,
+        "name": "Stuvsta W",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/16024.png"
+    },
+    {
+        "id": 16025,
+        "name": "Tran\u00e5s W",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/16025.png"
+    },
+    {
+        "id": 16026,
+        "name": "Umedalen W",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/16026.png"
+    },
+    {
+        "id": 16027,
+        "name": "V\u00e4ster\u00e5s BK 30 W",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/16027.png"
+    },
+    {
+        "id": 16028,
+        "name": "\u00d6rebro S\u00f6der W",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/16028.png"
+    },
+    {
+        "id": 16029,
+        "name": "Brom\u00f6lla W",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/16029.png"
+    },
+    {
+        "id": 16030,
+        "name": "Enskede W",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/16030.png"
+    },
+    {
+        "id": 16031,
+        "name": "Eskilsminne W",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/16031.png"
+    },
+    {
+        "id": 16032,
+        "name": "Gamla Upsala W",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/16032.png"
+    },
+    {
+        "id": 16033,
+        "name": "Husqvarna W",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/16033.png"
+    },
+    {
+        "id": 16034,
+        "name": "Skoftebyn W",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/16034.png"
+    },
+    {
+        "id": 16035,
+        "name": "T\u00e4by W",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/16035.png"
+    },
+    {
+        "id": 16036,
+        "name": "Uddevalla W",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/16036.png"
+    },
+    {
+        "id": 16037,
+        "name": "\u00c4lta W",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/16037.png"
+    },
+    {
+        "id": 16483,
+        "name": "H\u00e4cken",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/16483.png"
+    },
+    {
+        "id": 16596,
+        "name": "Hammarby Talang",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/16596.png"
+    },
+    {
+        "id": 16597,
+        "name": "Arlanda",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/16597.png"
+    },
+    {
+        "id": 16598,
+        "name": "J\u00e4rf\u00e4lla",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/16598.png"
+    },
+    {
+        "id": 16599,
+        "name": "Sandvikens AIK",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/16599.png"
+    },
+    {
+        "id": 16600,
+        "name": "Mj\u00f6lby",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/16600.png"
+    },
+    {
+        "id": 16601,
+        "name": "United Nordic",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/16601.png"
+    },
+    {
+        "id": 16602,
+        "name": "Bergn\u00e4sets",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/16602.png"
+    },
+    {
+        "id": 16603,
+        "name": "Fr\u00f6s\u00f6",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/16603.png"
+    },
+    {
+        "id": 16604,
+        "name": "Storfors",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/16604.png"
+    },
+    {
+        "id": 16605,
+        "name": "IFK Sk\u00f6vde",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/16605.png"
+    },
+    {
+        "id": 16606,
+        "name": "Yxhult",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/16606.png"
+    },
+    {
+        "id": 16741,
+        "name": "B\u00e4linge",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/16741.png"
+    },
+    {
+        "id": 16742,
+        "name": "Dalby",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/16742.png"
+    },
+    {
+        "id": 16743,
+        "name": "Hvetlanda",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/16743.png"
+    },
+    {
+        "id": 16744,
+        "name": "IFK Visby",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/16744.png"
+    },
+    {
+        "id": 16745,
+        "name": "R\u00e5gsved",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/16745.png"
+    },
+    {
+        "id": 16746,
+        "name": "Viken",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/16746.png"
+    },
+    {
+        "id": 17119,
+        "name": "Balkan",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/17119.png"
+    },
+    {
+        "id": 17630,
+        "name": "Dalhem W",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/17630.png"
+    },
+    {
+        "id": 17631,
+        "name": "Degerfors W",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/17631.png"
+    },
+    {
+        "id": 17632,
+        "name": "Infj\u00e4rden W",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/17632.png"
+    },
+    {
+        "id": 17633,
+        "name": "Link\u00f6ping Tinnis W",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/17633.png"
+    },
+    {
+        "id": 17634,
+        "name": "Ljusdal W",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/17634.png"
+    },
+    {
+        "id": 17635,
+        "name": "L\u00f6d\u00f6se Nyg\u00e5rd W",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/17635.png"
+    },
+    {
+        "id": 17636,
+        "name": "R\u00e4v\u00e5sen W",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/17636.png"
+    },
+    {
+        "id": 17637,
+        "name": "S\u00e4tra W",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/17637.png"
+    },
+    {
+        "id": 17638,
+        "name": "Team TG FF W",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/17638.png"
+    },
+    {
+        "id": 17639,
+        "name": "Trelleborg W",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/17639.png"
+    },
+    {
+        "id": 17640,
+        "name": "Trollh\u00e4ttans W",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/17640.png"
+    },
+    {
+        "id": 17641,
+        "name": "V\u00e4rnamo W",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/17641.png"
+    },
+    {
+        "id": 17642,
+        "name": "\u00c4lmhults IF W",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/17642.png"
+    },
+    {
+        "id": 17643,
+        "name": "\u00d6cker\u00f6 W",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/17643.png"
+    },
+    {
+        "id": 17644,
+        "name": "Boo W",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/17644.png"
+    },
+    {
+        "id": 17645,
+        "name": "Liding\u00f6 W",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/17645.png"
+    },
+    {
+        "id": 17698,
+        "name": "Malm\u00f6 FF U19",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/17698.png"
+    },
+    {
+        "id": 17980,
+        "name": "Sweden U17",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/17980.png"
+    },
+    {
+        "id": 18381,
+        "name": "Bergdalens",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/18381.png"
+    },
+    {
+        "id": 18420,
+        "name": "Kiruna FF",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/18420.png"
+    },
+    {
+        "id": 18421,
+        "name": "\u00c4lgarna",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/18421.png"
+    },
+    {
+        "id": 18422,
+        "name": "Herrestads",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/18422.png"
+    },
+    {
+        "id": 18423,
+        "name": "Sifh\u00e4lla",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/18423.png"
+    },
+    {
+        "id": 18424,
+        "name": "Landvetter IS",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/18424.png"
+    },
+    {
+        "id": 18425,
+        "name": "T\u00f6l\u00f6",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/18425.png"
+    },
+    {
+        "id": 18426,
+        "name": "Forsbacka",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/18426.png"
+    },
+    {
+        "id": 18427,
+        "name": "Korsn\u00e4s",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/18427.png"
+    },
+    {
+        "id": 18784,
+        "name": "Uppsala",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/18784.png"
+    },
+    {
+        "id": 18998,
+        "name": "Br\u00e5landa",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/18998.png"
+    },
+    {
+        "id": 18999,
+        "name": "Lucksta",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/18999.png"
+    },
+    {
+        "id": 19000,
+        "name": "Simrishamn",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/19000.png"
+    },
+    {
+        "id": 19001,
+        "name": "\u00c4lmhults",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/19001.png"
+    },
+    {
+        "id": 19011,
+        "name": "F\u00e4rjestaden",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/19011.png"
+    },
+    {
+        "id": 19012,
+        "name": "IK Tun",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/19012.png"
+    },
+    {
+        "id": 19013,
+        "name": "Ope",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/19013.png"
+    },
+    {
+        "id": 19014,
+        "name": "P18",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/19014.png"
+    },
+    {
+        "id": 19015,
+        "name": "Rimbo",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/19015.png"
+    },
+    {
+        "id": 19016,
+        "name": "Roseng\u00e5rd 1917",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/19016.png"
+    },
+    {
+        "id": 19017,
+        "name": "Smedby AIS",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/19017.png"
+    },
+    {
+        "id": 19018,
+        "name": "Sunnan\u00e5",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/19018.png"
+    },
+    {
+        "id": 19019,
+        "name": "S\u00e4ffle",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/19019.png"
+    },
+    {
+        "id": 19020,
+        "name": "Ulricehamn",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/19020.png"
+    },
+    {
+        "id": 19044,
+        "name": "H\u00f6gsby",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/19044.png"
+    },
+    {
+        "id": 19067,
+        "name": "Sweden U19 W",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/19067.png"
+    },
+    {
+        "id": 19316,
+        "name": "Sollentuna W",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/19316.png"
+    },
+    {
+        "id": 20227,
+        "name": "AIK U19",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/20227.png"
+    },
+    {
+        "id": 20820,
+        "name": "H\u00e4cken II",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/20820.png"
+    },
+    {
+        "id": 20834,
+        "name": "Liver Brothers",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/20834.png"
+    },
+    {
+        "id": 20835,
+        "name": "Farsta",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/20835.png"
+    },
+    {
+        "id": 20837,
+        "name": "S\u00e4ffle SK",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/20837.png"
+    },
+    {
+        "id": 20838,
+        "name": "Viggbyholms IK",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/20838.png"
+    },
+    {
+        "id": 20839,
+        "name": "IFK Trelleborg",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/20839.png"
+    },
+    {
+        "id": 20840,
+        "name": "VMA",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/20840.png"
+    },
+    {
+        "id": 20843,
+        "name": "Mpheni Home Defenders",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/20843.png"
+    },
+    {
+        "id": 21030,
+        "name": "Klagshamn",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/21030.png"
+    },
+    {
+        "id": 21204,
+        "name": "Veberods",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/21204.png"
+    },
+    {
+        "id": 21298,
+        "name": "Mali U17",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/21298.png"
+    },
+    {
+        "id": 21300,
+        "name": "South Africa U17",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/21300.png"
+    },
+    {
+        "id": 21309,
+        "name": "Zenith",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/21309.png"
+    },
+    {
+        "id": 21357,
+        "name": "G\u00f6teborgs FF",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/21357.png"
+    },
+    {
+        "id": 21358,
+        "name": "Hemga\u030ardarnas",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/21358.png"
+    },
+    {
+        "id": 21359,
+        "name": "Jonsered",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/21359.png"
+    },
+    {
+        "id": 21360,
+        "name": "J\u00f6nk\u00f6pings BK",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/21360.png"
+    },
+    {
+        "id": 21361,
+        "name": "Katrineholms SK",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/21361.png"
+    },
+    {
+        "id": 21362,
+        "name": "Roslagsbro",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/21362.png"
+    },
+    {
+        "id": 21363,
+        "name": "Sk\u00e5 IK Bygdeg\u00e5rd",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/21363.png"
+    },
+    {
+        "id": 21364,
+        "name": "Torestorp-\u00c4lekulla",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/21364.png"
+    },
+    {
+        "id": 21365,
+        "name": "Torstorps",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/21365.png"
+    },
+    {
+        "id": 21366,
+        "name": "\u00c5sarp-Tr\u00e4det",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/21366.png"
+    },
+    {
+        "id": 21435,
+        "name": "Ariana",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/21435.png"
+    },
+    {
+        "id": 21691,
+        "name": "Bankeryds",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/21691.png"
+    },
+    {
+        "id": 21692,
+        "name": "Brage",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/21692.png"
+    },
+    {
+        "id": 21693,
+        "name": "Elfsborg",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/21693.png"
+    },
+    {
+        "id": 21694,
+        "name": "Ramdala",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/21694.png"
+    },
+    {
+        "id": 21695,
+        "name": "\u00d6rgryte",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/21695.png"
+    },
+    {
+        "id": 21696,
+        "name": "IFK G\u00f6teborg W",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/21696.png"
+    },
+    {
+        "id": 21697,
+        "name": "Kramfors-Alliansen W",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/21697.png"
+    },
+    {
+        "id": 21698,
+        "name": "Malm\u00f6 FF W",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/21698.png"
+    },
+    {
+        "id": 21699,
+        "name": "V\u00e4nersborgs FK W",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/21699.png"
+    },
+    {
+        "id": 22726,
+        "name": "Sweden U16",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/22726.png"
+    },
+    {
+        "id": 22932,
+        "name": "Falu BS",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/22932.png"
+    },
+    {
+        "id": 22933,
+        "name": "\u00d6cker\u00f6",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/22933.png"
+    },
+    {
+        "id": 22934,
+        "name": "Bergdalens",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/22934.png"
+    },
+    {
+        "id": 22935,
+        "name": "Kongah\u00e4lla",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/22935.png"
+    },
+    {
+        "id": 22936,
+        "name": "Ljungsbro",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/22936.png"
+    },
+    {
+        "id": 23626,
+        "name": "Sweden U17 W",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/23626.png"
+    },
+    {
+        "id": 23653,
+        "name": "Borens",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/23653.png"
+    },
+    {
+        "id": 23654,
+        "name": "G\u00f6taholm",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/23654.png"
+    },
+    {
+        "id": 23655,
+        "name": "Haga",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/23655.png"
+    },
+    {
+        "id": 23656,
+        "name": "Kristianopels",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/23656.png"
+    },
+    {
+        "id": 23657,
+        "name": "Stegeborgs",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/23657.png"
+    },
+    {
+        "id": 23658,
+        "name": "Styrs\u00f6",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/23658.png"
+    },
+    {
+        "id": 23659,
+        "name": "Sunnersta",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/23659.png"
+    },
+    {
+        "id": 23660,
+        "name": "Tidaholms GoIF",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/23660.png"
+    },
+    {
+        "id": 23661,
+        "name": "Timmernabbens",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/23661.png"
+    },
+    {
+        "id": 23671,
+        "name": "\u00c5rsunda",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/23671.png"
+    },
+    {
+        "id": 24030,
+        "name": "Kubikenborg",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/24030.png"
+    },
+    {
+        "id": 24079,
+        "name": "Lilla Torg",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/24079.png"
+    },
+    {
+        "id": 24080,
+        "name": "Segeltorp",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/24080.png"
+    },
+    {
+        "id": 24081,
+        "name": "Skellefte\u00e5 FC",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/24081.png"
+    },
+    {
+        "id": 24082,
+        "name": "Spjutstorp",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/24082.png"
+    },
+    {
+        "id": 24083,
+        "name": "Sturehov",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/24083.png"
+    },
+    {
+        "id": 24084,
+        "name": "Tjust",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/24084.png"
+    },
+    {
+        "id": 24085,
+        "name": "Varberg",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/24085.png"
+    },
+    {
+        "id": 24086,
+        "name": "Helsingborg W",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/24086.png"
+    },
+    {
+        "id": 24087,
+        "name": "IFK \u00d6stersund W",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/24087.png"
+    },
+    {
+        "id": 24088,
+        "name": "Utsikten W",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/teams/24088.png"
+    }
+]

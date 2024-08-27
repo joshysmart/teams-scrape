@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1550,
+        "name": "Yemen",
+        "country": "Yemen",
+        "logo": "https://media.api-sports.io/football/teams/1550.png"
+    },
+    {
+        "id": 10965,
+        "name": "Yemen U23",
+        "country": "Yemen",
+        "logo": "https://media.api-sports.io/football/teams/10965.png"
+    },
+    {
+        "id": 17202,
+        "name": "Tadamon",
+        "country": "Yemen",
+        "logo": "https://media.api-sports.io/football/teams/17202.png"
+    },
+    {
+        "id": 19633,
+        "name": "Yemen U20",
+        "country": "Yemen",
+        "logo": "https://media.api-sports.io/football/teams/19633.png"
+    },
+    {
+        "id": 21107,
+        "name": "Fahman",
+        "country": "Yemen",
+        "logo": "https://media.api-sports.io/football/teams/21107.png"
+    },
+    {
+        "id": 23352,
+        "name": "Al Ahli San'a",
+        "country": "Yemen",
+        "logo": "https://media.api-sports.io/football/teams/23352.png"
+    },
+    {
+        "id": 23353,
+        "name": "Al Hilal Hudayda",
+        "country": "Yemen",
+        "logo": "https://media.api-sports.io/football/teams/23353.png"
+    },
+    {
+        "id": 23354,
+        "name": "Al Ittihad Ibb",
+        "country": "Yemen",
+        "logo": "https://media.api-sports.io/football/teams/23354.png"
+    },
+    {
+        "id": 23355,
+        "name": "Al Saqr",
+        "country": "Yemen",
+        "logo": "https://media.api-sports.io/football/teams/23355.png"
+    },
+    {
+        "id": 23356,
+        "name": "Al Sha'ab Hadhramaut",
+        "country": "Yemen",
+        "logo": "https://media.api-sports.io/football/teams/23356.png"
+    },
+    {
+        "id": 23357,
+        "name": "Al Sha'ab Ibb",
+        "country": "Yemen",
+        "logo": "https://media.api-sports.io/football/teams/23357.png"
+    },
+    {
+        "id": 23358,
+        "name": "Al Wahda San'a",
+        "country": "Yemen",
+        "logo": "https://media.api-sports.io/football/teams/23358.png"
+    },
+    {
+        "id": 23359,
+        "name": "Salam",
+        "country": "Yemen",
+        "logo": "https://media.api-sports.io/football/teams/23359.png"
+    },
+    {
+        "id": 23360,
+        "name": "Samaon",
+        "country": "Yemen",
+        "logo": "https://media.api-sports.io/football/teams/23360.png"
+    },
+    {
+        "id": 23361,
+        "name": "Taliat Taiz",
+        "country": "Yemen",
+        "logo": "https://media.api-sports.io/football/teams/23361.png"
+    },
+    {
+        "id": 23362,
+        "name": "Tdamn Hadramawt",
+        "country": "Yemen",
+        "logo": "https://media.api-sports.io/football/teams/23362.png"
+    },
+    {
+        "id": 23363,
+        "name": "Yarmuk al Rawda",
+        "country": "Yemen",
+        "logo": "https://media.api-sports.io/football/teams/23363.png"
+    },
+    {
+        "id": 23364,
+        "name": "Al Urooba",
+        "country": "Yemen",
+        "logo": "https://media.api-sports.io/football/teams/23364.png"
+    }
+]

@@ -1,0 +1,1244 @@
+[
+    {
+        "id": 1941,
+        "name": "Sol de Mayo",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/1941.png"
+    },
+    {
+        "id": 1942,
+        "name": "Sacachispas",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/1942.png"
+    },
+    {
+        "id": 1943,
+        "name": "Atletico Camioneros",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/1943.png"
+    },
+    {
+        "id": 1945,
+        "name": "Defensores Unidos",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/1945.png"
+    },
+    {
+        "id": 1946,
+        "name": "Chaco For Ever",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/1946.png"
+    },
+    {
+        "id": 1947,
+        "name": "Canuelas",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/1947.png"
+    },
+    {
+        "id": 1948,
+        "name": "Atlanta",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/1948.png"
+    },
+    {
+        "id": 1949,
+        "name": "Cipolletti",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/1949.png"
+    },
+    {
+        "id": 1950,
+        "name": "Sportivo Las Parejas",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/1950.png"
+    },
+    {
+        "id": 1951,
+        "name": "Central Norte",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/1951.png"
+    },
+    {
+        "id": 1952,
+        "name": "Pacifico",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/1952.png"
+    },
+    {
+        "id": 1953,
+        "name": "Sarmiento Resistencia",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/1953.png"
+    },
+    {
+        "id": 1954,
+        "name": "Deportivo Maipu",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/1954.png"
+    },
+    {
+        "id": 1955,
+        "name": "General Lamadrid",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/1955.png"
+    },
+    {
+        "id": 1956,
+        "name": "UAI Urquiza",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/1956.png"
+    },
+    {
+        "id": 1957,
+        "name": "Racing Cordoba",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/1957.png"
+    },
+    {
+        "id": 1958,
+        "name": "Lujan",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/1958.png"
+    },
+    {
+        "id": 1959,
+        "name": "Deportivo Rincon",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/1959.png"
+    },
+    {
+        "id": 1960,
+        "name": "Independiente De Chivilcoy",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/1960.png"
+    },
+    {
+        "id": 1961,
+        "name": "Juventud Antoniana",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/1961.png"
+    },
+    {
+        "id": 1962,
+        "name": "Alvarado",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/1962.png"
+    },
+    {
+        "id": 1963,
+        "name": "Midland",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/1963.png"
+    },
+    {
+        "id": 1964,
+        "name": "Victoriano Arenas",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/1964.png"
+    },
+    {
+        "id": 1965,
+        "name": "Tristan Suarez",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/1965.png"
+    },
+    {
+        "id": 1966,
+        "name": "Sportivo Belgrano",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/1966.png"
+    },
+    {
+        "id": 1967,
+        "name": "Central Ballester",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/1967.png"
+    },
+    {
+        "id": 2422,
+        "name": "Real Pilar",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/2422.png"
+    },
+    {
+        "id": 2423,
+        "name": "Deportivo Roca",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/2423.png"
+    },
+    {
+        "id": 2424,
+        "name": "Estudiantes de Rio Cuarto",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/2424.png"
+    },
+    {
+        "id": 2425,
+        "name": "Acassuso",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/2425.png"
+    },
+    {
+        "id": 2426,
+        "name": "Defensores de Belgrano VR",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/2426.png"
+    },
+    {
+        "id": 2427,
+        "name": "Deportivo Armenio",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/2427.png"
+    },
+    {
+        "id": 2428,
+        "name": "Huracan Las Heras",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/2428.png"
+    },
+    {
+        "id": 2429,
+        "name": "Dock Sud",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/2429.png"
+    },
+    {
+        "id": 2430,
+        "name": "Argentino de Merlo",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/2430.png"
+    },
+    {
+        "id": 2432,
+        "name": "Barracas Central",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/2432.png"
+    },
+    {
+        "id": 3941,
+        "name": "AH Zapla",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/3941.png"
+    },
+    {
+        "id": 3942,
+        "name": "Def. de Pronunciamiento",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/3942.png"
+    },
+    {
+        "id": 3943,
+        "name": "Deportivo Camioneros",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/3943.png"
+    },
+    {
+        "id": 3944,
+        "name": "Ferro Carril Oeste LP",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/3944.png"
+    },
+    {
+        "id": 3945,
+        "name": "Gimnasia Concepci\u00f3n",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/3945.png"
+    },
+    {
+        "id": 3946,
+        "name": "Independiente Neuqu\u00e9n",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/3946.png"
+    },
+    {
+        "id": 3947,
+        "name": "Juventud Unida Univ.",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/3947.png"
+    },
+    {
+        "id": 3948,
+        "name": "San Jorge Tucum\u00e1n",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/3948.png"
+    },
+    {
+        "id": 3949,
+        "name": "San Lorenzo Alem",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/3949.png"
+    },
+    {
+        "id": 3950,
+        "name": "Sportivo Desamparados",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/3950.png"
+    },
+    {
+        "id": 3951,
+        "name": "Atletico Pellegrini",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/3951.png"
+    },
+    {
+        "id": 3952,
+        "name": "Atl\u00e9tico San Jorge",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/3952.png"
+    },
+    {
+        "id": 3953,
+        "name": "Deportivo Achirense",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/3953.png"
+    },
+    {
+        "id": 3954,
+        "name": "Ferro Carril Sud",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/3954.png"
+    },
+    {
+        "id": 3955,
+        "name": "Hurac\u00e1n San Rafael",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/3955.png"
+    },
+    {
+        "id": 3956,
+        "name": "Racing Olavarr\u00eda",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/3956.png"
+    },
+    {
+        "id": 3957,
+        "name": "Rivadavia Lincoln",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/3957.png"
+    },
+    {
+        "id": 3958,
+        "name": "Sarmiento Leones",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/3958.png"
+    },
+    {
+        "id": 3959,
+        "name": "Sportivo Patria",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/3959.png"
+    },
+    {
+        "id": 3960,
+        "name": "Sportivo Pe\u00f1arol",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/3960.png"
+    },
+    {
+        "id": 3961,
+        "name": "Uni\u00f3n Villa Krause",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/3961.png"
+    },
+    {
+        "id": 3962,
+        "name": "Almirante Brown de Lules",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/3962.png"
+    },
+    {
+        "id": 3963,
+        "name": "Argentinos 25 de Mayo",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/3963.png"
+    },
+    {
+        "id": 3964,
+        "name": "Atl\u00e9tico Col\u00f3n Junior",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/3964.png"
+    },
+    {
+        "id": 3965,
+        "name": "Atl\u00e9tico Laguna Blanca",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/3965.png"
+    },
+    {
+        "id": 3966,
+        "name": "Belgrano Paran\u00e1",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/3966.png"
+    },
+    {
+        "id": 3967,
+        "name": "Belgrano San Nicol\u00e1s",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/3967.png"
+    },
+    {
+        "id": 3968,
+        "name": "Ben Hur",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/3968.png"
+    },
+    {
+        "id": 3969,
+        "name": "Club Atl\u00e9tico G\u00fcemes",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/3969.png"
+    },
+    {
+        "id": 3970,
+        "name": "Comercio Central Unidos",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/3970.png"
+    },
+    {
+        "id": 3971,
+        "name": "Ferroviario Corrientes",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/3971.png"
+    },
+    {
+        "id": 3972,
+        "name": "Germinal de Rawson",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/3972.png"
+    },
+    {
+        "id": 3973,
+        "name": "Hurac\u00e1n de Comodoro",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/3973.png"
+    },
+    {
+        "id": 3974,
+        "name": "Jorge Newbery CR",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/3974.png"
+    },
+    {
+        "id": 3975,
+        "name": "Kimberley Mar del Plata",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/3975.png"
+    },
+    {
+        "id": 3976,
+        "name": "Sportivo Barracas Col\u00f3n",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/3976.png"
+    },
+    {
+        "id": 3977,
+        "name": "Talleres de Perico",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/3977.png"
+    },
+    {
+        "id": 3978,
+        "name": "Textil Mandiy\u00fa",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/3978.png"
+    },
+    {
+        "id": 3979,
+        "name": "Tiro Federal",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/3979.png"
+    },
+    {
+        "id": 3980,
+        "name": "Tiro Federal Morteros",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/3980.png"
+    },
+    {
+        "id": 3981,
+        "name": "Bella Vista",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/3981.png"
+    },
+    {
+        "id": 3982,
+        "name": "Sol de Am\u00e9rica",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/3982.png"
+    },
+    {
+        "id": 8008,
+        "name": "Comunicaciones",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/8008.png"
+    },
+    {
+        "id": 8374,
+        "name": "F\u00e9nix",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/8374.png"
+    },
+    {
+        "id": 8375,
+        "name": "Almirante Brown",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/8375.png"
+    },
+    {
+        "id": 8376,
+        "name": "Argentino Quilmes",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/8376.png"
+    },
+    {
+        "id": 8377,
+        "name": "Colegiales",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/8377.png"
+    },
+    {
+        "id": 8378,
+        "name": "JJ Urquiza",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/8378.png"
+    },
+    {
+        "id": 8379,
+        "name": "San Miguel",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/8379.png"
+    },
+    {
+        "id": 8380,
+        "name": "Villa San Carlos",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/8380.png"
+    },
+    {
+        "id": 8381,
+        "name": "Deportivo Espa\u00f1ol",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/8381.png"
+    },
+    {
+        "id": 8382,
+        "name": "Berazategui",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/8382.png"
+    },
+    {
+        "id": 8383,
+        "name": "Deportivo Merlo",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/8383.png"
+    },
+    {
+        "id": 8384,
+        "name": "El Porvenir",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/8384.png"
+    },
+    {
+        "id": 8385,
+        "name": "Excursionistas",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/8385.png"
+    },
+    {
+        "id": 8386,
+        "name": "Ituzaing\u00f3",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/8386.png"
+    },
+    {
+        "id": 8387,
+        "name": "San Mart\u00edn Burzaco",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/8387.png"
+    },
+    {
+        "id": 8388,
+        "name": "Sportivo Italiano",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/8388.png"
+    },
+    {
+        "id": 8389,
+        "name": "Argentino Rosario",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/8389.png"
+    },
+    {
+        "id": 8390,
+        "name": "Centro Espa\u00f1ol",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/8390.png"
+    },
+    {
+        "id": 8391,
+        "name": "Claypole",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/8391.png"
+    },
+    {
+        "id": 8392,
+        "name": "Defensores de Cambaceres",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/8392.png"
+    },
+    {
+        "id": 8393,
+        "name": "Deportivo Mu\u00f1iz",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/8393.png"
+    },
+    {
+        "id": 8394,
+        "name": "Deportivo Paraguayo",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/8394.png"
+    },
+    {
+        "id": 8395,
+        "name": "Liniers",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/8395.png"
+    },
+    {
+        "id": 8396,
+        "name": "Lugano",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/8396.png"
+    },
+    {
+        "id": 8397,
+        "name": "Puerto Nuevo",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/8397.png"
+    },
+    {
+        "id": 8398,
+        "name": "Yupanqui",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/8398.png"
+    },
+    {
+        "id": 8399,
+        "name": "Circulo Deportivo",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/8399.png"
+    },
+    {
+        "id": 10187,
+        "name": "Argentina U23",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/10187.png"
+    },
+    {
+        "id": 10284,
+        "name": "Argentina U20",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/10284.png"
+    },
+    {
+        "id": 10692,
+        "name": "Defensores Vr",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/10692.png"
+    },
+    {
+        "id": 11060,
+        "name": "River Plate U20",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/11060.png"
+    },
+    {
+        "id": 11135,
+        "name": "Guaran\u00ed A. Franco",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/11135.png"
+    },
+    {
+        "id": 11136,
+        "name": "Uni\u00f3n Mar del Plata",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/11136.png"
+    },
+    {
+        "id": 11155,
+        "name": "Deportivo Mandiy\u00fa",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/11155.png"
+    },
+    {
+        "id": 11156,
+        "name": "Guti\u00e9rrez",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/11156.png"
+    },
+    {
+        "id": 11157,
+        "name": "Libertad",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/11157.png"
+    },
+    {
+        "id": 11158,
+        "name": "Belgrano Santa Rosa",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/11158.png"
+    },
+    {
+        "id": 11159,
+        "name": "9 de Julio Morteros",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/11159.png"
+    },
+    {
+        "id": 11160,
+        "name": "Alianza Cutral C\u00f3",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/11160.png"
+    },
+    {
+        "id": 11161,
+        "name": "Am\u00e9rico Tesorieri",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/11161.png"
+    },
+    {
+        "id": 11162,
+        "name": "Andino",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/11162.png"
+    },
+    {
+        "id": 11163,
+        "name": "CAI",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/11163.png"
+    },
+    {
+        "id": 11164,
+        "name": "Concepci\u00f3n FC",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/11164.png"
+    },
+    {
+        "id": 11165,
+        "name": "Tiro Federal BB",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/11165.png"
+    },
+    {
+        "id": 11166,
+        "name": "V\u00e9lez de San Ram\u00f3n",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/11166.png"
+    },
+    {
+        "id": 11167,
+        "name": "Alumni",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/11167.png"
+    },
+    {
+        "id": 11168,
+        "name": "Hurac\u00e1n Tres Arroyos",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/11168.png"
+    },
+    {
+        "id": 12500,
+        "name": "Argentina U17",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/12500.png"
+    },
+    {
+        "id": 16612,
+        "name": "Ciudad de Bol\u00edvar",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/16612.png"
+    },
+    {
+        "id": 18660,
+        "name": "Arsenal Res.",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/18660.png"
+    },
+    {
+        "id": 18676,
+        "name": "Aldosivi Res.",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/18676.png"
+    },
+    {
+        "id": 18677,
+        "name": "Argentinos Juniors Res.",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/18677.png"
+    },
+    {
+        "id": 18678,
+        "name": "Atl\u00e9tico Tucum\u00e1n Res.",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/18678.png"
+    },
+    {
+        "id": 18679,
+        "name": "Banfield Res.",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/18679.png"
+    },
+    {
+        "id": 18680,
+        "name": "Barracas Central Res.",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/18680.png"
+    },
+    {
+        "id": 18681,
+        "name": "Boca Juniors Res.",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/18681.png"
+    },
+    {
+        "id": 18682,
+        "name": "Central C\u00f3rdoba SdE Res.",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/18682.png"
+    },
+    {
+        "id": 18683,
+        "name": "Col\u00f3n Res.",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/18683.png"
+    },
+    {
+        "id": 18684,
+        "name": "Defensa y Justicia Res.",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/18684.png"
+    },
+    {
+        "id": 18685,
+        "name": "Estudiantes La Plata Res",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/18685.png"
+    },
+    {
+        "id": 18686,
+        "name": "Gimnasia La Plata Res.",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/18686.png"
+    },
+    {
+        "id": 18687,
+        "name": "Godoy Cruz Res.",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/18687.png"
+    },
+    {
+        "id": 18688,
+        "name": "Hurac\u00e1n Res.",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/18688.png"
+    },
+    {
+        "id": 18689,
+        "name": "Independiente Res.",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/18689.png"
+    },
+    {
+        "id": 18690,
+        "name": "Lan\u00fas Res.",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/18690.png"
+    },
+    {
+        "id": 18691,
+        "name": "Newell's Old Boys Res.",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/18691.png"
+    },
+    {
+        "id": 18692,
+        "name": "Patronato Res.",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/18692.png"
+    },
+    {
+        "id": 18693,
+        "name": "Platense Res.",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/18693.png"
+    },
+    {
+        "id": 18694,
+        "name": "Racing Club Res.",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/18694.png"
+    },
+    {
+        "id": 18695,
+        "name": "River Plate Res.",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/18695.png"
+    },
+    {
+        "id": 18696,
+        "name": "Rosario Central Res.",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/18696.png"
+    },
+    {
+        "id": 18697,
+        "name": "San Lorenzo Res.",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/18697.png"
+    },
+    {
+        "id": 18698,
+        "name": "Sarmiento Res.",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/18698.png"
+    },
+    {
+        "id": 18699,
+        "name": "Talleres C\u00f3rdoba Res.",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/18699.png"
+    },
+    {
+        "id": 18700,
+        "name": "Tigre Res.",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/18700.png"
+    },
+    {
+        "id": 18701,
+        "name": "Uni\u00f3n Santa Fe Res.",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/18701.png"
+    },
+    {
+        "id": 18702,
+        "name": "V\u00e9lez S\u00e1rsfield Res.",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/18702.png"
+    },
+    {
+        "id": 18764,
+        "name": "Argentino Monte Ma\u00edz",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/18764.png"
+    },
+    {
+        "id": 18765,
+        "name": "Liniers Bah\u00eda Blanca",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/18765.png"
+    },
+    {
+        "id": 18915,
+        "name": "Mercedes",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/18915.png"
+    },
+    {
+        "id": 20524,
+        "name": "Boca Juniors W",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/20524.png"
+    },
+    {
+        "id": 20817,
+        "name": "Belgrano C\u00f3rdoba Res.",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/20817.png"
+    },
+    {
+        "id": 20818,
+        "name": "Instituto Res.",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/20818.png"
+    },
+    {
+        "id": 21040,
+        "name": "9 de Julio Rafaela",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/21040.png"
+    },
+    {
+        "id": 21041,
+        "name": "El Linque\u00f1o",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/21041.png"
+    },
+    {
+        "id": 21042,
+        "name": "San Mart\u00edn Mendoza",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/21042.png"
+    },
+    {
+        "id": 21043,
+        "name": "Atenas",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/21043.png"
+    },
+    {
+        "id": 22937,
+        "name": "Deportivo Riestra Res.",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/22937.png"
+    },
+    {
+        "id": 22938,
+        "name": "Independiente Riva. Res.",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/22938.png"
+    },
+    {
+        "id": 23094,
+        "name": "Atletico Pilar",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/23094.png"
+    },
+    {
+        "id": 23095,
+        "name": "Barrancas UMET",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/23095.png"
+    },
+    {
+        "id": 23096,
+        "name": "Belgrano Zarate",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/23096.png"
+    },
+    {
+        "id": 23097,
+        "name": "Defensores Glew",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/23097.png"
+    },
+    {
+        "id": 23098,
+        "name": "Deportivo Metalurgico",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/23098.png"
+    },
+    {
+        "id": 23099,
+        "name": "Estrella Del Sur",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/23099.png"
+    },
+    {
+        "id": 23100,
+        "name": "Estrella de Berisso",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/23100.png"
+    },
+    {
+        "id": 23101,
+        "name": "Everton La Plata",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/23101.png"
+    },
+    {
+        "id": 23102,
+        "name": "Ezeiza",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/23102.png"
+    },
+    {
+        "id": 23103,
+        "name": "Juventud de Bernal",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/23103.png"
+    },
+    {
+        "id": 23104,
+        "name": "Nautico Hacoaj",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/23104.png"
+    },
+    {
+        "id": 23105,
+        "name": "Provincial",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/23105.png"
+    },
+    {
+        "id": 23106,
+        "name": "SAT Moreno",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/23106.png"
+    },
+    {
+        "id": 23255,
+        "name": "Sarmiento de La Banda",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/23255.png"
+    },
+    {
+        "id": 23375,
+        "name": "Argentina U17 W",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/23375.png"
+    },
+    {
+        "id": 24528,
+        "name": "La Libertad",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/24528.png"
+    },
+    {
+        "id": 23255,
+        "name": "Sarmiento de La Banda",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/23255.png"
+    },
+    {
+        "id": 23375,
+        "name": "Argentina U17 W",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/23375.png"
+    },
+    {
+        "id": 24528,
+        "name": "La Libertad",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/24528.png"
+    },
+    {
+        "id": 23255,
+        "name": "Sarmiento de La Banda",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/23255.png"
+    },
+    {
+        "id": 23375,
+        "name": "Argentina U17 W",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/23375.png"
+    },
+    {
+        "id": 24528,
+        "name": "La Libertad",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/24528.png"
+    },
+    {
+        "id": 23255,
+        "name": "Sarmiento de La Banda",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/23255.png"
+    },
+    {
+        "id": 23375,
+        "name": "Argentina U17 W",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/23375.png"
+    },
+    {
+        "id": 24528,
+        "name": "La Libertad",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/24528.png"
+    },
+    {
+        "id": 23255,
+        "name": "Sarmiento de La Banda",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/23255.png"
+    },
+    {
+        "id": 23375,
+        "name": "Argentina U17 W",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/23375.png"
+    },
+    {
+        "id": 24528,
+        "name": "La Libertad",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/24528.png"
+    },
+    {
+        "id": 23255,
+        "name": "Sarmiento de La Banda",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/23255.png"
+    },
+    {
+        "id": 23375,
+        "name": "Argentina U17 W",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/23375.png"
+    },
+    {
+        "id": 24528,
+        "name": "La Libertad",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/24528.png"
+    },
+    {
+        "id": 23255,
+        "name": "Sarmiento de La Banda",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/23255.png"
+    },
+    {
+        "id": 23375,
+        "name": "Argentina U17 W",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/23375.png"
+    },
+    {
+        "id": 24528,
+        "name": "La Libertad",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/24528.png"
+    },
+    {
+        "id": 23255,
+        "name": "Sarmiento de La Banda",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/23255.png"
+    },
+    {
+        "id": 23375,
+        "name": "Argentina U17 W",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/23375.png"
+    },
+    {
+        "id": 24528,
+        "name": "La Libertad",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/24528.png"
+    },
+    {
+        "id": 23255,
+        "name": "Sarmiento de La Banda",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/23255.png"
+    },
+    {
+        "id": 23375,
+        "name": "Argentina U17 W",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/23375.png"
+    },
+    {
+        "id": 24528,
+        "name": "La Libertad",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/teams/24528.png"
+    }
+]

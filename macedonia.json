@@ -1,0 +1,392 @@
+[
+    {
+        "id": 574,
+        "name": "Vardar Skopje",
+        "country": "Macedonia",
+        "logo": "https://media.api-sports.io/football/teams/574.png"
+    },
+    {
+        "id": 609,
+        "name": "Shkendija",
+        "country": "Macedonia",
+        "logo": "https://media.api-sports.io/football/teams/609.png"
+    },
+    {
+        "id": 663,
+        "name": "FK Rabotnicki",
+        "country": "Macedonia",
+        "logo": "https://media.api-sports.io/football/teams/663.png"
+    },
+    {
+        "id": 693,
+        "name": "Pelister",
+        "country": "Macedonia",
+        "logo": "https://media.api-sports.io/football/teams/693.png"
+    },
+    {
+        "id": 1105,
+        "name": "FYR Macedonia",
+        "country": "Macedonia",
+        "logo": "https://media.api-sports.io/football/teams/1105.png"
+    },
+    {
+        "id": 2248,
+        "name": "Drita",
+        "country": "Macedonia",
+        "logo": "https://media.api-sports.io/football/teams/2248.png"
+    },
+    {
+        "id": 2265,
+        "name": "Shkupi 1927",
+        "country": "Macedonia",
+        "logo": "https://media.api-sports.io/football/teams/2265.png"
+    },
+    {
+        "id": 4194,
+        "name": "Akademija Pandev",
+        "country": "Macedonia",
+        "logo": "https://media.api-sports.io/football/teams/4194.png"
+    },
+    {
+        "id": 4196,
+        "name": "Makedonija GjP",
+        "country": "Macedonia",
+        "logo": "https://media.api-sports.io/football/teams/4196.png"
+    },
+    {
+        "id": 4328,
+        "name": "Belasica",
+        "country": "Macedonia",
+        "logo": "https://media.api-sports.io/football/teams/4328.png"
+    },
+    {
+        "id": 4329,
+        "name": "Pobeda",
+        "country": "Macedonia",
+        "logo": "https://media.api-sports.io/football/teams/4329.png"
+    },
+    {
+        "id": 4330,
+        "name": "Renova",
+        "country": "Macedonia",
+        "logo": "https://media.api-sports.io/football/teams/4330.png"
+    },
+    {
+        "id": 4331,
+        "name": "Sileks",
+        "country": "Macedonia",
+        "logo": "https://media.api-sports.io/football/teams/4331.png"
+    },
+    {
+        "id": 4332,
+        "name": "Skopje",
+        "country": "Macedonia",
+        "logo": "https://media.api-sports.io/football/teams/4332.png"
+    },
+    {
+        "id": 4333,
+        "name": "Bregalnica \u0160tip",
+        "country": "Macedonia",
+        "logo": "https://media.api-sports.io/football/teams/4333.png"
+    },
+    {
+        "id": 4334,
+        "name": "Borec",
+        "country": "Macedonia",
+        "logo": "https://media.api-sports.io/football/teams/4334.png"
+    },
+    {
+        "id": 4335,
+        "name": "Detonit Junior",
+        "country": "Macedonia",
+        "logo": "https://media.api-sports.io/football/teams/4335.png"
+    },
+    {
+        "id": 4336,
+        "name": "Gench Kalemler",
+        "country": "Macedonia",
+        "logo": "https://media.api-sports.io/football/teams/4336.png"
+    },
+    {
+        "id": 4337,
+        "name": "Goblen Junior Kumanovo",
+        "country": "Macedonia",
+        "logo": "https://media.api-sports.io/football/teams/4337.png"
+    },
+    {
+        "id": 4338,
+        "name": "KF Gostivari",
+        "country": "Macedonia",
+        "logo": "https://media.api-sports.io/football/teams/4338.png"
+    },
+    {
+        "id": 4339,
+        "name": "Korab Debar",
+        "country": "Macedonia",
+        "logo": "https://media.api-sports.io/football/teams/4339.png"
+    },
+    {
+        "id": 4340,
+        "name": "Kozuv Gevgelija",
+        "country": "Macedonia",
+        "logo": "https://media.api-sports.io/football/teams/4340.png"
+    },
+    {
+        "id": 4341,
+        "name": "Labunishta",
+        "country": "Macedonia",
+        "logo": "https://media.api-sports.io/football/teams/4341.png"
+    },
+    {
+        "id": 4342,
+        "name": "Partizan Obrshani",
+        "country": "Macedonia",
+        "logo": "https://media.api-sports.io/football/teams/4342.png"
+    },
+    {
+        "id": 4343,
+        "name": "Pehchevo",
+        "country": "Macedonia",
+        "logo": "https://media.api-sports.io/football/teams/4343.png"
+    },
+    {
+        "id": 4344,
+        "name": "Pla\u010dkovica",
+        "country": "Macedonia",
+        "logo": "https://media.api-sports.io/football/teams/4344.png"
+    },
+    {
+        "id": 4345,
+        "name": "Sasa",
+        "country": "Macedonia",
+        "logo": "https://media.api-sports.io/football/teams/4345.png"
+    },
+    {
+        "id": 4346,
+        "name": "Struga",
+        "country": "Macedonia",
+        "logo": "https://media.api-sports.io/football/teams/4346.png"
+    },
+    {
+        "id": 4347,
+        "name": "Teteks",
+        "country": "Macedonia",
+        "logo": "https://media.api-sports.io/football/teams/4347.png"
+    },
+    {
+        "id": 4348,
+        "name": "Tikve\u0161",
+        "country": "Macedonia",
+        "logo": "https://media.api-sports.io/football/teams/4348.png"
+    },
+    {
+        "id": 4349,
+        "name": "Vardar Negotino",
+        "country": "Macedonia",
+        "logo": "https://media.api-sports.io/football/teams/4349.png"
+    },
+    {
+        "id": 4350,
+        "name": "Velazerimi 77",
+        "country": "Macedonia",
+        "logo": "https://media.api-sports.io/football/teams/4350.png"
+    },
+    {
+        "id": 4351,
+        "name": "Gorno Lisi\u010de",
+        "country": "Macedonia",
+        "logo": "https://media.api-sports.io/football/teams/4351.png"
+    },
+    {
+        "id": 4352,
+        "name": "Lokomotiva",
+        "country": "Macedonia",
+        "logo": "https://media.api-sports.io/football/teams/4352.png"
+    },
+    {
+        "id": 4353,
+        "name": "Novaci",
+        "country": "Macedonia",
+        "logo": "https://media.api-sports.io/football/teams/4353.png"
+    },
+    {
+        "id": 4354,
+        "name": "Osogovo",
+        "country": "Macedonia",
+        "logo": "https://media.api-sports.io/football/teams/4354.png"
+    },
+    {
+        "id": 4355,
+        "name": "Pobeda Valandovo",
+        "country": "Macedonia",
+        "logo": "https://media.api-sports.io/football/teams/4355.png"
+    },
+    {
+        "id": 4356,
+        "name": "Turnovo",
+        "country": "Macedonia",
+        "logo": "https://media.api-sports.io/football/teams/4356.png"
+    },
+    {
+        "id": 4357,
+        "name": "Zajazi",
+        "country": "Macedonia",
+        "logo": "https://media.api-sports.io/football/teams/4357.png"
+    },
+    {
+        "id": 6289,
+        "name": "Kadino",
+        "country": "Macedonia",
+        "logo": "https://media.api-sports.io/football/teams/6289.png"
+    },
+    {
+        "id": 6290,
+        "name": "Ohrid",
+        "country": "Macedonia",
+        "logo": "https://media.api-sports.io/football/teams/6290.png"
+    },
+    {
+        "id": 6291,
+        "name": "Pitu Guli",
+        "country": "Macedonia",
+        "logo": "https://media.api-sports.io/football/teams/6291.png"
+    },
+    {
+        "id": 6292,
+        "name": "Vardar Forino",
+        "country": "Macedonia",
+        "logo": "https://media.api-sports.io/football/teams/6292.png"
+    },
+    {
+        "id": 14273,
+        "name": "Rosoman",
+        "country": "Macedonia",
+        "logo": "https://media.api-sports.io/football/teams/14273.png"
+    },
+    {
+        "id": 14275,
+        "name": "Veleshta",
+        "country": "Macedonia",
+        "logo": "https://media.api-sports.io/football/teams/14275.png"
+    },
+    {
+        "id": 16127,
+        "name": "Ljuboten",
+        "country": "Macedonia",
+        "logo": "https://media.api-sports.io/football/teams/16127.png"
+    },
+    {
+        "id": 17144,
+        "name": "Karaorman",
+        "country": "Macedonia",
+        "logo": "https://media.api-sports.io/football/teams/17144.png"
+    },
+    {
+        "id": 17660,
+        "name": "Besa Dob\u00ebrdoll",
+        "country": "Macedonia",
+        "logo": "https://media.api-sports.io/football/teams/17660.png"
+    },
+    {
+        "id": 17661,
+        "name": "Bratstvo Zhitoshe",
+        "country": "Macedonia",
+        "logo": "https://media.api-sports.io/football/teams/17661.png"
+    },
+    {
+        "id": 17662,
+        "name": "Tim Lokomotiva",
+        "country": "Macedonia",
+        "logo": "https://media.api-sports.io/football/teams/17662.png"
+    },
+    {
+        "id": 17663,
+        "name": "Voska Sport",
+        "country": "Macedonia",
+        "logo": "https://media.api-sports.io/football/teams/17663.png"
+    },
+    {
+        "id": 17733,
+        "name": "New Stars",
+        "country": "Macedonia",
+        "logo": "https://media.api-sports.io/football/teams/17733.png"
+    },
+    {
+        "id": 19750,
+        "name": "BVK Konjari",
+        "country": "Macedonia",
+        "logo": "https://media.api-sports.io/football/teams/19750.png"
+    },
+    {
+        "id": 19751,
+        "name": "Fortuna Skopje",
+        "country": "Macedonia",
+        "logo": "https://media.api-sports.io/football/teams/19751.png"
+    },
+    {
+        "id": 19752,
+        "name": "Karbinci",
+        "country": "Macedonia",
+        "logo": "https://media.api-sports.io/football/teams/19752.png"
+    },
+    {
+        "id": 19753,
+        "name": "Aresimi",
+        "country": "Macedonia",
+        "logo": "https://media.api-sports.io/football/teams/19753.png"
+    },
+    {
+        "id": 19754,
+        "name": "Detonit Plachkovica",
+        "country": "Macedonia",
+        "logo": "https://media.api-sports.io/football/teams/19754.png"
+    },
+    {
+        "id": 19836,
+        "name": "Ljuboten W",
+        "country": "Macedonia",
+        "logo": "https://media.api-sports.io/football/teams/19836.png"
+    },
+    {
+        "id": 22153,
+        "name": "Bashkimi Kumanovo",
+        "country": "Macedonia",
+        "logo": "https://media.api-sports.io/football/teams/22153.png"
+    },
+    {
+        "id": 22355,
+        "name": "Young Team",
+        "country": "Macedonia",
+        "logo": "https://media.api-sports.io/football/teams/22355.png"
+    },
+    {
+        "id": 24652,
+        "name": "Vardarski",
+        "country": "Macedonia",
+        "logo": "https://media.api-sports.io/football/teams/24652.png"
+    },
+    {
+        "id": 24780,
+        "name": "Jenimaale Bitola",
+        "country": "Macedonia",
+        "logo": "https://media.api-sports.io/football/teams/24780.png"
+    },
+    {
+        "id": 24781,
+        "name": "Shk\u00ebndija Hara\u00e7in\u00eb",
+        "country": "Macedonia",
+        "logo": "https://media.api-sports.io/football/teams/24781.png"
+    },
+    {
+        "id": 24782,
+        "name": "Sloboden Skopje",
+        "country": "Macedonia",
+        "logo": "https://media.api-sports.io/football/teams/24782.png"
+    },
+    {
+        "id": 24783,
+        "name": "Xhep\u00e7ishti",
+        "country": "Macedonia",
+        "logo": "https://media.api-sports.io/football/teams/24783.png"
+    }
+]

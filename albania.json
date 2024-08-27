@@ -1,0 +1,506 @@
+[
+    {
+        "id": 577,
+        "name": "FK Kukesi",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/577.png"
+    },
+    {
+        "id": 605,
+        "name": "Skenderbeu Korce",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/605.png"
+    },
+    {
+        "id": 694,
+        "name": "Tirana",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/694.png"
+    },
+    {
+        "id": 708,
+        "name": "Partizani",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/708.png"
+    },
+    {
+        "id": 778,
+        "name": "Albania",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/778.png"
+    },
+    {
+        "id": 1751,
+        "name": "Albania W",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/1751.png"
+    },
+    {
+        "id": 2256,
+        "name": "Laci",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/2256.png"
+    },
+    {
+        "id": 2261,
+        "name": "Luftetari Gjirokaster",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/2261.png"
+    },
+    {
+        "id": 3317,
+        "name": "Flamurtari",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/3317.png"
+    },
+    {
+        "id": 3318,
+        "name": "Kamza",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/3318.png"
+    },
+    {
+        "id": 3319,
+        "name": "Kastrioti Kruj\u00eb",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/3319.png"
+    },
+    {
+        "id": 3320,
+        "name": "Teuta Durr\u00ebs",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/3320.png"
+    },
+    {
+        "id": 3321,
+        "name": "Apolonia Fier",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/3321.png"
+    },
+    {
+        "id": 3322,
+        "name": "Besa Kavaj\u00eb",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/3322.png"
+    },
+    {
+        "id": 3323,
+        "name": "Bes\u00eblidhja Lezh\u00eb",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/3323.png"
+    },
+    {
+        "id": 3324,
+        "name": "Burreli",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/3324.png"
+    },
+    {
+        "id": 3325,
+        "name": "Bylis",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/3325.png"
+    },
+    {
+        "id": 3326,
+        "name": "Dinamo Tirana",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/3326.png"
+    },
+    {
+        "id": 3327,
+        "name": "Egnatia Rrogozhin\u00eb",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/3327.png"
+    },
+    {
+        "id": 3328,
+        "name": "Elbasani",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/3328.png"
+    },
+    {
+        "id": 3329,
+        "name": "Erzeni Shijak",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/3329.png"
+    },
+    {
+        "id": 3330,
+        "name": "Iliria Fush\u00eb-Kruj\u00eb",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/3330.png"
+    },
+    {
+        "id": 3331,
+        "name": "Korabi Peshkopi",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/3331.png"
+    },
+    {
+        "id": 3332,
+        "name": "Lushnja",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/3332.png"
+    },
+    {
+        "id": 3333,
+        "name": "Oriku",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/3333.png"
+    },
+    {
+        "id": 3334,
+        "name": "Pogradeci",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/3334.png"
+    },
+    {
+        "id": 3335,
+        "name": "Sh\u00ebnkolli",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/3335.png"
+    },
+    {
+        "id": 3336,
+        "name": "Tomori Berat",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/3336.png"
+    },
+    {
+        "id": 3337,
+        "name": "Turbina C\u00ebrrik",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/3337.png"
+    },
+    {
+        "id": 3338,
+        "name": "Vele\u00e7iku Koplik",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/3338.png"
+    },
+    {
+        "id": 3339,
+        "name": "Vllaznia Shkod\u00ebr",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/3339.png"
+    },
+    {
+        "id": 3340,
+        "name": "Vora",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/3340.png"
+    },
+    {
+        "id": 3834,
+        "name": "Naft\u00ebtari Ku\u00e7ov\u00eb",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/3834.png"
+    },
+    {
+        "id": 3835,
+        "name": "Shkumbini Peqin",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/3835.png"
+    },
+    {
+        "id": 3836,
+        "name": "T\u00ebrbuni Puk\u00eb",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/3836.png"
+    },
+    {
+        "id": 3837,
+        "name": "Vllaznia Shkod\u00ebr II",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/3837.png"
+    },
+    {
+        "id": 3838,
+        "name": "Mamurrasi",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/3838.png"
+    },
+    {
+        "id": 3839,
+        "name": "Sopoti Librazhd",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/3839.png"
+    },
+    {
+        "id": 4670,
+        "name": "Ada Velipoj\u00eb",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/4670.png"
+    },
+    {
+        "id": 4671,
+        "name": "Butrinti Sarand\u00eb",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/4671.png"
+    },
+    {
+        "id": 7507,
+        "name": "Devolli",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/7507.png"
+    },
+    {
+        "id": 7932,
+        "name": "Shk\u00ebndija Tiran\u00eb U19",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/7932.png"
+    },
+    {
+        "id": 8177,
+        "name": "Albania U21",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/8177.png"
+    },
+    {
+        "id": 9379,
+        "name": "Morocco A'",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/9379.png"
+    },
+    {
+        "id": 10354,
+        "name": "Albania U19",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/10354.png"
+    },
+    {
+        "id": 10702,
+        "name": "Albpetrol Patos",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/10702.png"
+    },
+    {
+        "id": 10703,
+        "name": "Himara",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/10703.png"
+    },
+    {
+        "id": 10704,
+        "name": "Gramshi",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/10704.png"
+    },
+    {
+        "id": 10705,
+        "name": "Gramozi Ersek\u00eb",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/10705.png"
+    },
+    {
+        "id": 10706,
+        "name": "Skrapari",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/10706.png"
+    },
+    {
+        "id": 10707,
+        "name": "Vlora",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/10707.png"
+    },
+    {
+        "id": 10716,
+        "name": "Internacional Tirana",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/10716.png"
+    },
+    {
+        "id": 10717,
+        "name": "Kevitan",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/10717.png"
+    },
+    {
+        "id": 10718,
+        "name": "Klosi",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/10718.png"
+    },
+    {
+        "id": 10719,
+        "name": "Kuk\u00ebsi II",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/10719.png"
+    },
+    {
+        "id": 10720,
+        "name": "Luzi 2008",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/10720.png"
+    },
+    {
+        "id": 10721,
+        "name": "Partizani Tirana II",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/10721.png"
+    },
+    {
+        "id": 10722,
+        "name": "Spartaku Tiran\u00eb",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/10722.png"
+    },
+    {
+        "id": 10723,
+        "name": "Tirana II",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/10723.png"
+    },
+    {
+        "id": 10724,
+        "name": "Delvina",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/10724.png"
+    },
+    {
+        "id": 10725,
+        "name": "K\u00eblcyra",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/10725.png"
+    },
+    {
+        "id": 10726,
+        "name": "Maliqi",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/10726.png"
+    },
+    {
+        "id": 10727,
+        "name": "Memaliaj",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/10727.png"
+    },
+    {
+        "id": 10728,
+        "name": "P\u00ebrmeti",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/10728.png"
+    },
+    {
+        "id": 10729,
+        "name": "Tepelena",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/10729.png"
+    },
+    {
+        "id": 10730,
+        "name": "Term",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/10730.png"
+    },
+    {
+        "id": 10731,
+        "name": "Domosdova Prrenjas",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/10731.png"
+    },
+    {
+        "id": 10906,
+        "name": "Vllaznia",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/10906.png"
+    },
+    {
+        "id": 11143,
+        "name": "Sukthi",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/11143.png"
+    },
+    {
+        "id": 11144,
+        "name": "Olimpiku Tiran\u00eb",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/11144.png"
+    },
+    {
+        "id": 11145,
+        "name": "Teuta Durr\u00ebs II",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/11145.png"
+    },
+    {
+        "id": 11146,
+        "name": "Pashtriku Has",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/11146.png"
+    },
+    {
+        "id": 11147,
+        "name": "Bilisht Sporti",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/11147.png"
+    },
+    {
+        "id": 14611,
+        "name": "Mirdita",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/14611.png"
+    },
+    {
+        "id": 14612,
+        "name": "Selenic\u00eb",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/14612.png"
+    },
+    {
+        "id": 15510,
+        "name": "Bulqiza",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/15510.png"
+    },
+    {
+        "id": 15511,
+        "name": "Valbona",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/15511.png"
+    },
+    {
+        "id": 15512,
+        "name": "Lab\u00ebria",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/15512.png"
+    },
+    {
+        "id": 17739,
+        "name": "Murlani",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/17739.png"
+    },
+    {
+        "id": 17740,
+        "name": "Luft\u00ebtari",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/17740.png"
+    },
+    {
+        "id": 17936,
+        "name": "Albania U17",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/17936.png"
+    },
+    {
+        "id": 20406,
+        "name": "AF Elbasani",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/20406.png"
+    },
+    {
+        "id": 22351,
+        "name": "Adriatiku",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/22351.png"
+    },
+    {
+        "id": 22352,
+        "name": "Alban\u00ebt",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/teams/22352.png"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "id": 591,
+        "name": "FC Santa Coloma",
+        "country": "Andorra",
+        "logo": "https://media.api-sports.io/football/teams/591.png"
+    },
+    {
+        "id": 674,
+        "name": "UE Sant Julia",
+        "country": "Andorra",
+        "logo": "https://media.api-sports.io/football/teams/674.png"
+    },
+    {
+        "id": 703,
+        "name": "UE Santa Coloma",
+        "country": "Andorra",
+        "logo": "https://media.api-sports.io/football/teams/703.png"
+    },
+    {
+        "id": 1110,
+        "name": "Andorra",
+        "country": "Andorra",
+        "logo": "https://media.api-sports.io/football/teams/1110.png"
+    },
+    {
+        "id": 1756,
+        "name": "Andorra W",
+        "country": "Andorra",
+        "logo": "https://media.api-sports.io/football/teams/1756.png"
+    },
+    {
+        "id": 2268,
+        "name": "UE Engordany",
+        "country": "Andorra",
+        "logo": "https://media.api-sports.io/football/teams/2268.png"
+    },
+    {
+        "id": 3341,
+        "name": "Encamp",
+        "country": "Andorra",
+        "logo": "https://media.api-sports.io/football/teams/3341.png"
+    },
+    {
+        "id": 3342,
+        "name": "Inter Club d'Escaldes",
+        "country": "Andorra",
+        "logo": "https://media.api-sports.io/football/teams/3342.png"
+    },
+    {
+        "id": 3343,
+        "name": "Lusitanos",
+        "country": "Andorra",
+        "logo": "https://media.api-sports.io/football/teams/3343.png"
+    },
+    {
+        "id": 3344,
+        "name": "Ordino",
+        "country": "Andorra",
+        "logo": "https://media.api-sports.io/football/teams/3344.png"
+    }
+]

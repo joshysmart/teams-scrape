@@ -1,0 +1,758 @@
+[
+    {
+        "id": 1531,
+        "name": "South Africa",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/1531.png"
+    },
+    {
+        "id": 1978,
+        "name": "South Africa W",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/1978.png"
+    },
+    {
+        "id": 2661,
+        "name": "Black Leopards",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/2661.png"
+    },
+    {
+        "id": 2662,
+        "name": "Cape Town ALL Stars",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/2662.png"
+    },
+    {
+        "id": 2663,
+        "name": "FC Cape Town",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/2663.png"
+    },
+    {
+        "id": 2664,
+        "name": "Jomo Cosmos",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/2664.png"
+    },
+    {
+        "id": 2665,
+        "name": "Mbombela United",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/2665.png"
+    },
+    {
+        "id": 2666,
+        "name": "Real Kings FC",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/2666.png"
+    },
+    {
+        "id": 2667,
+        "name": "Stellenbosch FC",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/2667.png"
+    },
+    {
+        "id": 2668,
+        "name": "Witbank Spurs",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/2668.png"
+    },
+    {
+        "id": 2669,
+        "name": "Amazulu",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/2669.png"
+    },
+    {
+        "id": 2670,
+        "name": "Magesi FC",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/2670.png"
+    },
+    {
+        "id": 2671,
+        "name": "Milano United",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/2671.png"
+    },
+    {
+        "id": 2672,
+        "name": "Mthatha Bucks",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/2672.png"
+    },
+    {
+        "id": 2673,
+        "name": "Royal Eagles",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/2673.png"
+    },
+    {
+        "id": 2674,
+        "name": "Santos FC",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/2674.png"
+    },
+    {
+        "id": 2675,
+        "name": "Thanda Royal Zulu FC",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/2675.png"
+    },
+    {
+        "id": 2676,
+        "name": "Univ. OF Pretoria FC",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/2676.png"
+    },
+    {
+        "id": 2677,
+        "name": "Super Eagles",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/2677.png"
+    },
+    {
+        "id": 2678,
+        "name": "Ubuntu Cape Town FC",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/2678.png"
+    },
+    {
+        "id": 2679,
+        "name": "Uthongathi FC",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/2679.png"
+    },
+    {
+        "id": 2680,
+        "name": "Highlands Park FC",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/2680.png"
+    },
+    {
+        "id": 2681,
+        "name": "Richards BAY FC",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/2681.png"
+    },
+    {
+        "id": 2682,
+        "name": "Marumo Gallants",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/2682.png"
+    },
+    {
+        "id": 2683,
+        "name": "Ajax Cape Town",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/2683.png"
+    },
+    {
+        "id": 2684,
+        "name": "Maccabi",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/2684.png"
+    },
+    {
+        "id": 2685,
+        "name": "Ts Sporting",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/2685.png"
+    },
+    {
+        "id": 2686,
+        "name": "Cape Umoya United FC",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/2686.png"
+    },
+    {
+        "id": 2687,
+        "name": "TS Galaxy FC",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/2687.png"
+    },
+    {
+        "id": 2688,
+        "name": "Baroka FC",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/2688.png"
+    },
+    {
+        "id": 2689,
+        "name": "Free State Stars",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/2689.png"
+    },
+    {
+        "id": 2690,
+        "name": "Golden Arrows",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/2690.png"
+    },
+    {
+        "id": 2691,
+        "name": "Kaizer Chiefs",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/2691.png"
+    },
+    {
+        "id": 2692,
+        "name": "Maritzburg Utd",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/2692.png"
+    },
+    {
+        "id": 2693,
+        "name": "Polokwane City",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/2693.png"
+    },
+    {
+        "id": 2694,
+        "name": "Supersport United",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/2694.png"
+    },
+    {
+        "id": 2695,
+        "name": "Bidvest Wits",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/2695.png"
+    },
+    {
+        "id": 2696,
+        "name": "Bloem Celtic",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/2696.png"
+    },
+    {
+        "id": 2697,
+        "name": "Cape Town City",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/2697.png"
+    },
+    {
+        "id": 2698,
+        "name": "Chippa United",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/2698.png"
+    },
+    {
+        "id": 2699,
+        "name": "Mamelodi Sundowns",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/2699.png"
+    },
+    {
+        "id": 2700,
+        "name": "Orlando Pirates",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/2700.png"
+    },
+    {
+        "id": 2701,
+        "name": "Platinum Stars",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/2701.png"
+    },
+    {
+        "id": 4905,
+        "name": "Stellenbosch",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/4905.png"
+    },
+    {
+        "id": 8074,
+        "name": "TS Galaxy",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/8074.png"
+    },
+    {
+        "id": 10195,
+        "name": "South Africa U23",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/10195.png"
+    },
+    {
+        "id": 10303,
+        "name": "South Africa U20",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/10303.png"
+    },
+    {
+        "id": 10558,
+        "name": "Amavarara",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/10558.png"
+    },
+    {
+        "id": 10559,
+        "name": "Cape Umoya United",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/10559.png"
+    },
+    {
+        "id": 10560,
+        "name": "Happy Wanderers",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/10560.png"
+    },
+    {
+        "id": 10561,
+        "name": "Hungry Lions",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/10561.png"
+    },
+    {
+        "id": 10562,
+        "name": "JDR Stars",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/10562.png"
+    },
+    {
+        "id": 10563,
+        "name": "Moroka Swallows",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/10563.png"
+    },
+    {
+        "id": 10564,
+        "name": "NWU Students",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/10564.png"
+    },
+    {
+        "id": 10565,
+        "name": "Passion",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/10565.png"
+    },
+    {
+        "id": 10566,
+        "name": "Royal AM",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/10566.png"
+    },
+    {
+        "id": 10567,
+        "name": "Richards Bay",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/10567.png"
+    },
+    {
+        "id": 10568,
+        "name": "Steenberg United",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/10568.png"
+    },
+    {
+        "id": 10569,
+        "name": "University of Pretoria",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/10569.png"
+    },
+    {
+        "id": 10570,
+        "name": "Uthongathi",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/10570.png"
+    },
+    {
+        "id": 10571,
+        "name": "VUT Students",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/10571.png"
+    },
+    {
+        "id": 10572,
+        "name": "Zizwe United",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/10572.png"
+    },
+    {
+        "id": 10573,
+        "name": "Boyne Tigers",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/10573.png"
+    },
+    {
+        "id": 10574,
+        "name": "NC Pro's",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/10574.png"
+    },
+    {
+        "id": 10575,
+        "name": "The Magic",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/10575.png"
+    },
+    {
+        "id": 10576,
+        "name": "Tjakastad Junior Shepard",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/10576.png"
+    },
+    {
+        "id": 10577,
+        "name": "Tornado",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/10577.png"
+    },
+    {
+        "id": 10578,
+        "name": "Ubuntu Cape Town",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/10578.png"
+    },
+    {
+        "id": 10579,
+        "name": "Umvoti",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/10579.png"
+    },
+    {
+        "id": 10580,
+        "name": "EC Bees",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/10580.png"
+    },
+    {
+        "id": 10581,
+        "name": "Mariveni United",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/10581.png"
+    },
+    {
+        "id": 10582,
+        "name": "Orbit College",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/10582.png"
+    },
+    {
+        "id": 10583,
+        "name": "Phiva Young Stars",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/10583.png"
+    },
+    {
+        "id": 10584,
+        "name": "Young Tigers",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/10584.png"
+    },
+    {
+        "id": 15537,
+        "name": "Sekhukhune United",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/15537.png"
+    },
+    {
+        "id": 15538,
+        "name": "Bizana Pondo Chiefs",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/15538.png"
+    },
+    {
+        "id": 15539,
+        "name": "Pretoria Callies",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/15539.png"
+    },
+    {
+        "id": 15985,
+        "name": "AmaZulu U23",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/15985.png"
+    },
+    {
+        "id": 15986,
+        "name": "Baroka U23",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/15986.png"
+    },
+    {
+        "id": 15987,
+        "name": "Black Leopards U23",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/15987.png"
+    },
+    {
+        "id": 15988,
+        "name": "Bloemfontein Celtic U23",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/15988.png"
+    },
+    {
+        "id": 15989,
+        "name": "Cape Town City U23",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/15989.png"
+    },
+    {
+        "id": 15990,
+        "name": "Chippa United U23",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/15990.png"
+    },
+    {
+        "id": 15991,
+        "name": "Golden Arrows U23",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/15991.png"
+    },
+    {
+        "id": 15992,
+        "name": "Kaizer Chiefs U23",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/15992.png"
+    },
+    {
+        "id": 15993,
+        "name": "Mamelodi Sundowns U23",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/15993.png"
+    },
+    {
+        "id": 15994,
+        "name": "Maritzburg United U23",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/15994.png"
+    },
+    {
+        "id": 15995,
+        "name": "Orlando Pirates U23",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/15995.png"
+    },
+    {
+        "id": 15996,
+        "name": "Stellenbosch U23",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/15996.png"
+    },
+    {
+        "id": 15997,
+        "name": "SuperSport United U23",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/15997.png"
+    },
+    {
+        "id": 15998,
+        "name": "Swallows U23",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/15998.png"
+    },
+    {
+        "id": 15999,
+        "name": "TS Galaxy U23",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/15999.png"
+    },
+    {
+        "id": 16000,
+        "name": "TTM U23",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/16000.png"
+    },
+    {
+        "id": 17356,
+        "name": "Platinum City Rovers",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/17356.png"
+    },
+    {
+        "id": 17357,
+        "name": "Venda FC",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/17357.png"
+    },
+    {
+        "id": 17620,
+        "name": "TTM",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/17620.png"
+    },
+    {
+        "id": 17717,
+        "name": "Marumo Gallants U23",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/17717.png"
+    },
+    {
+        "id": 17718,
+        "name": "Royal AM U23",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/17718.png"
+    },
+    {
+        "id": 17719,
+        "name": "Sekhukhune United U23",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/17719.png"
+    },
+    {
+        "id": 18397,
+        "name": "African All Stars",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/18397.png"
+    },
+    {
+        "id": 18398,
+        "name": "Black Eagles",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/18398.png"
+    },
+    {
+        "id": 18399,
+        "name": "Mathaithai",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/18399.png"
+    },
+    {
+        "id": 18400,
+        "name": "Sinenkani",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/18400.png"
+    },
+    {
+        "id": 18401,
+        "name": "Sivutsa",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/18401.png"
+    },
+    {
+        "id": 18402,
+        "name": "Summerfield",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/18402.png"
+    },
+    {
+        "id": 19997,
+        "name": "Casric Stars",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/19997.png"
+    },
+    {
+        "id": 19998,
+        "name": "MM Platinum",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/19998.png"
+    },
+    {
+        "id": 19999,
+        "name": "Magesi",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/19999.png"
+    },
+    {
+        "id": 20296,
+        "name": "Richards Bay U23",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/20296.png"
+    },
+    {
+        "id": 20832,
+        "name": "Black Cross",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/20832.png"
+    },
+    {
+        "id": 20833,
+        "name": "Dondol Stars",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/20833.png"
+    },
+    {
+        "id": 20836,
+        "name": "IK Zenith",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/20836.png"
+    },
+    {
+        "id": 20841,
+        "name": "Clarewood JPM",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/20841.png"
+    },
+    {
+        "id": 20842,
+        "name": "Mkhambathi",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/20842.png"
+    },
+    {
+        "id": 21102,
+        "name": "Liver Brothers",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/21102.png"
+    },
+    {
+        "id": 22234,
+        "name": "Milford FC",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/22234.png"
+    },
+    {
+        "id": 22235,
+        "name": "Upington City",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/22235.png"
+    },
+    {
+        "id": 22377,
+        "name": "Cape Town Spurs U23",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/22377.png"
+    },
+    {
+        "id": 22378,
+        "name": "Polokwane City U23",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/22378.png"
+    },
+    {
+        "id": 22914,
+        "name": "Classic",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/22914.png"
+    },
+    {
+        "id": 23047,
+        "name": "D\u2019General",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/23047.png"
+    },
+    {
+        "id": 23048,
+        "name": "Madridtas",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/23048.png"
+    },
+    {
+        "id": 23049,
+        "name": "Paarl United",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/23049.png"
+    },
+    {
+        "id": 23050,
+        "name": "Ravens",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/23050.png"
+    },
+    {
+        "id": 23064,
+        "name": "Spain FC",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/23064.png"
+    },
+    {
+        "id": 23072,
+        "name": "Crystal Lake",
+        "country": "South-Africa",
+        "logo": "https://media.api-sports.io/football/teams/23072.png"
+    }
+]

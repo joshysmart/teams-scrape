@@ -1,0 +1,578 @@
+[
+    {
+        "id": 588,
+        "name": "Zrinjski",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/588.png"
+    },
+    {
+        "id": 642,
+        "name": "Siroki Brijeg",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/642.png"
+    },
+    {
+        "id": 654,
+        "name": "Zeljeznicar Sarajevo",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/654.png"
+    },
+    {
+        "id": 679,
+        "name": "FK Sarajevo",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/679.png"
+    },
+    {
+        "id": 1113,
+        "name": "Bosnia & Herzegovina",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/1113.png"
+    },
+    {
+        "id": 3356,
+        "name": "GO\u0160K Gabela",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/3356.png"
+    },
+    {
+        "id": 3357,
+        "name": "Krupa na Vrbasu",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/3357.png"
+    },
+    {
+        "id": 3358,
+        "name": "Mladost Doboj Kakanj",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/3358.png"
+    },
+    {
+        "id": 3359,
+        "name": "Radnik Bijeljina",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/3359.png"
+    },
+    {
+        "id": 3360,
+        "name": "Sloboda Tuzla",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/3360.png"
+    },
+    {
+        "id": 3361,
+        "name": "Tuzla City",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/3361.png"
+    },
+    {
+        "id": 3362,
+        "name": "Zvijezda 09",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/3362.png"
+    },
+    {
+        "id": 3363,
+        "name": "\u010celik",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/3363.png"
+    },
+    {
+        "id": 3364,
+        "name": "Borac Banja Luka",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/3364.png"
+    },
+    {
+        "id": 3365,
+        "name": "Bosna Visoko",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/3365.png"
+    },
+    {
+        "id": 3366,
+        "name": "Gora\u017ede",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/3366.png"
+    },
+    {
+        "id": 3367,
+        "name": "Igman Konjic",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/3367.png"
+    },
+    {
+        "id": 3368,
+        "name": "Klis Buturovi\u0107 Polje",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/3368.png"
+    },
+    {
+        "id": 3369,
+        "name": "Kozara Gradi\u0161ka",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/3369.png"
+    },
+    {
+        "id": 3370,
+        "name": "Leotar",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/3370.png"
+    },
+    {
+        "id": 3371,
+        "name": "Metalleghe-BSI Jajce",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/3371.png"
+    },
+    {
+        "id": 3372,
+        "name": "Mladost Kika\u010di",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/3372.png"
+    },
+    {
+        "id": 3373,
+        "name": "Modri\u010da",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/3373.png"
+    },
+    {
+        "id": 3374,
+        "name": "Mo\u0161evac",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/3374.png"
+    },
+    {
+        "id": 3375,
+        "name": "Pobjeda",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/3375.png"
+    },
+    {
+        "id": 3376,
+        "name": "Rudar Kakanj",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/3376.png"
+    },
+    {
+        "id": 3377,
+        "name": "Rudar Prijedor",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/3377.png"
+    },
+    {
+        "id": 3378,
+        "name": "Slavija",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/3378.png"
+    },
+    {
+        "id": 3379,
+        "name": "Sloga Gornje Crnjelovo",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/3379.png"
+    },
+    {
+        "id": 3380,
+        "name": "TO\u0160K Te\u0161anj",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/3380.png"
+    },
+    {
+        "id": 3381,
+        "name": "Vele\u017e",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/3381.png"
+    },
+    {
+        "id": 3382,
+        "name": "Zvijezda Grada\u010dac",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/3382.png"
+    },
+    {
+        "id": 4277,
+        "name": "Azot Vitkovi\u0107i",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/4277.png"
+    },
+    {
+        "id": 4278,
+        "name": "Bratstvo Gra\u010danica",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/4278.png"
+    },
+    {
+        "id": 4279,
+        "name": "FK Vitez",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/4279.png"
+    },
+    {
+        "id": 4280,
+        "name": "Grude",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/4280.png"
+    },
+    {
+        "id": 4281,
+        "name": "Ljubi\u0107 Prnjavor",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/4281.png"
+    },
+    {
+        "id": 4282,
+        "name": "Olimpik Sarajevo",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/4282.png"
+    },
+    {
+        "id": 4283,
+        "name": "Slaven \u017divinice",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/4283.png"
+    },
+    {
+        "id": 4284,
+        "name": "Sloga",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/4284.png"
+    },
+    {
+        "id": 4285,
+        "name": "Sutjeska Fo\u010da",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/4285.png"
+    },
+    {
+        "id": 4286,
+        "name": "Svatovac Poljice",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/4286.png"
+    },
+    {
+        "id": 4287,
+        "name": "Tekstilac Derventa",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/4287.png"
+    },
+    {
+        "id": 4288,
+        "name": "Vitez",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/4288.png"
+    },
+    {
+        "id": 4289,
+        "name": "Bosna Sema",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/4289.png"
+    },
+    {
+        "id": 4290,
+        "name": "Brotnjo",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/4290.png"
+    },
+    {
+        "id": 4291,
+        "name": "Drina Zvornik",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/4291.png"
+    },
+    {
+        "id": 4292,
+        "name": "Karanovac",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/4292.png"
+    },
+    {
+        "id": 4293,
+        "name": "Ora\u0161je",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/4293.png"
+    },
+    {
+        "id": 4294,
+        "name": "Podrinje Janja",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/4294.png"
+    },
+    {
+        "id": 4295,
+        "name": "Radni\u010dki Lukavac",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/4295.png"
+    },
+    {
+        "id": 4296,
+        "name": "Sloboda Novi Grad",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/4296.png"
+    },
+    {
+        "id": 4297,
+        "name": "Travnik",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/4297.png"
+    },
+    {
+        "id": 4298,
+        "name": "\u010capljina",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/4298.png"
+    },
+    {
+        "id": 7528,
+        "name": "Budu\u0107nost Banovi\u0107i",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/7528.png"
+    },
+    {
+        "id": 7529,
+        "name": "Jedinstvo Biha\u0107",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/7529.png"
+    },
+    {
+        "id": 7530,
+        "name": "Ljubuski",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/7530.png"
+    },
+    {
+        "id": 7531,
+        "name": "Radnik Had\u017ei\u0107i",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/7531.png"
+    },
+    {
+        "id": 7532,
+        "name": "Skugri\u0107 1964",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/7532.png"
+    },
+    {
+        "id": 7942,
+        "name": "Zrinjski U19",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/7942.png"
+    },
+    {
+        "id": 8184,
+        "name": "Bosnia-Herzegovina U21",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/8184.png"
+    },
+    {
+        "id": 8500,
+        "name": "FK Jedinstvo Brcko",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/8500.png"
+    },
+    {
+        "id": 8501,
+        "name": "\u017deljezni\u010dar Banja Luka",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/8501.png"
+    },
+    {
+        "id": 8502,
+        "name": "Sloboda Mrkonji\u0107 Grad",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/8502.png"
+    },
+    {
+        "id": 8503,
+        "name": "Napredak Donji \u0160epak",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/8503.png"
+    },
+    {
+        "id": 8504,
+        "name": "Sloga Doboj",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/8504.png"
+    },
+    {
+        "id": 8505,
+        "name": "Borac \u0160amac",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/8505.png"
+    },
+    {
+        "id": 8506,
+        "name": "Novi Travnik",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/8506.png"
+    },
+    {
+        "id": 8507,
+        "name": "Iskra",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/8507.png"
+    },
+    {
+        "id": 10359,
+        "name": "Bosnia-Herzegovina U19",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/10359.png"
+    },
+    {
+        "id": 10902,
+        "name": "SFK 2000",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/10902.png"
+    },
+    {
+        "id": 14146,
+        "name": "Posu\u0161je",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/14146.png"
+    },
+    {
+        "id": 14147,
+        "name": "Vis Kosova",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/14147.png"
+    },
+    {
+        "id": 14274,
+        "name": "Sloga Vinica",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/14274.png"
+    },
+    {
+        "id": 14455,
+        "name": "Bosnia-Herzegovina W",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/14455.png"
+    },
+    {
+        "id": 15174,
+        "name": "Borac Kozarska Dubica",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/15174.png"
+    },
+    {
+        "id": 15287,
+        "name": "Dizdaru\u0161a",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/15287.png"
+    },
+    {
+        "id": 15288,
+        "name": "Fortuna Zenica",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/15288.png"
+    },
+    {
+        "id": 15289,
+        "name": "UNIS Vogo\u0161\u0107a",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/15289.png"
+    },
+    {
+        "id": 15290,
+        "name": "Vele\u017e Nevesinje",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/15290.png"
+    },
+    {
+        "id": 17371,
+        "name": "Gradina",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/17371.png"
+    },
+    {
+        "id": 17372,
+        "name": "Tomislav",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/17372.png"
+    },
+    {
+        "id": 17373,
+        "name": "Budu\u0107nost Pilica",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/17373.png"
+    },
+    {
+        "id": 17374,
+        "name": "Omarska",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/17374.png"
+    },
+    {
+        "id": 17899,
+        "name": "Rudar Han Bila",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/17899.png"
+    },
+    {
+        "id": 17900,
+        "name": "Sloga Uskoplje",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/17900.png"
+    },
+    {
+        "id": 17901,
+        "name": "Stup\u010danica Olovo",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/17901.png"
+    },
+    {
+        "id": 19561,
+        "name": "Famos Vojkovi\u0107i",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/19561.png"
+    },
+    {
+        "id": 19562,
+        "name": "Lakta\u0161i",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/19562.png"
+    },
+    {
+        "id": 20564,
+        "name": "Baton Sarajevo",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/20564.png"
+    },
+    {
+        "id": 20565,
+        "name": "Famos-SA\u0160K",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/20565.png"
+    },
+    {
+        "id": 20566,
+        "name": "Kolina Ustikolina",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/20566.png"
+    },
+    {
+        "id": 21736,
+        "name": "BSK Banja Luka",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/21736.png"
+    },
+    {
+        "id": 21737,
+        "name": "FK Romanija Pale",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/21737.png"
+    },
+    {
+        "id": 21738,
+        "name": "Gornji Rahi\u0107",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/21738.png"
+    },
+    {
+        "id": 22545,
+        "name": "Bratstvo Bosanska Krupa",
+        "country": "Bosnia",
+        "logo": "https://media.api-sports.io/football/teams/22545.png"
+    }
+]

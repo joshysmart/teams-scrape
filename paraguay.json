@@ -1,0 +1,752 @@
+[
+    {
+        "id": 1174,
+        "name": "Club Guarani",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/1174.png"
+    },
+    {
+        "id": 1175,
+        "name": "Nacional Asuncion",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/1175.png"
+    },
+    {
+        "id": 1176,
+        "name": "Cerro Porteno",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/1176.png"
+    },
+    {
+        "id": 1177,
+        "name": "SOL DE America",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/1177.png"
+    },
+    {
+        "id": 1178,
+        "name": "General Diaz",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/1178.png"
+    },
+    {
+        "id": 1179,
+        "name": "Libertad Asuncion",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/1179.png"
+    },
+    {
+        "id": 1180,
+        "name": "Deportivo Capiata",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/1180.png"
+    },
+    {
+        "id": 1181,
+        "name": "General Caballero",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/1181.png"
+    },
+    {
+        "id": 1182,
+        "name": "Olimpia",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/1182.png"
+    },
+    {
+        "id": 1183,
+        "name": "Sportivo Luqueno",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/1183.png"
+    },
+    {
+        "id": 1184,
+        "name": "Club River Plate",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/1184.png"
+    },
+    {
+        "id": 1185,
+        "name": "Rubio NU",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/1185.png"
+    },
+    {
+        "id": 1186,
+        "name": "Independiente F.b.c.",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/1186.png"
+    },
+    {
+        "id": 1187,
+        "name": "Sportivo Trinidense",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/1187.png"
+    },
+    {
+        "id": 1188,
+        "name": "3 de Febrero",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/1188.png"
+    },
+    {
+        "id": 1189,
+        "name": "Deportivo Santani",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/1189.png"
+    },
+    {
+        "id": 2125,
+        "name": "Club Sp. San Lorenzo",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/2125.png"
+    },
+    {
+        "id": 2126,
+        "name": "Deportivo Caaguazu",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/2126.png"
+    },
+    {
+        "id": 2127,
+        "name": "Olimpia De Ita",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/2127.png"
+    },
+    {
+        "id": 2128,
+        "name": "Ovetense FC",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/2128.png"
+    },
+    {
+        "id": 2129,
+        "name": "Sport Colombia",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/2129.png"
+    },
+    {
+        "id": 2130,
+        "name": "Fernando De La Mora",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/2130.png"
+    },
+    {
+        "id": 2131,
+        "name": "Caacupe FBC",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/2131.png"
+    },
+    {
+        "id": 2132,
+        "name": "Cristobal Colon",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/2132.png"
+    },
+    {
+        "id": 2133,
+        "name": "Deportivo Liberacion",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/2133.png"
+    },
+    {
+        "id": 2134,
+        "name": "Fulgencio Yegros",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/2134.png"
+    },
+    {
+        "id": 2135,
+        "name": "Resistencia",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/2135.png"
+    },
+    {
+        "id": 2136,
+        "name": "Sportivo Iteno",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/2136.png"
+    },
+    {
+        "id": 2137,
+        "name": "22 De Setiembre",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/2137.png"
+    },
+    {
+        "id": 2138,
+        "name": "Guairena FC",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/2138.png"
+    },
+    {
+        "id": 2139,
+        "name": "Martin Ledesma",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/2139.png"
+    },
+    {
+        "id": 2140,
+        "name": "2 de Mayo",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/2140.png"
+    },
+    {
+        "id": 2141,
+        "name": "Ri 3 Corrales",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/2141.png"
+    },
+    {
+        "id": 2380,
+        "name": "Paraguay",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/2380.png"
+    },
+    {
+        "id": 3832,
+        "name": "12 de Octubre",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/3832.png"
+    },
+    {
+        "id": 3833,
+        "name": "Atyr\u00e1",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/3833.png"
+    },
+    {
+        "id": 10462,
+        "name": "1 de Marzo Fernando Mora",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/10462.png"
+    },
+    {
+        "id": 10463,
+        "name": "1 de Marzo Pilar",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/10463.png"
+    },
+    {
+        "id": 10464,
+        "name": "12 de Octubre Paso Yobai",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/10464.png"
+    },
+    {
+        "id": 10465,
+        "name": "12 de Octubre SD",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/10465.png"
+    },
+    {
+        "id": 10466,
+        "name": "16 de Agosto",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/10466.png"
+    },
+    {
+        "id": 10467,
+        "name": "19 de Marzo",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/10467.png"
+    },
+    {
+        "id": 10468,
+        "name": "3 de Febrero FBC",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/10468.png"
+    },
+    {
+        "id": 10469,
+        "name": "3 de Mayo",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/10469.png"
+    },
+    {
+        "id": 10470,
+        "name": "Aquidab\u00e1n",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/10470.png"
+    },
+    {
+        "id": 10471,
+        "name": "Atl\u00e1ntida",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/10471.png"
+    },
+    {
+        "id": 10472,
+        "name": "Atl\u00e9tico Colegiales",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/10472.png"
+    },
+    {
+        "id": 10473,
+        "name": "Atl\u00e9tico Juventud",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/10473.png"
+    },
+    {
+        "id": 10474,
+        "name": "Atl\u00e9tico Tembetary",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/10474.png"
+    },
+    {
+        "id": 10475,
+        "name": "Crist\u00f3bal Col\u00f3n JAS",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/10475.png"
+    },
+    {
+        "id": 10476,
+        "name": "Deportivo Recoleta",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/10476.png"
+    },
+    {
+        "id": 10477,
+        "name": "General Caballero CG",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/10477.png"
+    },
+    {
+        "id": 10479,
+        "name": "Independiente Nanawa",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/10479.png"
+    },
+    {
+        "id": 10480,
+        "name": "Nueva Estrella",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/10480.png"
+    },
+    {
+        "id": 10481,
+        "name": "Porvenir",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/10481.png"
+    },
+    {
+        "id": 10482,
+        "name": "Presidente Hayes",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/10482.png"
+    },
+    {
+        "id": 10483,
+        "name": "Silvio Pettirossi",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/10483.png"
+    },
+    {
+        "id": 10484,
+        "name": "Sol de Am\u00e9rica Pastoreo",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/10484.png"
+    },
+    {
+        "id": 10485,
+        "name": "Sport Colonial",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/10485.png"
+    },
+    {
+        "id": 10486,
+        "name": "Sport Valenzolano",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/10486.png"
+    },
+    {
+        "id": 10487,
+        "name": "Sportivo Ameliano",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/10487.png"
+    },
+    {
+        "id": 10488,
+        "name": "Sportivo Limpe\u00f1o",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/10488.png"
+    },
+    {
+        "id": 10489,
+        "name": "Sportivo Puerto Diana",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/10489.png"
+    },
+    {
+        "id": 10490,
+        "name": "Sportivo San Juan",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/10490.png"
+    },
+    {
+        "id": 10491,
+        "name": "Tacuary",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/10491.png"
+    },
+    {
+        "id": 10683,
+        "name": "Guaran\u00ed de Trinidad",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/10683.png"
+    },
+    {
+        "id": 11051,
+        "name": "Cerro Porte\u00f1o U20",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/11051.png"
+    },
+    {
+        "id": 11056,
+        "name": "Libertad U20",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/11056.png"
+    },
+    {
+        "id": 12257,
+        "name": "Athletic Club",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/12257.png"
+    },
+    {
+        "id": 12517,
+        "name": "Paraguay U17",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/12517.png"
+    },
+    {
+        "id": 13166,
+        "name": "Santo Domingo",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/13166.png"
+    },
+    {
+        "id": 16202,
+        "name": "Paraguay U20",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/16202.png"
+    },
+    {
+        "id": 16941,
+        "name": "Paraguay W",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/16941.png"
+    },
+    {
+        "id": 17176,
+        "name": "12 de Octubre VDS",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/17176.png"
+    },
+    {
+        "id": 17177,
+        "name": "24 de Junio",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/17177.png"
+    },
+    {
+        "id": 17178,
+        "name": "24 de Setiembre",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/17178.png"
+    },
+    {
+        "id": 17179,
+        "name": "29 de Setiembre",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/17179.png"
+    },
+    {
+        "id": 17180,
+        "name": "5 de Octubre",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/17180.png"
+    },
+    {
+        "id": 17181,
+        "name": "Adolfo Rojas",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/17181.png"
+    },
+    {
+        "id": 17182,
+        "name": "Atl\u00e9tico Tr\u00e9bol",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/17182.png"
+    },
+    {
+        "id": 17183,
+        "name": "Benjam\u00edn Aceval",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/17183.png"
+    },
+    {
+        "id": 17184,
+        "name": "Coronel Martinez",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/17184.png"
+    },
+    {
+        "id": 17185,
+        "name": "Deportivo La Colmena",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/17185.png"
+    },
+    {
+        "id": 17186,
+        "name": "Deportivo Pinoz\u00e1",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/17186.png"
+    },
+    {
+        "id": 17187,
+        "name": "Deportivo Primavera",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/17187.png"
+    },
+    {
+        "id": 17188,
+        "name": "Karai Chiv\u00e9",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/17188.png"
+    },
+    {
+        "id": 17189,
+        "name": "Mariscal Estigarribia",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/17189.png"
+    },
+    {
+        "id": 17190,
+        "name": "Mil Palos",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/17190.png"
+    },
+    {
+        "id": 17191,
+        "name": "Sport Pacob\u00e1",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/17191.png"
+    },
+    {
+        "id": 17192,
+        "name": "Sport Sastre\u00f1o",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/17192.png"
+    },
+    {
+        "id": 17193,
+        "name": "Ytororo",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/17193.png"
+    },
+    {
+        "id": 18311,
+        "name": "Pastoreo",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/18311.png"
+    },
+    {
+        "id": 19116,
+        "name": "15 de Agosto",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/19116.png"
+    },
+    {
+        "id": 19117,
+        "name": "15 de Agosto de Santiago",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/19117.png"
+    },
+    {
+        "id": 19118,
+        "name": "8 de Setiembre",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/19118.png"
+    },
+    {
+        "id": 19119,
+        "name": "Nacional de Yby Ya\u00fa",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/19119.png"
+    },
+    {
+        "id": 19120,
+        "name": "Obreros Unidos",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/19120.png"
+    },
+    {
+        "id": 19121,
+        "name": "Primavera de Curuguaty",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/19121.png"
+    },
+    {
+        "id": 19188,
+        "name": "Deportivo Obrero",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/19188.png"
+    },
+    {
+        "id": 19279,
+        "name": "Sportivo Valois Rivarola",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/19279.png"
+    },
+    {
+        "id": 19455,
+        "name": "Deportivo Juventud",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/19455.png"
+    },
+    {
+        "id": 20516,
+        "name": "Libertad Limpe\u00f1o",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/20516.png"
+    },
+    {
+        "id": 20525,
+        "name": "Olimpia W",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/20525.png"
+    },
+    {
+        "id": 20535,
+        "name": "Paraguay U19",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/20535.png"
+    },
+    {
+        "id": 20786,
+        "name": "Sportivo Carapegu\u00e1",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/20786.png"
+    },
+    {
+        "id": 21373,
+        "name": "14 de Mayo",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/21373.png"
+    },
+    {
+        "id": 21374,
+        "name": "3 de Noviembre",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/21374.png"
+    },
+    {
+        "id": 21375,
+        "name": "Atl\u00e9tico Amambay",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/21375.png"
+    },
+    {
+        "id": 21376,
+        "name": "Cerro Porte\u00f1o Filadelfia",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/21376.png"
+    },
+    {
+        "id": 21377,
+        "name": "Cerro Porte\u00f1o Mbocayaty",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/21377.png"
+    },
+    {
+        "id": 21378,
+        "name": "Santa Cecilia",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/21378.png"
+    },
+    {
+        "id": 21379,
+        "name": "Sportivo San Pedro",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/21379.png"
+    },
+    {
+        "id": 21380,
+        "name": "Uni\u00f3n Ybyrar\u00f3",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/21380.png"
+    },
+    {
+        "id": 21381,
+        "name": "Oriental",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/21381.png"
+    },
+    {
+        "id": 22925,
+        "name": "Paraguay U23",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/22925.png"
+    },
+    {
+        "id": 23154,
+        "name": "12 de Junio VH",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/23154.png"
+    },
+    {
+        "id": 23155,
+        "name": "Encarnaci\u00f3n",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/23155.png"
+    },
+    {
+        "id": 23464,
+        "name": "Paraguay U20 W",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/23464.png"
+    },
+    {
+        "id": 24111,
+        "name": "Atl\u00e9tico 16 de Julio",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/24111.png"
+    },
+    {
+        "id": 24112,
+        "name": "Atl\u00e9tico Enramadita",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/24112.png"
+    },
+    {
+        "id": 24113,
+        "name": "Capit\u00e1n Figari",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/24113.png"
+    },
+    {
+        "id": 24114,
+        "name": "Guaran\u00ed La Colmena",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/24114.png"
+    },
+    {
+        "id": 24115,
+        "name": "Pilcomayo",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/24115.png"
+    },
+    {
+        "id": 24116,
+        "name": "Salto del Guair\u00e1",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/24116.png"
+    },
+    {
+        "id": 24117,
+        "name": "Sport Uni\u00f3n",
+        "country": "Paraguay",
+        "logo": "https://media.api-sports.io/football/teams/24117.png"
+    }
+]

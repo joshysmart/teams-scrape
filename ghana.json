@@ -1,0 +1,638 @@
+[
+    {
+        "id": 1504,
+        "name": "Ghana",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/1504.png"
+    },
+    {
+        "id": 4450,
+        "name": "Dreams",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/4450.png"
+    },
+    {
+        "id": 6411,
+        "name": "Asante Kotoko",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/6411.png"
+    },
+    {
+        "id": 8056,
+        "name": "Ashanti Gold",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/8056.png"
+    },
+    {
+        "id": 8079,
+        "name": "Aduana Stars",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/8079.png"
+    },
+    {
+        "id": 8099,
+        "name": "Bechem United",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/8099.png"
+    },
+    {
+        "id": 11032,
+        "name": "Ghana U20",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/11032.png"
+    },
+    {
+        "id": 12244,
+        "name": "Berekum Chelsea",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/12244.png"
+    },
+    {
+        "id": 12245,
+        "name": "Ebusua Dwarfs",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/12245.png"
+    },
+    {
+        "id": 12246,
+        "name": "Eleven Wonders",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/12246.png"
+    },
+    {
+        "id": 12247,
+        "name": "Elmina Sharks",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/12247.png"
+    },
+    {
+        "id": 12248,
+        "name": "Great Olympics",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/12248.png"
+    },
+    {
+        "id": 12249,
+        "name": "Hearts of Oak",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/12249.png"
+    },
+    {
+        "id": 12250,
+        "name": "Inter Allies",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/12250.png"
+    },
+    {
+        "id": 12251,
+        "name": "Karela",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/12251.png"
+    },
+    {
+        "id": 12252,
+        "name": "King Faisal",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/12252.png"
+    },
+    {
+        "id": 12253,
+        "name": "Legon Cities",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/12253.png"
+    },
+    {
+        "id": 12254,
+        "name": "Liberty Professionals",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/12254.png"
+    },
+    {
+        "id": 12255,
+        "name": "Medeama",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/12255.png"
+    },
+    {
+        "id": 12256,
+        "name": "WAFA",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/12256.png"
+    },
+    {
+        "id": 13876,
+        "name": "Bolga Soccer Masters",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/13876.png"
+    },
+    {
+        "id": 13877,
+        "name": "Tema Youth",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/13877.png"
+    },
+    {
+        "id": 13878,
+        "name": "Hasaacas",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/13878.png"
+    },
+    {
+        "id": 13879,
+        "name": "New Edubiase",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/13879.png"
+    },
+    {
+        "id": 13880,
+        "name": "Techiman City",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/13880.png"
+    },
+    {
+        "id": 13881,
+        "name": "Brong Ahafo Stars",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/13881.png"
+    },
+    {
+        "id": 13882,
+        "name": "Heart of Lions",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/13882.png"
+    },
+    {
+        "id": 13884,
+        "name": "Berekum Arsenal",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/13884.png"
+    },
+    {
+        "id": 13885,
+        "name": "Real Tamale",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/13885.png"
+    },
+    {
+        "id": 13886,
+        "name": "Mighty Jets",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/13886.png"
+    },
+    {
+        "id": 13887,
+        "name": "Wassaman United",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/13887.png"
+    },
+    {
+        "id": 15583,
+        "name": "Ghana W",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/15583.png"
+    },
+    {
+        "id": 17992,
+        "name": "Accra Lions",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/17992.png"
+    },
+    {
+        "id": 17993,
+        "name": "Bibiani Gold Stars",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/17993.png"
+    },
+    {
+        "id": 19085,
+        "name": "Ghana U20 W",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/19085.png"
+    },
+    {
+        "id": 20020,
+        "name": "Kotoku Royals",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/20020.png"
+    },
+    {
+        "id": 20021,
+        "name": "Nsoatreman",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/20021.png"
+    },
+    {
+        "id": 20022,
+        "name": "Samartex",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/20022.png"
+    },
+    {
+        "id": 20023,
+        "name": "Tamale City",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/20023.png"
+    },
+    {
+        "id": 20546,
+        "name": "Ghana U23",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/20546.png"
+    },
+    {
+        "id": 21062,
+        "name": "Accra Athletic",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/21062.png"
+    },
+    {
+        "id": 21063,
+        "name": "Adjoafuaman",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/21063.png"
+    },
+    {
+        "id": 21064,
+        "name": "Agbogba",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/21064.png"
+    },
+    {
+        "id": 21065,
+        "name": "Asekem",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/21065.png"
+    },
+    {
+        "id": 21066,
+        "name": "Baffour Academy",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/21066.png"
+    },
+    {
+        "id": 21067,
+        "name": "Benab",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/21067.png"
+    },
+    {
+        "id": 21068,
+        "name": "Best XI",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/21068.png"
+    },
+    {
+        "id": 21069,
+        "name": "Binbiem",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/21069.png"
+    },
+    {
+        "id": 21070,
+        "name": "Bofoakwe Tano",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/21070.png"
+    },
+    {
+        "id": 21071,
+        "name": "Debibi United",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/21071.png"
+    },
+    {
+        "id": 21072,
+        "name": "Dormaa Unity",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/21072.png"
+    },
+    {
+        "id": 21073,
+        "name": "Fijai United Academy",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/21073.png"
+    },
+    {
+        "id": 21074,
+        "name": "Golden Kicks",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/21074.png"
+    },
+    {
+        "id": 21075,
+        "name": "Kassena Nankana",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/21075.png"
+    },
+    {
+        "id": 21076,
+        "name": "Kenpong Football Academy",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/21076.png"
+    },
+    {
+        "id": 21077,
+        "name": "Koforidua Semper Fi",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/21077.png"
+    },
+    {
+        "id": 21078,
+        "name": "Krystal Palace",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/21078.png"
+    },
+    {
+        "id": 21079,
+        "name": "MS\u030cK Z\u030cilina Africa",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/21079.png"
+    },
+    {
+        "id": 21080,
+        "name": "Maana",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/21080.png"
+    },
+    {
+        "id": 21081,
+        "name": "Na God",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/21081.png"
+    },
+    {
+        "id": 21082,
+        "name": "Nations",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/21082.png"
+    },
+    {
+        "id": 21083,
+        "name": "Nzema Kotoko",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/21083.png"
+    },
+    {
+        "id": 21084,
+        "name": "Okwahu United",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/21084.png"
+    },
+    {
+        "id": 21085,
+        "name": "PAC Academy",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/21085.png"
+    },
+    {
+        "id": 21086,
+        "name": "Pro Players Academy",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/21086.png"
+    },
+    {
+        "id": 21087,
+        "name": "Rences",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/21087.png"
+    },
+    {
+        "id": 21088,
+        "name": "STK Stars",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/21088.png"
+    },
+    {
+        "id": 21089,
+        "name": "Sefwi All Stars",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/21089.png"
+    },
+    {
+        "id": 21090,
+        "name": "Skyy",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/21090.png"
+    },
+    {
+        "id": 21091,
+        "name": "Soccer4Souls",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/21091.png"
+    },
+    {
+        "id": 21092,
+        "name": "Steadfast",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/21092.png"
+    },
+    {
+        "id": 21093,
+        "name": "Swedru All Blacks",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/21093.png"
+    },
+    {
+        "id": 21094,
+        "name": "Uncle T",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/21094.png"
+    },
+    {
+        "id": 21095,
+        "name": "Unity Stars",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/21095.png"
+    },
+    {
+        "id": 21096,
+        "name": "Venomous Vipers",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/21096.png"
+    },
+    {
+        "id": 21097,
+        "name": "Volta Rangers",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/21097.png"
+    },
+    {
+        "id": 21098,
+        "name": "Wa Power",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/21098.png"
+    },
+    {
+        "id": 21099,
+        "name": "Wa Suntaa",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/21099.png"
+    },
+    {
+        "id": 21100,
+        "name": "WaleWale Catholic Stars",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/21100.png"
+    },
+    {
+        "id": 21101,
+        "name": "Wamanafo Mighty Royals",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/21101.png"
+    },
+    {
+        "id": 22759,
+        "name": "Akatsi All Stars",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/22759.png"
+    },
+    {
+        "id": 22760,
+        "name": "Akwaboso Young Madrid",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/22760.png"
+    },
+    {
+        "id": 22761,
+        "name": "Attram de Visser",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/22761.png"
+    },
+    {
+        "id": 22762,
+        "name": "Awarey Stars",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/22762.png"
+    },
+    {
+        "id": 22763,
+        "name": "Basake Holy Stars",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/22763.png"
+    },
+    {
+        "id": 22764,
+        "name": "Berekum City",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/22764.png"
+    },
+    {
+        "id": 22765,
+        "name": "Blue Skies Pelicans",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/22765.png"
+    },
+    {
+        "id": 22766,
+        "name": "Hilla Stars",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/22766.png"
+    },
+    {
+        "id": 22767,
+        "name": "Hohoe United",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/22767.png"
+    },
+    {
+        "id": 22768,
+        "name": "Home Stars",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/22768.png"
+    },
+    {
+        "id": 22769,
+        "name": "Kasalgu Arrow Heads",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/22769.png"
+    },
+    {
+        "id": 22770,
+        "name": "Koforidua Suhyen",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/22770.png"
+    },
+    {
+        "id": 22771,
+        "name": "Krodua All Stars",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/22771.png"
+    },
+    {
+        "id": 22772,
+        "name": "Miremano United",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/22772.png"
+    },
+    {
+        "id": 22773,
+        "name": "Namoro Academy",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/22773.png"
+    },
+    {
+        "id": 22774,
+        "name": "Nania",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/22774.png"
+    },
+    {
+        "id": 22775,
+        "name": "Northern City",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/22775.png"
+    },
+    {
+        "id": 22776,
+        "name": "Rospak",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/22776.png"
+    },
+    {
+        "id": 22777,
+        "name": "Soccer Intellectuals",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/22777.png"
+    },
+    {
+        "id": 22778,
+        "name": "Sunyani Oxford",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/22778.png"
+    },
+    {
+        "id": 22779,
+        "name": "Susubiribi",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/22779.png"
+    },
+    {
+        "id": 22780,
+        "name": "Techiman Liberty",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/22780.png"
+    },
+    {
+        "id": 22781,
+        "name": "Victory Club Warriors",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/22781.png"
+    },
+    {
+        "id": 22782,
+        "name": "Vision",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/22782.png"
+    },
+    {
+        "id": 22783,
+        "name": "Young Apostles",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/22783.png"
+    },
+    {
+        "id": 22784,
+        "name": "Young Red Bull",
+        "country": "Ghana",
+        "logo": "https://media.api-sports.io/football/teams/22784.png"
+    }
+]

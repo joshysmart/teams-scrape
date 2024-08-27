@@ -1,0 +1,1496 @@
+[
+    {
+        "id": 43,
+        "name": "Cardiff",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/43.png"
+    },
+    {
+        "id": 76,
+        "name": "Swansea",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/76.png"
+    },
+    {
+        "id": 351,
+        "name": "Aberystwyth Town",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/351.png"
+    },
+    {
+        "id": 352,
+        "name": "Bala Town",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/352.png"
+    },
+    {
+        "id": 353,
+        "name": "Cardiff MET",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/353.png"
+    },
+    {
+        "id": 354,
+        "name": "The New Saints",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/354.png"
+    },
+    {
+        "id": 355,
+        "name": "llanelli AFC",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/355.png"
+    },
+    {
+        "id": 356,
+        "name": "Caernarfon Town",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/356.png"
+    },
+    {
+        "id": 357,
+        "name": "GAP Connah S Quay FC",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/357.png"
+    },
+    {
+        "id": 358,
+        "name": "Newtown AFC",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/358.png"
+    },
+    {
+        "id": 359,
+        "name": "Carmarthen Town",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/359.png"
+    },
+    {
+        "id": 360,
+        "name": "Cefn Druids AFC",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/360.png"
+    },
+    {
+        "id": 361,
+        "name": "Barry Town",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/361.png"
+    },
+    {
+        "id": 362,
+        "name": "Llandudno",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/362.png"
+    },
+    {
+        "id": 681,
+        "name": "Bangor City",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/681.png"
+    },
+    {
+        "id": 767,
+        "name": "Wales",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/767.png"
+    },
+    {
+        "id": 1367,
+        "name": "Newport County",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/1367.png"
+    },
+    {
+        "id": 1772,
+        "name": "Wales W",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/1772.png"
+    },
+    {
+        "id": 1837,
+        "name": "Wrexham",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/1837.png"
+    },
+    {
+        "id": 2187,
+        "name": "Goytre United",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/2187.png"
+    },
+    {
+        "id": 2188,
+        "name": "Ammanford AFC",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/2188.png"
+    },
+    {
+        "id": 2189,
+        "name": "Cwmamman United FC",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/2189.png"
+    },
+    {
+        "id": 2190,
+        "name": "Cwmbran Celtic",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/2190.png"
+    },
+    {
+        "id": 2191,
+        "name": "Penybont",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/2191.png"
+    },
+    {
+        "id": 2192,
+        "name": "Pontypridd Town",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/2192.png"
+    },
+    {
+        "id": 2193,
+        "name": "Undy Athletic",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/2193.png"
+    },
+    {
+        "id": 2194,
+        "name": "Haverfordwest County AFC",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/2194.png"
+    },
+    {
+        "id": 2195,
+        "name": "Goytre AFC",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/2195.png"
+    },
+    {
+        "id": 2196,
+        "name": "Llantwit Major",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/2196.png"
+    },
+    {
+        "id": 2197,
+        "name": "Port Talbot Town",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/2197.png"
+    },
+    {
+        "id": 2198,
+        "name": "Ton Pentre",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/2198.png"
+    },
+    {
+        "id": 2199,
+        "name": "Taffs Well",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/2199.png"
+    },
+    {
+        "id": 2200,
+        "name": "Afan Lido",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/2200.png"
+    },
+    {
+        "id": 2201,
+        "name": "Briton Ferry",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/2201.png"
+    },
+    {
+        "id": 2202,
+        "name": "Cambrian & Clydach",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/2202.png"
+    },
+    {
+        "id": 4909,
+        "name": "Airbus UK",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/4909.png"
+    },
+    {
+        "id": 5609,
+        "name": "Buckley Town",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/5609.png"
+    },
+    {
+        "id": 5610,
+        "name": "Caerau (Ely)",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/5610.png"
+    },
+    {
+        "id": 5611,
+        "name": "Colwyn Bay",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/5611.png"
+    },
+    {
+        "id": 5612,
+        "name": "Conwy Borough",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/5612.png"
+    },
+    {
+        "id": 5613,
+        "name": "Corwen",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/5613.png"
+    },
+    {
+        "id": 5614,
+        "name": "Flint Town United",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/5614.png"
+    },
+    {
+        "id": 5615,
+        "name": "Gresford Athletic",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/5615.png"
+    },
+    {
+        "id": 5616,
+        "name": "Guilsfield",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/5616.png"
+    },
+    {
+        "id": 5617,
+        "name": "Llanfair United",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/5617.png"
+    },
+    {
+        "id": 5618,
+        "name": "Llangefni Town",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/5618.png"
+    },
+    {
+        "id": 5619,
+        "name": "Llanrhaeadr",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/5619.png"
+    },
+    {
+        "id": 5620,
+        "name": "Penrhyncoch",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/5620.png"
+    },
+    {
+        "id": 5621,
+        "name": "Porthmadog",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/5621.png"
+    },
+    {
+        "id": 5622,
+        "name": "Prestatyn Town",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/5622.png"
+    },
+    {
+        "id": 5623,
+        "name": "Rhyl",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/5623.png"
+    },
+    {
+        "id": 5624,
+        "name": "Ruthin Town",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/5624.png"
+    },
+    {
+        "id": 5625,
+        "name": "STM Sports",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/5625.png"
+    },
+    {
+        "id": 5626,
+        "name": "Swansea University",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/5626.png"
+    },
+    {
+        "id": 6438,
+        "name": "Aberbargoed Buds",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/6438.png"
+    },
+    {
+        "id": 6439,
+        "name": "Berriew",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/6439.png"
+    },
+    {
+        "id": 6440,
+        "name": "Blaenrhondda",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/6440.png"
+    },
+    {
+        "id": 6441,
+        "name": "Borth United",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/6441.png"
+    },
+    {
+        "id": 6442,
+        "name": "Brecon Corinthians",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/6442.png"
+    },
+    {
+        "id": 6443,
+        "name": "Brickfield Rangers",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/6443.png"
+    },
+    {
+        "id": 6444,
+        "name": "Brymbo",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/6444.png"
+    },
+    {
+        "id": 6445,
+        "name": "Caersws",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/6445.png"
+    },
+    {
+        "id": 6446,
+        "name": "Caldicot Town",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/6446.png"
+    },
+    {
+        "id": 6447,
+        "name": "Cefn Albion",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/6447.png"
+    },
+    {
+        "id": 6448,
+        "name": "Coedpoeth United",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/6448.png"
+    },
+    {
+        "id": 6449,
+        "name": "Cornelly United",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/6449.png"
+    },
+    {
+        "id": 6450,
+        "name": "Cwmbran Town",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/6450.png"
+    },
+    {
+        "id": 6451,
+        "name": "Denbigh Town",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/6451.png"
+    },
+    {
+        "id": 6452,
+        "name": "Dinas Powys",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/6452.png"
+    },
+    {
+        "id": 6453,
+        "name": "Dolgellau Athletic",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/6453.png"
+    },
+    {
+        "id": 6454,
+        "name": "Dyffryn Nantlle Vale",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/6454.png"
+    },
+    {
+        "id": 6455,
+        "name": "Garden Village",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/6455.png"
+    },
+    {
+        "id": 6456,
+        "name": "Hawarden Rangers",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/6456.png"
+    },
+    {
+        "id": 6457,
+        "name": "Holyhead Hotspur",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/6457.png"
+    },
+    {
+        "id": 6458,
+        "name": "Holyhead Town",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/6458.png"
+    },
+    {
+        "id": 6459,
+        "name": "Holywell",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/6459.png"
+    },
+    {
+        "id": 6460,
+        "name": "Llandrindod Wells",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/6460.png"
+    },
+    {
+        "id": 6461,
+        "name": "Llandudno Albion",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/6461.png"
+    },
+    {
+        "id": 6462,
+        "name": "Llandudno Amateurs",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/6462.png"
+    },
+    {
+        "id": 6463,
+        "name": "Llanidloes Town",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/6463.png"
+    },
+    {
+        "id": 6464,
+        "name": "Llay Miners Welfare",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/6464.png"
+    },
+    {
+        "id": 6465,
+        "name": "Mold Alexandra",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/6465.png"
+    },
+    {
+        "id": 6466,
+        "name": "Monmouth Town",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/6466.png"
+    },
+    {
+        "id": 6467,
+        "name": "New Brighton Villa",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/6467.png"
+    },
+    {
+        "id": 6468,
+        "name": "Panteg",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/6468.png"
+    },
+    {
+        "id": 6469,
+        "name": "Pencoed Athletic Amateur",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/6469.png"
+    },
+    {
+        "id": 6470,
+        "name": "Penlan Club",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/6470.png"
+    },
+    {
+        "id": 6471,
+        "name": "Penycae",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/6471.png"
+    },
+    {
+        "id": 6472,
+        "name": "Pontyclun",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/6472.png"
+    },
+    {
+        "id": 6473,
+        "name": "Pwllheli",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/6473.png"
+    },
+    {
+        "id": 6474,
+        "name": "Radnor Valley",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/6474.png"
+    },
+    {
+        "id": 6475,
+        "name": "Rhostyllen",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/6475.png"
+    },
+    {
+        "id": 6476,
+        "name": "Rhydymwyn",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/6476.png"
+    },
+    {
+        "id": 6477,
+        "name": "St Asaph City",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/6477.png"
+    },
+    {
+        "id": 6478,
+        "name": "Sully Sports",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/6478.png"
+    },
+    {
+        "id": 6479,
+        "name": "Trefelin",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/6479.png"
+    },
+    {
+        "id": 6480,
+        "name": "Treharris Athl. Western",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/6480.png"
+    },
+    {
+        "id": 6481,
+        "name": "West End",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/6481.png"
+    },
+    {
+        "id": 6482,
+        "name": "Ynysddu Welfare",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/6482.png"
+    },
+    {
+        "id": 7578,
+        "name": "Aberffraw",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/7578.png"
+    },
+    {
+        "id": 7579,
+        "name": "Abergavenny Town",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/7579.png"
+    },
+    {
+        "id": 7580,
+        "name": "Abertillery Bluebirds",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/7580.png"
+    },
+    {
+        "id": 7581,
+        "name": "Bangor 1876",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/7581.png"
+    },
+    {
+        "id": 7582,
+        "name": "Blaenau Ffestiniog Amat.",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/7582.png"
+    },
+    {
+        "id": 7583,
+        "name": "Builth Wells",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/7583.png"
+    },
+    {
+        "id": 7584,
+        "name": "Caerleon",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/7584.png"
+    },
+    {
+        "id": 7585,
+        "name": "Cardiff Corinthians",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/7585.png"
+    },
+    {
+        "id": 7586,
+        "name": "Cardiff Draconians",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/7586.png"
+    },
+    {
+        "id": 7587,
+        "name": "Cefn Cribwr",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/7587.png"
+    },
+    {
+        "id": 7588,
+        "name": "Chepstow Town",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/7588.png"
+    },
+    {
+        "id": 7589,
+        "name": "Croesyceiliog AFC",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/7589.png"
+    },
+    {
+        "id": 7590,
+        "name": "Four Crosses",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/7590.png"
+    },
+    {
+        "id": 7591,
+        "name": "Greenfield",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/7591.png"
+    },
+    {
+        "id": 7592,
+        "name": "Llanberis",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/7592.png"
+    },
+    {
+        "id": 7593,
+        "name": "Llanrug United",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/7593.png"
+    },
+    {
+        "id": 7594,
+        "name": "Montgomery Town",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/7594.png"
+    },
+    {
+        "id": 7595,
+        "name": "Mynydd Isa",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/7595.png"
+    },
+    {
+        "id": 7596,
+        "name": "Nefyn United",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/7596.png"
+    },
+    {
+        "id": 7597,
+        "name": "Penparcau",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/7597.png"
+    },
+    {
+        "id": 7598,
+        "name": "Pontardawe Town",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/7598.png"
+    },
+    {
+        "id": 7599,
+        "name": "Tredegar Town",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/7599.png"
+    },
+    {
+        "id": 7600,
+        "name": "Waterloo Rovers",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/7600.png"
+    },
+    {
+        "id": 7601,
+        "name": "Ynyshir Albions",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/7601.png"
+    },
+    {
+        "id": 7684,
+        "name": "Aberaeron",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/7684.png"
+    },
+    {
+        "id": 7685,
+        "name": "Chirk AAA",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/7685.png"
+    },
+    {
+        "id": 7686,
+        "name": "FC Cwmaman",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/7686.png"
+    },
+    {
+        "id": 7687,
+        "name": "Llanefydd",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/7687.png"
+    },
+    {
+        "id": 7688,
+        "name": "Prestatyn Sports",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/7688.png"
+    },
+    {
+        "id": 7689,
+        "name": "Queens Park",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/7689.png"
+    },
+    {
+        "id": 7732,
+        "name": "Merthyr Town",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/7732.png"
+    },
+    {
+        "id": 8229,
+        "name": "Wales U21",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/8229.png"
+    },
+    {
+        "id": 10353,
+        "name": "Wales U19",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/10353.png"
+    },
+    {
+        "id": 11276,
+        "name": "Llanelli",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/11276.png"
+    },
+    {
+        "id": 11277,
+        "name": "Neath",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/11277.png"
+    },
+    {
+        "id": 11278,
+        "name": "Aberdare Town",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/11278.png"
+    },
+    {
+        "id": 11279,
+        "name": "Abermule",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/11279.png"
+    },
+    {
+        "id": 11280,
+        "name": "Bodedern",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/11280.png"
+    },
+    {
+        "id": 11281,
+        "name": "Bow Street",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/11281.png"
+    },
+    {
+        "id": 11282,
+        "name": "Bridgend Street",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/11282.png"
+    },
+    {
+        "id": 11283,
+        "name": "Caerphilly Athletic",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/11283.png"
+    },
+    {
+        "id": 11284,
+        "name": "Carmarthen Stars",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/11284.png"
+    },
+    {
+        "id": 11285,
+        "name": "Carno",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/11285.png"
+    },
+    {
+        "id": 11286,
+        "name": "Gaerwen",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/11286.png"
+    },
+    {
+        "id": 11287,
+        "name": "Lex XI",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/11287.png"
+    },
+    {
+        "id": 11288,
+        "name": "Llandudno Junction",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/11288.png"
+    },
+    {
+        "id": 11289,
+        "name": "Llanrwst United",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/11289.png"
+    },
+    {
+        "id": 11290,
+        "name": "Machen",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/11290.png"
+    },
+    {
+        "id": 11291,
+        "name": "Meliden",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/11291.png"
+    },
+    {
+        "id": 11292,
+        "name": "Mochdre Sports",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/11292.png"
+    },
+    {
+        "id": 11293,
+        "name": "Penley",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/11293.png"
+    },
+    {
+        "id": 11294,
+        "name": "Penydarren BGC",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/11294.png"
+    },
+    {
+        "id": 11295,
+        "name": "Penyffordd",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/11295.png"
+    },
+    {
+        "id": 11296,
+        "name": "Rhayader Town",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/11296.png"
+    },
+    {
+        "id": 11297,
+        "name": "Saltney Town",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/11297.png"
+    },
+    {
+        "id": 11298,
+        "name": "Ynysygerwn",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/11298.png"
+    },
+    {
+        "id": 11299,
+        "name": "Abergele Town",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/11299.png"
+    },
+    {
+        "id": 11300,
+        "name": "Barmouth & Dyffryn Utd.",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/11300.png"
+    },
+    {
+        "id": 11301,
+        "name": "Ebbw Vale",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/11301.png"
+    },
+    {
+        "id": 11302,
+        "name": "Glantraeth",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/11302.png"
+    },
+    {
+        "id": 11303,
+        "name": "Llanuwchllyn",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/11303.png"
+    },
+    {
+        "id": 11304,
+        "name": "Merthyr Saints",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/11304.png"
+    },
+    {
+        "id": 11305,
+        "name": "Mynydd Llandegai",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/11305.png"
+    },
+    {
+        "id": 11306,
+        "name": "Newport YMCA AFC",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/11306.png"
+    },
+    {
+        "id": 11307,
+        "name": "Porth",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/11307.png"
+    },
+    {
+        "id": 11308,
+        "name": "Risca United",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/11308.png"
+    },
+    {
+        "id": 11309,
+        "name": "Treowen Stars",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/11309.png"
+    },
+    {
+        "id": 11310,
+        "name": "Trethomas Bluebirds",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/11310.png"
+    },
+    {
+        "id": 11311,
+        "name": "Welshpool Town",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/11311.png"
+    },
+    {
+        "id": 11312,
+        "name": "Ynysgerwn",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/11312.png"
+    },
+    {
+        "id": 11313,
+        "name": "Butetown",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/11313.png"
+    },
+    {
+        "id": 11314,
+        "name": "Cwmbach Royal Stars",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/11314.png"
+    },
+    {
+        "id": 11315,
+        "name": "Gwalchmai",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/11315.png"
+    },
+    {
+        "id": 11316,
+        "name": "Knighton Town",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/11316.png"
+    },
+    {
+        "id": 11317,
+        "name": "Llantwit Fardre",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/11317.png"
+    },
+    {
+        "id": 11318,
+        "name": "Llwydcoed",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/11318.png"
+    },
+    {
+        "id": 11319,
+        "name": "Penmaenmawr Phoenix",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/11319.png"
+    },
+    {
+        "id": 11320,
+        "name": "Penrhyndeudraeth",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/11320.png"
+    },
+    {
+        "id": 11321,
+        "name": "Pentraeth",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/11321.png"
+    },
+    {
+        "id": 11322,
+        "name": "Treaddur Bay United",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/11322.png"
+    },
+    {
+        "id": 11323,
+        "name": "Brynford",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/11323.png"
+    },
+    {
+        "id": 11324,
+        "name": "Canton Liberal",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/11324.png"
+    },
+    {
+        "id": 11325,
+        "name": "Dynamo Aber",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/11325.png"
+    },
+    {
+        "id": 11326,
+        "name": "Glan Conwy",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/11326.png"
+    },
+    {
+        "id": 11327,
+        "name": "Hay Saint Marys",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/11327.png"
+    },
+    {
+        "id": 11328,
+        "name": "Kerry",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/11328.png"
+    },
+    {
+        "id": 11329,
+        "name": "Llangollen Town",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/11329.png"
+    },
+    {
+        "id": 11330,
+        "name": "Marshfield AFC",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/11330.png"
+    },
+    {
+        "id": 11331,
+        "name": "Tata Steel",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/11331.png"
+    },
+    {
+        "id": 11332,
+        "name": "Tiger Bay",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/11332.png"
+    },
+    {
+        "id": 11333,
+        "name": "Caerwys",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/11333.png"
+    },
+    {
+        "id": 11334,
+        "name": "Cardiff Hibernian",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/11334.png"
+    },
+    {
+        "id": 11335,
+        "name": "Fairfield United",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/11335.png"
+    },
+    {
+        "id": 11336,
+        "name": "Machynlleth",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/11336.png"
+    },
+    {
+        "id": 11337,
+        "name": "Newcastle Emlyn",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/11337.png"
+    },
+    {
+        "id": 11338,
+        "name": "Newport Civil Service",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/11338.png"
+    },
+    {
+        "id": 11339,
+        "name": "Presteigne St Andrews",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/11339.png"
+    },
+    {
+        "id": 11340,
+        "name": "Rhoose",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/11340.png"
+    },
+    {
+        "id": 11341,
+        "name": "Splott Albion",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/11341.png"
+    },
+    {
+        "id": 11342,
+        "name": "Tywyn Bryncrug",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/11342.png"
+    },
+    {
+        "id": 11343,
+        "name": "Bridgend Town",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/11343.png"
+    },
+    {
+        "id": 11344,
+        "name": "Bryntirion Athletic",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/11344.png"
+    },
+    {
+        "id": 11345,
+        "name": "Ely Rangers",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/11345.png"
+    },
+    {
+        "id": 11346,
+        "name": "Grange Harlequins",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/11346.png"
+    },
+    {
+        "id": 11347,
+        "name": "Halkyn",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/11347.png"
+    },
+    {
+        "id": 11348,
+        "name": "Llanllyfni",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/11348.png"
+    },
+    {
+        "id": 11349,
+        "name": "Llansantffraid",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/11349.png"
+    },
+    {
+        "id": 11350,
+        "name": "Llanwern",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/11350.png"
+    },
+    {
+        "id": 11351,
+        "name": "Newbridge on Wye",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/11351.png"
+    },
+    {
+        "id": 11352,
+        "name": "Treforest",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/11352.png"
+    },
+    {
+        "id": 11353,
+        "name": "Venture Community",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/11353.png"
+    },
+    {
+        "id": 17342,
+        "name": "AC Pontymister",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/17342.png"
+    },
+    {
+        "id": 17343,
+        "name": "Aber Valley",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/17343.png"
+    },
+    {
+        "id": 17344,
+        "name": "CPD Llannerch-Y-Medd",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/17344.png"
+    },
+    {
+        "id": 17345,
+        "name": "Caergybi",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/17345.png"
+    },
+    {
+        "id": 17346,
+        "name": "Cardiff Airport",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/17346.png"
+    },
+    {
+        "id": 17347,
+        "name": "Fairwater",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/17347.png"
+    },
+    {
+        "id": 17348,
+        "name": "Llandyrnog United",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/17348.png"
+    },
+    {
+        "id": 17349,
+        "name": "Llanelwy Athletic",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/17349.png"
+    },
+    {
+        "id": 17350,
+        "name": "Llanfairfechan Town",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/17350.png"
+    },
+    {
+        "id": 17351,
+        "name": "Penrhiwceiber Rangers",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/17351.png"
+    },
+    {
+        "id": 17352,
+        "name": "Porthcawl Town Athletic",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/17352.png"
+    },
+    {
+        "id": 17353,
+        "name": "Rhos Aelwyd",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/17353.png"
+    },
+    {
+        "id": 17354,
+        "name": "Y Felinheli",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/17354.png"
+    },
+    {
+        "id": 17355,
+        "name": "Y Rhyl 1879",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/17355.png"
+    },
+    {
+        "id": 17984,
+        "name": "Wales U17",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/17984.png"
+    },
+    {
+        "id": 20357,
+        "name": "Aberfan",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/20357.png"
+    },
+    {
+        "id": 20358,
+        "name": "Baglan Dragons",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/20358.png"
+    },
+    {
+        "id": 20359,
+        "name": "Calsonic Kansei SV",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/20359.png"
+    },
+    {
+        "id": 20360,
+        "name": "Flint Mountain",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/20360.png"
+    },
+    {
+        "id": 20361,
+        "name": "Hakin United",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/20361.png"
+    },
+    {
+        "id": 20362,
+        "name": "Kinmel Bay",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/20362.png"
+    },
+    {
+        "id": 20363,
+        "name": "Llansannan",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/20363.png"
+    },
+    {
+        "id": 20364,
+        "name": "Newport City",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/20364.png"
+    },
+    {
+        "id": 20365,
+        "name": "Pill AFC",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/20365.png"
+    },
+    {
+        "id": 20366,
+        "name": "Rockspur",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/20366.png"
+    },
+    {
+        "id": 20367,
+        "name": "Talysarn Celts",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/20367.png"
+    },
+    {
+        "id": 20368,
+        "name": "Trearddur Bay",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/20368.png"
+    },
+    {
+        "id": 20369,
+        "name": "Y Glannau",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/20369.png"
+    },
+    {
+        "id": 22282,
+        "name": "Abercarn United",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/22282.png"
+    },
+    {
+        "id": 22283,
+        "name": "Afan United",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/22283.png"
+    },
+    {
+        "id": 22284,
+        "name": "Cefn Fforest",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/22284.png"
+    },
+    {
+        "id": 22285,
+        "name": "Cerrigydrudion",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/22285.png"
+    },
+    {
+        "id": 22286,
+        "name": "Evans & Williams",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/22286.png"
+    },
+    {
+        "id": 22287,
+        "name": "Menai Bridge Tigers",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/22287.png"
+    },
+    {
+        "id": 22288,
+        "name": "Mumbles Rangers",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/22288.png"
+    },
+    {
+        "id": 22289,
+        "name": "South Gower",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/22289.png"
+    },
+    {
+        "id": 22290,
+        "name": "St Albans",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/22290.png"
+    },
+    {
+        "id": 22291,
+        "name": "Tregaron Turfs",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/22291.png"
+    },
+    {
+        "id": 22350,
+        "name": "NFA",
+        "country": "Wales",
+        "logo": "https://media.api-sports.io/football/teams/22350.png"
+    }
+]

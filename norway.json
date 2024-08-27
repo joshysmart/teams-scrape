@@ -1,0 +1,1766 @@
+[
+    {
+        "id": 319,
+        "name": "Brann",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/319.png"
+    },
+    {
+        "id": 320,
+        "name": "Kristiansund BK",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/320.png"
+    },
+    {
+        "id": 321,
+        "name": "Lillestrom",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/321.png"
+    },
+    {
+        "id": 322,
+        "name": "Ranheim",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/322.png"
+    },
+    {
+        "id": 323,
+        "name": "Stabaek",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/323.png"
+    },
+    {
+        "id": 324,
+        "name": "Stromsgodset",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/324.png"
+    },
+    {
+        "id": 325,
+        "name": "Tromso",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/325.png"
+    },
+    {
+        "id": 326,
+        "name": "Valerenga",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/326.png"
+    },
+    {
+        "id": 327,
+        "name": "Bodo/Glimt",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/327.png"
+    },
+    {
+        "id": 328,
+        "name": "Haugesund",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/328.png"
+    },
+    {
+        "id": 329,
+        "name": "Molde",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/329.png"
+    },
+    {
+        "id": 330,
+        "name": "ODD Ballklubb",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/330.png"
+    },
+    {
+        "id": 331,
+        "name": "Rosenborg",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/331.png"
+    },
+    {
+        "id": 332,
+        "name": "Sandefjord",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/332.png"
+    },
+    {
+        "id": 333,
+        "name": "Sarpsborg 08 FF",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/333.png"
+    },
+    {
+        "id": 334,
+        "name": "Start",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/334.png"
+    },
+    {
+        "id": 757,
+        "name": "Aalesund",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/757.png"
+    },
+    {
+        "id": 758,
+        "name": "Sogndal",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/758.png"
+    },
+    {
+        "id": 759,
+        "name": "Viking",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/759.png"
+    },
+    {
+        "id": 1090,
+        "name": "Norway",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1090.png"
+    },
+    {
+        "id": 1724,
+        "name": "Norway W",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/1724.png"
+    },
+    {
+        "id": 2142,
+        "name": "Bryne",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/2142.png"
+    },
+    {
+        "id": 2143,
+        "name": "KFUM Oslo",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/2143.png"
+    },
+    {
+        "id": 2144,
+        "name": "Kongsvinger",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/2144.png"
+    },
+    {
+        "id": 2145,
+        "name": "Levanger",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/2145.png"
+    },
+    {
+        "id": 2146,
+        "name": "Sandnes ULF",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/2146.png"
+    },
+    {
+        "id": 2147,
+        "name": "Strommen",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/2147.png"
+    },
+    {
+        "id": 2148,
+        "name": "Asane",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/2148.png"
+    },
+    {
+        "id": 2149,
+        "name": "Fredrikstad",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/2149.png"
+    },
+    {
+        "id": 2150,
+        "name": "hodd",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/2150.png"
+    },
+    {
+        "id": 2151,
+        "name": "jerv",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/2151.png"
+    },
+    {
+        "id": 2152,
+        "name": "Mjondalen",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/2152.png"
+    },
+    {
+        "id": 2153,
+        "name": "Raufoss",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/2153.png"
+    },
+    {
+        "id": 2154,
+        "name": "Ull/Kisa",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/2154.png"
+    },
+    {
+        "id": 2155,
+        "name": "Arendal",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/2155.png"
+    },
+    {
+        "id": 2156,
+        "name": "Elverum",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/2156.png"
+    },
+    {
+        "id": 2157,
+        "name": "Floro",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/2157.png"
+    },
+    {
+        "id": 2158,
+        "name": "Tromsdalen Uil",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/2158.png"
+    },
+    {
+        "id": 2159,
+        "name": "Ham-Kam",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/2159.png"
+    },
+    {
+        "id": 2160,
+        "name": "Nest-Sotra",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/2160.png"
+    },
+    {
+        "id": 2161,
+        "name": "Notodden",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/2161.png"
+    },
+    {
+        "id": 2239,
+        "name": "Skeid",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/2239.png"
+    },
+    {
+        "id": 6965,
+        "name": "Alta",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/6965.png"
+    },
+    {
+        "id": 6966,
+        "name": "Arna-Bj\u00f8rnar",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/6966.png"
+    },
+    {
+        "id": 6967,
+        "name": "Asker",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/6967.png"
+    },
+    {
+        "id": 6968,
+        "name": "Bergen Nord",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/6968.png"
+    },
+    {
+        "id": 6969,
+        "name": "Bergs\u00f8y",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/6969.png"
+    },
+    {
+        "id": 6970,
+        "name": "Brattv\u00e5g",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/6970.png"
+    },
+    {
+        "id": 6971,
+        "name": "Brodd",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/6971.png"
+    },
+    {
+        "id": 6972,
+        "name": "Brumunddal",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/6972.png"
+    },
+    {
+        "id": 6973,
+        "name": "By\u00e5sen",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/6973.png"
+    },
+    {
+        "id": 6974,
+        "name": "B\u00e6rum",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/6974.png"
+    },
+    {
+        "id": 6975,
+        "name": "Donn",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/6975.png"
+    },
+    {
+        "id": 6976,
+        "name": "Egersund",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/6976.png"
+    },
+    {
+        "id": 6977,
+        "name": "Eide",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/6977.png"
+    },
+    {
+        "id": 6978,
+        "name": "Eidsvold",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/6978.png"
+    },
+    {
+        "id": 6979,
+        "name": "Faaberg",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/6979.png"
+    },
+    {
+        "id": 6980,
+        "name": "Fana",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/6980.png"
+    },
+    {
+        "id": 6981,
+        "name": "Fj\u00f8ra",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/6981.png"
+    },
+    {
+        "id": 6982,
+        "name": "Flekker\u00f8y",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/6982.png"
+    },
+    {
+        "id": 6983,
+        "name": "Flint",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/6983.png"
+    },
+    {
+        "id": 6984,
+        "name": "Fl\u00f8ya",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/6984.png"
+    },
+    {
+        "id": 6985,
+        "name": "Follo",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/6985.png"
+    },
+    {
+        "id": 6986,
+        "name": "Fram",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/6986.png"
+    },
+    {
+        "id": 6987,
+        "name": "Frigg",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/6987.png"
+    },
+    {
+        "id": 6988,
+        "name": "Fr\u00f8ya",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/6988.png"
+    },
+    {
+        "id": 6989,
+        "name": "Fr\u00f8yland",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/6989.png"
+    },
+    {
+        "id": 6990,
+        "name": "Fyllingsdalen",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/6990.png"
+    },
+    {
+        "id": 6991,
+        "name": "Gjeller\u00e5sen",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/6991.png"
+    },
+    {
+        "id": 6992,
+        "name": "Gj\u00f8vik-Lyn",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/6992.png"
+    },
+    {
+        "id": 6993,
+        "name": "Grorud",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/6993.png"
+    },
+    {
+        "id": 6994,
+        "name": "Harstad",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/6994.png"
+    },
+    {
+        "id": 6995,
+        "name": "Heming",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/6995.png"
+    },
+    {
+        "id": 6996,
+        "name": "Herd",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/6996.png"
+    },
+    {
+        "id": 6997,
+        "name": "Hinna",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/6997.png"
+    },
+    {
+        "id": 6998,
+        "name": "H\u00f8nefoss",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/6998.png"
+    },
+    {
+        "id": 6999,
+        "name": "IF Ready",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/6999.png"
+    },
+    {
+        "id": 7000,
+        "name": "Junkeren",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/7000.png"
+    },
+    {
+        "id": 7001,
+        "name": "Kjels\u00e5s",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/7001.png"
+    },
+    {
+        "id": 7002,
+        "name": "Kolstad",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/7002.png"
+    },
+    {
+        "id": 7003,
+        "name": "Kr\u00e5ker\u00f8y",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/7003.png"
+    },
+    {
+        "id": 7004,
+        "name": "Kvik Halden",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/7004.png"
+    },
+    {
+        "id": 7005,
+        "name": "Lokomotiv Oslo",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/7005.png"
+    },
+    {
+        "id": 7006,
+        "name": "Lyn",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/7006.png"
+    },
+    {
+        "id": 7007,
+        "name": "Lysekloster",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/7007.png"
+    },
+    {
+        "id": 7008,
+        "name": "L\u00f8renskog",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/7008.png"
+    },
+    {
+        "id": 7009,
+        "name": "Madla",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/7009.png"
+    },
+    {
+        "id": 7010,
+        "name": "Melbo IL",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/7010.png"
+    },
+    {
+        "id": 7011,
+        "name": "Mj\u00f8lner",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/7011.png"
+    },
+    {
+        "id": 7012,
+        "name": "Moss",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/7012.png"
+    },
+    {
+        "id": 7013,
+        "name": "NTNUI",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/7013.png"
+    },
+    {
+        "id": 7014,
+        "name": "Nardo",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/7014.png"
+    },
+    {
+        "id": 7015,
+        "name": "Nordstrand",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/7015.png"
+    },
+    {
+        "id": 7016,
+        "name": "Norild",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/7016.png"
+    },
+    {
+        "id": 7017,
+        "name": "Nybergsund",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/7017.png"
+    },
+    {
+        "id": 7018,
+        "name": "Oppsal",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/7018.png"
+    },
+    {
+        "id": 7019,
+        "name": "Ottestad",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/7019.png"
+    },
+    {
+        "id": 7020,
+        "name": "Pors Grenland",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/7020.png"
+    },
+    {
+        "id": 7021,
+        "name": "Porsanger",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/7021.png"
+    },
+    {
+        "id": 7022,
+        "name": "R\u00f8rvik",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/7022.png"
+    },
+    {
+        "id": 7023,
+        "name": "Senja",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/7023.png"
+    },
+    {
+        "id": 7024,
+        "name": "Skjerv\u00f8y",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/7024.png"
+    },
+    {
+        "id": 7025,
+        "name": "Skjetten",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/7025.png"
+    },
+    {
+        "id": 7026,
+        "name": "Sk\u00e5nland",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/7026.png"
+    },
+    {
+        "id": 7027,
+        "name": "Sola",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/7027.png"
+    },
+    {
+        "id": 7028,
+        "name": "Sotra",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/7028.png"
+    },
+    {
+        "id": 7029,
+        "name": "Sparta Sarpsborg",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/7029.png"
+    },
+    {
+        "id": 7030,
+        "name": "Spjelkavik",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/7030.png"
+    },
+    {
+        "id": 7031,
+        "name": "Sprint-Jel\u00f8y",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/7031.png"
+    },
+    {
+        "id": 7032,
+        "name": "Steinkjer",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/7032.png"
+    },
+    {
+        "id": 7033,
+        "name": "Stj\u00f8rdals-Blink",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/7033.png"
+    },
+    {
+        "id": 7034,
+        "name": "Storm",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/7034.png"
+    },
+    {
+        "id": 7035,
+        "name": "Stryn",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/7035.png"
+    },
+    {
+        "id": 7036,
+        "name": "Sunndal",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/7036.png"
+    },
+    {
+        "id": 7037,
+        "name": "Tiller",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/7037.png"
+    },
+    {
+        "id": 7038,
+        "name": "Toten",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/7038.png"
+    },
+    {
+        "id": 7039,
+        "name": "Trygg/Lade",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/7039.png"
+    },
+    {
+        "id": 7040,
+        "name": "Tr\u00e6ff",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/7040.png"
+    },
+    {
+        "id": 7041,
+        "name": "T\u00f8nsberg",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/7041.png"
+    },
+    {
+        "id": 7042,
+        "name": "Ullern",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/7042.png"
+    },
+    {
+        "id": 7043,
+        "name": "Vard",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/7043.png"
+    },
+    {
+        "id": 7044,
+        "name": "Verdal",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/7044.png"
+    },
+    {
+        "id": 7045,
+        "name": "Vestfossen",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/7045.png"
+    },
+    {
+        "id": 7046,
+        "name": "Vidar",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/7046.png"
+    },
+    {
+        "id": 7047,
+        "name": "Vindbjart",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/7047.png"
+    },
+    {
+        "id": 7048,
+        "name": "\u00c5ga",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/7048.png"
+    },
+    {
+        "id": 7049,
+        "name": "\u00c5kra",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/7049.png"
+    },
+    {
+        "id": 7050,
+        "name": "\u00c5lg\u00e5rd",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/7050.png"
+    },
+    {
+        "id": 7051,
+        "name": "\u00c5ssiden IF",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/7051.png"
+    },
+    {
+        "id": 7052,
+        "name": "\u00d8rn Horten",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/7052.png"
+    },
+    {
+        "id": 7935,
+        "name": "Sogndal U19",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/7935.png"
+    },
+    {
+        "id": 7962,
+        "name": "Molde U19",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/7962.png"
+    },
+    {
+        "id": 8214,
+        "name": "Norway U21",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/8214.png"
+    },
+    {
+        "id": 9975,
+        "name": "Odd II",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/9975.png"
+    },
+    {
+        "id": 9976,
+        "name": "\u00d8ygarden",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/9976.png"
+    },
+    {
+        "id": 10113,
+        "name": "Rosenborg II",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/10113.png"
+    },
+    {
+        "id": 10114,
+        "name": "V\u00e5lerenga II",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/10114.png"
+    },
+    {
+        "id": 10296,
+        "name": "Norway U20",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/10296.png"
+    },
+    {
+        "id": 10342,
+        "name": "Norway U19",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/10342.png"
+    },
+    {
+        "id": 10894,
+        "name": "Lillestr\u00f8m",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/10894.png"
+    },
+    {
+        "id": 12812,
+        "name": "Mandalskameratene",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/12812.png"
+    },
+    {
+        "id": 12817,
+        "name": "Molde II",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/12817.png"
+    },
+    {
+        "id": 12824,
+        "name": "Orkla",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/12824.png"
+    },
+    {
+        "id": 12825,
+        "name": "Os",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/12825.png"
+    },
+    {
+        "id": 12860,
+        "name": "Staal J\u00f8rpeland",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/12860.png"
+    },
+    {
+        "id": 12861,
+        "name": "Start II",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/12861.png"
+    },
+    {
+        "id": 12864,
+        "name": "Strindheim",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/12864.png"
+    },
+    {
+        "id": 12865,
+        "name": "Str\u00f8msgodset II",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/12865.png"
+    },
+    {
+        "id": 12870,
+        "name": "S\u00f8rlandslaget",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/12870.png"
+    },
+    {
+        "id": 12891,
+        "name": "Viking II",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/12891.png"
+    },
+    {
+        "id": 14545,
+        "name": "Sandviken",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/14545.png"
+    },
+    {
+        "id": 15535,
+        "name": "V\u00e5lerenga W",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/15535.png"
+    },
+    {
+        "id": 15950,
+        "name": "Avaldsnes W",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/15950.png"
+    },
+    {
+        "id": 15951,
+        "name": "Klepp W",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/15951.png"
+    },
+    {
+        "id": 15952,
+        "name": "Kolbotn W",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/15952.png"
+    },
+    {
+        "id": 15953,
+        "name": "Stab\u00e6k W",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/15953.png"
+    },
+    {
+        "id": 15954,
+        "name": "Arna-Bj\u00f8rnar W",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/15954.png"
+    },
+    {
+        "id": 15955,
+        "name": "Lyn W",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/15955.png"
+    },
+    {
+        "id": 15956,
+        "name": "Rosenborg W",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/15956.png"
+    },
+    {
+        "id": 15957,
+        "name": "Sandviken W",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/15957.png"
+    },
+    {
+        "id": 16204,
+        "name": "Funnefoss / Vormsund",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/16204.png"
+    },
+    {
+        "id": 16205,
+        "name": "Grorud II",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/16205.png"
+    },
+    {
+        "id": 16206,
+        "name": "Kongsvinger II",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/16206.png"
+    },
+    {
+        "id": 16207,
+        "name": "Lillestr\u00f8m II",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/16207.png"
+    },
+    {
+        "id": 16208,
+        "name": "Raufoss II",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/16208.png"
+    },
+    {
+        "id": 16209,
+        "name": "Rommen",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/16209.png"
+    },
+    {
+        "id": 16210,
+        "name": "Ullensaker / Kisa II",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/16210.png"
+    },
+    {
+        "id": 16211,
+        "name": "Eik-T\u00f8nsberg",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/16211.png"
+    },
+    {
+        "id": 16212,
+        "name": "Fredrikstad II",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/16212.png"
+    },
+    {
+        "id": 16213,
+        "name": "Halsen",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/16213.png"
+    },
+    {
+        "id": 16214,
+        "name": "Mj\u00f8ndalen II",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/16214.png"
+    },
+    {
+        "id": 16215,
+        "name": "Sarpsborg 08 II",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/16215.png"
+    },
+    {
+        "id": 16216,
+        "name": "Djerv",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/16216.png"
+    },
+    {
+        "id": 16217,
+        "name": "Bjarg",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/16217.png"
+    },
+    {
+        "id": 16218,
+        "name": "Brann II",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/16218.png"
+    },
+    {
+        "id": 16219,
+        "name": "Sogndal II",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/16219.png"
+    },
+    {
+        "id": 16220,
+        "name": "Stord",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/16220.png"
+    },
+    {
+        "id": 16221,
+        "name": "\u00c5rdal",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/16221.png"
+    },
+    {
+        "id": 16222,
+        "name": "Aalesund II",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/16222.png"
+    },
+    {
+        "id": 16223,
+        "name": "Melhus",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/16223.png"
+    },
+    {
+        "id": 16224,
+        "name": "Ranheim II",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/16224.png"
+    },
+    {
+        "id": 16225,
+        "name": "Tynset",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/16225.png"
+    },
+    {
+        "id": 16226,
+        "name": "Volda",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/16226.png"
+    },
+    {
+        "id": 16227,
+        "name": "Bod\u00f8 / Glimt II",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/16227.png"
+    },
+    {
+        "id": 16228,
+        "name": "Finnsnes",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/16228.png"
+    },
+    {
+        "id": 16229,
+        "name": "Rana",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/16229.png"
+    },
+    {
+        "id": 16230,
+        "name": "Skeid II",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/16230.png"
+    },
+    {
+        "id": 16231,
+        "name": "Stab\u00e6k II",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/16231.png"
+    },
+    {
+        "id": 16232,
+        "name": "Troms\u00f8 II",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/16232.png"
+    },
+    {
+        "id": 16395,
+        "name": "Rosenborg U19",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/16395.png"
+    },
+    {
+        "id": 16552,
+        "name": "Aalesunds U19",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/16552.png"
+    },
+    {
+        "id": 16553,
+        "name": "Bod\u00f8 / Glimt U19",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/16553.png"
+    },
+    {
+        "id": 16554,
+        "name": "Brann U19",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/16554.png"
+    },
+    {
+        "id": 16555,
+        "name": "Bryne U19",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/16555.png"
+    },
+    {
+        "id": 16556,
+        "name": "Haugesund U19",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/16556.png"
+    },
+    {
+        "id": 16557,
+        "name": "KFUM U19",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/16557.png"
+    },
+    {
+        "id": 16558,
+        "name": "Kristiansund U19",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/16558.png"
+    },
+    {
+        "id": 16559,
+        "name": "Lillestr\u00f8m U19",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/16559.png"
+    },
+    {
+        "id": 16560,
+        "name": "Mj\u00f8ndalen U19",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/16560.png"
+    },
+    {
+        "id": 16561,
+        "name": "Sandefjord U19",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/16561.png"
+    },
+    {
+        "id": 16562,
+        "name": "Sandnes Ulf U19",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/16562.png"
+    },
+    {
+        "id": 16563,
+        "name": "Stab\u00e6k U19",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/16563.png"
+    },
+    {
+        "id": 16564,
+        "name": "Start U19",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/16564.png"
+    },
+    {
+        "id": 16565,
+        "name": "Str\u00f8msgodset U19",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/16565.png"
+    },
+    {
+        "id": 16566,
+        "name": "Troms\u00f8 U19",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/16566.png"
+    },
+    {
+        "id": 16567,
+        "name": "Viking U19",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/16567.png"
+    },
+    {
+        "id": 16568,
+        "name": "V\u00e5lerenga U19",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/16568.png"
+    },
+    {
+        "id": 16569,
+        "name": "\u00c5sane U19",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/16569.png"
+    },
+    {
+        "id": 16868,
+        "name": "SF Grei",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/16868.png"
+    },
+    {
+        "id": 16869,
+        "name": "Stovner",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/16869.png"
+    },
+    {
+        "id": 16870,
+        "name": "Vardeneset",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/16870.png"
+    },
+    {
+        "id": 17969,
+        "name": "Norway U17",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/17969.png"
+    },
+    {
+        "id": 18379,
+        "name": "R\u00f8a",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/18379.png"
+    },
+    {
+        "id": 18380,
+        "name": "Brann W",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/18380.png"
+    },
+    {
+        "id": 18434,
+        "name": "Kjels\u00e5s II",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/18434.png"
+    },
+    {
+        "id": 18435,
+        "name": "F\u00f8rde",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/18435.png"
+    },
+    {
+        "id": 18436,
+        "name": "H\u00f8dd II",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/18436.png"
+    },
+    {
+        "id": 18437,
+        "name": "Lillehammer",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/18437.png"
+    },
+    {
+        "id": 18438,
+        "name": "Bremnes",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/18438.png"
+    },
+    {
+        "id": 18439,
+        "name": "Haugesund II",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/18439.png"
+    },
+    {
+        "id": 18440,
+        "name": "Sandnes Ulf II",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/18440.png"
+    },
+    {
+        "id": 18441,
+        "name": "Randesund",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/18441.png"
+    },
+    {
+        "id": 18442,
+        "name": "Ur\u00e6dd",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/18442.png"
+    },
+    {
+        "id": 18443,
+        "name": "Innstranden",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/18443.png"
+    },
+    {
+        "id": 18444,
+        "name": "Bossekop",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/18444.png"
+    },
+    {
+        "id": 18921,
+        "name": "Dahle",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/18921.png"
+    },
+    {
+        "id": 18922,
+        "name": "Eidsvold IF",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/18922.png"
+    },
+    {
+        "id": 18923,
+        "name": "Furnes",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/18923.png"
+    },
+    {
+        "id": 18924,
+        "name": "Gamle Oslo",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/18924.png"
+    },
+    {
+        "id": 18925,
+        "name": "Gneist",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/18925.png"
+    },
+    {
+        "id": 18926,
+        "name": "Hei",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/18926.png"
+    },
+    {
+        "id": 18927,
+        "name": "Ishavsbyen",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/18927.png"
+    },
+    {
+        "id": 18928,
+        "name": "Kolbu / KK",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/18928.png"
+    },
+    {
+        "id": 18929,
+        "name": "Rosseland",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/18929.png"
+    },
+    {
+        "id": 18930,
+        "name": "R\u00e5de",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/18930.png"
+    },
+    {
+        "id": 18931,
+        "name": "Surnadal",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/18931.png"
+    },
+    {
+        "id": 18932,
+        "name": "Voss",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/18932.png"
+    },
+    {
+        "id": 18933,
+        "name": "\u00c5skollen",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/18933.png"
+    },
+    {
+        "id": 18934,
+        "name": "\u00d8stsiden",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/18934.png"
+    },
+    {
+        "id": 18984,
+        "name": "Amazon Grimstad W",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/18984.png"
+    },
+    {
+        "id": 18985,
+        "name": "Fortuna \u00c5lesund W",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/18985.png"
+    },
+    {
+        "id": 18986,
+        "name": "Grand Bod\u00f8 W",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/18986.png"
+    },
+    {
+        "id": 18987,
+        "name": "KIL / Hemne W",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/18987.png"
+    },
+    {
+        "id": 18988,
+        "name": "Medkila W",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/18988.png"
+    },
+    {
+        "id": 18989,
+        "name": "TIL 2020 W",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/18989.png"
+    },
+    {
+        "id": 18990,
+        "name": "\u00d8vrevoll Hosle W",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/18990.png"
+    },
+    {
+        "id": 18991,
+        "name": "H\u00f8nefoss W",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/18991.png"
+    },
+    {
+        "id": 18992,
+        "name": "\u00c5sane W",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/18992.png"
+    },
+    {
+        "id": 19065,
+        "name": "Norway U19 W",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/19065.png"
+    },
+    {
+        "id": 19711,
+        "name": "Skedsmo",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/19711.png"
+    },
+    {
+        "id": 20812,
+        "name": "HamKam U19",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/20812.png"
+    },
+    {
+        "id": 20813,
+        "name": "Odd U19",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/20813.png"
+    },
+    {
+        "id": 20854,
+        "name": "Eiger",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/20854.png"
+    },
+    {
+        "id": 20872,
+        "name": "Tr\u00f8nder-Lyn",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/20872.png"
+    },
+    {
+        "id": 20884,
+        "name": "Grei",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/20884.png"
+    },
+    {
+        "id": 20885,
+        "name": "Fyllingsdalen W",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/20885.png"
+    },
+    {
+        "id": 21348,
+        "name": "Drammens BK",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/21348.png"
+    },
+    {
+        "id": 21349,
+        "name": "Dr\u00f8bak / Frogn",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/21349.png"
+    },
+    {
+        "id": 21350,
+        "name": "Eid",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/21350.png"
+    },
+    {
+        "id": 21351,
+        "name": "Forus og Gausel",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/21351.png"
+    },
+    {
+        "id": 21352,
+        "name": "Hammerfest IF Stein",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/21352.png"
+    },
+    {
+        "id": 21353,
+        "name": "Holmlia",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/21353.png"
+    },
+    {
+        "id": 21354,
+        "name": "Loddefjord",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/21354.png"
+    },
+    {
+        "id": 21355,
+        "name": "Mosj\u00f8en",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/21355.png"
+    },
+    {
+        "id": 21356,
+        "name": "Tomrefjord",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/21356.png"
+    },
+    {
+        "id": 21416,
+        "name": "Ullern II",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/21416.png"
+    },
+    {
+        "id": 21417,
+        "name": "HamKam II",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/21417.png"
+    },
+    {
+        "id": 21418,
+        "name": "Sandefjord II",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/21418.png"
+    },
+    {
+        "id": 21419,
+        "name": "Kristiansund II",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/21419.png"
+    },
+    {
+        "id": 21420,
+        "name": "KFUM II",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/21420.png"
+    },
+    {
+        "id": 21473,
+        "name": "Norway U16",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/21473.png"
+    },
+    {
+        "id": 21474,
+        "name": "Norway U18",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/21474.png"
+    },
+    {
+        "id": 22858,
+        "name": "Bod\u00f8 / Glimt",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/22858.png"
+    },
+    {
+        "id": 22859,
+        "name": "Odd",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/22859.png"
+    },
+    {
+        "id": 22860,
+        "name": "Viking FK",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/22860.png"
+    },
+    {
+        "id": 22867,
+        "name": "Ulfstind",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/22867.png"
+    },
+    {
+        "id": 22868,
+        "name": "Bj\u00f8rkelangen",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/22868.png"
+    },
+    {
+        "id": 22869,
+        "name": "Vig\u00f8r",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/22869.png"
+    },
+    {
+        "id": 22870,
+        "name": "Ask\u00f8y",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/22870.png"
+    },
+    {
+        "id": 22871,
+        "name": "\u00c5sane II",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/22871.png"
+    },
+    {
+        "id": 23413,
+        "name": "Br\u00f8nn\u00f8ysund",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/23413.png"
+    },
+    {
+        "id": 23414,
+        "name": "Hallingdal",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/23414.png"
+    },
+    {
+        "id": 23415,
+        "name": "Kirkenes",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/23415.png"
+    },
+    {
+        "id": 23416,
+        "name": "Lyngb\u00f8",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/23416.png"
+    },
+    {
+        "id": 23417,
+        "name": "Ridabu",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/23417.png"
+    },
+    {
+        "id": 23418,
+        "name": "Sarpsborg",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/23418.png"
+    },
+    {
+        "id": 23419,
+        "name": "Skreia",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/23419.png"
+    },
+    {
+        "id": 23420,
+        "name": "Sortland",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/23420.png"
+    },
+    {
+        "id": 23421,
+        "name": "Sverresborg",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/23421.png"
+    },
+    {
+        "id": 23422,
+        "name": "Torvastad",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/23422.png"
+    },
+    {
+        "id": 23423,
+        "name": "Union Carl Berner",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/23423.png"
+    },
+    {
+        "id": 23424,
+        "name": "Varhaug",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/23424.png"
+    },
+    {
+        "id": 23425,
+        "name": "\u00c5rvoll",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/23425.png"
+    },
+    {
+        "id": 23625,
+        "name": "Norway U17 W",
+        "country": "Norway",
+        "logo": "https://media.api-sports.io/football/teams/23625.png"
+    }
+]

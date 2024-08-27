@@ -1,0 +1,1730 @@
+[
+    {
+        "id": 560,
+        "name": "Slavia Praha",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/560.png"
+    },
+    {
+        "id": 567,
+        "name": "Plzen",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/567.png"
+    },
+    {
+        "id": 603,
+        "name": "Zlin",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/603.png"
+    },
+    {
+        "id": 628,
+        "name": "Sparta Praha",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/628.png"
+    },
+    {
+        "id": 640,
+        "name": "Mlada Boleslav",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/640.png"
+    },
+    {
+        "id": 770,
+        "name": "Czech Republic",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/770.png"
+    },
+    {
+        "id": 782,
+        "name": "Slovan Liberec",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/782.png"
+    },
+    {
+        "id": 1122,
+        "name": "FK Jablonec",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/1122.png"
+    },
+    {
+        "id": 1743,
+        "name": "Czech Republic W",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/1743.png"
+    },
+    {
+        "id": 2250,
+        "name": "Sigma Olomouc",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/2250.png"
+    },
+    {
+        "id": 3713,
+        "name": "Ban\u00edk Ostrava",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/3713.png"
+    },
+    {
+        "id": 3714,
+        "name": "Bohemians 1905",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/3714.png"
+    },
+    {
+        "id": 3715,
+        "name": "Dukla Praha",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/3715.png"
+    },
+    {
+        "id": 3716,
+        "name": "Karvin\u00e1",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/3716.png"
+    },
+    {
+        "id": 3717,
+        "name": "Opava",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/3717.png"
+    },
+    {
+        "id": 3718,
+        "name": "P\u0159\u00edbram",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/3718.png"
+    },
+    {
+        "id": 3719,
+        "name": "Slov\u00e1cko",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/3719.png"
+    },
+    {
+        "id": 3720,
+        "name": "Teplice",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/3720.png"
+    },
+    {
+        "id": 3721,
+        "name": "Ban\u00edk Sokolov",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/3721.png"
+    },
+    {
+        "id": 3722,
+        "name": "Chrudim",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/3722.png"
+    },
+    {
+        "id": 3723,
+        "name": "Hradec Kr\u00e1lov\u00e9",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/3723.png"
+    },
+    {
+        "id": 3724,
+        "name": "Pardubice",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/3724.png"
+    },
+    {
+        "id": 3725,
+        "name": "Prost\u011bjov",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/3725.png"
+    },
+    {
+        "id": 3726,
+        "name": "T\u00e1borsko",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/3726.png"
+    },
+    {
+        "id": 3727,
+        "name": "T\u0159inec",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/3727.png"
+    },
+    {
+        "id": 3728,
+        "name": "Varnsdorf",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/3728.png"
+    },
+    {
+        "id": 3729,
+        "name": "Viktoria \u017di\u017ekov",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/3729.png"
+    },
+    {
+        "id": 3730,
+        "name": "Vla\u0161im",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/3730.png"
+    },
+    {
+        "id": 3731,
+        "name": "Vyso\u010dina Jihlava",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/3731.png"
+    },
+    {
+        "id": 3732,
+        "name": "V\u00edtkovice",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/3732.png"
+    },
+    {
+        "id": 3733,
+        "name": "Zbrojovka Brno",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/3733.png"
+    },
+    {
+        "id": 3734,
+        "name": "Znojmo",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/3734.png"
+    },
+    {
+        "id": 3735,
+        "name": "\u00dast\u00ed nad Labem",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/3735.png"
+    },
+    {
+        "id": 3736,
+        "name": "\u010cesk\u00e9 Bud\u011bjovice",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/3736.png"
+    },
+    {
+        "id": 4257,
+        "name": "L\u00ed\u0161e\u0148",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/4257.png"
+    },
+    {
+        "id": 4258,
+        "name": "Slavoj Vy\u0161ehrad",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/4258.png"
+    },
+    {
+        "id": 7268,
+        "name": "Admira Praha",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7268.png"
+    },
+    {
+        "id": 7269,
+        "name": "Aritma Praha",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7269.png"
+    },
+    {
+        "id": 7270,
+        "name": "Arsenal \u010cesk\u00e1 L\u00edpa",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7270.png"
+    },
+    {
+        "id": 7271,
+        "name": "Ban\u00edk Sou\u0161",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7271.png"
+    },
+    {
+        "id": 7272,
+        "name": "Ban\u00edk Union Nov\u00e9 Sedlo",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7272.png"
+    },
+    {
+        "id": 7273,
+        "name": "Bene\u0161ov",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7273.png"
+    },
+    {
+        "id": 7274,
+        "name": "Ben\u00e1tky nad Jizerou",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7274.png"
+    },
+    {
+        "id": 7275,
+        "name": "Beskyd Fren\u0161t\u00e1t",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7275.png"
+    },
+    {
+        "id": 7276,
+        "name": "Blansko",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7276.png"
+    },
+    {
+        "id": 7277,
+        "name": "Bospor Bohum\u00edn",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7277.png"
+    },
+    {
+        "id": 7278,
+        "name": "Brand\u00fds nad Labem",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7278.png"
+    },
+    {
+        "id": 7279,
+        "name": "Brumov",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7279.png"
+    },
+    {
+        "id": 7280,
+        "name": "Bzenec",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7280.png"
+    },
+    {
+        "id": 7281,
+        "name": "Chlumec nad Cidlinou",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7281.png"
+    },
+    {
+        "id": 7282,
+        "name": "Chomutov",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7282.png"
+    },
+    {
+        "id": 7283,
+        "name": "Dob\u0159\u00ed\u0161",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7283.png"
+    },
+    {
+        "id": 7284,
+        "name": "Doln\u00ed Bene\u0161ov",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7284.png"
+    },
+    {
+        "id": 7285,
+        "name": "Doubravka",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7285.png"
+    },
+    {
+        "id": 7286,
+        "name": "Dv\u016fr Kr\u00e1lov\u00e9",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7286.png"
+    },
+    {
+        "id": 7287,
+        "name": "D\u011btmarovice",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7287.png"
+    },
+    {
+        "id": 7288,
+        "name": "Fr\u00fddek-M\u00edstek",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7288.png"
+    },
+    {
+        "id": 7289,
+        "name": "Fr\u00fddlant",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7289.png"
+    },
+    {
+        "id": 7290,
+        "name": "HFK Olomouc",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7290.png"
+    },
+    {
+        "id": 7291,
+        "name": "Han\u00e1ck\u00e1",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7291.png"
+    },
+    {
+        "id": 7292,
+        "name": "Havl\u00ed\u010dk\u016fv Brod",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7292.png"
+    },
+    {
+        "id": 7293,
+        "name": "Hav\u00ed\u0159ov",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7293.png"
+    },
+    {
+        "id": 7294,
+        "name": "He\u0159manice Slezsk\u00e1",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7294.png"
+    },
+    {
+        "id": 7295,
+        "name": "Hlinsko",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7295.png"
+    },
+    {
+        "id": 7296,
+        "name": "Hlu\u010d\u00edn",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7296.png"
+    },
+    {
+        "id": 7297,
+        "name": "Hodon\u00edn",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7297.png"
+    },
+    {
+        "id": 7298,
+        "name": "Horky nad Jizerou",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7298.png"
+    },
+    {
+        "id": 7299,
+        "name": "Ho\u0159ovicko",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7299.png"
+    },
+    {
+        "id": 7300,
+        "name": "Hranice",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7300.png"
+    },
+    {
+        "id": 7301,
+        "name": "Humpolec",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7301.png"
+    },
+    {
+        "id": 7302,
+        "name": "Hv\u011bzda Cheb",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7302.png"
+    },
+    {
+        "id": 7303,
+        "name": "Jind\u0159ich\u016fv Hradec",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7303.png"
+    },
+    {
+        "id": 7304,
+        "name": "Jiskra Doma\u017elice",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7304.png"
+    },
+    {
+        "id": 7305,
+        "name": "Jiskra R\u00fdma\u0159ov",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7305.png"
+    },
+    {
+        "id": 7306,
+        "name": "Karlovy Vary",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7306.png"
+    },
+    {
+        "id": 7307,
+        "name": "Kladno",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7307.png"
+    },
+    {
+        "id": 7308,
+        "name": "Klatovy",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7308.png"
+    },
+    {
+        "id": 7309,
+        "name": "Kol\u00edn",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7309.png"
+    },
+    {
+        "id": 7310,
+        "name": "Kom\u00e1rov",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7310.png"
+    },
+    {
+        "id": 7311,
+        "name": "Kozlovice",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7311.png"
+    },
+    {
+        "id": 7312,
+        "name": "Kr\u00e1l\u016fv Dv\u016fr",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7312.png"
+    },
+    {
+        "id": 7313,
+        "name": "Letohrad",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7313.png"
+    },
+    {
+        "id": 7314,
+        "name": "Lib\u010dany",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7314.png"
+    },
+    {
+        "id": 7315,
+        "name": "Loko Vltav\u00edn",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7315.png"
+    },
+    {
+        "id": 7316,
+        "name": "Louny",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7316.png"
+    },
+    {
+        "id": 7317,
+        "name": "Mari\u00e1nsk\u00e9 L\u00e1zn\u011b",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7317.png"
+    },
+    {
+        "id": 7318,
+        "name": "Meteor Praha",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7318.png"
+    },
+    {
+        "id": 7319,
+        "name": "Motorlet Praha",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7319.png"
+    },
+    {
+        "id": 7320,
+        "name": "Neratovice-By\u0161kovice",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7320.png"
+    },
+    {
+        "id": 7321,
+        "name": "Nov\u00e1 V\u010delnice",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7321.png"
+    },
+    {
+        "id": 7322,
+        "name": "Nov\u00e9 Sady",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7322.png"
+    },
+    {
+        "id": 7323,
+        "name": "Nov\u00fd Ji\u010d\u00edn",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7323.png"
+    },
+    {
+        "id": 7324,
+        "name": "N\u00e1chod",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7324.png"
+    },
+    {
+        "id": 7325,
+        "name": "Odra Pet\u0159kovice",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7325.png"
+    },
+    {
+        "id": 7326,
+        "name": "Ole\u0161nice u Bouzova",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7326.png"
+    },
+    {
+        "id": 7327,
+        "name": "Olympie B\u0159ezov\u00e1",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7327.png"
+    },
+    {
+        "id": 7328,
+        "name": "Ostrov",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7328.png"
+    },
+    {
+        "id": 7329,
+        "name": "Ostr\u00e1",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7329.png"
+    },
+    {
+        "id": 7330,
+        "name": "Pet\u0159\u00edn Plze\u0148",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7330.png"
+    },
+    {
+        "id": 7331,
+        "name": "Polaban Nymburk",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7331.png"
+    },
+    {
+        "id": 7332,
+        "name": "Polanka nad Odrou",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7332.png"
+    },
+    {
+        "id": 7333,
+        "name": "Po\u0159\u00ed\u010dany",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7333.png"
+    },
+    {
+        "id": 7334,
+        "name": "P\u00edsek",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7334.png"
+    },
+    {
+        "id": 7335,
+        "name": "P\u0159edn\u00ed Kopanina",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7335.png"
+    },
+    {
+        "id": 7336,
+        "name": "P\u0159epe\u0159e",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7336.png"
+    },
+    {
+        "id": 7337,
+        "name": "P\u0159e\u0161tice",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7337.png"
+    },
+    {
+        "id": 7338,
+        "name": "Rakovn\u00edk",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7338.png"
+    },
+    {
+        "id": 7339,
+        "name": "Rokycany",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7339.png"
+    },
+    {
+        "id": 7340,
+        "name": "Skalice",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7340.png"
+    },
+    {
+        "id": 7341,
+        "name": "Ska\u0161tice",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7341.png"
+    },
+    {
+        "id": 7342,
+        "name": "Slan\u00fd",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7342.png"
+    },
+    {
+        "id": 7343,
+        "name": "Slavi\u010d\u00edn",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7343.png"
+    },
+    {
+        "id": 7344,
+        "name": "Slavoj Olympia Brunt\u00e1l",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7344.png"
+    },
+    {
+        "id": 7345,
+        "name": "Slavoj Poln\u00e1",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7345.png"
+    },
+    {
+        "id": 7346,
+        "name": "Slovan Moravsk\u00e1 T\u0159ebov\u00e1",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7346.png"
+    },
+    {
+        "id": 7347,
+        "name": "Slovan Rosice",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7347.png"
+    },
+    {
+        "id": 7348,
+        "name": "Slovan Velvary",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7348.png"
+    },
+    {
+        "id": 7349,
+        "name": "Sokol Brozany",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7349.png"
+    },
+    {
+        "id": 7350,
+        "name": "Sokol Hostou\u0148",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7350.png"
+    },
+    {
+        "id": 7351,
+        "name": "Sokol Lan\u017ehot",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7351.png"
+    },
+    {
+        "id": 7352,
+        "name": "Sokol Libi\u0161",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7352.png"
+    },
+    {
+        "id": 7353,
+        "name": "Sokol Nev\u0161ov\u00e1",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7353.png"
+    },
+    {
+        "id": 7354,
+        "name": "Sokol Srbice",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7354.png"
+    },
+    {
+        "id": 7355,
+        "name": "Sokol Tasovice",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7355.png"
+    },
+    {
+        "id": 7356,
+        "name": "Sokol Z\u00e1py",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7356.png"
+    },
+    {
+        "id": 7357,
+        "name": "Sokol \u017deletava",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7357.png"
+    },
+    {
+        "id": 7358,
+        "name": "Sokol \u017divanice",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7358.png"
+    },
+    {
+        "id": 7359,
+        "name": "Sparta Kutn\u00e1 Hora",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7359.png"
+    },
+    {
+        "id": 7360,
+        "name": "Spartak Sob\u011bslav",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7360.png"
+    },
+    {
+        "id": 7361,
+        "name": "Start Brno",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7361.png"
+    },
+    {
+        "id": 7362,
+        "name": "Star\u00e1 \u0158\u00ed\u0161e",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7362.png"
+    },
+    {
+        "id": 7363,
+        "name": "Str\u00e1n\u00ed",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7363.png"
+    },
+    {
+        "id": 7364,
+        "name": "Tatran Rakovn\u00edk",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7364.png"
+    },
+    {
+        "id": 7365,
+        "name": "Tatran Sedl\u010dany",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7365.png"
+    },
+    {
+        "id": 7366,
+        "name": "Tatran V\u0161echovice",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7366.png"
+    },
+    {
+        "id": 7367,
+        "name": "Trutnov",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7367.png"
+    },
+    {
+        "id": 7368,
+        "name": "Unie Hlubina",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7368.png"
+    },
+    {
+        "id": 7369,
+        "name": "Uni\u010dov",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7369.png"
+    },
+    {
+        "id": 7370,
+        "name": "Vala\u0161sk\u00e9 Mezi\u0159\u00ed\u010d\u00ed",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7370.png"
+    },
+    {
+        "id": 7371,
+        "name": "Velk\u00e1 B\u00edte\u0161",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7371.png"
+    },
+    {
+        "id": 7372,
+        "name": "Velk\u00e9 Hamry",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7372.png"
+    },
+    {
+        "id": 7373,
+        "name": "Velk\u00e9 Mezi\u0159\u00ed\u010d\u00ed",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7373.png"
+    },
+    {
+        "id": 7374,
+        "name": "Viktoria Otrokovice",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7374.png"
+    },
+    {
+        "id": 7375,
+        "name": "Viktorie P\u0159erov",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7375.png"
+    },
+    {
+        "id": 7376,
+        "name": "Vrchovina",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7376.png"
+    },
+    {
+        "id": 7377,
+        "name": "Vset\u00edn",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7377.png"
+    },
+    {
+        "id": 7378,
+        "name": "Vysok\u00e9 M\u00fdto",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7378.png"
+    },
+    {
+        "id": 7379,
+        "name": "Vy\u0161kov",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7379.png"
+    },
+    {
+        "id": 7380,
+        "name": "Zbuzany",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7380.png"
+    },
+    {
+        "id": 7381,
+        "name": "\u00dast\u00ed nad Orlic\u00ed",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7381.png"
+    },
+    {
+        "id": 7382,
+        "name": "\u010cesk\u00fd Brod",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7382.png"
+    },
+    {
+        "id": 7383,
+        "name": "\u010cesk\u00fd lev - Union Beroun",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7383.png"
+    },
+    {
+        "id": 7384,
+        "name": "\u010c\u00e1slav",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7384.png"
+    },
+    {
+        "id": 7385,
+        "name": "\u0160t\u011bchovice",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7385.png"
+    },
+    {
+        "id": 7386,
+        "name": "\u0160t\u011bt\u00ed",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7386.png"
+    },
+    {
+        "id": 7387,
+        "name": "\u0160umperk",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7387.png"
+    },
+    {
+        "id": 7388,
+        "name": "\u017dd\u00edrec nad Doubravou",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7388.png"
+    },
+    {
+        "id": 7389,
+        "name": "\u017d\u010f\u00e1r nad S\u00e1zavou",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7389.png"
+    },
+    {
+        "id": 7933,
+        "name": "Slavia Praha U19",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7933.png"
+    },
+    {
+        "id": 7969,
+        "name": "Sigma Olomouc U19",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7969.png"
+    },
+    {
+        "id": 7970,
+        "name": "Viktoria Plze\u0148 U19",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7970.png"
+    },
+    {
+        "id": 7995,
+        "name": "Sparta Praha U19",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/7995.png"
+    },
+    {
+        "id": 8188,
+        "name": "Czech Republic U21",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/8188.png"
+    },
+    {
+        "id": 8617,
+        "name": "P\u0159\u00edbram II",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/8617.png"
+    },
+    {
+        "id": 8618,
+        "name": "Slavia Praha II",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/8618.png"
+    },
+    {
+        "id": 8619,
+        "name": "Sparta Praha II",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/8619.png"
+    },
+    {
+        "id": 8620,
+        "name": "Viktoria Plze\u0148 II",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/8620.png"
+    },
+    {
+        "id": 8621,
+        "name": "Ban\u00edk Ostrava II",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/8621.png"
+    },
+    {
+        "id": 8622,
+        "name": "Sigma Olomouc II",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/8622.png"
+    },
+    {
+        "id": 8623,
+        "name": "Slov\u00e1cko II",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/8623.png"
+    },
+    {
+        "id": 8624,
+        "name": "Uhersk\u00fd Brod",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/8624.png"
+    },
+    {
+        "id": 8625,
+        "name": "Zl\u00edn II",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/8625.png"
+    },
+    {
+        "id": 8626,
+        "name": "Otava Katovice",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/8626.png"
+    },
+    {
+        "id": 8627,
+        "name": "Slavoj M\u00fdto",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/8627.png"
+    },
+    {
+        "id": 8628,
+        "name": "Sokol \u010c\u00ed\u017eov\u00e1",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/8628.png"
+    },
+    {
+        "id": 8629,
+        "name": "\u010cesk\u00e9 Bud\u011bjovice II",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/8629.png"
+    },
+    {
+        "id": 8630,
+        "name": "Byst\u0159ice nad Pern\u0161tejnem",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/8630.png"
+    },
+    {
+        "id": 8631,
+        "name": "B\u0159eclav",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/8631.png"
+    },
+    {
+        "id": 8632,
+        "name": "Vyso\u010dina Jihlava II",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/8632.png"
+    },
+    {
+        "id": 8633,
+        "name": "Zbrojovka Brno II",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/8633.png"
+    },
+    {
+        "id": 10330,
+        "name": "Czech Republic U19",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/10330.png"
+    },
+    {
+        "id": 10923,
+        "name": "Slavia Praha W",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/10923.png"
+    },
+    {
+        "id": 10925,
+        "name": "Sparta Praha W",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/10925.png"
+    },
+    {
+        "id": 12797,
+        "name": "Jablonec II",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/12797.png"
+    },
+    {
+        "id": 12816,
+        "name": "Mlad\u00e1 Boleslav II",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/12816.png"
+    },
+    {
+        "id": 12855,
+        "name": "Slovan Liberec II",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/12855.png"
+    },
+    {
+        "id": 12877,
+        "name": "Teplice II",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/12877.png"
+    },
+    {
+        "id": 14004,
+        "name": "Kosmonosy",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/14004.png"
+    },
+    {
+        "id": 14005,
+        "name": "Povltava FA",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/14005.png"
+    },
+    {
+        "id": 14473,
+        "name": "Bohemians 1905 II",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/14473.png"
+    },
+    {
+        "id": 14495,
+        "name": "Hradec Kr\u00e1lov\u00e9 II",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/14495.png"
+    },
+    {
+        "id": 14649,
+        "name": "Bystrc Kn\u00edni\u010dky",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/14649.png"
+    },
+    {
+        "id": 14657,
+        "name": "Dobrovice",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/14657.png"
+    },
+    {
+        "id": 14747,
+        "name": "Pardubice II",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/14747.png"
+    },
+    {
+        "id": 14830,
+        "name": "Ban\u00edk Ostrava U19",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/14830.png"
+    },
+    {
+        "id": 14831,
+        "name": "Hradec Kr\u00e1lov\u00e9 U19",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/14831.png"
+    },
+    {
+        "id": 14832,
+        "name": "Karvin\u00e1 U19",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/14832.png"
+    },
+    {
+        "id": 14833,
+        "name": "Meteor Praha U19",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/14833.png"
+    },
+    {
+        "id": 14834,
+        "name": "Mlad\u00e1 Boleslav U19",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/14834.png"
+    },
+    {
+        "id": 14835,
+        "name": "Opava U19",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/14835.png"
+    },
+    {
+        "id": 14836,
+        "name": "Pardubice U19",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/14836.png"
+    },
+    {
+        "id": 14837,
+        "name": "P\u0159\u00edbram U19",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/14837.png"
+    },
+    {
+        "id": 14838,
+        "name": "Slov\u00e1cko U19",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/14838.png"
+    },
+    {
+        "id": 14839,
+        "name": "Zbrojovka Brno U19",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/14839.png"
+    },
+    {
+        "id": 14840,
+        "name": "Zl\u00edn U19",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/14840.png"
+    },
+    {
+        "id": 14841,
+        "name": "\u010cesk\u00e9 Bud\u011bjovice U19",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/14841.png"
+    },
+    {
+        "id": 14842,
+        "name": "Horn\u00ed Her\u0161pice W",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/14842.png"
+    },
+    {
+        "id": 14843,
+        "name": "Viktoria Plze\u0148 W",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/14843.png"
+    },
+    {
+        "id": 14844,
+        "name": "Dukla Praha W",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/14844.png"
+    },
+    {
+        "id": 14845,
+        "name": "Pardubice W",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/14845.png"
+    },
+    {
+        "id": 14846,
+        "name": "Slovan Liberec W",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/14846.png"
+    },
+    {
+        "id": 14847,
+        "name": "Slov\u00e1cko W",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/14847.png"
+    },
+    {
+        "id": 15132,
+        "name": "Dukla Praha II",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/15132.png"
+    },
+    {
+        "id": 15133,
+        "name": "Sokol Lom",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/15133.png"
+    },
+    {
+        "id": 15134,
+        "name": "Karvin\u00e1 II",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/15134.png"
+    },
+    {
+        "id": 15135,
+        "name": "Opava II",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/15135.png"
+    },
+    {
+        "id": 15136,
+        "name": "T\u0159inec II",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/15136.png"
+    },
+    {
+        "id": 16875,
+        "name": "B\u00edlovec",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/16875.png"
+    },
+    {
+        "id": 16876,
+        "name": "Hole\u0161ov",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/16876.png"
+    },
+    {
+        "id": 16877,
+        "name": "Vratimov",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/16877.png"
+    },
+    {
+        "id": 17018,
+        "name": "Brn\u00e1",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/17018.png"
+    },
+    {
+        "id": 17235,
+        "name": "Ban\u00edk Most",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/17235.png"
+    },
+    {
+        "id": 17236,
+        "name": "Tochovice",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/17236.png"
+    },
+    {
+        "id": 17947,
+        "name": "Czech Republic U17",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/17947.png"
+    },
+    {
+        "id": 18047,
+        "name": "Czech Republic U20",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/18047.png"
+    },
+    {
+        "id": 19060,
+        "name": "Czech Republic U19 W",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/19060.png"
+    },
+    {
+        "id": 19197,
+        "name": "Ban\u00edk Ostrava W",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/19197.png"
+    },
+    {
+        "id": 19200,
+        "name": "Dukla Praha U19",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/19200.png"
+    },
+    {
+        "id": 19201,
+        "name": "Vyso\u010dina Jihlava U19",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/19201.png"
+    },
+    {
+        "id": 19420,
+        "name": "Ba\u0165ov",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/19420.png"
+    },
+    {
+        "id": 19421,
+        "name": "B\u0159idli\u010dn\u00e1",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/19421.png"
+    },
+    {
+        "id": 19422,
+        "name": "Cidlina Novy Bydzov",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/19422.png"
+    },
+    {
+        "id": 19423,
+        "name": "Dolany",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/19423.png"
+    },
+    {
+        "id": 19424,
+        "name": "D\u00e1lnice Spe\u0159ice",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/19424.png"
+    },
+    {
+        "id": 19425,
+        "name": "H\u0159ebe\u010d",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/19425.png"
+    },
+    {
+        "id": 19426,
+        "name": "Jankov",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/19426.png"
+    },
+    {
+        "id": 19427,
+        "name": "Karlovy Vary-Dvory",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/19427.png"
+    },
+    {
+        "id": 19428,
+        "name": "Krnov",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/19428.png"
+    },
+    {
+        "id": 19429,
+        "name": "Libi\u0161any",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/19429.png"
+    },
+    {
+        "id": 19430,
+        "name": "Nov\u00fd Bor",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/19430.png"
+    },
+    {
+        "id": 19431,
+        "name": "Rous\u00ednov",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/19431.png"
+    },
+    {
+        "id": 19432,
+        "name": "Slavoj \u010cesk\u00fd Krumlov",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/19432.png"
+    },
+    {
+        "id": 19433,
+        "name": "Sokol Kate\u0159inice",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/19433.png"
+    },
+    {
+        "id": 19434,
+        "name": "Sokol Kralovice",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/19434.png"
+    },
+    {
+        "id": 19435,
+        "name": "Sokol Nov\u00e1 Ves pod Ple\u0161\u00ed",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/19435.png"
+    },
+    {
+        "id": 19436,
+        "name": "Tatran Bohunice",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/19436.png"
+    },
+    {
+        "id": 19437,
+        "name": "Turnov",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/19437.png"
+    },
+    {
+        "id": 19438,
+        "name": "Vil\u00e9mov",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/19438.png"
+    },
+    {
+        "id": 19439,
+        "name": "\u00dajezd Praha 4",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/19439.png"
+    },
+    {
+        "id": 19440,
+        "name": "\u0160ternberk",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/19440.png"
+    },
+    {
+        "id": 19638,
+        "name": "Horn\u00ed B\u0159\u00edza",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/19638.png"
+    },
+    {
+        "id": 19639,
+        "name": "Jiskra Doma\u017elice II",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/19639.png"
+    },
+    {
+        "id": 19640,
+        "name": "Admira Praha II",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/19640.png"
+    },
+    {
+        "id": 19641,
+        "name": "Chrudim II",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/19641.png"
+    },
+    {
+        "id": 19655,
+        "name": "Bohunice",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/19655.png"
+    },
+    {
+        "id": 19688,
+        "name": "Krupka",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/19688.png"
+    },
+    {
+        "id": 19689,
+        "name": "Ku\u0159im",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/19689.png"
+    },
+    {
+        "id": 19720,
+        "name": "Velim",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/19720.png"
+    },
+    {
+        "id": 19785,
+        "name": "Nov\u00e1 Ves NMM",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/19785.png"
+    },
+    {
+        "id": 20825,
+        "name": "Sparta Brno",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/20825.png"
+    },
+    {
+        "id": 20893,
+        "name": "Stitna nad Vlari",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/20893.png"
+    },
+    {
+        "id": 20894,
+        "name": "Trebon",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/20894.png"
+    },
+    {
+        "id": 21031,
+        "name": "Olympia Radotin",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/21031.png"
+    },
+    {
+        "id": 21465,
+        "name": "Czech Republic U18",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/21465.png"
+    },
+    {
+        "id": 21483,
+        "name": "Kolovec",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/21483.png"
+    },
+    {
+        "id": 21499,
+        "name": "Strakonice",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/21499.png"
+    },
+    {
+        "id": 21560,
+        "name": "Slovan Liberec U19",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/21560.png"
+    },
+    {
+        "id": 21617,
+        "name": "Jesen\u00edk",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/21617.png"
+    },
+    {
+        "id": 21618,
+        "name": "Kostelec na Han\u00e9",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/21618.png"
+    },
+    {
+        "id": 21619,
+        "name": "Pet\u0159vald na Morav\u011b",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/21619.png"
+    },
+    {
+        "id": 21620,
+        "name": "Sokol \u010cechovice",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/21620.png"
+    },
+    {
+        "id": 21646,
+        "name": "Tachov",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/21646.png"
+    },
+    {
+        "id": 21647,
+        "name": "Sokol Nespeky",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/21647.png"
+    },
+    {
+        "id": 21648,
+        "name": "Slavia Hradec Kr\u00e1lov\u00e9",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/21648.png"
+    },
+    {
+        "id": 21649,
+        "name": "Spoje Praha",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/21649.png"
+    },
+    {
+        "id": 21650,
+        "name": "L\u00ed\u0161e\u0148 II",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/21650.png"
+    },
+    {
+        "id": 21651,
+        "name": "Pelh\u0159imov",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/21651.png"
+    },
+    {
+        "id": 21652,
+        "name": "\u0158epi\u0161t\u011b",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/21652.png"
+    },
+    {
+        "id": 21903,
+        "name": "Cesky Tesin",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/21903.png"
+    },
+    {
+        "id": 21912,
+        "name": "Kravare",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/21912.png"
+    },
+    {
+        "id": 21980,
+        "name": "Ban\u00edk Modlany",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/21980.png"
+    },
+    {
+        "id": 21981,
+        "name": "Chrastava",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/21981.png"
+    },
+    {
+        "id": 21982,
+        "name": "Hluboka nad Vltavou",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/21982.png"
+    },
+    {
+        "id": 21983,
+        "name": "MILO Olomouc",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/21983.png"
+    },
+    {
+        "id": 21984,
+        "name": "Spartak Pr\u016fhonice",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/21984.png"
+    },
+    {
+        "id": 21985,
+        "name": "Tempo Praha",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/21985.png"
+    },
+    {
+        "id": 22094,
+        "name": "T\u00e1borsko II",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/22094.png"
+    },
+    {
+        "id": 22421,
+        "name": "Sparta Praha U21",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/teams/22421.png"
+    }
+]

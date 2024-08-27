@@ -1,0 +1,1232 @@
+[
+    {
+        "id": 550,
+        "name": "Shakhtar Donetsk",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/550.png"
+    },
+    {
+        "id": 572,
+        "name": "Dynamo Kyiv",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/572.png"
+    },
+    {
+        "id": 599,
+        "name": "Zorya Luhansk",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/599.png"
+    },
+    {
+        "id": 639,
+        "name": "Olimpik Donetsk",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/639.png"
+    },
+    {
+        "id": 772,
+        "name": "Ukraine",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/772.png"
+    },
+    {
+        "id": 1121,
+        "name": "Vorskla Poltava",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/1121.png"
+    },
+    {
+        "id": 2252,
+        "name": "FC Mariupol",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/2252.png"
+    },
+    {
+        "id": 3614,
+        "name": "Arsenal Kyiv",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/3614.png"
+    },
+    {
+        "id": 3615,
+        "name": "Chornomorets",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/3615.png"
+    },
+    {
+        "id": 3616,
+        "name": "Desna",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/3616.png"
+    },
+    {
+        "id": 3617,
+        "name": "Karpaty",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/3617.png"
+    },
+    {
+        "id": 3618,
+        "name": "Lviv",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/3618.png"
+    },
+    {
+        "id": 3619,
+        "name": "Oleksandria",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/3619.png"
+    },
+    {
+        "id": 3620,
+        "name": "Ahrobiznes Volochysk",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/3620.png"
+    },
+    {
+        "id": 3621,
+        "name": "Avanhard",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/3621.png"
+    },
+    {
+        "id": 3622,
+        "name": "Balkany Zorya",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/3622.png"
+    },
+    {
+        "id": 3623,
+        "name": "Dnipro-1",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/3623.png"
+    },
+    {
+        "id": 3624,
+        "name": "Hirnyk-Sport",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/3624.png"
+    },
+    {
+        "id": 3625,
+        "name": "Inhulets",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/3625.png"
+    },
+    {
+        "id": 3626,
+        "name": "Kobra",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/3626.png"
+    },
+    {
+        "id": 3627,
+        "name": "Kolos Kovalivka",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/3627.png"
+    },
+    {
+        "id": 3628,
+        "name": "Metalist 1925 Kharkiv",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/3628.png"
+    },
+    {
+        "id": 3629,
+        "name": "Mykolaiv",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/3629.png"
+    },
+    {
+        "id": 3630,
+        "name": "Obolon'-Brovar",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/3630.png"
+    },
+    {
+        "id": 3631,
+        "name": "Prykarpattia",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/3631.png"
+    },
+    {
+        "id": 3632,
+        "name": "Ruh Lviv",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/3632.png"
+    },
+    {
+        "id": 3633,
+        "name": "Sumy",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/3633.png"
+    },
+    {
+        "id": 3634,
+        "name": "Volyn",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/3634.png"
+    },
+    {
+        "id": 3635,
+        "name": "Zirka",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/3635.png"
+    },
+    {
+        "id": 4656,
+        "name": "Cherkashchyna-Akademiya",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/4656.png"
+    },
+    {
+        "id": 4657,
+        "name": "Kremin'",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/4657.png"
+    },
+    {
+        "id": 4658,
+        "name": "Minai",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/4658.png"
+    },
+    {
+        "id": 5627,
+        "name": "Metalurh Zaporizhya",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/5627.png"
+    },
+    {
+        "id": 6483,
+        "name": "Chayka",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/6483.png"
+    },
+    {
+        "id": 6484,
+        "name": "Alians Lypova Dolyna",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/6484.png"
+    },
+    {
+        "id": 6485,
+        "name": "Avanhard Bziv",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/6485.png"
+    },
+    {
+        "id": 6486,
+        "name": "Bukovyna",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/6486.png"
+    },
+    {
+        "id": 6487,
+        "name": "Dinaz Vyshhorod",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/6487.png"
+    },
+    {
+        "id": 6488,
+        "name": "Enerhiya Nova Kakhovka",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/6488.png"
+    },
+    {
+        "id": 6489,
+        "name": "Kryvbas KR",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/6489.png"
+    },
+    {
+        "id": 6490,
+        "name": "Kalush",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/6490.png"
+    },
+    {
+        "id": 6491,
+        "name": "Krystal",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/6491.png"
+    },
+    {
+        "id": 6492,
+        "name": "Nikopol",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/6492.png"
+    },
+    {
+        "id": 6493,
+        "name": "Nyva Ternopil",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/6493.png"
+    },
+    {
+        "id": 6494,
+        "name": "Nyva Vinnytsya",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/6494.png"
+    },
+    {
+        "id": 6495,
+        "name": "Podillya Khmelnytskyi",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/6495.png"
+    },
+    {
+        "id": 6496,
+        "name": "Polessya",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/6496.png"
+    },
+    {
+        "id": 6497,
+        "name": "Real Pharm",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/6497.png"
+    },
+    {
+        "id": 6498,
+        "name": "Tavriya",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/6498.png"
+    },
+    {
+        "id": 6499,
+        "name": "Uzhhorod",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/6499.png"
+    },
+    {
+        "id": 6500,
+        "name": "VPK-Ahro Shevchenkivka",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/6500.png"
+    },
+    {
+        "id": 6501,
+        "name": "Veres Rivne",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/6501.png"
+    },
+    {
+        "id": 6502,
+        "name": "Vovchansk",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/6502.png"
+    },
+    {
+        "id": 7929,
+        "name": "Shakhtar Donetsk U19",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/7929.png"
+    },
+    {
+        "id": 8228,
+        "name": "Ukraine U21",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/8228.png"
+    },
+    {
+        "id": 9146,
+        "name": "Obolon'-Brovar II",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/9146.png"
+    },
+    {
+        "id": 9147,
+        "name": "Avanhard II",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/9147.png"
+    },
+    {
+        "id": 9148,
+        "name": "Chornomorets II",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/9148.png"
+    },
+    {
+        "id": 9149,
+        "name": "Mykolaiv II",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/9149.png"
+    },
+    {
+        "id": 9150,
+        "name": "Myr",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/9150.png"
+    },
+    {
+        "id": 9151,
+        "name": "Dnipro Dnipropetrovsk",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/9151.png"
+    },
+    {
+        "id": 9152,
+        "name": "Inhulets II",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/9152.png"
+    },
+    {
+        "id": 9153,
+        "name": "Sudnobudivnyk",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/9153.png"
+    },
+    {
+        "id": 9154,
+        "name": "Cherkaskyi Dnipro",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/9154.png"
+    },
+    {
+        "id": 9155,
+        "name": "Arsenal Bila Tserkva",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/9155.png"
+    },
+    {
+        "id": 9156,
+        "name": "Cherkaskyi Dnipro II",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/9156.png"
+    },
+    {
+        "id": 9157,
+        "name": "Skala Stryi",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/9157.png"
+    },
+    {
+        "id": 9158,
+        "name": "Ternopil'",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/9158.png"
+    },
+    {
+        "id": 10305,
+        "name": "Ukraine U20",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/10305.png"
+    },
+    {
+        "id": 10352,
+        "name": "Ukraine U19",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/10352.png"
+    },
+    {
+        "id": 10697,
+        "name": "Metalist",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/10697.png"
+    },
+    {
+        "id": 10931,
+        "name": "Cambodia U23",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/10931.png"
+    },
+    {
+        "id": 10933,
+        "name": "Chinese Taipei U23",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/10933.png"
+    },
+    {
+        "id": 10947,
+        "name": "Mongolia U23",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/10947.png"
+    },
+    {
+        "id": 10948,
+        "name": "Myanmar U23",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/10948.png"
+    },
+    {
+        "id": 10953,
+        "name": "Philippines U23",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/10953.png"
+    },
+    {
+        "id": 10962,
+        "name": "Turkmenistan U23",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/10962.png"
+    },
+    {
+        "id": 13221,
+        "name": "Lebedin",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/13221.png"
+    },
+    {
+        "id": 13222,
+        "name": "Naftovyk-Ukrnafta",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/13222.png"
+    },
+    {
+        "id": 13223,
+        "name": "Viktoriya Mykolaivka",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/13223.png"
+    },
+    {
+        "id": 13224,
+        "name": "Demnya",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/13224.png"
+    },
+    {
+        "id": 13225,
+        "name": "Poltava",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/13225.png"
+    },
+    {
+        "id": 13226,
+        "name": "Stal Kamianske",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/13226.png"
+    },
+    {
+        "id": 13227,
+        "name": "Zhemchuzhyna Odesa",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/13227.png"
+    },
+    {
+        "id": 13228,
+        "name": "Ahrobiznes TSK Romny",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/13228.png"
+    },
+    {
+        "id": 13229,
+        "name": "Hirnyk Sosnivka",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/13229.png"
+    },
+    {
+        "id": 13230,
+        "name": "Barsa Sumy",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/13230.png"
+    },
+    {
+        "id": 13231,
+        "name": "Hoverla",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/13231.png"
+    },
+    {
+        "id": 13232,
+        "name": "Metalurh Donetsk",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/13232.png"
+    },
+    {
+        "id": 13233,
+        "name": "Stal Alchevsk",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/13233.png"
+    },
+    {
+        "id": 13234,
+        "name": "Yednist'",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/13234.png"
+    },
+    {
+        "id": 13235,
+        "name": "Dynamo Khmelnytskyi",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/13235.png"
+    },
+    {
+        "id": 13236,
+        "name": "Enerhiya Mykolajiv",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/13236.png"
+    },
+    {
+        "id": 13237,
+        "name": "Karlivka",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/13237.png"
+    },
+    {
+        "id": 13238,
+        "name": "Nove Zhyttia Andriivka",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/13238.png"
+    },
+    {
+        "id": 13239,
+        "name": "ODEK Orzhiv",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/13239.png"
+    },
+    {
+        "id": 13240,
+        "name": "Sevastopol",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/13240.png"
+    },
+    {
+        "id": 13241,
+        "name": "Shakhtar Sverdlovsk",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/13241.png"
+    },
+    {
+        "id": 13242,
+        "name": "Tytan Armyansk",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/13242.png"
+    },
+    {
+        "id": 13243,
+        "name": "UkrAhroKom",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/13243.png"
+    },
+    {
+        "id": 13244,
+        "name": "Bastion",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/13244.png"
+    },
+    {
+        "id": 13245,
+        "name": "Bucha",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/13245.png"
+    },
+    {
+        "id": 13246,
+        "name": "Hvardiyets Hvardiyske",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/13246.png"
+    },
+    {
+        "id": 13247,
+        "name": "Krymteplitsia",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/13247.png"
+    },
+    {
+        "id": 13248,
+        "name": "Kryvbas",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/13248.png"
+    },
+    {
+        "id": 13249,
+        "name": "Obolon'",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/13249.png"
+    },
+    {
+        "id": 13250,
+        "name": "Odesa",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/13250.png"
+    },
+    {
+        "id": 13251,
+        "name": "SKA Odesa",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/13251.png"
+    },
+    {
+        "id": 13252,
+        "name": "Zhemchuzhyna Yalta",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/13252.png"
+    },
+    {
+        "id": 13253,
+        "name": "Berehvideyk",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/13253.png"
+    },
+    {
+        "id": 13254,
+        "name": "Enerhetyk",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/13254.png"
+    },
+    {
+        "id": 13255,
+        "name": "Prykarpattya Ivano-Frank",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/13255.png"
+    },
+    {
+        "id": 13256,
+        "name": "SKAD-Yalpuh",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/13256.png"
+    },
+    {
+        "id": 13257,
+        "name": "Slovkhlib Slov'ians'k",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/13257.png"
+    },
+    {
+        "id": 13258,
+        "name": "Zhytychi Zhytomyr",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/13258.png"
+    },
+    {
+        "id": 13259,
+        "name": "Illichivets' II",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/13259.png"
+    },
+    {
+        "id": 13260,
+        "name": "Teplovyk",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/13260.png"
+    },
+    {
+        "id": 13261,
+        "name": "Shakhtar Donetsk III",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/13261.png"
+    },
+    {
+        "id": 13262,
+        "name": "Obolon II",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/13262.png"
+    },
+    {
+        "id": 13263,
+        "name": "Dynamo Kyiv II",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/13263.png"
+    },
+    {
+        "id": 14141,
+        "name": "Orenburg II",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/14141.png"
+    },
+    {
+        "id": 14433,
+        "name": "Chernihiv",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/14433.png"
+    },
+    {
+        "id": 14434,
+        "name": "Epitsentr Dunayivtsi",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/14434.png"
+    },
+    {
+        "id": 14435,
+        "name": "Karpaty Halych",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/14435.png"
+    },
+    {
+        "id": 14436,
+        "name": "MSK Dnipro Cherkasy",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/14436.png"
+    },
+    {
+        "id": 14437,
+        "name": "Metal Kharkiv",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/14437.png"
+    },
+    {
+        "id": 14438,
+        "name": "Olimpiya Savyntsi",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/14438.png"
+    },
+    {
+        "id": 14439,
+        "name": "Peremoga",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/14439.png"
+    },
+    {
+        "id": 14440,
+        "name": "Rubikon",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/14440.png"
+    },
+    {
+        "id": 14441,
+        "name": "Yarud Mariupol'",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/14441.png"
+    },
+    {
+        "id": 14926,
+        "name": "Desna U21",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/14926.png"
+    },
+    {
+        "id": 14927,
+        "name": "Dnipro-1 U21",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/14927.png"
+    },
+    {
+        "id": 14928,
+        "name": "Dynamo Kyiv U21",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/14928.png"
+    },
+    {
+        "id": 14929,
+        "name": "Inhulets' U21",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/14929.png"
+    },
+    {
+        "id": 14930,
+        "name": "Kolos Kovalivka U21",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/14930.png"
+    },
+    {
+        "id": 14931,
+        "name": "Lviv U21",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/14931.png"
+    },
+    {
+        "id": 14932,
+        "name": "Mariupol' U21",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/14932.png"
+    },
+    {
+        "id": 14933,
+        "name": "Minai U21",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/14933.png"
+    },
+    {
+        "id": 14934,
+        "name": "Oleksandria U21",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/14934.png"
+    },
+    {
+        "id": 14935,
+        "name": "Olimpik Donetsk U21",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/14935.png"
+    },
+    {
+        "id": 14936,
+        "name": "Rukh Vynnyky U21",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/14936.png"
+    },
+    {
+        "id": 14937,
+        "name": "Shakhtar Donetsk U21",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/14937.png"
+    },
+    {
+        "id": 14938,
+        "name": "Vorskla U21",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/14938.png"
+    },
+    {
+        "id": 14939,
+        "name": "Zorya Luhansk U21",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/14939.png"
+    },
+    {
+        "id": 15099,
+        "name": "Volyn Lutsk II",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/15099.png"
+    },
+    {
+        "id": 17160,
+        "name": "AFSK Kyiv",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/17160.png"
+    },
+    {
+        "id": 17161,
+        "name": "LNZ Cherkasy",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/17161.png"
+    },
+    {
+        "id": 17162,
+        "name": "Livyi Bereh",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/17162.png"
+    },
+    {
+        "id": 17163,
+        "name": "Lyubomyr Stavyshche",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/17163.png"
+    },
+    {
+        "id": 17164,
+        "name": "Munk\u00e1cs",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/17164.png"
+    },
+    {
+        "id": 17165,
+        "name": "SK Poltava",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/17165.png"
+    },
+    {
+        "id": 17166,
+        "name": "Skoruk Tomakivka",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/17166.png"
+    },
+    {
+        "id": 17167,
+        "name": "Trostianets",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/17167.png"
+    },
+    {
+        "id": 17234,
+        "name": "Feniks Pidmonastyr",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/17234.png"
+    },
+    {
+        "id": 17680,
+        "name": "Kyzyltash",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/17680.png"
+    },
+    {
+        "id": 17683,
+        "name": "SKCHF Sevastopol",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/17683.png"
+    },
+    {
+        "id": 17684,
+        "name": "TSK Simferopol",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/17684.png"
+    },
+    {
+        "id": 17983,
+        "name": "Ukraine U17",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/17983.png"
+    },
+    {
+        "id": 19651,
+        "name": "BKS Sparta Katowice",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/19651.png"
+    },
+    {
+        "id": 20240,
+        "name": "Rukh Vynnyky U19",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/20240.png"
+    },
+    {
+        "id": 21203,
+        "name": "Khust City",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/21203.png"
+    },
+    {
+        "id": 21317,
+        "name": "Kremin' II",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/21317.png"
+    },
+    {
+        "id": 21318,
+        "name": "Metalurh Zaporizhya II",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/21318.png"
+    },
+    {
+        "id": 21319,
+        "name": "Nyva Buzova",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/21319.png"
+    },
+    {
+        "id": 21320,
+        "name": "VAST",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/21320.png"
+    },
+    {
+        "id": 21321,
+        "name": "Zvyahel",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/21321.png"
+    },
+    {
+        "id": 21585,
+        "name": "Kryvbas W",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/21585.png"
+    },
+    {
+        "id": 21952,
+        "name": "Fazenda Chernivtsi",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/21952.png"
+    },
+    {
+        "id": 21953,
+        "name": "Kudrivka",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/21953.png"
+    },
+    {
+        "id": 21954,
+        "name": "Lokomotiv Kyiv",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/21954.png"
+    },
+    {
+        "id": 21955,
+        "name": "Shturm Ivankiv",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/21955.png"
+    },
+    {
+        "id": 21956,
+        "name": "Skala 1911 Stryi",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/21956.png"
+    },
+    {
+        "id": 21957,
+        "name": "UCSA",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/21957.png"
+    },
+    {
+        "id": 21975,
+        "name": "Karpaty II",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/21975.png"
+    },
+    {
+        "id": 21976,
+        "name": "Rukh Vynnyky II",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/21976.png"
+    },
+    {
+        "id": 22100,
+        "name": "Druzhba",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/22100.png"
+    },
+    {
+        "id": 22339,
+        "name": "Vorskla Poltava W",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/22339.png"
+    },
+    {
+        "id": 22343,
+        "name": "Ukraine U18",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/22343.png"
+    },
+    {
+        "id": 23073,
+        "name": "Chornomorets U19",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/23073.png"
+    },
+    {
+        "id": 23074,
+        "name": "Dnipro-1 U19",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/23074.png"
+    },
+    {
+        "id": 23075,
+        "name": "Kolos Kovalivka U19",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/23075.png"
+    },
+    {
+        "id": 23076,
+        "name": "Kryvbas 2020 U19",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/23076.png"
+    },
+    {
+        "id": 23077,
+        "name": "LNZ Cherkasy U19",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/23077.png"
+    },
+    {
+        "id": 23078,
+        "name": "Metalist 1925 U19",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/23078.png"
+    },
+    {
+        "id": 23079,
+        "name": "Minaj U19",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/23079.png"
+    },
+    {
+        "id": 23080,
+        "name": "Obolon' Kyiv U19",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/23080.png"
+    },
+    {
+        "id": 23081,
+        "name": "Oleksandria U19",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/23081.png"
+    },
+    {
+        "id": 23082,
+        "name": "Veres Rivne U19",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/23082.png"
+    },
+    {
+        "id": 23083,
+        "name": "Vorskla U19",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/23083.png"
+    },
+    {
+        "id": 23084,
+        "name": "Zhytomyr U19",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/23084.png"
+    },
+    {
+        "id": 23085,
+        "name": "Zorya Luhansk U19",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/23085.png"
+    },
+    {
+        "id": 23313,
+        "name": "Ukraine U23",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/23313.png"
+    },
+    {
+        "id": 24176,
+        "name": "Inhulets' U19",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/24176.png"
+    },
+    {
+        "id": 24177,
+        "name": "Karpaty Lviv U19",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/24177.png"
+    },
+    {
+        "id": 24566,
+        "name": "Kulykiv",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/24566.png"
+    },
+    {
+        "id": 24567,
+        "name": "Mykolaiv Lviv Oblast",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/24567.png"
+    },
+    {
+        "id": 24568,
+        "name": "Probiy Horodenka",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/24568.png"
+    },
+    {
+        "id": 24569,
+        "name": "Revera Ivano-Frankivsk",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/24569.png"
+    },
+    {
+        "id": 24570,
+        "name": "Vilkhivtsi",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/24570.png"
+    },
+    {
+        "id": 24585,
+        "name": "Kolos Kovalivka II",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/24585.png"
+    },
+    {
+        "id": 24586,
+        "name": "Metalist 1925 II Kharkiv",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/24586.png"
+    },
+    {
+        "id": 24587,
+        "name": "Nyva Ternopil II",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/24587.png"
+    },
+    {
+        "id": 24588,
+        "name": "Oleksandria II",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/24588.png"
+    },
+    {
+        "id": 24589,
+        "name": "Polissya II",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/24589.png"
+    },
+    {
+        "id": 24590,
+        "name": "Vorskla Poltava II",
+        "country": "Ukraine",
+        "logo": "https://media.api-sports.io/football/teams/24590.png"
+    }
+]

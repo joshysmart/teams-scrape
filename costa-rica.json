@@ -1,0 +1,302 @@
+[
+    {
+        "id": 29,
+        "name": "Costa Rica",
+        "country": "Costa-Rica",
+        "logo": "https://media.api-sports.io/football/teams/29.png"
+    },
+    {
+        "id": 814,
+        "name": "AD Carmelita",
+        "country": "Costa-Rica",
+        "logo": "https://media.api-sports.io/football/teams/814.png"
+    },
+    {
+        "id": 815,
+        "name": "CS Herediano",
+        "country": "Costa-Rica",
+        "logo": "https://media.api-sports.io/football/teams/815.png"
+    },
+    {
+        "id": 816,
+        "name": "Deportivo Saprissa",
+        "country": "Costa-Rica",
+        "logo": "https://media.api-sports.io/football/teams/816.png"
+    },
+    {
+        "id": 817,
+        "name": "Limon FC",
+        "country": "Costa-Rica",
+        "logo": "https://media.api-sports.io/football/teams/817.png"
+    },
+    {
+        "id": 818,
+        "name": "Municipal Grecia",
+        "country": "Costa-Rica",
+        "logo": "https://media.api-sports.io/football/teams/818.png"
+    },
+    {
+        "id": 819,
+        "name": "Perez Zeledon",
+        "country": "Costa-Rica",
+        "logo": "https://media.api-sports.io/football/teams/819.png"
+    },
+    {
+        "id": 820,
+        "name": "CS Cartagines",
+        "country": "Costa-Rica",
+        "logo": "https://media.api-sports.io/football/teams/820.png"
+    },
+    {
+        "id": 821,
+        "name": "Guadalupe FC",
+        "country": "Costa-Rica",
+        "logo": "https://media.api-sports.io/football/teams/821.png"
+    },
+    {
+        "id": 822,
+        "name": "LD Alajuelense",
+        "country": "Costa-Rica",
+        "logo": "https://media.api-sports.io/football/teams/822.png"
+    },
+    {
+        "id": 823,
+        "name": "San Carlos",
+        "country": "Costa-Rica",
+        "logo": "https://media.api-sports.io/football/teams/823.png"
+    },
+    {
+        "id": 824,
+        "name": "Santos DE Guapiles",
+        "country": "Costa-Rica",
+        "logo": "https://media.api-sports.io/football/teams/824.png"
+    },
+    {
+        "id": 825,
+        "name": "Univ. DE Costa Rica",
+        "country": "Costa-Rica",
+        "logo": "https://media.api-sports.io/football/teams/825.png"
+    },
+    {
+        "id": 826,
+        "name": "Municipal Liberia",
+        "country": "Costa-Rica",
+        "logo": "https://media.api-sports.io/football/teams/826.png"
+    },
+    {
+        "id": 1727,
+        "name": "Costa Rica W",
+        "country": "Costa-Rica",
+        "logo": "https://media.api-sports.io/football/teams/1727.png"
+    },
+    {
+        "id": 2043,
+        "name": "ADR Jicaral",
+        "country": "Costa-Rica",
+        "logo": "https://media.api-sports.io/football/teams/2043.png"
+    },
+    {
+        "id": 2044,
+        "name": "AD Guanacasteca",
+        "country": "Costa-Rica",
+        "logo": "https://media.api-sports.io/football/teams/2044.png"
+    },
+    {
+        "id": 2045,
+        "name": "Puntarenas FC",
+        "country": "Costa-Rica",
+        "logo": "https://media.api-sports.io/football/teams/2045.png"
+    },
+    {
+        "id": 2046,
+        "name": "Deportivo Cartagena",
+        "country": "Costa-Rica",
+        "logo": "https://media.api-sports.io/football/teams/2046.png"
+    },
+    {
+        "id": 2047,
+        "name": "Sporting San Jose",
+        "country": "Costa-Rica",
+        "logo": "https://media.api-sports.io/football/teams/2047.png"
+    },
+    {
+        "id": 2048,
+        "name": "Puerto Golfito",
+        "country": "Costa-Rica",
+        "logo": "https://media.api-sports.io/football/teams/2048.png"
+    },
+    {
+        "id": 2049,
+        "name": "AS Puma Generalena",
+        "country": "Costa-Rica",
+        "logo": "https://media.api-sports.io/football/teams/2049.png"
+    },
+    {
+        "id": 2050,
+        "name": "Escazucena",
+        "country": "Costa-Rica",
+        "logo": "https://media.api-sports.io/football/teams/2050.png"
+    },
+    {
+        "id": 2051,
+        "name": "AD Santa Rosa",
+        "country": "Costa-Rica",
+        "logo": "https://media.api-sports.io/football/teams/2051.png"
+    },
+    {
+        "id": 2052,
+        "name": "Cariari Pococi",
+        "country": "Costa-Rica",
+        "logo": "https://media.api-sports.io/football/teams/2052.png"
+    },
+    {
+        "id": 2053,
+        "name": "Curridabat FC",
+        "country": "Costa-Rica",
+        "logo": "https://media.api-sports.io/football/teams/2053.png"
+    },
+    {
+        "id": 2054,
+        "name": "Futbol Consultants Moravia",
+        "country": "Costa-Rica",
+        "logo": "https://media.api-sports.io/football/teams/2054.png"
+    },
+    {
+        "id": 2055,
+        "name": "AD Cofutpa",
+        "country": "Costa-Rica",
+        "logo": "https://media.api-sports.io/football/teams/2055.png"
+    },
+    {
+        "id": 2056,
+        "name": "Aserri FC",
+        "country": "Costa-Rica",
+        "logo": "https://media.api-sports.io/football/teams/2056.png"
+    },
+    {
+        "id": 2057,
+        "name": "Santa Ana",
+        "country": "Costa-Rica",
+        "logo": "https://media.api-sports.io/football/teams/2057.png"
+    },
+    {
+        "id": 2058,
+        "name": "CS Uruguay",
+        "country": "Costa-Rica",
+        "logo": "https://media.api-sports.io/football/teams/2058.png"
+    },
+    {
+        "id": 2059,
+        "name": "Turrialba Fc",
+        "country": "Costa-Rica",
+        "logo": "https://media.api-sports.io/football/teams/2059.png"
+    },
+    {
+        "id": 3520,
+        "name": "Legion",
+        "country": "Costa-Rica",
+        "logo": "https://media.api-sports.io/football/teams/3520.png"
+    },
+    {
+        "id": 4908,
+        "name": "Barrio M\u00e9xico",
+        "country": "Costa-Rica",
+        "logo": "https://media.api-sports.io/football/teams/4908.png"
+    },
+    {
+        "id": 10152,
+        "name": "Rosario",
+        "country": "Costa-Rica",
+        "logo": "https://media.api-sports.io/football/teams/10152.png"
+    },
+    {
+        "id": 10308,
+        "name": "Costa Rica U20",
+        "country": "Costa-Rica",
+        "logo": "https://media.api-sports.io/football/teams/10308.png"
+    },
+    {
+        "id": 14341,
+        "name": "Zenit Tallinn",
+        "country": "Costa-Rica",
+        "logo": "https://media.api-sports.io/football/teams/14341.png"
+    },
+    {
+        "id": 14600,
+        "name": "Municipal San Ram\u00f3n",
+        "country": "Costa-Rica",
+        "logo": "https://media.api-sports.io/football/teams/14600.png"
+    },
+    {
+        "id": 15558,
+        "name": "Marineros de Puntarenas",
+        "country": "Costa-Rica",
+        "logo": "https://media.api-sports.io/football/teams/15558.png"
+    },
+    {
+        "id": 17377,
+        "name": "Escorpiones Bel\u00e9n",
+        "country": "Costa-Rica",
+        "logo": "https://media.api-sports.io/football/teams/17377.png"
+    },
+    {
+        "id": 17868,
+        "name": "Costa Rica U23",
+        "country": "Costa-Rica",
+        "logo": "https://media.api-sports.io/football/teams/17868.png"
+    },
+    {
+        "id": 18939,
+        "name": "Costa Rica W U17",
+        "country": "Costa-Rica",
+        "logo": "https://media.api-sports.io/football/teams/18939.png"
+    },
+    {
+        "id": 19082,
+        "name": "Costa Rica U20 W",
+        "country": "Costa-Rica",
+        "logo": "https://media.api-sports.io/football/teams/19082.png"
+    },
+    {
+        "id": 19737,
+        "name": "AD Sarch\u00ed",
+        "country": "Costa-Rica",
+        "logo": "https://media.api-sports.io/football/teams/19737.png"
+    },
+    {
+        "id": 19738,
+        "name": "Quepos Cambute",
+        "country": "Costa-Rica",
+        "logo": "https://media.api-sports.io/football/teams/19738.png"
+    },
+    {
+        "id": 20804,
+        "name": "Lim\u00f3n Black Star",
+        "country": "Costa-Rica",
+        "logo": "https://media.api-sports.io/football/teams/20804.png"
+    },
+    {
+        "id": 20990,
+        "name": "Costa Rica U17",
+        "country": "Costa-Rica",
+        "logo": "https://media.api-sports.io/football/teams/20990.png"
+    },
+    {
+        "id": 22015,
+        "name": "Antioquia",
+        "country": "Costa-Rica",
+        "logo": "https://media.api-sports.io/football/teams/22015.png"
+    },
+    {
+        "id": 22214,
+        "name": "Jac\u00f3",
+        "country": "Costa-Rica",
+        "logo": "https://media.api-sports.io/football/teams/22214.png"
+    },
+    {
+        "id": 24391,
+        "name": "Inter San Carlos",
+        "country": "Costa-Rica",
+        "logo": "https://media.api-sports.io/football/teams/24391.png"
+    }
+]

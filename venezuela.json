@@ -1,0 +1,554 @@
+[
+    {
+        "id": 2379,
+        "name": "Venezuela",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/2379.png"
+    },
+    {
+        "id": 2805,
+        "name": "Zulia FC",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/2805.png"
+    },
+    {
+        "id": 2806,
+        "name": "Zamora FC",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/2806.png"
+    },
+    {
+        "id": 2807,
+        "name": "Deportivo Tachira FC",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/2807.png"
+    },
+    {
+        "id": 2808,
+        "name": "Caracas FC",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/2808.png"
+    },
+    {
+        "id": 2809,
+        "name": "Atletico Venezuela",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/2809.png"
+    },
+    {
+        "id": 2810,
+        "name": "Carabobo FC",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/2810.png"
+    },
+    {
+        "id": 2811,
+        "name": "Monagas SC",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/2811.png"
+    },
+    {
+        "id": 2812,
+        "name": "Deportivo Lara",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/2812.png"
+    },
+    {
+        "id": 2813,
+        "name": "Real Esppor Club",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/2813.png"
+    },
+    {
+        "id": 2814,
+        "name": "Portuguesa FC",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/2814.png"
+    },
+    {
+        "id": 2815,
+        "name": "Trujillanos FC",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/2815.png"
+    },
+    {
+        "id": 2816,
+        "name": "Urena SC",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/2816.png"
+    },
+    {
+        "id": 2817,
+        "name": "Aragua FC",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/2817.png"
+    },
+    {
+        "id": 2818,
+        "name": "Estudiantes de Merida FC",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/2818.png"
+    },
+    {
+        "id": 2819,
+        "name": "Deportivo Anzoategui",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/2819.png"
+    },
+    {
+        "id": 2820,
+        "name": "Deportivo JBL del Zulia",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/2820.png"
+    },
+    {
+        "id": 2821,
+        "name": "Deportivo Petare",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/2821.png"
+    },
+    {
+        "id": 2822,
+        "name": "Estudiantes Caracas",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/2822.png"
+    },
+    {
+        "id": 2823,
+        "name": "Llaneros de Guanare",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/2823.png"
+    },
+    {
+        "id": 2824,
+        "name": "Mineros de Guyana",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/2824.png"
+    },
+    {
+        "id": 2825,
+        "name": "Metropolitanos FC",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/2825.png"
+    },
+    {
+        "id": 2826,
+        "name": "Atletico Socopo FC",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/2826.png"
+    },
+    {
+        "id": 2827,
+        "name": "Puerto Cabello",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/2827.png"
+    },
+    {
+        "id": 2828,
+        "name": "Lala FC",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/2828.png"
+    },
+    {
+        "id": 2829,
+        "name": "Yaracuyanos FC",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/2829.png"
+    },
+    {
+        "id": 2830,
+        "name": "Petrolero de Anzoategui",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/2830.png"
+    },
+    {
+        "id": 2831,
+        "name": "Union Atl. Falcon",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/2831.png"
+    },
+    {
+        "id": 2832,
+        "name": "Atletico el Vigia FC",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/2832.png"
+    },
+    {
+        "id": 2833,
+        "name": "Arroceros Calabozo",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/2833.png"
+    },
+    {
+        "id": 2834,
+        "name": "AC Mineros B",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/2834.png"
+    },
+    {
+        "id": 2835,
+        "name": "Tucanes FC",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/2835.png"
+    },
+    {
+        "id": 2836,
+        "name": "Policia De Lara",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/2836.png"
+    },
+    {
+        "id": 2837,
+        "name": "Titanes FC",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/2837.png"
+    },
+    {
+        "id": 2838,
+        "name": "Angostura FC",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/2838.png"
+    },
+    {
+        "id": 2839,
+        "name": "Diamantes de Guayana",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/2839.png"
+    },
+    {
+        "id": 2840,
+        "name": "UCV",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/2840.png"
+    },
+    {
+        "id": 2841,
+        "name": "Zamora FC B",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/2841.png"
+    },
+    {
+        "id": 2842,
+        "name": "Caracas FC B",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/2842.png"
+    },
+    {
+        "id": 2843,
+        "name": "Gran Valencia",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/2843.png"
+    },
+    {
+        "id": 2844,
+        "name": "Margarita FC",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/2844.png"
+    },
+    {
+        "id": 2845,
+        "name": "Atletico Venezuela B",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/2845.png"
+    },
+    {
+        "id": 2846,
+        "name": "Potros De Barinas",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/2846.png"
+    },
+    {
+        "id": 2847,
+        "name": "Real Frontera",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/2847.png"
+    },
+    {
+        "id": 2848,
+        "name": "Deportivo La Guaira B",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/2848.png"
+    },
+    {
+        "id": 2849,
+        "name": "Redi Colon",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/2849.png"
+    },
+    {
+        "id": 2850,
+        "name": "ULA FC",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/2850.png"
+    },
+    {
+        "id": 2851,
+        "name": "Yaracuy FC",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/2851.png"
+    },
+    {
+        "id": 2852,
+        "name": "Atletico Guanare",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/2852.png"
+    },
+    {
+        "id": 2853,
+        "name": "Petare FC",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/2853.png"
+    },
+    {
+        "id": 2854,
+        "name": "CD Hermanos Colmenarez",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/2854.png"
+    },
+    {
+        "id": 2855,
+        "name": "CA Furrial",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/2855.png"
+    },
+    {
+        "id": 2856,
+        "name": "Libertador FC",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/2856.png"
+    },
+    {
+        "id": 2857,
+        "name": "Ciudad Vinotinto",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/2857.png"
+    },
+    {
+        "id": 2858,
+        "name": "Dinamo de Puerto La Cruz",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/2858.png"
+    },
+    {
+        "id": 2859,
+        "name": "Fundacion AIFI",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/2859.png"
+    },
+    {
+        "id": 7872,
+        "name": "Gal\u00edcia",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/7872.png"
+    },
+    {
+        "id": 10091,
+        "name": "Fundaci\u00f3n Lara Deportiva",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/10091.png"
+    },
+    {
+        "id": 10092,
+        "name": "Minerv\u00e9n",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/10092.png"
+    },
+    {
+        "id": 10314,
+        "name": "Venezuela U20",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/10314.png"
+    },
+    {
+        "id": 11059,
+        "name": "Puerto Cabello U20",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/11059.png"
+    },
+    {
+        "id": 11360,
+        "name": "Estudiantes de Caracas",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/11360.png"
+    },
+    {
+        "id": 11361,
+        "name": "Carabobo II",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/11361.png"
+    },
+    {
+        "id": 11362,
+        "name": "Deportivo Anzo\u00e1tegui II",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/11362.png"
+    },
+    {
+        "id": 11363,
+        "name": "Deportivo T\u00e1chira II",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/11363.png"
+    },
+    {
+        "id": 11364,
+        "name": "Uni\u00f3n Lara",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/11364.png"
+    },
+    {
+        "id": 11365,
+        "name": "Caron\u00ed",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/11365.png"
+    },
+    {
+        "id": 11366,
+        "name": "Deportivo San Antonio",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/11366.png"
+    },
+    {
+        "id": 11367,
+        "name": "Guatire",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/11367.png"
+    },
+    {
+        "id": 11368,
+        "name": "Loter\u00eda del T\u00e1chira",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/11368.png"
+    },
+    {
+        "id": 11369,
+        "name": "Real Anzo\u00e1tegui",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/11369.png"
+    },
+    {
+        "id": 11370,
+        "name": "Estrella Roja",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/11370.png"
+    },
+    {
+        "id": 11371,
+        "name": "Monagas II",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/11371.png"
+    },
+    {
+        "id": 11372,
+        "name": "Deportivo Lara II",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/11372.png"
+    },
+    {
+        "id": 11373,
+        "name": "Fundaci\u00f3n Cesarger",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/11373.png"
+    },
+    {
+        "id": 11374,
+        "name": "Lara FC",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/11374.png"
+    },
+    {
+        "id": 11375,
+        "name": "Minasoro FV",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/11375.png"
+    },
+    {
+        "id": 11376,
+        "name": "Real Bol\u00edvar FC",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/11376.png"
+    },
+    {
+        "id": 11377,
+        "name": "UA Aragua",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/11377.png"
+    },
+    {
+        "id": 16696,
+        "name": "Atl\u00e9tico La Cruz",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/16696.png"
+    },
+    {
+        "id": 16847,
+        "name": "Rayo Zuliano",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/16847.png"
+    },
+    {
+        "id": 18264,
+        "name": "Venezuela W",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/18264.png"
+    },
+    {
+        "id": 18806,
+        "name": "Academia Anzo\u00e1tegui",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/18806.png"
+    },
+    {
+        "id": 18807,
+        "name": "H\u00e9roes de Falc\u00f3n",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/18807.png"
+    },
+    {
+        "id": 18808,
+        "name": "Nueva Esparta",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/18808.png"
+    },
+    {
+        "id": 18983,
+        "name": "Venezuela U23",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/18983.png"
+    },
+    {
+        "id": 20538,
+        "name": "Venezuela U19",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/20538.png"
+    },
+    {
+        "id": 21208,
+        "name": "Mar\u00edtimo",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/21208.png"
+    },
+    {
+        "id": 21213,
+        "name": "Venezuela U17",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/21213.png"
+    },
+    {
+        "id": 21231,
+        "name": "Bol\u00edvar",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/21231.png"
+    },
+    {
+        "id": 22546,
+        "name": "Caracas",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/22546.png"
+    },
+    {
+        "id": 23381,
+        "name": "Venezuela U17 W",
+        "country": "Venezuela",
+        "logo": "https://media.api-sports.io/football/teams/23381.png"
+    }
+]

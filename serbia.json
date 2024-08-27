@@ -1,0 +1,1052 @@
+[
+    {
+        "id": 14,
+        "name": "Serbia",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/14.png"
+    },
+    {
+        "id": 573,
+        "name": "FK Partizan",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/573.png"
+    },
+    {
+        "id": 598,
+        "name": "FK Crvena Zvezda",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/598.png"
+    },
+    {
+        "id": 699,
+        "name": "Mladost Lucani",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/699.png"
+    },
+    {
+        "id": 702,
+        "name": "Vojvodina",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/702.png"
+    },
+    {
+        "id": 1773,
+        "name": "Serbia W",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/1773.png"
+    },
+    {
+        "id": 2251,
+        "name": "FK Spartak Zdrepceva KRV",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/2251.png"
+    },
+    {
+        "id": 2254,
+        "name": "Radnicki NIS",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/2254.png"
+    },
+    {
+        "id": 2627,
+        "name": "Bezanija",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/2627.png"
+    },
+    {
+        "id": 2628,
+        "name": "Buducnost Dobanovci",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/2628.png"
+    },
+    {
+        "id": 2629,
+        "name": "CSK Pivara",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/2629.png"
+    },
+    {
+        "id": 2630,
+        "name": "Dinamo Vranje",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/2630.png"
+    },
+    {
+        "id": 2631,
+        "name": "Indjija",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/2631.png"
+    },
+    {
+        "id": 2632,
+        "name": "Jagodina",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/2632.png"
+    },
+    {
+        "id": 2633,
+        "name": "OFK Beograd",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/2633.png"
+    },
+    {
+        "id": 2634,
+        "name": "Sindjelic Beograd",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/2634.png"
+    },
+    {
+        "id": 2635,
+        "name": "BSK Borca",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/2635.png"
+    },
+    {
+        "id": 2636,
+        "name": "Kolubara",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/2636.png"
+    },
+    {
+        "id": 2637,
+        "name": "Macva",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/2637.png"
+    },
+    {
+        "id": 2638,
+        "name": "Odzaci",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/2638.png"
+    },
+    {
+        "id": 2639,
+        "name": "Proleter Novi SAD",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/2639.png"
+    },
+    {
+        "id": 2640,
+        "name": "Radnicki Pirot",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/2640.png"
+    },
+    {
+        "id": 2641,
+        "name": "Sloboda Uzice",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/2641.png"
+    },
+    {
+        "id": 2642,
+        "name": "Zemun",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/2642.png"
+    },
+    {
+        "id": 2643,
+        "name": "Novi Pazar",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/2643.png"
+    },
+    {
+        "id": 2644,
+        "name": "Radnicki 1923",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/2644.png"
+    },
+    {
+        "id": 2645,
+        "name": "Teleoptik",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/2645.png"
+    },
+    {
+        "id": 2646,
+        "name": "TSC Backa Topola",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/2646.png"
+    },
+    {
+        "id": 2647,
+        "name": "Metalac GM",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/2647.png"
+    },
+    {
+        "id": 2648,
+        "name": "Temnic 1924",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/2648.png"
+    },
+    {
+        "id": 2649,
+        "name": "Borac Cacak",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/2649.png"
+    },
+    {
+        "id": 2650,
+        "name": "FK Becej",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/2650.png"
+    },
+    {
+        "id": 2651,
+        "name": "FK Trayal",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/2651.png"
+    },
+    {
+        "id": 2652,
+        "name": "FK Zlatibor",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/2652.png"
+    },
+    {
+        "id": 2653,
+        "name": "Javor",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/2653.png"
+    },
+    {
+        "id": 2654,
+        "name": "Zarkovo",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/2654.png"
+    },
+    {
+        "id": 2655,
+        "name": "Napredak",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/2655.png"
+    },
+    {
+        "id": 2656,
+        "name": "Cukaricki",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/2656.png"
+    },
+    {
+        "id": 2657,
+        "name": "Radnik Surdulica",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/2657.png"
+    },
+    {
+        "id": 2658,
+        "name": "FK Vozdovac",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/2658.png"
+    },
+    {
+        "id": 2659,
+        "name": "Backa",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/2659.png"
+    },
+    {
+        "id": 2660,
+        "name": "RAD",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/2660.png"
+    },
+    {
+        "id": 4252,
+        "name": "Grafi\u010dar",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/4252.png"
+    },
+    {
+        "id": 4253,
+        "name": "Kabel Novi Sad",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/4253.png"
+    },
+    {
+        "id": 4254,
+        "name": "Semendrija 1924",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/4254.png"
+    },
+    {
+        "id": 7894,
+        "name": "Crvena Zvezda U19",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/7894.png"
+    },
+    {
+        "id": 8222,
+        "name": "Serbia U21",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/8222.png"
+    },
+    {
+        "id": 10346,
+        "name": "Serbia U19",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/10346.png"
+    },
+    {
+        "id": 10903,
+        "name": "Spartak Subotica",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/10903.png"
+    },
+    {
+        "id": 12302,
+        "name": "1. Maj Ruma",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/12302.png"
+    },
+    {
+        "id": 12303,
+        "name": "Ba\u010dka 1901",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/12303.png"
+    },
+    {
+        "id": 12304,
+        "name": "Borac Sakule",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/12304.png"
+    },
+    {
+        "id": 12305,
+        "name": "Bratstvo Prigrevica",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/12305.png"
+    },
+    {
+        "id": 12306,
+        "name": "Brodarac",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/12306.png"
+    },
+    {
+        "id": 12307,
+        "name": "Budu\u0107nost Popovac",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/12307.png"
+    },
+    {
+        "id": 12308,
+        "name": "Budu\u010dnost Kru\u0161ik",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/12308.png"
+    },
+    {
+        "id": 12309,
+        "name": "Car Konstantin",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/12309.png"
+    },
+    {
+        "id": 12310,
+        "name": "Crvena Zvezda MML",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/12310.png"
+    },
+    {
+        "id": 12311,
+        "name": "Dinamo Pan\u010devo",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/12311.png"
+    },
+    {
+        "id": 12312,
+        "name": "Dubo\u010dica",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/12312.png"
+    },
+    {
+        "id": 12313,
+        "name": "Dunav Prahovo",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/12313.png"
+    },
+    {
+        "id": 12314,
+        "name": "Dunav Stari Banovci",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/12314.png"
+    },
+    {
+        "id": 12315,
+        "name": "Hajduk 1912 Kula",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/12315.png"
+    },
+    {
+        "id": 12316,
+        "name": "IMT Novi Beograd",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/12316.png"
+    },
+    {
+        "id": 12317,
+        "name": "Jedinstvo Bo\u0161njace",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/12317.png"
+    },
+    {
+        "id": 12318,
+        "name": "Jedinstvo Su",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/12318.png"
+    },
+    {
+        "id": 12319,
+        "name": "Jedinstvo Ub",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/12319.png"
+    },
+    {
+        "id": 12320,
+        "name": "Jo\u0161anica",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/12320.png"
+    },
+    {
+        "id": 12321,
+        "name": "Kozara",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/12321.png"
+    },
+    {
+        "id": 12322,
+        "name": "Lokomotiva Beograd",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/12322.png"
+    },
+    {
+        "id": 12323,
+        "name": "Loznica",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/12323.png"
+    },
+    {
+        "id": 12324,
+        "name": "Ma\u010dva 1929",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/12324.png"
+    },
+    {
+        "id": 12325,
+        "name": "Mladenovac",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/12325.png"
+    },
+    {
+        "id": 12326,
+        "name": "Mladi Radnik",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/12326.png"
+    },
+    {
+        "id": 12327,
+        "name": "Mokra Gora",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/12327.png"
+    },
+    {
+        "id": 12328,
+        "name": "Moravac Mr\u0161tane",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/12328.png"
+    },
+    {
+        "id": 12329,
+        "name": "OFK Vr\u0161ac",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/12329.png"
+    },
+    {
+        "id": 12330,
+        "name": "Omladinac NB",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/12330.png"
+    },
+    {
+        "id": 12331,
+        "name": "Polet Dor\u0107ol",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/12331.png"
+    },
+    {
+        "id": 12332,
+        "name": "Proleter Mihajlovac",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/12332.png"
+    },
+    {
+        "id": 12333,
+        "name": "RSK Rabrovo",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/12333.png"
+    },
+    {
+        "id": 12334,
+        "name": "Radan",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/12334.png"
+    },
+    {
+        "id": 12335,
+        "name": "Radni\u010dki Novi Beograd",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/12335.png"
+    },
+    {
+        "id": 12336,
+        "name": "Radni\u010dki Obrenovac",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/12336.png"
+    },
+    {
+        "id": 12337,
+        "name": "Radni\u010dki Sombor",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/12337.png"
+    },
+    {
+        "id": 12338,
+        "name": "Radni\u010dki Sr. Mitrovica",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/12338.png"
+    },
+    {
+        "id": 12339,
+        "name": "Radni\u010dki Zrenjanin",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/12339.png"
+    },
+    {
+        "id": 12340,
+        "name": "Rembas",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/12340.png"
+    },
+    {
+        "id": 12341,
+        "name": "SFS Borac",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/12341.png"
+    },
+    {
+        "id": 12342,
+        "name": "Sin\u0111eli\u0107",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/12342.png"
+    },
+    {
+        "id": 12343,
+        "name": "Sloga Kraljevo",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/12343.png"
+    },
+    {
+        "id": 12344,
+        "name": "Sloga Petrovac na Mlavi",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/12344.png"
+    },
+    {
+        "id": 12345,
+        "name": "Sloga Po\u017eega",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/12345.png"
+    },
+    {
+        "id": 12346,
+        "name": "Srem\u010dica",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/12346.png"
+    },
+    {
+        "id": 12347,
+        "name": "Stepojevac Vaga",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/12347.png"
+    },
+    {
+        "id": 12348,
+        "name": "Su\u0161ica",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/12348.png"
+    },
+    {
+        "id": 12349,
+        "name": "TEK Sloga",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/12349.png"
+    },
+    {
+        "id": 12350,
+        "name": "Takovo",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/12350.png"
+    },
+    {
+        "id": 12351,
+        "name": "Timo\u010danin",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/12351.png"
+    },
+    {
+        "id": 12352,
+        "name": "Toplicanin Prokuplje",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/12352.png"
+    },
+    {
+        "id": 12353,
+        "name": "Trep\u010da",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/12353.png"
+    },
+    {
+        "id": 12354,
+        "name": "Trstenik PPT",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/12354.png"
+    },
+    {
+        "id": 12355,
+        "name": "Tutin",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/12355.png"
+    },
+    {
+        "id": 12356,
+        "name": "Vlasina",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/12356.png"
+    },
+    {
+        "id": 12357,
+        "name": "Vojvodina 1928",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/12357.png"
+    },
+    {
+        "id": 12358,
+        "name": "Zvezdara",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/12358.png"
+    },
+    {
+        "id": 12359,
+        "name": "\u0160umadija Aran\u0111elovac",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/12359.png"
+    },
+    {
+        "id": 12360,
+        "name": "\u017delezni\u010dar Pan\u010devo",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/12360.png"
+    },
+    {
+        "id": 14244,
+        "name": "Jedinstvo Para\u0107in",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/14244.png"
+    },
+    {
+        "id": 14245,
+        "name": "Kablovi Zaje\u010dar",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/14245.png"
+    },
+    {
+        "id": 14246,
+        "name": "Mladost Medo\u0161evac",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/14246.png"
+    },
+    {
+        "id": 14247,
+        "name": "Morava Vladi\u010din Han",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/14247.png"
+    },
+    {
+        "id": 14248,
+        "name": "P\u010dinja Trgovi\u0161te",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/14248.png"
+    },
+    {
+        "id": 14249,
+        "name": "Radni\u010dki Svilajnac",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/14249.png"
+    },
+    {
+        "id": 14250,
+        "name": "Timok Zaje\u010dar",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/14250.png"
+    },
+    {
+        "id": 14251,
+        "name": "\u017dupa",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/14251.png"
+    },
+    {
+        "id": 14252,
+        "name": "BASK",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/14252.png"
+    },
+    {
+        "id": 14253,
+        "name": "BSK Batajnica",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/14253.png"
+    },
+    {
+        "id": 14254,
+        "name": "Le\u0161tane",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/14254.png"
+    },
+    {
+        "id": 14255,
+        "name": "Studentski Grad",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/14255.png"
+    },
+    {
+        "id": 14256,
+        "name": "Bane Ra\u0161ka",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/14256.png"
+    },
+    {
+        "id": 14257,
+        "name": "Budu\u0107nost Arilje",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/14257.png"
+    },
+    {
+        "id": 14258,
+        "name": "Gru\u017ea",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/14258.png"
+    },
+    {
+        "id": 14259,
+        "name": "\u017delezni\u010dar Lajkovac",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/14259.png"
+    },
+    {
+        "id": 14260,
+        "name": "Jedinstvo Stara Pazova",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/14260.png"
+    },
+    {
+        "id": 14261,
+        "name": "Mladost Novi Sad",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/14261.png"
+    },
+    {
+        "id": 14262,
+        "name": "Sloboda Novi Kozarci",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/14262.png"
+    },
+    {
+        "id": 14263,
+        "name": "Sloga \u010conoplja",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/14263.png"
+    },
+    {
+        "id": 14264,
+        "name": "Stari Grad",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/14264.png"
+    },
+    {
+        "id": 14265,
+        "name": "Tisa Adorjan",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/14265.png"
+    },
+    {
+        "id": 15974,
+        "name": "Jedinstvo Rumenka",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/15974.png"
+    },
+    {
+        "id": 15975,
+        "name": "Sloga Majdevo",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/15975.png"
+    },
+    {
+        "id": 17096,
+        "name": "Sloboda",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/17096.png"
+    },
+    {
+        "id": 17429,
+        "name": "Brzi Brod",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/17429.png"
+    },
+    {
+        "id": 17430,
+        "name": "Hajduk Veljko",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/17430.png"
+    },
+    {
+        "id": 17431,
+        "name": "Me\u0161evo",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/17431.png"
+    },
+    {
+        "id": 17432,
+        "name": "Sloga Leskovac",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/17432.png"
+    },
+    {
+        "id": 17433,
+        "name": "Radjevac Krupanj",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/17433.png"
+    },
+    {
+        "id": 17434,
+        "name": "Real Podunavci",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/17434.png"
+    },
+    {
+        "id": 17435,
+        "name": "Sloga Bajina Ba\u0161ta",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/17435.png"
+    },
+    {
+        "id": 17436,
+        "name": "Borac \u0160ajka\u0161",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/17436.png"
+    },
+    {
+        "id": 17437,
+        "name": "Kikinda",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/17437.png"
+    },
+    {
+        "id": 17438,
+        "name": "Tekstilac Od\u017eaci",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/17438.png"
+    },
+    {
+        "id": 17439,
+        "name": "Borac Lazarevac",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/17439.png"
+    },
+    {
+        "id": 17440,
+        "name": "Prva Iskra",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/17440.png"
+    },
+    {
+        "id": 17977,
+        "name": "Serbia U17",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/17977.png"
+    },
+    {
+        "id": 19839,
+        "name": "Naftagas",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/19839.png"
+    },
+    {
+        "id": 19840,
+        "name": "Podunavac",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/19840.png"
+    },
+    {
+        "id": 19841,
+        "name": "Stani\u0161i\u0107",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/19841.png"
+    },
+    {
+        "id": 19842,
+        "name": "Torlak",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/19842.png"
+    },
+    {
+        "id": 19843,
+        "name": "Mihajlovac",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/19843.png"
+    },
+    {
+        "id": 19844,
+        "name": "Polet Ljubi\u0107",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/19844.png"
+    },
+    {
+        "id": 19845,
+        "name": "FAP",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/19845.png"
+    },
+    {
+        "id": 20391,
+        "name": "RFK Novi Sad",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/20391.png"
+    },
+    {
+        "id": 22079,
+        "name": "Omladinac Zabla\u0107e",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/22079.png"
+    },
+    {
+        "id": 22080,
+        "name": "Vrelo Sport",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/22080.png"
+    },
+    {
+        "id": 22081,
+        "name": "Djerdap Kladovo",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/22081.png"
+    },
+    {
+        "id": 22082,
+        "name": "Jedinstvo Kru\u0161evac",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/22082.png"
+    },
+    {
+        "id": 22083,
+        "name": "\u017ditora\u0111a",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/22083.png"
+    },
+    {
+        "id": 22084,
+        "name": "Sloven Ruma",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/22084.png"
+    },
+    {
+        "id": 22085,
+        "name": "Zeleznicar In\u0111ija",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/22085.png"
+    },
+    {
+        "id": 22086,
+        "name": "Padinska Skela",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/22086.png"
+    },
+    {
+        "id": 22424,
+        "name": "Gracko",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/22424.png"
+    },
+    {
+        "id": 22437,
+        "name": "Serbia U18",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/22437.png"
+    },
+    {
+        "id": 23604,
+        "name": "Serbia U19 W",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/23604.png"
+    },
+    {
+        "id": 24616,
+        "name": "Budu\u0107nost Dudovica",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/24616.png"
+    },
+    {
+        "id": 24617,
+        "name": "Ravna Gora",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/24617.png"
+    },
+    {
+        "id": 24618,
+        "name": "Jedinstvo Putevi",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/24618.png"
+    },
+    {
+        "id": 24619,
+        "name": "Lipolist",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/24619.png"
+    },
+    {
+        "id": 24620,
+        "name": "Napredak Markovac",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/24620.png"
+    },
+    {
+        "id": 24621,
+        "name": "Dinamo Jug",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/24621.png"
+    },
+    {
+        "id": 24622,
+        "name": "Morava \u0106uprija",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/24622.png"
+    },
+    {
+        "id": 24623,
+        "name": "Hajduk Divo\u0161",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/24623.png"
+    },
+    {
+        "id": 24624,
+        "name": "OFK Vrbas",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/24624.png"
+    },
+    {
+        "id": 24625,
+        "name": "Sloboda DT",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/teams/24625.png"
+    }
+]

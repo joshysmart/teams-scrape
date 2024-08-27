@@ -1,0 +1,2318 @@
+[
+    {
+        "id": 571,
+        "name": "Red Bull Salzburg",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/571.png"
+    },
+    {
+        "id": 601,
+        "name": "Austria Vienna",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/601.png"
+    },
+    {
+        "id": 618,
+        "name": "SCR Altach",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/618.png"
+    },
+    {
+        "id": 637,
+        "name": "Sturm Graz",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/637.png"
+    },
+    {
+        "id": 775,
+        "name": "Austria",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/775.png"
+    },
+    {
+        "id": 781,
+        "name": "Rapid Vienna",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/781.png"
+    },
+    {
+        "id": 1023,
+        "name": "Admira Wacker",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/1023.png"
+    },
+    {
+        "id": 1024,
+        "name": "SV Mattersburg",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/1024.png"
+    },
+    {
+        "id": 1025,
+        "name": "Wolfsberger AC",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/1025.png"
+    },
+    {
+        "id": 1026,
+        "name": "Lask Linz",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/1026.png"
+    },
+    {
+        "id": 1027,
+        "name": "SKN ST. Polten",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/1027.png"
+    },
+    {
+        "id": 1028,
+        "name": "Ried",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/1028.png"
+    },
+    {
+        "id": 1072,
+        "name": "TSV Hartberg",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/1072.png"
+    },
+    {
+        "id": 1073,
+        "name": "Wacker Innsbruck",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/1073.png"
+    },
+    {
+        "id": 1394,
+        "name": "FC BW Linz",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/1394.png"
+    },
+    {
+        "id": 1395,
+        "name": "Floridsdorfer AC",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/1395.png"
+    },
+    {
+        "id": 1396,
+        "name": "SC Wiener Neustadt",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/1396.png"
+    },
+    {
+        "id": 1397,
+        "name": "SV Horn",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/1397.png"
+    },
+    {
+        "id": 1398,
+        "name": "WSG Wattens",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/1398.png"
+    },
+    {
+        "id": 1399,
+        "name": "Austria Lustenau",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/1399.png"
+    },
+    {
+        "id": 1400,
+        "name": "FC Liefering",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/1400.png"
+    },
+    {
+        "id": 1401,
+        "name": "SV Kapfenberg",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/1401.png"
+    },
+    {
+        "id": 1402,
+        "name": "SV Lafnitz",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/1402.png"
+    },
+    {
+        "id": 1403,
+        "name": "Lask Juniors Linz",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/1403.png"
+    },
+    {
+        "id": 1404,
+        "name": "SKU Amstetten",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/1404.png"
+    },
+    {
+        "id": 1405,
+        "name": "Austria Klagenfurt",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/1405.png"
+    },
+    {
+        "id": 1406,
+        "name": "SK Vorwarts Steyr",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/1406.png"
+    },
+    {
+        "id": 1766,
+        "name": "Austria W",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/1766.png"
+    },
+    {
+        "id": 2860,
+        "name": "Austria Vienna (Am)",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/2860.png"
+    },
+    {
+        "id": 2861,
+        "name": "Wacker Innsbruck (Am)",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/2861.png"
+    },
+    {
+        "id": 4255,
+        "name": "Dornbirn",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/4255.png"
+    },
+    {
+        "id": 4256,
+        "name": "Grazer AK",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/4256.png"
+    },
+    {
+        "id": 4934,
+        "name": "Allerheiligen",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/4934.png"
+    },
+    {
+        "id": 4935,
+        "name": "Bad Gleichenberg",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/4935.png"
+    },
+    {
+        "id": 4936,
+        "name": "Bruck/Leitha",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/4936.png"
+    },
+    {
+        "id": 4937,
+        "name": "Dra\u00dfburg",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/4937.png"
+    },
+    {
+        "id": 4938,
+        "name": "Ebreichsdorf",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/4938.png"
+    },
+    {
+        "id": 4939,
+        "name": "Elektra",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/4939.png"
+    },
+    {
+        "id": 4940,
+        "name": "Gleisdorf 09",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/4940.png"
+    },
+    {
+        "id": 4941,
+        "name": "Gloggnitz",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/4941.png"
+    },
+    {
+        "id": 4942,
+        "name": "Gurten",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/4942.png"
+    },
+    {
+        "id": 4943,
+        "name": "Hall",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/4943.png"
+    },
+    {
+        "id": 4944,
+        "name": "Hertha",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/4944.png"
+    },
+    {
+        "id": 4945,
+        "name": "Hohenems",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/4945.png"
+    },
+    {
+        "id": 4946,
+        "name": "Kalsdorf",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/4946.png"
+    },
+    {
+        "id": 4947,
+        "name": "Kitzb\u00fchel",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/4947.png"
+    },
+    {
+        "id": 4948,
+        "name": "Kufstein",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/4948.png"
+    },
+    {
+        "id": 4949,
+        "name": "K\u00f6ttmannsdorf",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/4949.png"
+    },
+    {
+        "id": 4950,
+        "name": "Langenegg",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/4950.png"
+    },
+    {
+        "id": 4951,
+        "name": "Leobendorf",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/4951.png"
+    },
+    {
+        "id": 4952,
+        "name": "Mannsdorf-Gro\u00dfenzersdorf",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/4952.png"
+    },
+    {
+        "id": 4953,
+        "name": "Mauerwerk",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/4953.png"
+    },
+    {
+        "id": 4954,
+        "name": "Neusiedl",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/4954.png"
+    },
+    {
+        "id": 4955,
+        "name": "Parndorf",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/4955.png"
+    },
+    {
+        "id": 4956,
+        "name": "Pinkafeld",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/4956.png"
+    },
+    {
+        "id": 4957,
+        "name": "Schwaz",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/4957.png"
+    },
+    {
+        "id": 4958,
+        "name": "Seekirchen",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/4958.png"
+    },
+    {
+        "id": 4959,
+        "name": "St. Anna",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/4959.png"
+    },
+    {
+        "id": 4960,
+        "name": "Stadl-Paura",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/4960.png"
+    },
+    {
+        "id": 4961,
+        "name": "Traiskirchen",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/4961.png"
+    },
+    {
+        "id": 4962,
+        "name": "Treibach",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/4962.png"
+    },
+    {
+        "id": 4963,
+        "name": "Union Edelwei\u00df",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/4963.png"
+    },
+    {
+        "id": 4964,
+        "name": "Union V\u00f6cklamarkt",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/4964.png"
+    },
+    {
+        "id": 4965,
+        "name": "Wiener SC",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/4965.png"
+    },
+    {
+        "id": 4966,
+        "name": "Wiener Viktoria",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/4966.png"
+    },
+    {
+        "id": 4967,
+        "name": "Wolfsberg",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/4967.png"
+    },
+    {
+        "id": 4968,
+        "name": "Wolfurt",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/4968.png"
+    },
+    {
+        "id": 4969,
+        "name": "Zell am See",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/4969.png"
+    },
+    {
+        "id": 4970,
+        "name": "Alberschwende",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/4970.png"
+    },
+    {
+        "id": 4971,
+        "name": "Austria XIII",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/4971.png"
+    },
+    {
+        "id": 4972,
+        "name": "Deutschlandsberger SC",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/4972.png"
+    },
+    {
+        "id": 4973,
+        "name": "Dornbirner SV",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/4973.png"
+    },
+    {
+        "id": 4974,
+        "name": "Gr\u00f6dig",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/4974.png"
+    },
+    {
+        "id": 4975,
+        "name": "Lendorf",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/4975.png"
+    },
+    {
+        "id": 4976,
+        "name": "Maria Saal",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/4976.png"
+    },
+    {
+        "id": 4977,
+        "name": "Mettersdorf",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/4977.png"
+    },
+    {
+        "id": 4978,
+        "name": "Neuberg",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/4978.png"
+    },
+    {
+        "id": 4979,
+        "name": "Oedt",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/4979.png"
+    },
+    {
+        "id": 4980,
+        "name": "Pinzgau Saalfelden",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/4980.png"
+    },
+    {
+        "id": 4981,
+        "name": "SVG Reichenau",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/4981.png"
+    },
+    {
+        "id": 4982,
+        "name": "Scheiblingkirchen",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/4982.png"
+    },
+    {
+        "id": 4983,
+        "name": "Siegendorf",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/4983.png"
+    },
+    {
+        "id": 4984,
+        "name": "Stadlau",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/4984.png"
+    },
+    {
+        "id": 4985,
+        "name": "Stra\u00dfwalchen",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/4985.png"
+    },
+    {
+        "id": 4986,
+        "name": "Team Wiener Linien",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/4986.png"
+    },
+    {
+        "id": 4987,
+        "name": "V\u00f6lkermarkt",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/4987.png"
+    },
+    {
+        "id": 4988,
+        "name": "Bad Sauerbrunn",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/4988.png"
+    },
+    {
+        "id": 4989,
+        "name": "Ferlach",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/4989.png"
+    },
+    {
+        "id": 4990,
+        "name": "First Vienna",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/4990.png"
+    },
+    {
+        "id": 4991,
+        "name": "Hard",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/4991.png"
+    },
+    {
+        "id": 4992,
+        "name": "Schwarzach",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/4992.png"
+    },
+    {
+        "id": 4993,
+        "name": "Stripfing",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/4993.png"
+    },
+    {
+        "id": 4994,
+        "name": "TSV St. Johann",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/4994.png"
+    },
+    {
+        "id": 4995,
+        "name": "Union St. Florian",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/4995.png"
+    },
+    {
+        "id": 4996,
+        "name": "Weiz",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/4996.png"
+    },
+    {
+        "id": 4997,
+        "name": "Wiener SK",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/4997.png"
+    },
+    {
+        "id": 4998,
+        "name": "Wimpassing",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/4998.png"
+    },
+    {
+        "id": 4999,
+        "name": "W\u00f6rgl",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/4999.png"
+    },
+    {
+        "id": 5000,
+        "name": "Austria Salzburg",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/5000.png"
+    },
+    {
+        "id": 5001,
+        "name": "Bad Wimsbach",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/5001.png"
+    },
+    {
+        "id": 5002,
+        "name": "Bergheim",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/5002.png"
+    },
+    {
+        "id": 5003,
+        "name": "Grieskirchen",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/5003.png"
+    },
+    {
+        "id": 5004,
+        "name": "Krems",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/5004.png"
+    },
+    {
+        "id": 5005,
+        "name": "Purgstall",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/5005.png"
+    },
+    {
+        "id": 5006,
+        "name": "Ritzing",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/5006.png"
+    },
+    {
+        "id": 5007,
+        "name": "Rudersdorf",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/5007.png"
+    },
+    {
+        "id": 5008,
+        "name": "Wienerberg",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/5008.png"
+    },
+    {
+        "id": 7946,
+        "name": "Admira U19",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/7946.png"
+    },
+    {
+        "id": 8180,
+        "name": "Austria U21",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8180.png"
+    },
+    {
+        "id": 8245,
+        "name": "Admira II",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8245.png"
+    },
+    {
+        "id": 8246,
+        "name": "Mattersburg II",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8246.png"
+    },
+    {
+        "id": 8247,
+        "name": "Rapid Wien II",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8247.png"
+    },
+    {
+        "id": 8248,
+        "name": "Schwechat",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8248.png"
+    },
+    {
+        "id": 8249,
+        "name": "St. P\u00f6lten II",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8249.png"
+    },
+    {
+        "id": 8250,
+        "name": "Ried II",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8250.png"
+    },
+    {
+        "id": 8251,
+        "name": "Sturm Graz II",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8251.png"
+    },
+    {
+        "id": 8252,
+        "name": "Wels",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8252.png"
+    },
+    {
+        "id": 8253,
+        "name": "Wolfsberger AC II",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8253.png"
+    },
+    {
+        "id": 8254,
+        "name": "Austria Lustenau II",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8254.png"
+    },
+    {
+        "id": 8255,
+        "name": "Lauterach",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8255.png"
+    },
+    {
+        "id": 8256,
+        "name": "Rheindorf Altach II",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8256.png"
+    },
+    {
+        "id": 8257,
+        "name": "Rot-Wei\u00df Rankweil",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8257.png"
+    },
+    {
+        "id": 8258,
+        "name": "R\u00f6this",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8258.png"
+    },
+    {
+        "id": 8259,
+        "name": "Schwarz-Wei\u00df Bregenz",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8259.png"
+    },
+    {
+        "id": 8260,
+        "name": "Bischofshofen",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8260.png"
+    },
+    {
+        "id": 8261,
+        "name": "Wals-Gr\u00fcnau",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8261.png"
+    },
+    {
+        "id": 8262,
+        "name": "Deutschkreutz",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8262.png"
+    },
+    {
+        "id": 8263,
+        "name": "Eltendorf",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8263.png"
+    },
+    {
+        "id": 8264,
+        "name": "G\u00fcssing",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8264.png"
+    },
+    {
+        "id": 8265,
+        "name": "Horitschon",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8265.png"
+    },
+    {
+        "id": 8266,
+        "name": "Klingenbach",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8266.png"
+    },
+    {
+        "id": 8267,
+        "name": "Kohfidisch",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8267.png"
+    },
+    {
+        "id": 8268,
+        "name": "Leithaprodersdorf",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8268.png"
+    },
+    {
+        "id": 8269,
+        "name": "Markt Allhau",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8269.png"
+    },
+    {
+        "id": 8270,
+        "name": "Oberpetersdorf",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8270.png"
+    },
+    {
+        "id": 8271,
+        "name": "Oberwart / Rotenturm",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8271.png"
+    },
+    {
+        "id": 8272,
+        "name": "St. Margarethen / Bur",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8272.png"
+    },
+    {
+        "id": 8273,
+        "name": "Bleiburg",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8273.png"
+    },
+    {
+        "id": 8274,
+        "name": "Dellach im Gailtal",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8274.png"
+    },
+    {
+        "id": 8275,
+        "name": "Feldkirchen K\u00e4rnten",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8275.png"
+    },
+    {
+        "id": 8276,
+        "name": "Gm\u00fcnd",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8276.png"
+    },
+    {
+        "id": 8277,
+        "name": "Kraig",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8277.png"
+    },
+    {
+        "id": 8278,
+        "name": "Spittal",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8278.png"
+    },
+    {
+        "id": 8279,
+        "name": "St. Jakob Rosental",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8279.png"
+    },
+    {
+        "id": 8280,
+        "name": "St. Michael Bleiburg",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8280.png"
+    },
+    {
+        "id": 8281,
+        "name": "Ardagger",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8281.png"
+    },
+    {
+        "id": 8282,
+        "name": "Gaflenz",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8282.png"
+    },
+    {
+        "id": 8283,
+        "name": "Kilb",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8283.png"
+    },
+    {
+        "id": 8284,
+        "name": "Kottingbrunn",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8284.png"
+    },
+    {
+        "id": 8285,
+        "name": "Langenrohr",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8285.png"
+    },
+    {
+        "id": 8286,
+        "name": "Mannersdorf",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8286.png"
+    },
+    {
+        "id": 8287,
+        "name": "Ortmann",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8287.png"
+    },
+    {
+        "id": 8288,
+        "name": "Retz",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8288.png"
+    },
+    {
+        "id": 8289,
+        "name": "Schrems",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8289.png"
+    },
+    {
+        "id": 8290,
+        "name": "Spratzern",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8290.png"
+    },
+    {
+        "id": 8291,
+        "name": "USC Rohrbach",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8291.png"
+    },
+    {
+        "id": 8292,
+        "name": "Waidhofen / Thaya",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8292.png"
+    },
+    {
+        "id": 8293,
+        "name": "Zwettl",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8293.png"
+    },
+    {
+        "id": 8294,
+        "name": "Bad Schallerbach",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8294.png"
+    },
+    {
+        "id": 8295,
+        "name": "Donau Linz",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8295.png"
+    },
+    {
+        "id": 8296,
+        "name": "Friedburg / P\u00f6ndorf",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8296.png"
+    },
+    {
+        "id": 8297,
+        "name": "Gr\u00fcn Wei\u00df Micheldorf",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8297.png"
+    },
+    {
+        "id": 8298,
+        "name": "Mondsee",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8298.png"
+    },
+    {
+        "id": 8299,
+        "name": "Pregarten",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8299.png"
+    },
+    {
+        "id": 8300,
+        "name": "P\u00f6ttinger Grieskirchen",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8300.png"
+    },
+    {
+        "id": 8301,
+        "name": "SV Wallern",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8301.png"
+    },
+    {
+        "id": 8302,
+        "name": "St. Martin i.M.",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8302.png"
+    },
+    {
+        "id": 8303,
+        "name": "St. Valentin",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8303.png"
+    },
+    {
+        "id": 8304,
+        "name": "Union Perg",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8304.png"
+    },
+    {
+        "id": 8305,
+        "name": "Wei\u00dfkirchen / Allhaming",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8305.png"
+    },
+    {
+        "id": 8306,
+        "name": "Zebau Bad Ischl",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8306.png"
+    },
+    {
+        "id": 8307,
+        "name": "Adnet",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8307.png"
+    },
+    {
+        "id": 8308,
+        "name": "Altenmarkt",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8308.png"
+    },
+    {
+        "id": 8309,
+        "name": "Bramberg",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8309.png"
+    },
+    {
+        "id": 8310,
+        "name": "B\u00fcrmoos",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8310.png"
+    },
+    {
+        "id": 8311,
+        "name": "Eugendorf",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8311.png"
+    },
+    {
+        "id": 8312,
+        "name": "Golling",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8312.png"
+    },
+    {
+        "id": 8313,
+        "name": "Hallwang",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8313.png"
+    },
+    {
+        "id": 8314,
+        "name": "Neumarkt",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8314.png"
+    },
+    {
+        "id": 8315,
+        "name": "Puch",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8315.png"
+    },
+    {
+        "id": 8316,
+        "name": "Thalgau",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8316.png"
+    },
+    {
+        "id": 8317,
+        "name": "\u00d6TSU Hallein",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8317.png"
+    },
+    {
+        "id": 8318,
+        "name": "Bruck an der Mur",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8318.png"
+    },
+    {
+        "id": 8319,
+        "name": "Frauental",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8319.png"
+    },
+    {
+        "id": 8320,
+        "name": "F\u00fcrstenfeld",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8320.png"
+    },
+    {
+        "id": 8321,
+        "name": "Gnas",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8321.png"
+    },
+    {
+        "id": 8322,
+        "name": "Hitthaller St. Michael",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8322.png"
+    },
+    {
+        "id": 8323,
+        "name": "Ilz",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8323.png"
+    },
+    {
+        "id": 8324,
+        "name": "Lafnitz II",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8324.png"
+    },
+    {
+        "id": 8325,
+        "name": "Lebring",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8325.png"
+    },
+    {
+        "id": 8326,
+        "name": "Leoben",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8326.png"
+    },
+    {
+        "id": 8327,
+        "name": "Liezen",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8327.png"
+    },
+    {
+        "id": 8328,
+        "name": "Rottenmann",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8328.png"
+    },
+    {
+        "id": 8329,
+        "name": "TuS Heiligenkreuz",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8329.png"
+    },
+    {
+        "id": 8330,
+        "name": "Union Gamlit",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8330.png"
+    },
+    {
+        "id": 8331,
+        "name": "Union RB Weinland Gamlit",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8331.png"
+    },
+    {
+        "id": 8332,
+        "name": "Voitsberg",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8332.png"
+    },
+    {
+        "id": 8333,
+        "name": "Wildon",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8333.png"
+    },
+    {
+        "id": 8334,
+        "name": "Ebbs",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8334.png"
+    },
+    {
+        "id": 8335,
+        "name": "F\u00fcgen",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8335.png"
+    },
+    {
+        "id": 8336,
+        "name": "Kematen",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8336.png"
+    },
+    {
+        "id": 8337,
+        "name": "Kirchbichl",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8337.png"
+    },
+    {
+        "id": 8338,
+        "name": "Kundl",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8338.png"
+    },
+    {
+        "id": 8339,
+        "name": "Mils",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8339.png"
+    },
+    {
+        "id": 8340,
+        "name": "Natters",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8340.png"
+    },
+    {
+        "id": 8341,
+        "name": "SV Innsbruck",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8341.png"
+    },
+    {
+        "id": 8342,
+        "name": "Silz / M\u00f6tz",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8342.png"
+    },
+    {
+        "id": 8343,
+        "name": "St. Johann in Tirol",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8343.png"
+    },
+    {
+        "id": 8344,
+        "name": "Swarovski Tirol II",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8344.png"
+    },
+    {
+        "id": 8345,
+        "name": "S\u00f6ll",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8345.png"
+    },
+    {
+        "id": 8346,
+        "name": "Union Innsbruck",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8346.png"
+    },
+    {
+        "id": 8347,
+        "name": "Volders",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8347.png"
+    },
+    {
+        "id": 8348,
+        "name": "V\u00f6ls",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8348.png"
+    },
+    {
+        "id": 8349,
+        "name": "Zams",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8349.png"
+    },
+    {
+        "id": 8350,
+        "name": "Admira Dornbirn",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8350.png"
+    },
+    {
+        "id": 8351,
+        "name": "Andelsbuch",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8351.png"
+    },
+    {
+        "id": 8352,
+        "name": "Bezau",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8352.png"
+    },
+    {
+        "id": 8353,
+        "name": "Bizau",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8353.png"
+    },
+    {
+        "id": 8354,
+        "name": "Blau-Wei\u00df Feldkirch",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8354.png"
+    },
+    {
+        "id": 8355,
+        "name": "FC Egg",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8355.png"
+    },
+    {
+        "id": 8356,
+        "name": "Fussach",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8356.png"
+    },
+    {
+        "id": 8357,
+        "name": "G\u00f6fis",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8357.png"
+    },
+    {
+        "id": 8358,
+        "name": "H\u00f6chst",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8358.png"
+    },
+    {
+        "id": 8359,
+        "name": "Lochau",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8359.png"
+    },
+    {
+        "id": 8360,
+        "name": "Ludesch",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8360.png"
+    },
+    {
+        "id": 8361,
+        "name": "Lustenau",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8361.png"
+    },
+    {
+        "id": 8362,
+        "name": "Nenzing",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8362.png"
+    },
+    {
+        "id": 8363,
+        "name": "Schruns",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8363.png"
+    },
+    {
+        "id": 8364,
+        "name": "ASV 13",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8364.png"
+    },
+    {
+        "id": 8365,
+        "name": "Donau",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8365.png"
+    },
+    {
+        "id": 8366,
+        "name": "Fach-Donaufeld",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8366.png"
+    },
+    {
+        "id": 8367,
+        "name": "Favoritner AC",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8367.png"
+    },
+    {
+        "id": 8368,
+        "name": "Gerasdorf Stammersdorf",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8368.png"
+    },
+    {
+        "id": 8369,
+        "name": "Mannsw\u00f6rth",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8369.png"
+    },
+    {
+        "id": 8370,
+        "name": "Post",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8370.png"
+    },
+    {
+        "id": 8371,
+        "name": "Slovan HAC",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8371.png"
+    },
+    {
+        "id": 8372,
+        "name": "Union Mauer",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8372.png"
+    },
+    {
+        "id": 8373,
+        "name": "Vorw\u00e4rts Brigittenau",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/8373.png"
+    },
+    {
+        "id": 10164,
+        "name": "Anif",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/10164.png"
+    },
+    {
+        "id": 10224,
+        "name": "Horn W",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/10224.png"
+    },
+    {
+        "id": 10225,
+        "name": "Landhaus W",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/10225.png"
+    },
+    {
+        "id": 10226,
+        "name": "Neulengbach W",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/10226.png"
+    },
+    {
+        "id": 10227,
+        "name": "St. P\u00f6lten W",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/10227.png"
+    },
+    {
+        "id": 10228,
+        "name": "S\u00fcdburgenland W",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/10228.png"
+    },
+    {
+        "id": 10229,
+        "name": "Vorderland W",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/10229.png"
+    },
+    {
+        "id": 10230,
+        "name": "Altenmarkt W",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/10230.png"
+    },
+    {
+        "id": 10231,
+        "name": "Bergheim W",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/10231.png"
+    },
+    {
+        "id": 10232,
+        "name": "Sturm Graz W",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/10232.png"
+    },
+    {
+        "id": 10233,
+        "name": "Wacker Innsbruck W",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/10233.png"
+    },
+    {
+        "id": 10326,
+        "name": "Austria U19",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/10326.png"
+    },
+    {
+        "id": 11198,
+        "name": "Annabichl / Austria II",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/11198.png"
+    },
+    {
+        "id": 11199,
+        "name": "Lankowitz",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/11199.png"
+    },
+    {
+        "id": 11200,
+        "name": "Oberwart",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/11200.png"
+    },
+    {
+        "id": 11201,
+        "name": "Red Star Penzing",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/11201.png"
+    },
+    {
+        "id": 11202,
+        "name": "Sollenau",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/11202.png"
+    },
+    {
+        "id": 11203,
+        "name": "Trausdorf",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/11203.png"
+    },
+    {
+        "id": 11204,
+        "name": "Admira Landhaus",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/11204.png"
+    },
+    {
+        "id": 11205,
+        "name": "Ober-Grafendorf",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/11205.png"
+    },
+    {
+        "id": 11206,
+        "name": "Bad V\u00f6slau",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/11206.png"
+    },
+    {
+        "id": 11207,
+        "name": "Gratkorn",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/11207.png"
+    },
+    {
+        "id": 11208,
+        "name": "Leopoldsdorf",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/11208.png"
+    },
+    {
+        "id": 11209,
+        "name": "St. Veit / Glan",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/11209.png"
+    },
+    {
+        "id": 11210,
+        "name": "Stegersbach",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/11210.png"
+    },
+    {
+        "id": 11211,
+        "name": "Villach",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/11211.png"
+    },
+    {
+        "id": 11212,
+        "name": "Ostbahn XI",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/11212.png"
+    },
+    {
+        "id": 11213,
+        "name": "Reutte",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/11213.png"
+    },
+    {
+        "id": 11214,
+        "name": "Rohrendorf/Gedersdorf",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/11214.png"
+    },
+    {
+        "id": 11215,
+        "name": "Salzburger AK",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/11215.png"
+    },
+    {
+        "id": 11216,
+        "name": "Baumgarten",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/11216.png"
+    },
+    {
+        "id": 11217,
+        "name": "Brunn am Gebirge",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/11217.png"
+    },
+    {
+        "id": 11218,
+        "name": "Drautal",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/11218.png"
+    },
+    {
+        "id": 11219,
+        "name": "Frohnleiten",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/11219.png"
+    },
+    {
+        "id": 11220,
+        "name": "Gleinst\u00e4tten",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/11220.png"
+    },
+    {
+        "id": 11221,
+        "name": "Gr\u00f6dig II",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/11221.png"
+    },
+    {
+        "id": 11222,
+        "name": "G\u00f6tzendorf",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/11222.png"
+    },
+    {
+        "id": 11223,
+        "name": "Hellas Kagran",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/11223.png"
+    },
+    {
+        "id": 11224,
+        "name": "Kapfenberger SV II",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/11224.png"
+    },
+    {
+        "id": 11225,
+        "name": "LASK Juniors",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/11225.png"
+    },
+    {
+        "id": 11226,
+        "name": "Mistelbach",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/11226.png"
+    },
+    {
+        "id": 11227,
+        "name": "Schwadorf",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/11227.png"
+    },
+    {
+        "id": 11228,
+        "name": "Sierning",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/11228.png"
+    },
+    {
+        "id": 11229,
+        "name": "Simmeringer SC",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/11229.png"
+    },
+    {
+        "id": 11230,
+        "name": "St. Margarethen",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/11230.png"
+    },
+    {
+        "id": 11231,
+        "name": "Stinatz",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/11231.png"
+    },
+    {
+        "id": 11232,
+        "name": "WAC / St. Andr\u00e4",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/11232.png"
+    },
+    {
+        "id": 11246,
+        "name": "Columbia Floridsdorf",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/11246.png"
+    },
+    {
+        "id": 12875,
+        "name": "Telfs",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/12875.png"
+    },
+    {
+        "id": 14458,
+        "name": "Austria W",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/14458.png"
+    },
+    {
+        "id": 14475,
+        "name": "Burgdorf",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/14475.png"
+    },
+    {
+        "id": 14480,
+        "name": "ESV St.Michael",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/14480.png"
+    },
+    {
+        "id": 14487,
+        "name": "Flavia Solva",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/14487.png"
+    },
+    {
+        "id": 14493,
+        "name": "Herzogenburg",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/14493.png"
+    },
+    {
+        "id": 14534,
+        "name": "VfR Neuburg",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/14534.png"
+    },
+    {
+        "id": 14691,
+        "name": "Gersthofer SV",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/14691.png"
+    },
+    {
+        "id": 14709,
+        "name": "Imst",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/14709.png"
+    },
+    {
+        "id": 14714,
+        "name": "Kuchl",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/14714.png"
+    },
+    {
+        "id": 14752,
+        "name": "Porz",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/14752.png"
+    },
+    {
+        "id": 14792,
+        "name": "Stockerau",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/14792.png"
+    },
+    {
+        "id": 15137,
+        "name": "Rotenberg",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/15137.png"
+    },
+    {
+        "id": 15138,
+        "name": "Siezenheim",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/15138.png"
+    },
+    {
+        "id": 15139,
+        "name": "Zirl",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/15139.png"
+    },
+    {
+        "id": 16999,
+        "name": "TWL Elektra",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/16999.png"
+    },
+    {
+        "id": 17001,
+        "name": "1980 Wien",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/17001.png"
+    },
+    {
+        "id": 17054,
+        "name": "Judenburg",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/17054.png"
+    },
+    {
+        "id": 17057,
+        "name": "Kirchberg",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/17057.png"
+    },
+    {
+        "id": 17059,
+        "name": "Langenfeld",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/17059.png"
+    },
+    {
+        "id": 17066,
+        "name": "Matrei",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/17066.png"
+    },
+    {
+        "id": 17067,
+        "name": "Meiningen",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/17067.png"
+    },
+    {
+        "id": 17090,
+        "name": "SV Admira Villach",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/17090.png"
+    },
+    {
+        "id": 17095,
+        "name": "Schifferstadt",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/17095.png"
+    },
+    {
+        "id": 17197,
+        "name": "ASK Klagenfurt",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/17197.png"
+    },
+    {
+        "id": 17198,
+        "name": "Admira Villach",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/17198.png"
+    },
+    {
+        "id": 17199,
+        "name": "St. Andr\u00e4",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/17199.png"
+    },
+    {
+        "id": 17203,
+        "name": "Innsbrucker AC",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/17203.png"
+    },
+    {
+        "id": 17204,
+        "name": "M\u00fcnster",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/17204.png"
+    },
+    {
+        "id": 17205,
+        "name": "Prutz / Serfaus",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/17205.png"
+    },
+    {
+        "id": 17206,
+        "name": "H\u00f6rbranz",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/17206.png"
+    },
+    {
+        "id": 17207,
+        "name": "SAK Klagenfurt",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/17207.png"
+    },
+    {
+        "id": 17208,
+        "name": "KAC",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/17208.png"
+    },
+    {
+        "id": 17304,
+        "name": "Dinamo Helfort",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/17304.png"
+    },
+    {
+        "id": 17574,
+        "name": "Altach / Vorderland W",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/17574.png"
+    },
+    {
+        "id": 17575,
+        "name": "Austria Wien W",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/17575.png"
+    },
+    {
+        "id": 17576,
+        "name": "First Vienna W",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/17576.png"
+    },
+    {
+        "id": 17939,
+        "name": "Austria U17",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/17939.png"
+    },
+    {
+        "id": 18388,
+        "name": "Schattendorf",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/18388.png"
+    },
+    {
+        "id": 18409,
+        "name": "UFC Fehring",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/18409.png"
+    },
+    {
+        "id": 18410,
+        "name": "WAF Brigittenau",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/18410.png"
+    },
+    {
+        "id": 19165,
+        "name": "Kleinm\u00fcnchen / BW Linz",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/19165.png"
+    },
+    {
+        "id": 19189,
+        "name": "ASV Salzburg",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/19189.png"
+    },
+    {
+        "id": 19190,
+        "name": "SV Schwarzach",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/19190.png"
+    },
+    {
+        "id": 19191,
+        "name": "Bad Ischl",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/19191.png"
+    },
+    {
+        "id": 19192,
+        "name": "Ostermiething",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/19192.png"
+    },
+    {
+        "id": 19193,
+        "name": "Wohnbau Dietach",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/19193.png"
+    },
+    {
+        "id": 19204,
+        "name": "Ahrweiler",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/19204.png"
+    },
+    {
+        "id": 19243,
+        "name": "Jenbach",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/19243.png"
+    },
+    {
+        "id": 19273,
+        "name": "SC Landskron",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/19273.png"
+    },
+    {
+        "id": 19275,
+        "name": "SV 1890 Westerhausen",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/19275.png"
+    },
+    {
+        "id": 19306,
+        "name": "Haitzendorf",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/19306.png"
+    },
+    {
+        "id": 19307,
+        "name": "Mayrhofen",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/19307.png"
+    },
+    {
+        "id": 19308,
+        "name": "Oberperfuss",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/19308.png"
+    },
+    {
+        "id": 19309,
+        "name": "Austria Klagenfurt II",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/19309.png"
+    },
+    {
+        "id": 19310,
+        "name": "K\u00f6flach",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/19310.png"
+    },
+    {
+        "id": 19311,
+        "name": "Brederis",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/19311.png"
+    },
+    {
+        "id": 19312,
+        "name": "Hittisau",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/19312.png"
+    },
+    {
+        "id": 19313,
+        "name": "Koblach",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/19313.png"
+    },
+    {
+        "id": 19314,
+        "name": "Andau",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/19314.png"
+    },
+    {
+        "id": 19315,
+        "name": "UFC Hallein",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/19315.png"
+    },
+    {
+        "id": 19472,
+        "name": "GW Siebenb\u00e4umen",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/19472.png"
+    },
+    {
+        "id": 19684,
+        "name": "Jennersdorf",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/19684.png"
+    },
+    {
+        "id": 19700,
+        "name": "Oberwinter",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/19700.png"
+    },
+    {
+        "id": 19702,
+        "name": "Pachern",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/19702.png"
+    },
+    {
+        "id": 19707,
+        "name": "P\u00f6llau",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/19707.png"
+    },
+    {
+        "id": 20829,
+        "name": "Fortuna 05",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/20829.png"
+    },
+    {
+        "id": 20858,
+        "name": "Frannach",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/20858.png"
+    },
+    {
+        "id": 20859,
+        "name": "KAC 1909",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/20859.png"
+    },
+    {
+        "id": 21037,
+        "name": "Vosendorf",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/21037.png"
+    },
+    {
+        "id": 21270,
+        "name": "Austria U19 W",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/21270.png"
+    },
+    {
+        "id": 21390,
+        "name": "Velden",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/21390.png"
+    },
+    {
+        "id": 21459,
+        "name": "Austria U16",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/21459.png"
+    },
+    {
+        "id": 21460,
+        "name": "Austria U18",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/21460.png"
+    },
+    {
+        "id": 21533,
+        "name": "Tillmitsch",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/21533.png"
+    },
+    {
+        "id": 21534,
+        "name": "Wallern / Marienkirchen",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/21534.png"
+    },
+    {
+        "id": 21687,
+        "name": "Lustenau / Dornbirn",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/21687.png"
+    },
+    {
+        "id": 21721,
+        "name": "Korneuburg",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/21721.png"
+    },
+    {
+        "id": 21722,
+        "name": "St. Peter",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/21722.png"
+    },
+    {
+        "id": 21723,
+        "name": "Donau Klagenfurt",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/21723.png"
+    },
+    {
+        "id": 21724,
+        "name": "Edelserpentin",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/21724.png"
+    },
+    {
+        "id": 21725,
+        "name": "Halbturn",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/21725.png"
+    },
+    {
+        "id": 21726,
+        "name": "Marz",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/21726.png"
+    },
+    {
+        "id": 21727,
+        "name": "Union Henndorf",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/21727.png"
+    },
+    {
+        "id": 21728,
+        "name": "Vortuna Bad Leonfelden",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/21728.png"
+    },
+    {
+        "id": 21729,
+        "name": "FSC Hochegger D\u00e4cher",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/21729.png"
+    },
+    {
+        "id": 21730,
+        "name": "Schladming",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/21730.png"
+    },
+    {
+        "id": 22213,
+        "name": "WSPG Wels",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/22213.png"
+    },
+    {
+        "id": 24440,
+        "name": "LASK",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/24440.png"
+    },
+    {
+        "id": 24441,
+        "name": "Rheindorf Altach",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/24441.png"
+    },
+    {
+        "id": 24454,
+        "name": "Bad Waltersdorf",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/24454.png"
+    },
+    {
+        "id": 24455,
+        "name": "Kindberg-M\u00fcrzhofen",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/24455.png"
+    },
+    {
+        "id": 24459,
+        "name": "First Vienna II",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/24459.png"
+    },
+    {
+        "id": 24460,
+        "name": "LAC-Inter",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/24460.png"
+    },
+    {
+        "id": 24461,
+        "name": "Ybbs",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/24461.png"
+    },
+    {
+        "id": 24462,
+        "name": "Wolfsberger AC III",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/24462.png"
+    },
+    {
+        "id": 24463,
+        "name": "Mattersburg 2020",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/24463.png"
+    },
+    {
+        "id": 24464,
+        "name": "SK Pama",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/24464.png"
+    },
+    {
+        "id": 24465,
+        "name": "Gmunden",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/24465.png"
+    },
+    {
+        "id": 24466,
+        "name": "Union Rohrbach Berg",
+        "country": "Austria",
+        "logo": "https://media.api-sports.io/football/teams/24466.png"
+    }
+]

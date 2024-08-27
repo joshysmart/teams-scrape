@@ -1,0 +1,1574 @@
+[
+    {
+        "id": 193,
+        "name": "PEC Zwolle",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/193.png"
+    },
+    {
+        "id": 194,
+        "name": "Ajax",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/194.png"
+    },
+    {
+        "id": 195,
+        "name": "Willem II",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/195.png"
+    },
+    {
+        "id": 196,
+        "name": "Excelsior",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/196.png"
+    },
+    {
+        "id": 197,
+        "name": "PSV Eindhoven",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/197.png"
+    },
+    {
+        "id": 198,
+        "name": "ADO Den Haag",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/198.png"
+    },
+    {
+        "id": 199,
+        "name": "De Graafschap",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/199.png"
+    },
+    {
+        "id": 200,
+        "name": "Vitesse",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/200.png"
+    },
+    {
+        "id": 201,
+        "name": "AZ Alkmaar",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/201.png"
+    },
+    {
+        "id": 202,
+        "name": "Groningen",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/202.png"
+    },
+    {
+        "id": 203,
+        "name": "NAC Breda",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/203.png"
+    },
+    {
+        "id": 204,
+        "name": "VVV Venlo",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/204.png"
+    },
+    {
+        "id": 205,
+        "name": "Fortuna Sittard",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/205.png"
+    },
+    {
+        "id": 206,
+        "name": "Heracles",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/206.png"
+    },
+    {
+        "id": 207,
+        "name": "Utrecht",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/207.png"
+    },
+    {
+        "id": 208,
+        "name": "Emmen",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/208.png"
+    },
+    {
+        "id": 209,
+        "name": "Feyenoord",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/209.png"
+    },
+    {
+        "id": 210,
+        "name": "Heerenveen",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/210.png"
+    },
+    {
+        "id": 409,
+        "name": "Dordrecht",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/409.png"
+    },
+    {
+        "id": 410,
+        "name": "GO Ahead Eagles",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/410.png"
+    },
+    {
+        "id": 411,
+        "name": "Jong PSV",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/411.png"
+    },
+    {
+        "id": 412,
+        "name": "MVV",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/412.png"
+    },
+    {
+        "id": 413,
+        "name": "NEC Nijmegen",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/413.png"
+    },
+    {
+        "id": 414,
+        "name": "Roda",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/414.png"
+    },
+    {
+        "id": 415,
+        "name": "Twente",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/415.png"
+    },
+    {
+        "id": 416,
+        "name": "FC Volendam",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/416.png"
+    },
+    {
+        "id": 417,
+        "name": "Waalwijk",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/417.png"
+    },
+    {
+        "id": 418,
+        "name": "Jong AZ",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/418.png"
+    },
+    {
+        "id": 419,
+        "name": "Almere City FC",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/419.png"
+    },
+    {
+        "id": 420,
+        "name": "Cambuur",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/420.png"
+    },
+    {
+        "id": 421,
+        "name": "Den Bosch",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/421.png"
+    },
+    {
+        "id": 422,
+        "name": "FC Eindhoven",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/422.png"
+    },
+    {
+        "id": 423,
+        "name": "FC OSS",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/423.png"
+    },
+    {
+        "id": 424,
+        "name": "Helmond Sport",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/424.png"
+    },
+    {
+        "id": 425,
+        "name": "Jong Ajax",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/425.png"
+    },
+    {
+        "id": 426,
+        "name": "Sparta Rotterdam",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/426.png"
+    },
+    {
+        "id": 427,
+        "name": "Telstar",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/427.png"
+    },
+    {
+        "id": 428,
+        "name": "Jong Utrecht",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/428.png"
+    },
+    {
+        "id": 806,
+        "name": "Achilles 29",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/806.png"
+    },
+    {
+        "id": 1118,
+        "name": "Netherlands",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/1118.png"
+    },
+    {
+        "id": 1230,
+        "name": "Gemert",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/1230.png"
+    },
+    {
+        "id": 1231,
+        "name": "Alcides",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/1231.png"
+    },
+    {
+        "id": 1232,
+        "name": "OFC Oostzaan",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/1232.png"
+    },
+    {
+        "id": 1233,
+        "name": "HVV Te Werve",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/1233.png"
+    },
+    {
+        "id": 1234,
+        "name": "Dovo",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/1234.png"
+    },
+    {
+        "id": 1235,
+        "name": "Eemdijk",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/1235.png"
+    },
+    {
+        "id": 1236,
+        "name": "Groene Ster",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/1236.png"
+    },
+    {
+        "id": 1237,
+        "name": "Katwijk",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/1237.png"
+    },
+    {
+        "id": 1238,
+        "name": "RKAV Volendam",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/1238.png"
+    },
+    {
+        "id": 1239,
+        "name": "Staphorst",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/1239.png"
+    },
+    {
+        "id": 1241,
+        "name": "OJC Rosmalen",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/1241.png"
+    },
+    {
+        "id": 1242,
+        "name": "Kozakken Boys",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/1242.png"
+    },
+    {
+        "id": 1243,
+        "name": "Westlandia",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/1243.png"
+    },
+    {
+        "id": 1244,
+        "name": "DVS 33 Ermelo",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/1244.png"
+    },
+    {
+        "id": 1245,
+        "name": "HSV ODIN 59",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/1245.png"
+    },
+    {
+        "id": 1246,
+        "name": "Koninklijke HFC",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/1246.png"
+    },
+    {
+        "id": 1247,
+        "name": "Noordwijk",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/1247.png"
+    },
+    {
+        "id": 1248,
+        "name": "Rijnsburgse Boys",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/1248.png"
+    },
+    {
+        "id": 1249,
+        "name": "Spakenburg",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/1249.png"
+    },
+    {
+        "id": 1250,
+        "name": "SVV Scheveningen",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/1250.png"
+    },
+    {
+        "id": 1251,
+        "name": "Vvsb",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/1251.png"
+    },
+    {
+        "id": 1252,
+        "name": "AFC Amsterdam",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/1252.png"
+    },
+    {
+        "id": 1253,
+        "name": "URK",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/1253.png"
+    },
+    {
+        "id": 1254,
+        "name": "ASWH",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/1254.png"
+    },
+    {
+        "id": 1255,
+        "name": "TEC",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/1255.png"
+    },
+    {
+        "id": 1256,
+        "name": "ONS Sneek",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/1256.png"
+    },
+    {
+        "id": 1257,
+        "name": "FC Lisse",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/1257.png"
+    },
+    {
+        "id": 1258,
+        "name": "Harkemase Boys",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/1258.png"
+    },
+    {
+        "id": 1259,
+        "name": "DFS",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/1259.png"
+    },
+    {
+        "id": 1260,
+        "name": "ASV De Dijk",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/1260.png"
+    },
+    {
+        "id": 1261,
+        "name": "GVVV Veenendaal",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/1261.png"
+    },
+    {
+        "id": 1262,
+        "name": "SDC Putten",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/1262.png"
+    },
+    {
+        "id": 1263,
+        "name": "Blauw Geel",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/1263.png"
+    },
+    {
+        "id": 1264,
+        "name": "Hercules",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/1264.png"
+    },
+    {
+        "id": 1265,
+        "name": "Vv De Meern",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/1265.png"
+    },
+    {
+        "id": 1266,
+        "name": "Ajax Amateurs",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/1266.png"
+    },
+    {
+        "id": 1267,
+        "name": "Csv Apeldoorn",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/1267.png"
+    },
+    {
+        "id": 1269,
+        "name": "Avv Swift",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/1269.png"
+    },
+    {
+        "id": 1270,
+        "name": "Capelle",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/1270.png"
+    },
+    {
+        "id": 1271,
+        "name": "Barendrecht",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/1271.png"
+    },
+    {
+        "id": 1272,
+        "name": "Quick Boys",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/1272.png"
+    },
+    {
+        "id": 1273,
+        "name": "SC Genemuiden",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/1273.png"
+    },
+    {
+        "id": 1274,
+        "name": "Sparta Nijkerk",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/1274.png"
+    },
+    {
+        "id": 1275,
+        "name": "Zwaluwen",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/1275.png"
+    },
+    {
+        "id": 1276,
+        "name": "Hoek",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/1276.png"
+    },
+    {
+        "id": 1277,
+        "name": "De Treffers",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/1277.png"
+    },
+    {
+        "id": 1278,
+        "name": "HHC",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/1278.png"
+    },
+    {
+        "id": 1279,
+        "name": "Ter Leede",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/1279.png"
+    },
+    {
+        "id": 1280,
+        "name": "Ijsselmeervogels",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/1280.png"
+    },
+    {
+        "id": 1281,
+        "name": "Hsc 21",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/1281.png"
+    },
+    {
+        "id": 1282,
+        "name": "Achilles Veen",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/1282.png"
+    },
+    {
+        "id": 1283,
+        "name": "FC Lienden",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/1283.png"
+    },
+    {
+        "id": 1284,
+        "name": "UNA",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/1284.png"
+    },
+    {
+        "id": 1285,
+        "name": "Dongen",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/1285.png"
+    },
+    {
+        "id": 1286,
+        "name": "EVV",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/1286.png"
+    },
+    {
+        "id": 1287,
+        "name": "JVC Cuijk",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/1287.png"
+    },
+    {
+        "id": 1288,
+        "name": "Rijnvogels",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/1288.png"
+    },
+    {
+        "id": 1289,
+        "name": "Jodan Boys",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/1289.png"
+    },
+    {
+        "id": 1290,
+        "name": "Huizen",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/1290.png"
+    },
+    {
+        "id": 1733,
+        "name": "Netherlands W",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/1733.png"
+    },
+    {
+        "id": 1894,
+        "name": "ADO Den Haag W",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/1894.png"
+    },
+    {
+        "id": 1895,
+        "name": "PSV/Eindhoven W",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/1895.png"
+    },
+    {
+        "id": 1896,
+        "name": "Achiless 29 W",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/1896.png"
+    },
+    {
+        "id": 1897,
+        "name": "Heerenveen W",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/1897.png"
+    },
+    {
+        "id": 1898,
+        "name": "Ajax W",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/1898.png"
+    },
+    {
+        "id": 1899,
+        "name": "Twente W",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/1899.png"
+    },
+    {
+        "id": 1900,
+        "name": "PEC Zwolle W",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/1900.png"
+    },
+    {
+        "id": 1901,
+        "name": "Telstar W",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/1901.png"
+    },
+    {
+        "id": 1902,
+        "name": "Excelsior W",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/1902.png"
+    },
+    {
+        "id": 1903,
+        "name": "VV Alkmaar W",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/1903.png"
+    },
+    {
+        "id": 3886,
+        "name": "ADO '20",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/3886.png"
+    },
+    {
+        "id": 3887,
+        "name": "Alverna",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/3887.png"
+    },
+    {
+        "id": 3888,
+        "name": "Brielle",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/3888.png"
+    },
+    {
+        "id": 3889,
+        "name": "DZC '68",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/3889.png"
+    },
+    {
+        "id": 3890,
+        "name": "FC 's-Gravenzande",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/3890.png"
+    },
+    {
+        "id": 3891,
+        "name": "Flevo Boys",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/3891.png"
+    },
+    {
+        "id": 3892,
+        "name": "GOES",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/3892.png"
+    },
+    {
+        "id": 3893,
+        "name": "HBS",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/3893.png"
+    },
+    {
+        "id": 3894,
+        "name": "HV & CV Quick",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/3894.png"
+    },
+    {
+        "id": 3895,
+        "name": "JOS Watergraafsmeer",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/3895.png"
+    },
+    {
+        "id": 3896,
+        "name": "MASV",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/3896.png"
+    },
+    {
+        "id": 3897,
+        "name": "Marvilde",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/3897.png"
+    },
+    {
+        "id": 3898,
+        "name": "OSS '20",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/3898.png"
+    },
+    {
+        "id": 3899,
+        "name": "Quick '20",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/3899.png"
+    },
+    {
+        "id": 3900,
+        "name": "RKSV Bekkerveld",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/3900.png"
+    },
+    {
+        "id": 3901,
+        "name": "RKSV Cluzona",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/3901.png"
+    },
+    {
+        "id": 3902,
+        "name": "SDO",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/3902.png"
+    },
+    {
+        "id": 3903,
+        "name": "SJC Noordwijk",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/3903.png"
+    },
+    {
+        "id": 3904,
+        "name": "Sportlust '46",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/3904.png"
+    },
+    {
+        "id": 3905,
+        "name": "SteDoCo",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/3905.png"
+    },
+    {
+        "id": 3906,
+        "name": "Uno Animo",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/3906.png"
+    },
+    {
+        "id": 3907,
+        "name": "VVOG",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/3907.png"
+    },
+    {
+        "id": 3908,
+        "name": "Vlissingen",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/3908.png"
+    },
+    {
+        "id": 3909,
+        "name": "Wittenhorst",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/3909.png"
+    },
+    {
+        "id": 3910,
+        "name": "Zaanlandia",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/3910.png"
+    },
+    {
+        "id": 3911,
+        "name": "ACV",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/3911.png"
+    },
+    {
+        "id": 3912,
+        "name": "Altius",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/3912.png"
+    },
+    {
+        "id": 3913,
+        "name": "BVV Den Bosch",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/3913.png"
+    },
+    {
+        "id": 3914,
+        "name": "Be Quick 1887",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/3914.png"
+    },
+    {
+        "id": 3915,
+        "name": "Buitenpost",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/3915.png"
+    },
+    {
+        "id": 3916,
+        "name": "Chevremont",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/3916.png"
+    },
+    {
+        "id": 3917,
+        "name": "DHC Delft",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/3917.png"
+    },
+    {
+        "id": 3918,
+        "name": "Magreb '90",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/3918.png"
+    },
+    {
+        "id": 3919,
+        "name": "Olde Veste '54",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/3919.png"
+    },
+    {
+        "id": 3920,
+        "name": "Purmersteijn",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/3920.png"
+    },
+    {
+        "id": 3921,
+        "name": "RKSV Nuenen",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/3921.png"
+    },
+    {
+        "id": 3922,
+        "name": "Spijkenisse",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/3922.png"
+    },
+    {
+        "id": 3923,
+        "name": "ZSV",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/3923.png"
+    },
+    {
+        "id": 3924,
+        "name": "AFC '34",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/3924.png"
+    },
+    {
+        "id": 3925,
+        "name": "AZSV",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/3925.png"
+    },
+    {
+        "id": 3926,
+        "name": "Avanti '31",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/3926.png"
+    },
+    {
+        "id": 3927,
+        "name": "Bennekom",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/3927.png"
+    },
+    {
+        "id": 3928,
+        "name": "Halsteren",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/3928.png"
+    },
+    {
+        "id": 3929,
+        "name": "Juliana '31",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/3929.png"
+    },
+    {
+        "id": 3930,
+        "name": "Kloetinge",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/3930.png"
+    },
+    {
+        "id": 3931,
+        "name": "Oranje Nassau",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/3931.png"
+    },
+    {
+        "id": 3932,
+        "name": "Oranje Wit",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/3932.png"
+    },
+    {
+        "id": 3933,
+        "name": "RKVV Velsen",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/3933.png"
+    },
+    {
+        "id": 3934,
+        "name": "RKZVC",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/3934.png"
+    },
+    {
+        "id": 3935,
+        "name": "RVVH",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/3935.png"
+    },
+    {
+        "id": 3936,
+        "name": "SVZW",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/3936.png"
+    },
+    {
+        "id": 3937,
+        "name": "Schaesberg",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/3937.png"
+    },
+    {
+        "id": 3938,
+        "name": "UDI '19",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/3938.png"
+    },
+    {
+        "id": 3939,
+        "name": "VV Groningen",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/3939.png"
+    },
+    {
+        "id": 3940,
+        "name": "WV-HEDW",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/3940.png"
+    },
+    {
+        "id": 6259,
+        "name": "ARC",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/6259.png"
+    },
+    {
+        "id": 6260,
+        "name": "DEM",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/6260.png"
+    },
+    {
+        "id": 6261,
+        "name": "DUNO",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/6261.png"
+    },
+    {
+        "id": 6262,
+        "name": "Drachtster Boys",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/6262.png"
+    },
+    {
+        "id": 6263,
+        "name": "Excelsior '31",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/6263.png"
+    },
+    {
+        "id": 6264,
+        "name": "Fortuna Wormerveer",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/6264.png"
+    },
+    {
+        "id": 6265,
+        "name": "Heeze",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/6265.png"
+    },
+    {
+        "id": 6266,
+        "name": "Hoogland",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/6266.png"
+    },
+    {
+        "id": 6267,
+        "name": "Mierlo-Hout",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/6267.png"
+    },
+    {
+        "id": 6268,
+        "name": "Minor",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/6268.png"
+    },
+    {
+        "id": 6269,
+        "name": "ROHDA Raalte",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/6269.png"
+    },
+    {
+        "id": 6270,
+        "name": "Silvolde",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/6270.png"
+    },
+    {
+        "id": 6271,
+        "name": "Sliedrecht",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/6271.png"
+    },
+    {
+        "id": 6272,
+        "name": "TOP Oss Amateurs",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/6272.png"
+    },
+    {
+        "id": 6273,
+        "name": "VEV '67",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/6273.png"
+    },
+    {
+        "id": 6274,
+        "name": "Vroomshoopse Boys",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/6274.png"
+    },
+    {
+        "id": 6275,
+        "name": "Winsum",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/6275.png"
+    },
+    {
+        "id": 6276,
+        "name": "Zuidvogels",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/6276.png"
+    },
+    {
+        "id": 7881,
+        "name": "Ajax U19",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/7881.png"
+    },
+    {
+        "id": 7965,
+        "name": "PSV U19",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/7965.png"
+    },
+    {
+        "id": 8211,
+        "name": "Netherlands U21",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/8211.png"
+    },
+    {
+        "id": 9130,
+        "name": "Almere City II",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/9130.png"
+    },
+    {
+        "id": 9131,
+        "name": "ADO Den Haag II",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/9131.png"
+    },
+    {
+        "id": 10320,
+        "name": "Sparta Rotterdam II",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/10320.png"
+    },
+    {
+        "id": 10321,
+        "name": "Volendam II",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/10321.png"
+    },
+    {
+        "id": 10322,
+        "name": "Vitesse II",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/10322.png"
+    },
+    {
+        "id": 10340,
+        "name": "Netherlands U19",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/10340.png"
+    },
+    {
+        "id": 12514,
+        "name": "Netherlands U17",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/12514.png"
+    },
+    {
+        "id": 14227,
+        "name": "AWC",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/14227.png"
+    },
+    {
+        "id": 14228,
+        "name": "DOS Kampen",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/14228.png"
+    },
+    {
+        "id": 14229,
+        "name": "DTS Ede",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/14229.png"
+    },
+    {
+        "id": 14233,
+        "name": "GVV Unitas",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/14233.png"
+    },
+    {
+        "id": 14234,
+        "name": "Hollandia",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/14234.png"
+    },
+    {
+        "id": 14235,
+        "name": "Hoogeveen",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/14235.png"
+    },
+    {
+        "id": 14238,
+        "name": "RKVV Best Vooruit",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/14238.png"
+    },
+    {
+        "id": 14240,
+        "name": "Susteren",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/14240.png"
+    },
+    {
+        "id": 14242,
+        "name": "Venray",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/14242.png"
+    },
+    {
+        "id": 14431,
+        "name": "Roda '46 (Zat)",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/14431.png"
+    },
+    {
+        "id": 14477,
+        "name": "DHSC",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/14477.png"
+    },
+    {
+        "id": 14499,
+        "name": "Jong De Graafschap",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/14499.png"
+    },
+    {
+        "id": 14508,
+        "name": "Meerssen",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/14508.png"
+    },
+    {
+        "id": 14533,
+        "name": "VVCS",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/14533.png"
+    },
+    {
+        "id": 14631,
+        "name": "Baronie",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/14631.png"
+    },
+    {
+        "id": 14716,
+        "name": "LONGA '30",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/14716.png"
+    },
+    {
+        "id": 14738,
+        "name": "Nivo Sparta",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/14738.png"
+    },
+    {
+        "id": 14904,
+        "name": "Feyenoord U21",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/14904.png"
+    },
+    {
+        "id": 14905,
+        "name": "Groningen U21",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/14905.png"
+    },
+    {
+        "id": 14906,
+        "name": "Heerenveen U21",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/14906.png"
+    },
+    {
+        "id": 14907,
+        "name": "NAC U21",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/14907.png"
+    },
+    {
+        "id": 14908,
+        "name": "NEC U21",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/14908.png"
+    },
+    {
+        "id": 14909,
+        "name": "Twente / Heracles U21",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/14909.png"
+    },
+    {
+        "id": 15942,
+        "name": "AZ U18",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/15942.png"
+    },
+    {
+        "id": 15943,
+        "name": "Ajax U18",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/15943.png"
+    },
+    {
+        "id": 15944,
+        "name": "Feyenoord U18",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/15944.png"
+    },
+    {
+        "id": 15945,
+        "name": "Heerenveen U18",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/15945.png"
+    },
+    {
+        "id": 15946,
+        "name": "PEC Zwolle U18",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/15946.png"
+    },
+    {
+        "id": 15947,
+        "name": "PSV U18",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/15947.png"
+    },
+    {
+        "id": 15948,
+        "name": "Sparta Rotterdam U18",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/15948.png"
+    },
+    {
+        "id": 15949,
+        "name": "Utrecht U18",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/15949.png"
+    },
+    {
+        "id": 16853,
+        "name": "Feyenoord W",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/16853.png"
+    },
+    {
+        "id": 17017,
+        "name": "Brabantia",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/17017.png"
+    },
+    {
+        "id": 17047,
+        "name": "Heinenoord",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/17047.png"
+    },
+    {
+        "id": 17076,
+        "name": "Pelikaan-S",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/17076.png"
+    },
+    {
+        "id": 17083,
+        "name": "SC Feyenoord",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/17083.png"
+    },
+    {
+        "id": 17129,
+        "name": "Excelsior Maassluis",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/17129.png"
+    },
+    {
+        "id": 17929,
+        "name": "Emmen Res.",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/17929.png"
+    },
+    {
+        "id": 17930,
+        "name": "Fortuna Sittard Res.",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/17930.png"
+    },
+    {
+        "id": 17931,
+        "name": "Heracles Almelo Res.",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/17931.png"
+    },
+    {
+        "id": 17932,
+        "name": "MVV Res.",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/17932.png"
+    },
+    {
+        "id": 17933,
+        "name": "RKC Waalwijk Res.",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/17933.png"
+    },
+    {
+        "id": 17934,
+        "name": "Twente Res.",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/17934.png"
+    },
+    {
+        "id": 17935,
+        "name": "VVV Res.",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/17935.png"
+    },
+    {
+        "id": 18669,
+        "name": "Germania",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/18669.png"
+    },
+    {
+        "id": 19043,
+        "name": "Orion",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/19043.png"
+    },
+    {
+        "id": 19077,
+        "name": "Netherlands U20 W",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/19077.png"
+    },
+    {
+        "id": 19266,
+        "name": "Roosendaal",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/19266.png"
+    },
+    {
+        "id": 19285,
+        "name": "VOC",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/19285.png"
+    },
+    {
+        "id": 19578,
+        "name": "Fortuna Sittard W",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/19578.png"
+    },
+    {
+        "id": 19739,
+        "name": "TOGB",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/19739.png"
+    },
+    {
+        "id": 21273,
+        "name": "Netherlands U19 W",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/21273.png"
+    },
+    {
+        "id": 21421,
+        "name": "Kampong",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/21421.png"
+    },
+    {
+        "id": 21422,
+        "name": "RKAVV",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/21422.png"
+    },
+    {
+        "id": 21423,
+        "name": "Smitshoek",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/21423.png"
+    },
+    {
+        "id": 21498,
+        "name": "Sarto",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/21498.png"
+    },
+    {
+        "id": 21509,
+        "name": "Berkum",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/21509.png"
+    },
+    {
+        "id": 21639,
+        "name": "HVCH",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/21639.png"
+    },
+    {
+        "id": 21644,
+        "name": "XerxesDZB (Zat)",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/21644.png"
+    },
+    {
+        "id": 21939,
+        "name": "AZ",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/21939.png"
+    },
+    {
+        "id": 21940,
+        "name": "Utrecht W",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/21940.png"
+    },
+    {
+        "id": 22423,
+        "name": "PSV U21",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/22423.png"
+    },
+    {
+        "id": 22435,
+        "name": "Netherlands U18",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/22435.png"
+    },
+    {
+        "id": 22581,
+        "name": "Netherlands U16",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/22581.png"
+    },
+    {
+        "id": 23677,
+        "name": "Stevo",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/23677.png"
+    },
+    {
+        "id": 24628,
+        "name": "Elinkwijk",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/24628.png"
+    },
+    {
+        "id": 24630,
+        "name": "Geldrop",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/24630.png"
+    },
+    {
+        "id": 24631,
+        "name": "Heerjansdam",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/24631.png"
+    },
+    {
+        "id": 24635,
+        "name": "SVBO",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/teams/24635.png"
+    }
+]
